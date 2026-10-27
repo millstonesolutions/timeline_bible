@@ -1,0 +1,64 @@
+book: Nahum
+code: NAM
+order: 34
+slug: 34-nahum
+kind: prophecy
+
+written:
+  date: "Between 663 and 612 BC"
+  range: [-663, -612]
+  summary: >-
+    Nahum foretells the fall of Nineveh, Assyria's capital, and looks back on the
+    sack of Thebes ("No-Amon", 3:8–10), which Ashurbanipal took in 663 BC. Nineveh
+    fell in 612 BC. Almost all scholars date the book between these two limits;
+    they differ on where in the half century.
+  views:
+    - date: "c. 663–650 BC, soon after Thebes fell"
+      held_by: Some conservative scholars
+      basis: >-
+        The fall of Thebes is cited as a fresh, telling example (3:8–10), and Egypt
+        under Psamtik I soon recovered; Assyria is described at the height of its
+        power (1:12), when its fall was least expected.
+      sources: [dillard-longman]
+    - date: "c. 630–612 BC, as Assyria weakened"
+      held_by: Many scholars
+      basis: >-
+        After Ashurbanipal's death (c. 631 BC) Babylon broke away (626 BC) and the
+        Medes and Babylonians closed in on Assyria; the vivid siege and fall of the
+        city (2:1–13; 3:1–7) suits the years just before 612 BC.
+      sources: [roberts-nahum, collins-intro]
+    - date: "Shortly after 612 BC, a celebration of the fall"
+      held_by: A minority of critical scholars
+      basis: >-
+        The poems as a liturgy celebrating Nineveh's destruction after the event.
+      sources: [childs]
+
+default:
+  date: "c. 663–612 BC"
+  range: [-663, -612]
+  anchors: [twelve-nineveh]
+
+chapters:
+  1:
+    note: >-
+      "A revelation about Nineveh" (1:1). The hymn of God's vengeance (1:2–8)
+      follows the Hebrew alphabet as far as the middle of the alphabet, an
+      acrostic some see as an older psalm placed at the head of the book. Judah is
+      told "I will break his yoke from off you" (1:13) and to keep its feasts, for
+      the wicked "will no more pass through you" (1:15).
+    sources: [roberts-nahum]
+  2:
+    note: >-
+      The attack on Nineveh: "the gates of the rivers are opened, and the palace is
+      dissolved" (2:6). Greek historians later told how the river helped bring down
+      the walls; the Babylonian chronicle records the siege by the Babylonians and
+      Medes and the city's capture in summer 612 BC. Nineveh is still standing when
+      the poem speaks.
+    sources: [grayson-abc]
+  3:
+    note: >-
+      "Woe to the bloody city!" (3:1). "Are you better than No-Amon [Thebes], who
+      had the waters around her?" (3:8): Thebes's fall in 663 BC is past, which
+      gives the earliest date for the book. "Your shepherds slumber, king of
+      Assyria" (3:18).
+    sources: [anet]

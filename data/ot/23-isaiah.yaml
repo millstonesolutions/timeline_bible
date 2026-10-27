@@ -1,0 +1,523 @@
+book: Isaiah
+code: ISA
+order: 23
+slug: 23-isaiah
+kind: prophecy
+
+written:
+  date: "c. 740–680 BC (Isaiah) or c. 740–400 BC in stages"
+  range: [-740, -400]
+  summary: >-
+    The heading (1:1) sets Isaiah son of Amoz in the reigns of Uzziah, Jotham, Ahaz
+    and Hezekiah (c. 740–700 BC). Tradition credits him with the whole book. Most
+    critical scholars see a book that grew over three centuries: Isaiah's own oracles
+    in chs. 1–39, Second Isaiah (40–55) among the exiles c. 550–539 BC, Third Isaiah
+    (56–66) in Judah after the return, and a final edition by c. 400 BC. The whole
+    book existed by the 2nd century BC (Sirach 48; the Qumran Isaiah scroll).
+  views:
+    - date: "c. 740–680 BC, by Isaiah"
+      held_by: Jewish and Christian tradition; conservative scholars (Oswalt; Dillard & Longman allow later editing but defend predictive prophecy)
+      basis: >-
+        The single heading (1:1); vocabulary shared across the book, above all "the
+        Holy One of Israel" (25 times, in both halves); the New Testament and Sirach
+        48:24–25 cite chs. 40–66 as Isaiah's; Cyrus named in advance (44:28; 45:1) as
+        prophecy. Tradition has Isaiah die under Manasseh (after 686 BC).
+      sources: [oswalt-isaiah, dillard-longman, "sirach 48:22–25", bava-batra 14b–15a]
+    - date: "Chs. 1–39 c. 740–700 BC with later additions; 40–55 c. 550–539 BC; 56–66 c. 538–450 BC; final form c. 400 BC"
+      held_by: Most critical scholars since Duhm (Blenkinsopp; Collins)
+      basis: >-
+        Chapters 40–55 address the exiles as present hearers, treat Jerusalem as
+        already ruined, and name Cyrus as the deliverer now on the march; chs. 56–66
+        reflect the community back in Judah. Parts of 1–39 (13–14, 24–27, 34–35)
+        share the later outlook.
+      sources: [blenkinsopp-isaiah, collins-intro, childs]
+
+default:
+  date: "c. 740–700 BC"
+  range: [-740, -700]
+  anchors: [eighth-century]
+
+chapters:
+  1:
+    date: "c. 701 BC (or earlier in Isaiah's ministry)"
+    range: [-740, -701]
+    anchors: [hezekiah-701, eighth-century]
+    note: >-
+      The heading (1:1) covers the whole ministry, from Uzziah to Hezekiah. The land
+      lies desolate and "the daughter of Zion is left like a shelter in a vineyard"
+      (1:7–8), which most commentators read as Judah after Sennacherib's campaign of
+      701 BC, with Jerusalem alone spared. The chapter was probably placed first as
+      an introduction to the book.
+  2: &early
+    date: "c. 740–735 BC (Uzziah and Jotham)"
+    range: [-742, -735]
+    anchors: [eighth-century]
+    note: >-
+      Early oracles from the prosperous years before the Assyrian crisis: a land
+      "full of silver and gold" and horses (2:7). The vision of the nations coming to
+      Zion (2:2–4) is shared almost word for word with Micah 4:1–3; many critical
+      scholars think it a later (exilic or post-exilic) addition to both books.
+  3:
+    <<: *early
+    note: >-
+      Judgment on Jerusalem's leaders and its finely dressed women (3:16–4:1),
+      fitting the wealth of Uzziah's and Jotham's reigns, before the Syro-Ephraimite
+      war.
+  4:
+    <<: *early
+    note: >-
+      Continues 3:16–26 (4:1). The promise of "the branch of the LORD" and a purified
+      Zion (4:2–6) is often dated after the exile by critical scholars; in its
+      setting it closes the early oracles.
+  5:
+    <<: *early
+    note: >-
+      The song of the vineyard (5:1–7) and six woes. A distant nation summoned "from
+      the end of the earth" (5:26–30) is Assyria, on the march under Tiglath-pileser
+      III (from 745 BC).
+  6:
+    date: "c. 740/739 BC (the year Uzziah died)"
+    range: [-742, -735]
+    anchors: [eighth-century]
+    note: >-
+      Dated "in the year that King Uzziah died" (6:1): 740/739 BC on Thiele's
+      chronology. Others place Uzziah's death a few years earlier (c. 742) or later
+      (736/735). Many read it as Isaiah's call; its placement after chs. 1–5 may
+      introduce the Ahaz chapters (6:1–9:7) rather than open the book.
+    sources: [thiele, galil]
+  7:
+    date: "c. 734 BC (Syro-Ephraimite war)"
+    range: [-735, -733]
+    anchors: [eighth-century]
+    note: >-
+      Rezin of Aram and Pekah of Israel march on Jerusalem "in the days of Ahaz"
+      (7:1) to force Judah into their anti-Assyrian league. Isaiah meets Ahaz at the
+      conduit (7:3) and gives the Immanuel sign (7:14): before the child knows good
+      from evil the two kings' lands will be deserted (7:16). Tiglath-pileser's
+      campaigns of 734–732 BC, in the eponym list, date it.
+    sources: [eponym-canon, cogan-kings]
+  8:
+    date: "c. 734–732 BC"
+    range: [-734, -732]
+    anchors: [eighth-century]
+    note: >-
+      Maher-shalal-hash-baz is born, and before he can say "father" Damascus and
+      Samaria will be plundered by Assyria (8:4). Damascus fell in 732 BC, so the
+      oracle comes shortly before. Isaiah seals his teaching among his disciples
+      (8:16).
+    sources: [eponym-canon]
+  9:
+    date: "c. 733–722 BC"
+    range: [-733, -722]
+    anchors: [eighth-century, samaria-fall]
+    note: >-
+      "Galilee of the nations" and "the way of the sea" (9:1) are the districts
+      Tiglath-pileser annexed in 733/732 BC; the child-king of 9:6–7 is promised to
+      them. Some link that oracle to Hezekiah's accession, some critical scholars to
+      Josiah's reign or later. The refrain poem against Israel (9:8–10:4) predates
+      Samaria's fall in 722.
+  10:
+    date: "c. 717–701 BC"
+    range: [-722, -701]
+    anchors: [samaria-fall, hezekiah-701]
+    note: >-
+      10:1–4 ends the poem of ch. 9. Assyria, "the rod of my anger" (10:5), boasts of
+      Calno, Carchemish, Hamath, Arpad, Samaria and Damascus (10:9–11); Carchemish
+      fell to Sargon in 717 BC, so this oracle is later. The enemy's march on
+      Jerusalem from the north (10:28–32) fits 701 BC or, for some, the threat of
+      734. Some critical scholars assign the oracles of Assyria's fall to an
+      editing under Josiah.
+    sources: [anet]
+  11:
+    date: "c. 715–701 BC (Isaiah) or after 587 BC (many critical scholars)"
+    range: [-735, -500]
+    anchors: [eighth-century, exile]
+    note: >-
+      The shoot from the stump of Jesse (11:1–9) is Isaiah's hope for a just king on
+      a traditional reading; many critical scholars read "stump" as the dynasty
+      already cut off, so after 587 BC. The gathering of exiles from Assyria, Egypt,
+      Pathros, Cush, Elam, Shinar, Hamath and the islands (11:11–16) is widely dated
+      to the exile or later.
+  12:
+    date: "8th century BC (Isaiah) or exilic/post-exilic"
+    range: [-735, -450]
+    anchors: [prophets-isaiah-parts]
+    note: >-
+      A short thanksgiving hymn closing chs. 1–12. It has no date of its own; many
+      scholars regard it as an editor's conclusion to the first collection.
+  13:
+    date: "c. 700 BC (Isaiah) or c. 550–539 BC (critical)"
+    range: [-710, -539]
+    anchors: [prophets-isaiah-parts, return]
+    note: >-
+      The first "burden" on the nations (13:1, "which Isaiah the son of Amoz saw")
+      is the fall of Babylon to the Medes (13:17–19). Most critical scholars date it
+      to the years before Cyrus took Babylon (539 BC). Those who keep it with Isaiah
+      point to Babylon's revolts against Assyria under Merodach-baladan (721–710,
+      703 BC) and its destruction by Sennacherib in 689 BC.
+  14:
+    date: "c. 716/715 BC (14:28–32); 14:1–23 c. 700 BC or c. 550–539 BC"
+    range: [-727, -539]
+    anchors: [prophets-isaiah-parts, hezekiah-701]
+    note: >-
+      The taunt over the fallen "king of Babylon" (14:4–23) is dated by critical
+      scholars to the exile; some think it was first written over an Assyrian king,
+      such as Sargon II, who died in battle in 705 BC and was not buried. 14:24–27
+      threatens Assyria (Isaiah, before 701). The oracle on Philistia is dated "in
+      the year that King Ahaz died" (14:28): 716/715 BC on Thiele's dates, or c. 727
+      BC if Hezekiah began a co-regency in 729.
+    sources: [thiele, galil]
+  15: &moab
+    date: "c. 715–711 BC (uncertain)"
+    range: [-740, -650]
+    anchors: [eighth-century]
+    note: >-
+      A lament over Moab (chs. 15–16), with no date. 16:13–14 says this word was
+      spoken "in time past" and now renews it: within three years Moab's glory will
+      fall. Assyrian pressure on Moab under Sargon II (c. 715–711 BC) is a common
+      setting; some think Isaiah reused an older oracle, others date it later.
+      Jeremiah 48 reuses much of it.
+  16: *moab
+  17:
+    date: "c. 735–732 BC"
+    range: [-735, -732]
+    anchors: [eighth-century]
+    note: >-
+      Damascus and Ephraim are judged together (17:1–3), as allies in the
+      Syro-Ephraimite war, so before Damascus fell in 732 BC. The roaring of the
+      nations that flee at God's rebuke (17:12–14) is often read with the deliverance
+      of 701.
+  18:
+    date: "c. 714–701 BC"
+    range: [-715, -701]
+    anchors: [hezekiah-701]
+    note: >-
+      Envoys from Cush (Nubia) arrive by papyrus boats (18:1–2). The Nubian 25th
+      dynasty ruled Egypt from c. 715 BC and courted Judah against Assyria, either in
+      the Ashdod revolt (713–711) or before Sennacherib's invasion (705–701).
+  19:
+    date: "c. 715–701 BC; 19:16–25 possibly much later"
+    range: [-720, -400]
+    anchors: [eighth-century]
+    note: >-
+      Egypt in civil war under "a cruel lord" (19:2–4) fits the Nubian conquest of
+      Egypt (c. 715 BC) or an Assyrian threat. The prose sayings "in that day"
+      (19:16–25), with five Egyptian cities speaking "the language of Canaan", an
+      altar to the LORD in Egypt, and Egypt and Assyria worshipping with Israel, are
+      dated by many critical scholars to the Persian or Hellenistic diaspora. Onias
+      IV cited 19:19 for his temple at Leontopolis (2nd century BC).
+    sources: ["josephus-ant 13.62–73"]
+  20:
+    date: "711 BC (Ashdod)"
+    range: [-713, -711]
+    anchors: [hezekiah-701, eighth-century]
+    note: >-
+      "In the year that Tartan came to Ashdod, when Sargon the king of Assyria sent
+      him" (20:1). Sargon's annals put the capture of Ashdod in 712/711 BC; Isaiah
+      had walked "naked and barefoot three years" (20:3) as a sign against trusting
+      Egypt and Cush, so the acted sign began c. 714/713. This is the only place in
+      the Bible that names Sargon.
+    sources: [anet, eponym-canon]
+  21:
+    date: "c. 710–689 BC (Isaiah) or 539 BC (critical)"
+    range: [-710, -539]
+    anchors: [prophets-isaiah-parts]
+    note: >-
+      "Fallen, fallen is Babylon" (21:9), attacked by Elam and Media (21:2). On an
+      Isaian date: Sargon's capture of Babylon in 710, or Sennacherib's in 700 or 689
+      BC. Many critical scholars date it to Cyrus's capture of Babylon in 539 BC.
+      The short oracles on Dumah (21:11–12) and Arabia/Kedar (21:13–17) fit Assyrian
+      campaigns in Arabia c. 715–703 BC.
+  22:
+    date: "c. 705–701 BC"
+    range: [-711, -701]
+    anchors: [hezekiah-701]
+    note: >-
+      Jerusalem readies its defences, inspects the houses and builds a reservoir
+      between the two walls (22:8–11), as in Hezekiah's preparations (cf. 2 Chr
+      32:3–5; the Siloam tunnel), and celebrates when it should mourn (22:1–14),
+      perhaps after Sennacherib withdrew. Shebna is to be replaced by Eliakim as
+      steward (22:15–25); in 701 Eliakim is steward and Shebna scribe (36:3), so the
+      oracle comes before.
+  23:
+    date: "c. 701 BC (some date it later)"
+    range: [-705, -500]
+    anchors: [hezekiah-701]
+    note: >-
+      The fall of Tyre and Sidon. Sennacherib's annals say Luli king of Sidon fled
+      overseas in 701 BC, which fits the flight to Kittim (Cyprus) in 23:12. "The land
+      of the Chaldeans" (23:13) and Tyre forgotten "seventy years" (23:15–18) lead
+      some to date the chapter or its ending later, after Babylon's siege of Tyre
+      (c. 586–573 BC).
+    sources: [sennacherib-annals]
+  24: &apocalypse
+    date: "c. 700 BC (Isaiah) or c. 500–400 BC (most critical scholars)"
+    range: [-701, -200]
+    anchors: [prophets-isaiah-parts]
+    note: >-
+      The "Isaiah apocalypse" (chs. 24–27): the whole earth judged, the "confused city"
+      broken down (24:10), death swallowed up (25:8), the dead raised (26:19).
+      It names no king or event. Tradition keeps it with Isaiah; most critical
+      scholars now date it to the Persian period, while older critics placed it as
+      late as the Hellenistic age.
+  25: *apocalypse
+  26: *apocalypse
+  27: *apocalypse
+  28:
+    date: "c. 725–701 BC"
+    range: [-725, -701]
+    anchors: [samaria-fall, hezekiah-701]
+    note: >-
+      The "crown of pride of the drunkards of Ephraim" (28:1–4) is Samaria while it
+      still stood, so before 722 BC. The rest (28:7–29) turns on Jerusalem's leaders
+      and their "covenant with death" (28:15), usually read as the alliance with Egypt
+      in Hezekiah's revolt, 705–701 BC.
+  29:
+    date: "c. 705–701 BC"
+    range: [-705, -701]
+    anchors: [hezekiah-701]
+    note: >-
+      "Woe to Ariel, the city where David encamped" (29:1): Jerusalem besieged and
+      then suddenly delivered (29:5–8), widely linked with Sennacherib's campaign of
+      701 BC.
+  30:
+    date: "c. 705–701 BC"
+    range: [-705, -701]
+    anchors: [hezekiah-701]
+    note: >-
+      Envoys travel to Zoan and Hanes to seek Egypt's help (30:1–7), during
+      Hezekiah's revolt after Sargon's death in 705 BC. The chapter closes with
+      Assyria shattered by the LORD's voice (30:31).
+  31:
+    date: "c. 705–701 BC"
+    range: [-705, -701]
+    anchors: [hezekiah-701]
+    note: >-
+      "Woe to those who go down to Egypt for help" (31:1); the Assyrian will fall "by
+      the sword, not of man" (31:8), as in the story of 37:36.
+  32:
+    date: "c. 705–701 BC (32:1–8 often dated later)"
+    range: [-715, -500]
+    anchors: [hezekiah-701]
+    note: >-
+      Warnings to complacent women that within a year the harvest will fail
+      (32:9–14) fit the crisis years before 701. The king who will reign in
+      righteousness (32:1–8) is Isaiah's hope on a traditional reading; many critical
+      scholars think it a wisdom-style addition from after the exile.
+  33:
+    date: "c. 701 BC (or later)"
+    range: [-701, -450]
+    anchors: [hezekiah-701]
+    note: >-
+      "Woe to you who destroy" (33:1); the treaty is broken and the envoys weep
+      (33:7–8), often read as Sennacherib taking Hezekiah's tribute and attacking
+      anyway (2 Kgs 18:14–17). Many critical scholars treat the chapter as a later
+      liturgy.
+  34: &edom
+    date: "c. 700 BC (Isaiah) or after 587 BC (most critical scholars)"
+    range: [-701, -450]
+    anchors: [prophets-isaiah-parts, exile]
+    note: >-
+      Judgment on the nations and on Edom (ch. 34), then the desert blossoming and
+      the redeemed returning to Zion on a holy highway (ch. 35). Edom's hostility
+      after Jerusalem's fall (cf. Obadiah; Ps 137:7) and the close links with chs.
+      40–66 lead most critical scholars to date both chapters to the exile or after.
+  35: *edom
+  36: &sennacherib
+    date: "701 BC"
+    range: [-701, -701]
+    label: Date of events
+    anchors: [hezekiah-701]
+    note: >-
+      "In the fourteenth year of King Hezekiah, Sennacherib king of Assyria attacked
+      all of the fortified cities of Judah" (36:1); the Rabshakeh comes from Lachish
+      (36:2). Chapters 36–39 parallel 2 Kings 18:13–20:19. Sennacherib's annals
+      describe the same campaign of 701 BC; the Lachish reliefs show the siege.
+    sources: [sennacherib-annals]
+  37:
+    <<: *sennacherib
+    note: >-
+      Hezekiah's prayer, Isaiah's answer and the deliverance of Jerusalem (701 BC).
+      Tirhakah of Cush is said to march out (37:9), though he became king only c. 690
+      BC; most take the title as written later or as a prince commanding the army.
+      The chapter ends with Sennacherib's murder by his sons (37:38), which happened
+      in 681 BC, so the narrative was written after that.
+    sources: [sennacherib-annals, cogan-kings]
+  38:
+    date: "c. 702–701 BC"
+    range: [-703, -701]
+    label: Date of events
+    anchors: [hezekiah-701]
+    note: >-
+      Hezekiah's illness "in those days" (38:1). He is promised fifteen more years
+      (38:5) and deliverance from Assyria (38:6), so the illness came shortly before
+      or during the crisis of 701, fifteen years before his death in 687/686 BC.
+      38:9–20 is his psalm of thanksgiving.
+  39:
+    date: "c. 703 BC (or c. 712)"
+    range: [-712, -703]
+    label: Date of events
+    anchors: [hezekiah-701]
+    note: >-
+      Merodach-baladan of Babylon sends envoys after Hezekiah's recovery (39:1). He
+      ruled Babylon in 721–710 BC and again briefly in 703; the embassy was probably
+      part of building an anti-Assyrian alliance before 701. Isaiah foretells that
+      Hezekiah's treasures and descendants will go to Babylon (39:6–7).
+  40: &second
+    date: "c. 700–681 BC (Isaiah) or c. 550–539 BC (Second Isaiah)"
+    range: [-701, -539]
+    anchors: [prophets-isaiah-parts, exile, return]
+    note: >-
+      "Comfort, comfort my people": Jerusalem's term of service is over (40:2) and a
+      way is prepared in the desert for the LORD to bring the exiles home (40:3–11).
+      On the critical view this opens Second Isaiah, written for the exiles in
+      Babylon; on the traditional view Isaiah writes for a future exile he foresaw in
+      39:6–7.
+  41:
+    <<: *second
+    note: >-
+      The LORD has stirred up "one from the east" (41:2) and "from the north" (41:25),
+      whom victory meets at every step: Cyrus, named in 44:28. Critical scholars date
+      this to Cyrus's conquests of Media (c. 550 BC) and Lydia (c. 547/546).
+  42:
+    <<: *second
+    note: >-
+      The first Servant Song (42:1–9). No historical marker beyond the exilic
+      setting of chs. 40–48.
+  43:
+    <<: *second
+    note: >-
+      "For your sake I have sent to Babylon" and brought down the Chaldeans (43:14):
+      the coming fall of Babylon.
+  44:
+    <<: *second
+    note: >-
+      The LORD says of Cyrus, "He is my shepherd", and of Jerusalem, "She will be
+      built", and of the temple, "Your foundation will be laid" (44:28). The ruined
+      city and temple are the present situation on the critical view, the future on
+      the traditional one.
+  45:
+    <<: *second
+    note: >-
+      "The LORD says to his anointed, to Cyrus" (45:1): Cyrus is named and given
+      victory over kings. Critical scholars date this before October 539 BC, when
+      Cyrus took Babylon; the Cyrus Cylinder tells his side of that conquest. On the
+      traditional view this is a named prediction about 160 years in advance.
+    sources: [cyrus-cylinder]
+  46:
+    <<: *second
+    note: >-
+      "Bel bows down, Nebo stoops" (46:1): the gods of Babylon carried off as it
+      falls. In fact Cyrus took the city without a fight and honoured Marduk (Bel),
+      which critical scholars take as a sign the oracle was written before 539 BC.
+    sources: [cyrus-cylinder]
+  47:
+    <<: *second
+    note: >-
+      A taunt song over "virgin daughter of Babylon" (47:1), soon to fall. Same
+      setting as ch. 46.
+  48:
+    <<: *second
+    note: >-
+      "Go out of Babylon! Flee from the Chaldeans!" (48:20): the call to leave,
+      closing chs. 40–48.
+  49:
+    <<: *second
+    note: >-
+      The second Servant Song (49:1–6). From here the focus moves from Babylon and
+      Cyrus to Zion and her returning children (49:14–26); some critical scholars
+      date chs. 49–55 shortly after 539 BC.
+  50:
+    <<: *second
+    note: >-
+      The third Servant Song (50:4–9). No historical marker of its own.
+  51:
+    <<: *second
+    note: >-
+      Zion's ruins will be comforted (51:3) and the cup of wrath taken from her hand
+      (51:17–23): Jerusalem lies desolate.
+  52:
+    <<: *second
+    note: >-
+      "Depart, go out from there" (52:11); the watchmen of Zion see the LORD return
+      (52:7–10). The fourth Servant Song begins at 52:13.
+  53:
+    <<: *second
+    note: >-
+      The fourth Servant Song (52:13–53:12), the suffering servant. Its identity
+      (Israel, the prophet, a future figure) is debated; it has no date of its own.
+  54:
+    <<: *second
+    note: >-
+      Zion as the barren wife whose children will be many; a covenant of peace like
+      the oath to Noah (54:9–10).
+  55:
+    <<: *second
+    note: >-
+      The invitation to come and buy without money; the "sure mercies of David"
+      transferred to the people (55:3). The close of Second Isaiah on the critical
+      view.
+  56: &third
+    date: "c. 700–681 BC (Isaiah) or c. 538–450 BC (Third Isaiah)"
+    range: [-701, -450]
+    anchors: [prophets-isaiah-parts, return]
+    note: >-
+      Foreigners and eunuchs who keep the Sabbath are welcome in the LORD's house,
+      "a house of prayer for all peoples" (56:3–8). On the critical view this opens
+      Third Isaiah, addressing a community back in Judah after 538 BC with a temple
+      (rebuilt or being rebuilt) and debates about who belongs.
+  57:
+    <<: *third
+    note: >-
+      Idolatry on the high hills and under green trees (57:3–13). Traditional readers
+      see Manasseh's reign (after 686 BC) here; critical scholars, practices among
+      those who stayed in Judah or returned.
+  58:
+    <<: *third
+    note: >-
+      True and false fasting (58:1–12); the ancient ruins will be rebuilt (58:12). The
+      question of fasting recurs in Zechariah 7 (518 BC).
+  59:
+    <<: *third
+    note: >-
+      The people's sins separate them from God; the LORD puts on righteousness as a
+      breastplate to act himself (59:15–21). No external marker.
+  60:
+    <<: *third
+    note: >-
+      Chapters 60–62 are the bright core of Third Isaiah: nations bring their wealth
+      to a restored Zion, its walls rebuilt (60:10) and the sanctuary glorified (60:13).
+      Critical scholars place them soon after the return; they echo Second Isaiah.
+  61:
+    <<: *third
+    note: >-
+      "The Spirit of the Lord GOD is on me ... to proclaim the year of the LORD's
+      favor" (61:1–2), the text Jesus reads at Nazareth (Luke 4:18–19). Ancient ruins
+      rebuilt (61:4).
+  62:
+    <<: *third
+    note: >-
+      Watchmen on Jerusalem's walls; Zion renamed "Hephzibah" and "Beulah" (62:4).
+      Same setting as chs. 60–61.
+  63:
+    <<: *third
+    note: >-
+      The warrior returning from Edom (63:1–6), then a communal lament (63:7–64:12).
+      "Our adversaries have trodden down your sanctuary" (63:18) suggests a date
+      before the second temple was finished in 515 BC.
+  64:
+    <<: *third
+    note: >-
+      "Our holy and beautiful house ... is burned with fire" (64:11): the temple still
+      lies in ruins, so on the critical view between 587 and 515 BC.
+  65:
+    <<: *third
+    note: >-
+      Sharp division between the LORD's servants and those who sacrifice in gardens
+      (65:1–16); new heavens and a new earth (65:17–25).
+  66:
+    <<: *third
+    note: >-
+      "What kind of house will you build to me?" (66:1) is read by many critical
+      scholars as a voice in the debate over rebuilding the temple c. 520 BC, by
+      others as later. The book ends with the nations gathered to Jerusalem.

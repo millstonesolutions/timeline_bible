@@ -1,0 +1,55 @@
+book: Haggai
+code: HAG
+order: 37
+slug: 37-haggai
+kind: prophecy
+
+written:
+  date: "520 BC (oracles); compiled by c. 515 BC"
+  range: [-520, -515]
+  summary: >-
+    Haggai's four oracles are dated to the day, all within four months of Darius
+    I's 2nd year: 29 August to 18 December 520 BC. They urge Zerubbabel the governor
+    and Joshua the high priest to rebuild the temple, which was finished in 515 BC.
+    The book speaks of Haggai in the third person, so an editor framed the oracles,
+    probably soon after they were given.
+  views:
+    - date: "520 BC, by Haggai or a close disciple"
+      held_by: Conservative scholars (Dillard & Longman)
+      basis: >-
+        The precise dates and the absence of any hint that the temple has been
+        finished; Ezra 5:1 and 6:14 name Haggai as a prophet of the rebuilding.
+      sources: [dillard-longman, williamson-ezra]
+    - date: "Edited with Zechariah 1–8 before the temple's dedication, c. 518–515 BC"
+      held_by: Meyers & Meyers; many critical scholars
+      basis: >-
+        Haggai and Zechariah 1–8 share a dating system and a framework and were
+        edited as one composite work; nothing in either looks back on the
+        dedication of March 515 BC.
+      sources: [meyers-haggai, collins-intro]
+
+default:
+  date: "520 BC (Darius I, year 2)"
+  range: [-520, -520]
+  anchors: [twelve-darius-dates, return]
+
+chapters:
+  1:
+    date: "29 August and 21 September 520 BC"
+    note: >-
+      "In the second year of Darius the king, in the sixth month, in the first day of
+      the month" (1:1), 1 Elul = 29 August 520 BC. The people say "the time hasn't
+      yet come ... for the LORD's house to be built" (1:2) while living in paneled
+      houses. Work resumed "in the twenty-fourth day of the month, in the sixth
+      month" (1:15), 21 September 520 BC; some attach the second half of 1:15 to
+      2:1.
+    sources: [parker-dubberstein, meyers-haggai]
+  2:
+    date: "17 October and 18 December 520 BC"
+    note: >-
+      Three oracles: "the seventh month, in the twenty-first day" (2:1), 17 October
+      520 BC, during the feast of booths, on the new temple's modest glory (2:3–9);
+      and two on "the twenty-fourth day of the ninth month" (2:10, 18, 20),
+      18 December 520 BC, on purity and blessing from the day the foundation was
+      laid, and on Zerubbabel as God's "signet ring" (2:23).
+    sources: [parker-dubberstein, meyers-haggai]

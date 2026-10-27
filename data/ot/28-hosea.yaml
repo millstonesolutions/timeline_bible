@@ -1,0 +1,157 @@
+book: Hosea
+code: HOS
+order: 28
+slug: 28-hosea
+kind: prophecy
+
+written:
+  date: "c. 755–715 BC (Hosea's oracles); edited in Judah after 722 BC"
+  range: [-755, -540]
+  summary: >-
+    Hosea preached in the northern kingdom from the last years of Jeroboam II
+    (died 753 BC) until near the fall of Samaria (722 BC). The superscription (1:1)
+    dates him by four kings of Judah, down to Hezekiah, but by only one king of
+    Israel, which suggests the book was collected and edited in Judah after Samaria
+    fell. How much later editing there is, is the point of disagreement.
+  views:
+    - date: "c. 755–715 BC, substantially Hosea's own words"
+      held_by: Conservative scholars (Dillard & Longman); Wolff for most of the oracles
+      basis: >-
+        The oracles reflect the prosperity of Jeroboam II (2:8; 12:8), the
+        assassinations of the following kings (7:7; 8:4), the Syro-Ephraimite war
+        (5:8–6:6) and Hoshea's turn between Assyria and Egypt (7:11; 12:1), with no
+        sign that Samaria has already fallen. Wolff held that Hosea's disciples
+        wrote the sayings down soon after they were spoken and took them to Judah
+        after 722.
+      sources: [dillard-longman, wolff-hosea]
+    - date: "Collected after 722 BC; Judean and exilic editing to c. 550 BC"
+      held_by: Many critical scholars
+      basis: >-
+        Passages with a Judean outlook (1:7; 3:5 "David their king"; the Judah
+        references in 4:15, 5:5, 6:11, 12:2) and the wisdom ending (14:9) are read as
+        additions by Judean editors, some of them after the exile began, in the
+        style of the Deuteronomistic writers.
+      sources: [collins-intro, childs]
+
+default:
+  date: "c. 755–722 BC"
+  range: [-755, -722]
+  anchors: [eighth-century]
+
+chapters:
+  1:
+    date: "c. 755–753 BC (late in Jeroboam II's reign)"
+    range: [-760, -753]
+    anchors: [eighth-century]
+    note: >-
+      Hosea's marriage to Gomer and the naming of their children. "I will avenge
+      the blood of Jezreel on the house of Jehu" (1:4) is a threat to the dynasty
+      still on the throne, so it comes before Jeroboam II's son Zechariah was
+      murdered after six months (2 Kgs 15:8–10), 753/752 BC on Thiele's dates.
+      1:7 (Judah's rescue) is often read as a Judean addition.
+    sources: [wolff-hosea, thiele]
+  2:
+    date: "c. 755–750 BC"
+    range: [-760, -745]
+    note: >-
+      Israel as the unfaithful wife who did not know that God gave her "the grain,
+      the new wine, and the oil, and multiplied to her silver and gold, which they
+      used for Baal" (2:8). The picture of plenty fits the
+      prosperity of Jeroboam II's last years, before the crises after 753.
+  3:
+    date: "c. 750 BC"
+    range: [-755, -740]
+    note: >-
+      Hosea takes back an adulterous wife. Israel will live "many days without king"
+      (3:4), which still lies in the future. "David their king" in 3:5 is widely
+      taken as a Judean addition.
+  4:
+    date: "c. 752–740 BC"
+    range: [-755, -735]
+    note: >-
+      The lawsuit against the land and its priests. "Bloodshed causes bloodshed"
+      (4:2), which may reflect the violent changes of king after 753; Judah is warned
+      not to follow Israel to Gilgal and Beth Aven (4:15).
+  5:
+    date: "c. 740–732 BC (the Syro-Ephraimite war)"
+    range: [-743, -732]
+    note: >-
+      The alarm sounded "in Gibeah ... in Ramah ... at Beth Aven" (5:8), the
+      border of Benjamin, and Judah's leaders moving the boundary (5:10) are widely
+      linked (following Alt) with the war of 734–732 BC between Judah and the
+      Israel–Aram alliance. "Ephraim went to Assyria" (5:13) recalls Menahem's
+      tribute to Tiglath-pileser III (2 Kgs 15:19–20).
+    anchors: [eighth-century]
+    sources: [wolff-hosea, cogan-kings]
+  6:
+    date: "c. 734–732 BC"
+    range: [-735, -732]
+    note: >-
+      The people's short-lived repentance (6:1–3) and God's reply continue the
+      section that began at 5:8. "Gilead is a city of those who work iniquity"
+      (6:8) may allude to Pekah's coup with fifty men of Gilead (2 Kgs 15:25).
+  7:
+    date: "c. 735–725 BC"
+    range: [-740, -724]
+    note: >-
+      "All their kings have fallen" (7:7): four of the six kings after Jeroboam II
+      were murdered. Ephraim is "like an easily deceived dove ... they call to
+      Egypt, they go to Assyria" (7:11), which fits Israel's wavering under Pekah
+      and Hoshea.
+  8:
+    date: "c. 740–725 BC"
+    range: [-743, -724]
+    note: >-
+      "They have set up kings, but not by me" (8:4); the calf of Samaria will be
+      broken (8:5–6); "Ephraim has hired lovers" (8:9), i.e. paid tribute to Assyria.
+  9:
+    date: "c. 730–725 BC"
+    range: [-735, -722]
+    note: >-
+      At a harvest festival (9:1–5) Hosea foretells exile: "Ephraim will return to
+      Egypt, and they will eat unclean food in Assyria" (9:3). The prophet is called
+      "a fool" and "insane" (9:7), a glimpse of his reception.
+  10:
+    date: "c. 727–724 BC"
+    range: [-732, -722]
+    note: >-
+      "We have no king" (10:3) and the calves of Beth Aven, whose glory goes to
+      Assyria as tribute (10:5–6). "As Shalman destroyed Beth Arbel" (10:14) is unidentified:
+      Shalmaneser V (727–722 BC) or Salamanu, a Moabite king in Tiglath-pileser's
+      tribute lists, are the usual candidates.
+    anchors: [eighth-century, samaria-fall]
+  11:
+    date: "c. 730–722 BC"
+    range: [-735, -722]
+    note: >-
+      "When Israel was a child ... out of Egypt I called my son" (11:1). Israel
+      will not return to Egypt but Assyria will be its king (11:5); exiles will come
+      back "from Egypt ... and from the land of Assyria" (11:11). No datable event;
+      placed with the late oracles.
+  12:
+    date: "c. 727–724 BC"
+    range: [-728, -722]
+    note: >-
+      Ephraim "makes a covenant with Assyria, and oil is carried into Egypt" (12:1):
+      Hoshea paid tribute to Shalmaneser V while sending to "So king of Egypt"
+      (2 Kgs 17:3–4). The Jacob traditions (12:3–4, 12) are recalled against Israel.
+    anchors: [samaria-fall]
+    sources: [cogan-kings]
+  13:
+    date: "c. 725–722 BC"
+    range: [-725, -722]
+    note: >-
+      "Where is your king now, that he may save you?" (13:10) may reflect Hoshea's
+      arrest by Assyria (2 Kgs 17:4) during the siege. Samaria's fall is foretold,
+      not yet past (13:16, Hebrew 14:1).
+    anchors: [samaria-fall]
+  14:
+    date: "c. 725–722 BC"
+    range: [-725, -722]
+    note: >-
+      A closing call to return: "Assyria can't save us. We won't ride on horses"
+      (14:3). Wolff kept the oracle as Hosea's; the wisdom saying in 14:9 ("Who is
+      wise, that he may understand these things?") is widely seen as an editor's
+      closing note.
+    anchors: [samaria-fall]
+    sources: [wolff-hosea]

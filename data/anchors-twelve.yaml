@@ -1,0 +1,127 @@
+# Anchors added by the `twelve` group (Hosea–Malachi). Same format as anchors-ot.yaml.
+
+twelve-earthquake:
+  title: The earthquake in Uzziah's reign
+  date: "c. 760 BC"
+  range: [-767, -750]
+  short: >-
+    Amos prophesied "two years before the earthquake" (Amos 1:1), under Uzziah and
+    Jeroboam II. The quake was still remembered more than two centuries later
+    ("as you fled from before the earthquake in the days of Uzziah", Zech 14:5).
+    Excavators date a major earthquake destruction at Hazor and other sites to the
+    mid-8th century BC, usually c. 760 BC.
+  discussion: |
+    **Biblical limits.** Amos names Uzziah (792–740 BC on Thiele's dates, sole reign
+    from 767) and Jeroboam II (793–753), so his ministry falls before 753. The
+    phrase "two years before the earthquake" treats the quake as a well-known
+    reference point, and suggests that Amos's preaching was brief.
+
+    **Later memory.** Zechariah 14:5 still uses it as a byword. Josephus links the
+    earthquake with Uzziah's attempt to burn incense in the temple (2 Chr 26:16–21),
+    a tradition the Bible itself does not make.
+
+    **Archaeology.** Destruction by earthquake in the mid-8th century BC has been
+    identified at Hazor (Stratum VI) and several other sites in Israel and Judah.
+    The date c. 760 BC is the usual estimate; it cannot be fixed to the year.
+  sources:
+    - thiele
+    - wolff-joel-amos
+    - "josephus-ant 9.222–227"
+    - mazar
+
+twelve-nineveh:
+  title: Thebes (663 BC) and the fall of Nineveh (612 BC)
+  date: "663–612 BC"
+  range: [-663, -612]
+  short: >-
+    Nahum 3:8–10 recalls the sack of Thebes ("No-Amon") by Ashurbanipal of Assyria
+    in 663 BC as past; Nahum and Zephaniah 2:13–15 foretell Nineveh's fall, which
+    came in 612 BC to the Babylonians and Medes (Babylonian Chronicle). Oracles
+    against Nineveh as a living power fall between the two dates.
+  discussion: |
+    **Thebes, 663 BC.** Ashurbanipal's annals describe his second Egyptian campaign,
+    in which Thebes was taken and plundered after the flight of the Kushite king
+    Tantamani. Nahum uses its fate as a warning to Nineveh: a great river city that
+    fell anyway.
+
+    **Nineveh, 612 BC.** The Babylonian chronicle of the fall of Nineveh records
+    that Nabopolassar of Babylon and Cyaxares the Mede besieged the city and took
+    it in the summer of Nabopolassar's 14th year, 612 BC. Assyrian resistance went
+    on at Harran until 610–609 BC.
+
+    **Assyria's decline.** After Ashurbanipal's last years (died c. 631 BC) Assyria
+    lost Babylonia (626 BC) and declined rapidly. Oracles that treat Assyria as still
+    oppressive but doomed are often placed in the 620s and 610s; those that stress
+    its power, closer to 663.
+  sources:
+    - anet
+    - grayson-abc
+    - babylonian-chronicle
+    - roberts-nahum
+
+twelve-darius-dates:
+  title: The dated oracles of Haggai and Zechariah
+  date: "29 August 520 – 7 December 518 BC"
+  range: [-520, -518]
+  short: >-
+    Haggai and Zechariah 1–8 date their oracles by the year of Darius I (522–486 BC),
+    month and day. Converted with Parker & Dubberstein's tables they run from
+    1 Elul of Darius's 2nd year (29 August 520 BC, Hag 1:1) to 4 Kislev of his 4th
+    year (7 December 518 BC, Zech 7:1).
+  discussion: |
+    Darius I took the throne in 522 BC; his first regnal year began in Nisan 521, so
+    his 2nd year ran from spring 520 to spring 519 BC. Months are counted from the
+    spring (Nisan = month 1), as in the Babylonian calendar.
+
+    | Reference | Text date | Julian date |
+    |---|---|---|
+    | Hag 1:1 | year 2, month 6, day 1 | 29 August 520 BC |
+    | Hag 1:15 | year 2, month 6, day 24 | 21 September 520 BC |
+    | Hag 2:1 | year 2, month 7, day 21 | 17 October 520 BC |
+    | Zech 1:1 | year 2, month 8 (no day) | October–November 520 BC |
+    | Hag 2:10, 2:18, 2:20 | year 2, month 9, day 24 | 18 December 520 BC |
+    | Zech 1:7 | year 2, month 11 (Shebat), day 24 | 15 February 519 BC |
+    | Zech 7:1 | year 4, month 9 (Kislev), day 4 | 7 December 518 BC |
+
+    The temple was finished on 3 Adar of Darius's 6th year, March 515 BC
+    (Ezra 6:15). Ezra 5:1 and 6:14 name Haggai and Zechariah as the prophets who
+    urged the rebuilding.
+  sources:
+    - parker-dubberstein
+    - meyers-haggai
+
+twelve-deutero-zechariah:
+  title: The date of Zechariah 9–14
+  date: "c. 520–470 BC (Zechariah) or 5th–4th century BC (later prophets)"
+  range: [-520, -300]
+  short: >-
+    Zechariah 9–14 has no dates, no mention of Zechariah, Joshua, Zerubbabel or the
+    temple building, and a different style from chs. 1–8. Tradition reads it as
+    Zechariah's later oracles; most critical scholars assign it to one or more
+    anonymous prophets of the later Persian or early Greek period.
+  discussion: |
+    **Two "burdens".** Chapters 9–11 and 12–14 each open with *massa*, "burden" or
+    "oracle" (WEB "A revelation", 9:1; 12:1), as does Malachi (1:1). Many scholars treat the three as
+    an appendix of anonymous collections added at the end of the Twelve.
+
+    **Late date.** The sons of Zion are set against "your sons, Greece" (9:13);
+    9:1–8 traces a conqueror's route down the Syrian and Phoenician coast, which
+    some have linked with Alexander's campaign of 332 BC; the shepherd allegories
+    (11:4–17; 13:7–9) suggest conflicts over leadership in the restored community.
+    Most critical commentators put the chapters in the 5th or 4th century BC.
+
+    **Early date.** Older critics, starting in the 17th–18th centuries, put chs.
+    9–11 before the exile because they mention Ephraim, Assyria and Egypt as live
+    powers (9:10, 13; 10:10–11); Matthew 27:9–10 quotes 11:12–13 under Jeremiah's
+    name. This view is now rarely held.
+
+    **Traditional view.** Conservative scholars ascribe the chapters to Zechariah
+    himself, late in a long ministry (after 480 BC), the change of style reflecting
+    a change of subject from the temple to the distant future; Greece was already a
+    known power after Darius's and Xerxes' wars.
+  sources:
+    - petersen-zech
+    - meyers-haggai
+    - childs
+    - collins-intro
+    - dillard-longman

@@ -1,0 +1,154 @@
+book: Zechariah
+code: ZEC
+order: 38
+slug: 38-zechariah
+kind: prophecy
+
+written:
+  date: "Chs. 1–8 520–518 BC; chs. 9–14 c. 480 BC (Zechariah) or 5th–4th century BC"
+  range: [-520, -300]
+  summary: >-
+    Chapters 1–8 are dated oracles and night visions of Zechariah son of
+    Berechiah, son of Iddo, from October/November 520 to December 518 BC, during the
+    rebuilding of the temple. Chapters 9–14 are undated and different in style and
+    subject; tradition takes them as Zechariah's later prophecies, while most
+    critical scholars ascribe them to later anonymous prophets ("Second" or
+    "Deutero-Zechariah").
+  views:
+    - date: "The whole book by Zechariah, c. 520–470 BC"
+      held_by: Conservative scholars (Dillard & Longman)
+      basis: >-
+        The book carries one name; Zechariah, grandson of a priest who returned
+        with Zerubbabel (Neh 12:4, 16), may have prophesied for decades; the change from temple building to the distant
+        future explains the change in style; Greece (9:13) was a known power after
+        the Persian wars of 490–479 BC.
+      sources: [dillard-longman]
+    - date: "Chs. 1–8 520–518 BC; chs. 9–14 by later prophets, 5th–4th century BC"
+      held_by: Most critical scholars (Meyers & Meyers for 1–8; Petersen for 9–14)
+      basis: >-
+        Chapters 1–8 are edited with Haggai before 515 BC. Chapters 9–14 never name
+        Zechariah, Joshua or Zerubbabel; they open with the same heading, "A revelation" (Hebrew *massa*, "burden,
+        oracle"), as Malachi (Zech 9:1; 12:1; Mal 1:1); "your sons, Greece" (9:13) and the
+        conflicts over leaders suggest a later setting.
+      sources: [meyers-haggai, petersen-zech, collins-intro]
+    - date: "Chs. 9–11 before the exile, 8th–7th century BC"
+      held_by: Some older critics
+      basis: >-
+        Ephraim, Assyria and Egypt as live powers (9:10, 13; 10:10–11); Matthew
+        27:9–10 quotes 11:12–13 as Jeremiah's. Now rarely held.
+      sources: [childs]
+
+default:
+  date: "15 February 519 BC (the night visions)"
+  range: [-519, -519]
+  anchors: [twelve-darius-dates, return]
+
+chapters:
+  1:
+    date: "October–November 520 BC and 15 February 519 BC"
+    range: [-520, -519]
+    note: >-
+      The call to return (1:1–6) is dated "in the eighth month, in the second year
+      of Darius" (1:1), October/November 520 BC, between Haggai's oracles of
+      October and December. The night visions begin "on the twenty-fourth day of the
+      eleventh month, which is the month Shebat, in the second year of Darius" (1:7),
+      15 February 519 BC: the horsemen among the myrtles, and the angel's question
+      about the "seventy years" of indignation (1:12).
+    sources: [parker-dubberstein, meyers-haggai]
+  2:
+    note: >-
+      The third night vision, the man with a measuring line (2:1–5), and the call to
+      flee from Babylon (2:6–13): part of the series dated 15 February 519 BC
+      (1:7).
+  3:
+    note: >-
+      The fourth vision: Joshua the high priest, accused by Satan, is given clean
+      clothes (3:1–5), and God promises "my servant, the Branch" (3:8). Same night,
+      15 February 519 BC.
+  4:
+    note: >-
+      The fifth vision: the lampstand and two olive trees. "The hands of Zerubbabel
+      have laid the foundation of this house; his hands shall also finish it" (4:9),
+      so the temple is under construction and not yet finished (515 BC).
+  5:
+    note: >-
+      The sixth and seventh visions: the flying scroll, and the woman in the ephah
+      basket carried off to Shinar, i.e. Babylonia (5:5–11). Same series, 15 February
+      519 BC.
+  6:
+    date: "c. 519 BC"
+    range: [-519, -518]
+    note: >-
+      The eighth vision, four chariots (6:1–8), ends the series. Then a symbolic
+      crowning of Joshua, with "crowns" (6:11) made with silver and gold brought by exiles from Babylon
+      (6:9–15); it is undated but follows the visions. Many critics think the crown
+      was first meant for Zerubbabel.
+  7:
+    date: "7 December 518 BC"
+    range: [-518, -518]
+    note: >-
+      "In the fourth year of King Darius ... in the fourth day of the ninth month,
+      the month of Chislev" (7:1), 7 December 518 BC. Bethel asks whether to keep
+      fasting in the fifth month for the destruction of the temple, as "for these
+      seventy years" (7:3, 5).
+    sources: [parker-dubberstein, meyers-haggai]
+  8:
+    date: "7 December 518 BC"
+    range: [-518, -518]
+    note: >-
+      The answer to the delegation of 7:1–3 continues: the fasts of the fourth,
+      fifth, seventh and tenth months will become "joy, gladness, and cheerful
+      feasts" (8:19). The last dated passage in the Twelve.
+  9:
+    date: "c. 500–470 BC (Zechariah) or 5th–4th century BC (Second Zechariah)"
+    range: [-520, -300]
+    anchors: [twelve-deutero-zechariah]
+    note: >-
+      "A revelation" (9:1; Hebrew *massa*, "burden, oracle"). Judgment moves down from Hadrach and
+      Damascus to Tyre and Philistia (9:1–8), a route some critics compare with
+      Alexander the Great's in 332 BC. Zion's king comes "lowly, and riding on a
+      donkey" (9:9; Matt 21:5); "your sons, Zion, against your sons, Greece" (9:13).
+    sources: [petersen-zech]
+  10:
+    date: "c. 500–470 BC (Zechariah) or 5th–4th century BC (Second Zechariah)"
+    range: [-520, -300]
+    anchors: [twelve-deutero-zechariah]
+    note: >-
+      God's anger at the "shepherds" (10:3) and the return of Judah and Joseph from
+      "the land of Egypt" and "Assyria" (10:10–11). The old names for the lands of
+      exile are a point in the debate over a pre-exilic date for chs. 9–11.
+  11:
+    date: "c. 500–470 BC (Zechariah) or 5th–4th century BC (Second Zechariah)"
+    range: [-520, -300]
+    anchors: [twelve-deutero-zechariah]
+    note: >-
+      The shepherd allegory: the prophet cuts off "the three shepherds in one month"
+      (11:8), never identified for certain, and is paid "thirty pieces of silver"
+      (11:12–13), quoted in Matthew 27:9–10 under Jeremiah's name.
+    sources: [petersen-zech]
+  12:
+    date: "c. 500–470 BC (Zechariah) or 5th–4th century BC (Second Zechariah)"
+    range: [-520, -300]
+    anchors: [twelve-deutero-zechariah]
+    note: >-
+      The second "revelation" (12:1), on Jerusalem besieged by the nations and rescued.
+      "They will look to me whom they have pierced" (12:10; John 19:37). No historical
+      reference fixes the date.
+  13:
+    date: "c. 500–470 BC (Zechariah) or 5th–4th century BC (Second Zechariah)"
+    range: [-520, -300]
+    anchors: [twelve-deutero-zechariah]
+    note: >-
+      A fountain to cleanse Jerusalem; prophecy itself is discredited, so that a
+      prophet will deny being one (13:2–6), which many read as a late stage when
+      prophecy was in decline. "Strike the shepherd, and the sheep will be
+      scattered" (13:7; Matt 26:31).
+  14:
+    date: "c. 500–470 BC (Zechariah) or 5th–4th century BC (Second Zechariah)"
+    range: [-520, -300]
+    anchors: [twelve-deutero-zechariah, twelve-earthquake]
+    note: >-
+      The nations gather against Jerusalem; the Mount of Olives splits and people
+      flee "as you fled from before the earthquake in the days of Uzziah king of
+      Judah" (14:5), the quake of Amos 1:1, still remembered. All nations will go up
+      yearly to keep the feast of booths (14:16).

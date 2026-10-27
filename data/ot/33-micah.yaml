@@ -1,0 +1,104 @@
+book: Micah
+code: MIC
+order: 33
+slug: 33-micah
+kind: prophecy
+
+written:
+  date: "c. 740–700 BC (Micah); chs. 4–7 partly exilic or later on the critical view"
+  range: [-740, -400]
+  summary: >-
+    Micah of Moresheth, a Judean village in the Shephelah, prophesied "in the days
+    of Jotham, Ahaz, and Hezekiah" (1:1), a contemporary of Isaiah. Chapters 1–3,
+    against Samaria and Jerusalem, are accepted as his by nearly all. Whether the
+    promises of chapters 4–5 and the closing liturgy (7:8–20) are his or later is
+    disputed.
+  views:
+    - date: "c. 740–700 BC, essentially the whole book"
+      held_by: Conservative scholars (Dillard & Longman)
+      basis: >-
+        The superscription; Samaria still standing (1:6); the Assyrian threat
+        (5:5–6); the elders' quotation of Micah 3:12 as spoken under Hezekiah
+        (Jer 26:18), which shows his words circulated in writing a century later.
+        Hope after judgment is found in other 8th-century prophets too.
+      sources: [dillard-longman]
+    - date: "Chs. 1–3 c. 725–701 BC; much of chs. 4–7 exilic or post-exilic"
+      held_by: Many critical scholars
+      basis: >-
+        Chapters 4–5 promise return from Babylon (4:10) and the restored rule of
+        Zion; 4:1–3 is nearly identical to Isaiah 2:2–4; 7:11 looks forward to "a
+        day to build your walls", and 7:8–20 reads like a post-exilic liturgy.
+        Some put 6:1–7:7 under Manasseh (c. 690–650 BC).
+      sources: [collins-intro, childs]
+
+default:
+  date: "c. 735–701 BC"
+  range: [-740, -701]
+  anchors: [eighth-century, hezekiah-701]
+
+chapters:
+  1:
+    date: "c. 725–701 BC"
+    range: [-735, -701]
+    anchors: [samaria-fall, hezekiah-701]
+    note: >-
+      Samaria will become "a rubble heap of the field" (1:6), so 1:2–7 comes before its
+      fall in 722 BC. The lament over towns of the Shephelah, Gath, Lachish,
+      Moresheth Gath, Mareshah, Adullam (1:10–16), describes an invader advancing
+      toward Jerusalem: Sennacherib in 701 BC, when Lachish fell, or Sargon II's
+      campaign against Ashdod in 712/711 BC.
+    sources: [sennacherib-annals]
+  2:
+    date: "c. 725–701 BC"
+    range: [-735, -701]
+    note: >-
+      "They covet fields and seize them, and houses, then take them away" (2:2):
+      land-grabbing by the powerful. The people tell Micah "Don't prophesy" (2:6).
+      The promise to gather "the remnant of Israel" (2:12–13) is often read as a
+      later addition.
+  3:
+    date: "c. 715–701 BC (Hezekiah)"
+    range: [-716, -701]
+    anchors: [hezekiah-701]
+    note: >-
+      Against Jerusalem's rulers, priests and prophets: "Zion for your sake will be
+      plowed like a field, and Jerusalem will become heaps of rubble" (3:12). A
+      century later the elders quoted this verse as spoken "in the days of Hezekiah
+      king of Judah", adding that Hezekiah repented (Jer 26:18–19).
+  4:
+    date: "c. 700 BC (Micah) or 6th–5th century BC (later additions)"
+    range: [-715, -450]
+    anchors: [hezekiah-701, exile]
+    note: >-
+      The mountain of the LORD's house raised above the hills (4:1–3), shared almost
+      word for word with Isaiah 2:2–4. "You ... will come even to Babylon. There you
+      will be rescued" (4:10) is read by critical scholars as written in or after the
+      exile; conservatives read it as prediction (Isaiah 39:6 also foresees Babylon
+      under Hezekiah).
+  5:
+    date: "c. 701 BC (Micah) or exilic/post-exilic"
+    range: [-715, -450]
+    note: >-
+      A ruler from Bethlehem Ephrathah (5:2), quoted in Matthew 2:6. "When Assyria
+      invades our land" (5:5–6) suits the Assyrian crises of the late 8th
+      century; critical scholars who date chs. 4–5 later see "Assyria" here as a
+      traditional name for the enemy.
+    anchors: [hezekiah-701]
+  6:
+    date: "c. 735–701 BC, or under Manasseh"
+    range: [-735, -650]
+    note: >-
+      The LORD's lawsuit against Israel and "what does the LORD require of you, but
+      to act justly, to love mercy, and to walk humbly with your God?" (6:8). "The
+      statutes of Omri" and "all the works of Ahab's house" (6:16) point to the
+      north's influence on Judah. No datable event; some critics put 6:1–7:7 in the
+      reign of Manasseh.
+  7:
+    date: "c. 735–701 BC (Micah); 7:8–20 often dated after the exile"
+    range: [-735, -450]
+    anchors: [hezekiah-701, return]
+    note: >-
+      The lament "the godly man has perished out of the earth" (7:1–7), quoted by
+      Jesus (Matt 10:35–36), fits Micah's time. The closing liturgy (7:8–20), with
+      "A day to build your walls!" (7:11), is widely seen as written for the
+      community after the exile; conservatives keep it with Micah.

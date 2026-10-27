@@ -1,0 +1,75 @@
+book: Lamentations
+code: LAM
+order: 25
+slug: 25-lamentations
+kind: writing
+
+written:
+  date: "c. 587–540 BC (soon after Jerusalem fell)"
+  range: [-587, -520]
+  summary: >-
+    Five laments over the fall of Jerusalem to Nebuchadnezzar in 587/586 BC. Chapters
+    1–4 are alphabetic acrostics (chapter 3 a triple one); chapter 5 has 22 lines but no
+    acrostic. The vivid detail of the siege and famine points to writers who lived
+    through it, and nothing in the book hints at the return from exile (538 BC).
+    Tradition ascribes it to Jeremiah; most modern scholars think it is anonymous, possibly
+    by more than one poet, written in Judah within a generation of the destruction.
+  views:
+    - date: "c. 586 BC, by Jeremiah"
+      held_by: Jewish and Christian tradition (the Septuagint's preface; the Talmud); some conservative scholars
+      basis: >-
+        The Septuagint opens the book by saying that Jeremiah sat weeping after Israel was
+        taken captive and Jerusalem laid waste. The Talmud names Jeremiah as its author. 2
+        Chronicles 35:25 says Jeremiah composed laments (for Josiah), and Jeremiah's
+        own book shares the image of eyes running with tears (Jer 9:1; 14:17; Lam 1:16;
+        2:11). Jeremiah was in Jerusalem during the siege (Jer 37–39).
+      sources: ["bava-batra 14b–15a", dillard-longman]
+    - date: "c. 587–540 BC, anonymous poet(s) in Judah"
+      held_by: Most critical scholars (Hillers; Collins)
+      basis: >-
+        The Hebrew book carries no author's name and stands among the Writings, not with
+        Jeremiah. Some lines are hard to square with Jeremiah's views, such as the hope
+        placed in Zedekiah, "the anointed of the LORD" (4:20), and in help from an ally
+        (4:17), which Jeremiah opposed. Differences of style and outlook between the
+        poems suggest several writers. All of it is set after 587 and before any return.
+      sources: [hillers-lam, collins-intro]
+
+default:
+  date: "Soon after 587/586 BC"
+  range: [-587, -575]
+  anchors: [babylon-597-587, exile]
+
+chapters:
+  1:
+    note: >-
+      Jerusalem as a widow: "her young children have gone into captivity" (1:5), "the roads
+      to Zion mourn, because no one comes to the solemn assembly" (1:4). The temple has been
+      entered by the nations (1:10). The destruction is recent.
+  2:
+    note: >-
+      The most vivid eyewitness poem: the temple and walls thrown down (2:7–8), "her king
+      and her princes are among the nations" (2:9), famine in the siege so severe that
+      mothers ate their children (2:20). Many scholars think chapters 2 and 4 are the
+      oldest.
+  3:
+    date: "After 587/586 BC (perhaps somewhat later)"
+    range: [-587, -540]
+    note: >-
+      A triple acrostic in the voice of one sufferer ("I am the man who has seen
+      affliction", 3:1), moving to hope in God's mercies, "new every morning" (3:22–23).
+      It has no detail that fixes its date, and some scholars think it was written a
+      little later than the others.
+  4:
+    note: >-
+      The siege remembered: "we have watched for a nation that could not save" (4:17),
+      probably Egypt (Jer 37:5–8); "the anointed of the LORD was taken in their pits"
+      (4:20), King Zedekiah, captured near Jericho (2 Kgs 25:4–7). Edom, which joined in,
+      is warned (4:21–22). Written very soon after the city fell.
+  5:
+    date: "After 587/586 BC, some years into the exile"
+    range: [-587, -520]
+    note: >-
+      A communal prayer: "our inheritance has been turned over to strangers" (5:2), "the
+      mountain of Zion, which is desolate. The foxes walk on it" (5:18), and "why do you ... forsake us for so
+      long a time?" (5:20). The length of the desolation suggests some years have passed,
+      but still before the return.

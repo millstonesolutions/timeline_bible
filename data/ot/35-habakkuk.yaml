@@ -1,0 +1,65 @@
+book: Habakkuk
+code: HAB
+order: 35
+slug: 35-habakkuk
+kind: prophecy
+
+written:
+  date: "c. 609–598 BC (most scholars)"
+  range: [-630, -597]
+  summary: >-
+    Habakkuk has no superscription date, but God says "I am raising up the
+    Chaldeans" (1:6), the Neo-Babylonians who rose under Nabopolassar (626 BC) and
+    became Judah's masters after Nebuchadnezzar's victory at Carchemish (605 BC).
+    Most date the book to the reign of Jehoiakim (609–598 BC), when Judah's own
+    injustice (1:2–4) and the Chaldean threat came together.
+  views:
+    - date: "c. 609–598 BC (Jehoiakim)"
+      held_by: Most scholars, conservative and critical
+      basis: >-
+        The Chaldeans are a known, fearsome force (1:6–11) but have not yet
+        destroyed Jerusalem; the violence and perverted justice of 1:2–4 match
+        Jeremiah's charges against Jehoiakim (Jer 22:13–17).
+      sources: [roberts-nahum, dillard-longman, collins-intro]
+    - date: "c. 630–620 BC (under Josiah), before the Chaldeans' rise"
+      held_by: Some conservative scholars
+      basis: >-
+        "You will not believe though it is told you" (1:5) suggests the Chaldeans'
+        rise was still unexpected, so the prophecy came before Nabopolassar's
+        rebellion (626 BC).
+      sources: [dillard-longman]
+    - date: "4th century BC, reading 'Kittim' (Greeks) for 'Chaldeans'"
+      held_by: Duhm and a few older critics
+      basis: >-
+        An emendation that made the invaders Alexander's Greeks; now generally
+        rejected, since the text consistently reads "Chaldeans" (including the
+        Qumran commentary).
+      sources: [dead-sea-scrolls]
+
+default:
+  date: "c. 609–598 BC"
+  range: [-630, -597]
+  anchors: [babylon-597-587]
+
+chapters:
+  1:
+    note: >-
+      Habakkuk complains of violence and injustice in Judah (1:2–4). God answers,
+      "I am raising up the Chaldeans, that bitter and hasty nation" (1:6), so the
+      Babylonian empire is rising but Jerusalem has not yet fallen. Most date this
+      to Jehoiakim's reign, around Carchemish (605 BC); some earlier, under Josiah.
+    sources: [babylonian-chronicle, roberts-nahum]
+  2:
+    note: >-
+      The answer to be written "on tablets" (2:2) and "the righteous will live by
+      his faith" (2:4), quoted by Paul (Rom 1:17; Gal 3:11). Five woes on the
+      plundering oppressor (2:6–20), who has done "violence to Lebanon" (2:17).
+      The Qumran Habakkuk commentary (1QpHab) covers chapters 1–2 only.
+    sources: [dead-sea-scrolls]
+  3:
+    note: >-
+      "A prayer of Habakkuk, the prophet, set to victorious music" (3:1), with
+      "Selah" and a closing note "for the music director" (3:19): a psalm used in
+      worship. Undated in itself; because 1QpHab stops at chapter 2, some think it
+      once circulated separately, while most read it as the book's climax.
+    sources: [dead-sea-scrolls, roberts-nahum]

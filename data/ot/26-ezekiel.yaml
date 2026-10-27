@@ -1,0 +1,369 @@
+book: Ezekiel
+code: EZK
+order: 26
+slug: 26-ezekiel
+kind: prophecy
+
+written:
+  date: "c. 593–570 BC (Ezekiel), edited into the late 6th century BC"
+  range: [-593, -500]
+  summary: >-
+    Ezekiel, a priest deported with Jehoiachin in 597 BC, prophesied among the exiles
+    by the river Chebar in Babylonia. Thirteen oracles carry exact dates, counted from
+    Jehoiachin's exile, running from 593 BC (1:2) to 571 BC (29:17); they stand
+    almost in order. The book's first-person style and tight structure point to the
+    prophet himself; most scholars allow a school of disciples to have expanded and
+    arranged it by the end of the exile.
+  views:
+    - date: "c. 593–570 BC, by Ezekiel"
+      held_by: Conservative scholars and many others (Dillard & Longman)
+      basis: >-
+        Consistent first-person narration, a coherent plan (judgment on Judah 1–24,
+        on the nations 25–32, restoration 33–48), and a date sequence that ends with
+        the latest oracle (29:17, 571 BC) and the temple vision (40:1, 573 BC).
+      sources: [dillard-longman, zimmerli]
+    - date: "Ezekiel's oracles (593–571 BC) expanded by his school into the late 6th or early 5th century BC"
+      held_by: Most critical scholars (Zimmerli; Collins)
+      basis: >-
+        Zimmerli traced a core of Ezekiel's own words that was "continued" by later
+        writing (*Fortschreibung*) among his disciples: the Gog chapters (38–39) and
+        parts of the temple vision (40–48) are the likeliest additions. Earlier
+        radical views (Hölscher's few authentic poems; Torrey's 3rd-century
+        pseudepigraph) have found little support.
+      sources: [zimmerli, collins-intro]
+
+default:
+  date: "c. 593–571 BC"
+  range: [-593, -571]
+  anchors: [prophets-ezekiel-dates, exile]
+
+chapters:
+  1:
+    date: "31 July 593 BC"
+    range: [-593, -593]
+    anchors: [prophets-ezekiel-dates, exile]
+    note: >-
+      "In the thirtieth year, in the fourth month, in the fifth day" (1:1), glossed
+      as "the fifth year of King Jehoiachin's captivity" (1:2): 5/IV/5, 31 July 593
+      BC. The vision of the throne-chariot by the river Chebar. The "thirtieth year"
+      may be Ezekiel's age.
+    sources: [parker-dubberstein, zimmerli]
+  2: &call
+    date: "593 BC"
+    range: [-593, -593]
+    anchors: [prophets-ezekiel-dates]
+    note: >-
+      The commission continues the vision of ch. 1 (2:1–3:15): Ezekiel is sent to a
+      "rebellious house" and eats the scroll (2:8–3:3).
+  3:
+    <<: *call
+    note: >-
+      Ezekiel sits stunned among the exiles at Tel Abib for seven days (3:15); then
+      he is appointed watchman (3:16–21), in August 593 BC.
+  4: &signs
+    date: "593–592 BC"
+    range: [-593, -592]
+    anchors: [prophets-ezekiel-dates]
+    note: >-
+      Sign-acts of the siege of Jerusalem: the clay brick, lying 390 days on his left
+      side for Israel and 40 on his right for Judah (4:4–6), siege rations (4:9–17).
+      Between the call (July 593) and the next dated vision (September 592).
+  5:
+    <<: *signs
+    note: >-
+      The shaved hair divided in three, burned, struck and scattered (5:1–4), for
+      Jerusalem's coming fate. Same period as ch. 4.
+  6:
+    <<: *signs
+    note: >-
+      Against the mountains of Israel and their high places. Undated; between 593 and
+      592 BC by its place.
+  7:
+    <<: *signs
+    note: >-
+      "An end has come" (7:2): a poem on the day of the LORD for the land. Undated;
+      before the vision of 592 BC.
+  8: &temple
+    date: "17 September 592 BC"
+    range: [-592, -592]
+    anchors: [prophets-ezekiel-dates]
+    note: >-
+      "In the sixth year, in the sixth month, in the fifth day" (8:1): 6/VI/5, 17
+      September 592 BC. With the elders of Judah sitting before him, Ezekiel is taken
+      in vision to the Jerusalem temple and sees its abominations (chs. 8–11).
+    sources: [parker-dubberstein]
+  9:
+    <<: *temple
+    note: >-
+      Executioners strike the city, sparing those marked on the forehead (9:4–6).
+      Part of the vision dated 592 BC (8:1).
+  10:
+    <<: *temple
+    note: >-
+      The glory of the LORD leaves the temple threshold (10:18–19). Part of the
+      vision dated 592 BC.
+  11:
+    <<: *temple
+    note: >-
+      The glory leaves the city for the mountain on the east (11:23); the promise of
+      a new heart to the exiles (11:19). The vision ends (11:24–25).
+  12: &before591
+    date: "592–591 BC"
+    range: [-592, -591]
+    anchors: [prophets-ezekiel-dates]
+    note: >-
+      The exile's baggage dug out through the wall (12:1–16), foreshadowing
+      Zedekiah's flight by night (cf. 2 Kgs 25:4–7). Undated; between 8:1 (September
+      592) and 20:1 (August 591).
+  13:
+    <<: *before591
+    note: >-
+      Against the prophets who say "Peace" when there is no peace, whitewashing a
+      flimsy wall (13:10). Undated; 592–591 BC by position.
+  14:
+    <<: *before591
+    note: >-
+      Elders come to inquire (14:1); even Noah, Daniel and Job could save only
+      themselves (14:14). Undated; 592–591 BC by position.
+  15:
+    <<: *before591
+    note: >-
+      Jerusalem as the useless wood of the vine (15:1–8). Undated; 592–591 BC by
+      position.
+  16:
+    <<: *before591
+    note: >-
+      Jerusalem as the foundling who became an unfaithful wife (16:1–63). Undated;
+      592–591 BC by position. The promise of an everlasting covenant (16:60–63) may
+      come from after 587.
+  17:
+    date: "c. 592–588 BC"
+    range: [-592, -588]
+    anchors: [prophets-ezekiel-dates, prophets-judah-last-kings]
+    note: >-
+      The allegory of the two eagles and the vine (17:1–10) is explained: the king of
+      Babylon took Jehoiachin and made Zedekiah swear loyalty, but Zedekiah sent to
+      Egypt for horses and an army (17:12–15). That fits Zedekiah's turn to Egypt,
+      perhaps after Psammetichus II's show of force in 592/591 BC or in the revolt of
+      589–588.
+  18:
+    <<: *before591
+    note: >-
+      "The soul who sins, he shall die" (18:4): each generation answers for itself,
+      against the proverb of the sour grapes (18:2). Undated; 592–591 BC by
+      position.
+  19:
+    date: "c. 592–587 BC"
+    range: [-592, -587]
+    anchors: [prophets-ezekiel-dates, prophets-judah-last-kings]
+    note: >-
+      A lament for the princes of Israel: one lion taken to Egypt (Jehoahaz, 609 BC),
+      another taken to Babylon (Jehoiachin, 597; some say Zedekiah), and the uprooted
+      vine (19:10–14). If the last image is Zedekiah's fall, it is later than its
+      position.
+  20:
+    date: "14 August 591 BC"
+    range: [-591, -591]
+    anchors: [prophets-ezekiel-dates]
+    note: >-
+      "In the seventh year, in the fifth month, the tenth day" (20:1): 7/V/10, 14
+      August 591 BC. Elders come to inquire, and Ezekiel reviews Israel's rebellion
+      from Egypt onwards.
+    sources: [parker-dubberstein]
+  21:
+    date: "c. 589–588 BC"
+    range: [-591, -588]
+    anchors: [prophets-ezekiel-dates, babylon-597-587]
+    note: >-
+      The song of the sword (21:8–17). The king of Babylon stands at a fork in the
+      road, casting lots between Rabbah of Ammon and Jerusalem (21:19–23), as
+      Nebuchadnezzar marches west against the rebels of 589–588 BC.
+  22: &before588
+    date: "591–588 BC"
+    range: [-591, -588]
+    anchors: [prophets-ezekiel-dates]
+    note: >-
+      The "bloody city" (22:1–16) and the smelting furnace (22:17–22). Undated;
+      between 20:1 (August 591) and 24:1 (January 588).
+  23:
+    <<: *before588
+    note: >-
+      Oholah (Samaria) and Oholibah (Jerusalem), the two unfaithful sisters
+      (23:1–49). Undated; 591–588 BC by position.
+  24:
+    date: "15 January 588 BC"
+    range: [-588, -588]
+    anchors: [prophets-ezekiel-dates, prophets-judah-last-kings]
+    note: >-
+      "In the ninth year, in the tenth month, in the tenth day" (24:1): 9/X/10, 15
+      January 588 BC. "Write the name of the day ... the king of Babylon drew close to
+      Jerusalem this same day" (24:2), the date 2 Kings 25:1 and Jeremiah 52:4 give
+      for the start of the siege. The same evening Ezekiel's wife dies (24:18).
+    sources: [parker-dubberstein]
+  25:
+    date: "c. 587–585 BC"
+    range: [-587, -585]
+    anchors: [prophets-ezekiel-dates, babylon-597-587]
+    note: >-
+      Oracles against Ammon, Moab, Edom and Philistia for gloating "when it was made
+      desolate" (25:3) over the sanctuary and the land. So after the fall, though the
+      chapter is undated.
+  26: &tyre
+    date: "587/586 BC"
+    range: [-587, -586]
+    anchors: [prophets-ezekiel-dates, babylon-597-587]
+    note: >-
+      "In the eleventh year, in the first of the month" (26:1); the month has dropped
+      out. Tyre says "Aha, she is broken" of Jerusalem (26:2), so the city had
+      already fallen. Nebuchadnezzar will besiege Tyre (26:7); Josephus, quoting Tyrian
+      records, gives the siege thirteen years under King Ithobaal.
+    sources: ["josephus-apion 1.156", zimmerli]
+  27:
+    <<: *tyre
+    note: >-
+      A lament over Tyre as a great merchant ship (27:1–36), with a long list of its
+      trading partners (27:12–25). Undated; continues ch. 26.
+  28:
+    <<: *tyre
+    note: >-
+      Against the prince of Tyre, who says "I am a god" (28:1–10), the lament over
+      the king of Tyre in Eden (28:11–19) and a short oracle on Sidon (28:20–26).
+      Undated; continues ch. 26.
+  29:
+    date: "7 January 587 BC (29:17–21: 26 April 571 BC)"
+    range: [-587, -571]
+    anchors: [prophets-ezekiel-dates]
+    note: >-
+      "In the tenth year, in the tenth month, on the twelfth day" (29:1): 10/X/12, 7
+      January 587 BC, against Pharaoh, the great monster of the Nile. 29:17 is the
+      latest date in the book: "the twenty-seventh year, in the first month, in the
+      first day", 26 April 571 BC. Nebuchadnezzar got no wages from Tyre, so Egypt
+      will be his pay (29:18–20), which shows the siege of Tyre had ended without
+      plunder.
+    sources: [parker-dubberstein]
+  30:
+    date: "29 April 587 BC (30:20)"
+    range: [-587, -571]
+    anchors: [prophets-ezekiel-dates]
+    note: >-
+      30:1–19, "the day of the LORD" on Egypt, is undated and follows the oracle of
+      571. 30:20 is dated "in the eleventh year, in the first month, in the seventh
+      day": 11/I/7, 29 April 587 BC. "I have broken the arm of Pharaoh" (30:21) is
+      Hophra's failed attempt to relieve Jerusalem (Jer 37:5).
+    sources: [parker-dubberstein]
+  31:
+    date: "21 June 587 BC"
+    range: [-587, -587]
+    anchors: [prophets-ezekiel-dates]
+    note: >-
+      "In the eleventh year, in the third month, in the first day" (31:1): 11/III/1,
+      21 June 587 BC. Pharaoh compared to a great cedar, like Assyria, cut down.
+    sources: [parker-dubberstein]
+  32:
+    date: "March 585 BC"
+    range: [-586, -585]
+    anchors: [prophets-ezekiel-dates]
+    note: >-
+      "In the twelfth year, in the twelfth month, in the first day" (32:1): 12/XII/1,
+      3 March 585 BC, a lament for Pharaoh. The second oracle (32:17) gives the 12th
+      year and the 15th day without a month; probably the same month (March 585),
+      though the Greek reads "the first month" (April 586).
+    sources: [parker-dubberstein]
+  33:
+    date: "January 585 BC (or 586)"
+    range: [-586, -585]
+    anchors: [prophets-ezekiel-dates, babylon-597-587]
+    note: >-
+      The watchman's charge renewed (33:1–20). "In the twelfth year of our captivity,
+      in the tenth month, in the fifth day" (33:21), 8 January 585 BC, a fugitive
+      arrives: "The city has been defeated!" That is about five months after a fall in
+      July 586, or eighteen after July 587; some manuscripts read "eleventh year"
+      (January 586).
+    sources: [parker-dubberstein, zimmerli]
+  34: &restoration
+    date: "c. 585 BC or later"
+    range: [-585, -573]
+    anchors: [prophets-ezekiel-dates, exile]
+    note: >-
+      Against the shepherds of Israel; the LORD will shepherd his flock and set "my
+      servant David" over them (34:23–24). Undated; after the news of the fall
+      (33:21).
+  35:
+    <<: *restoration
+    note: >-
+      Against Mount Seir (Edom), for rejoicing over the desolation of Israel's
+      mountains (35:10–15). After the fall.
+  36:
+    <<: *restoration
+    note: >-
+      The mountains of Israel will be resettled; a new heart and a new spirit
+      (36:26). After the fall.
+  37:
+    <<: *restoration
+    note: >-
+      The valley of dry bones (37:1–14): the exiles say "Our bones are dried up, and
+      our hope is lost" (37:11). Judah and Joseph joined as one stick under one king
+      (37:15–28). After the fall.
+  38: &gog
+    date: "c. 585–573 BC (some date it later)"
+    range: [-585, -520]
+    anchors: [prophets-ezekiel-dates]
+    note: >-
+      Gog of the land of Magog attacks Israel restored and living securely "in the
+      latter years" (38:8), and is destroyed (chs. 38–39). It names no date. Many
+      critical scholars count these chapters among the later additions by Ezekiel's
+      school; others keep them with the prophet, between the restoration oracles and
+      the temple vision.
+  39: *gog
+  40: &vision
+    date: "28 April 573 BC"
+    range: [-574, -573]
+    anchors: [prophets-ezekiel-dates]
+    note: >-
+      "In the twenty-fifth year of our captivity, in the beginning of the year, in
+      the tenth day of the month, in the fourteenth year after the city was struck"
+      (40:1): 28 April 573 BC if the year began in Nisan, or October 574 BC if it
+      began in Tishri. Ezekiel is taken to a high mountain and shown the new temple
+      (chs. 40–48).
+    sources: [parker-dubberstein]
+  41:
+    <<: *vision
+    note: >-
+      The temple building measured: the nave, the most holy place and the side
+      rooms. Part of the vision dated 573 BC (40:1).
+  42:
+    <<: *vision
+    note: >-
+      The priests' chambers and the outer wall. Part of the vision dated 573 BC.
+  43:
+    <<: *vision
+    note: >-
+      The glory of the LORD returns from the east and fills the temple (43:1–5),
+      reversing ch. 10–11; the altar and its consecration. Part of the vision dated
+      573 BC.
+  44:
+    <<: *vision
+    note: >-
+      The east gate shut; Levites demoted and the sons of Zadok alone made priests
+      (44:10–16). Critical scholars see these rules among the layers added by
+      Ezekiel's school.
+  45:
+    <<: *vision
+    note: >-
+      The holy portion of land, the prince's portion, and just weights and offerings.
+      Part of the vision dated 573 BC.
+  46:
+    <<: *vision
+    note: >-
+      Rules for the prince's worship and the festivals. Part of the vision dated
+      573 BC.
+  47:
+    <<: *vision
+    note: >-
+      The river flowing from the temple to make the Dead Sea fresh (47:1–12); the
+      borders of the land (47:13–23). Part of the vision dated 573 BC.
+  48:
+    <<: *vision
+    note: >-
+      The land divided among the tribes; the city named "The LORD is there"
+      (48:35). Part of the vision dated 573 BC.

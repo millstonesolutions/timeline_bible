@@ -1,0 +1,189 @@
+book: Daniel
+code: DAN
+order: 27
+slug: 27-daniel
+kind: narrative
+
+written:
+  date: "c. 530 BC (tradition) or c. 167–164 BC (most scholars)"
+  range: [-536, -164]
+  summary: >-
+    Chapters 1–6 are stories of Daniel and his friends at the courts of Nebuchadnezzar,
+    Belshazzar, "Darius the Mede" and Cyrus (605–536 BC); chapters 7–12 are visions dated
+    to Belshazzar, Darius and Cyrus. The book is in two languages (Hebrew 1:1–2:4a and
+    8–12, Aramaic 2:4b–7:28). Tradition takes Daniel as its author in the 6th century BC.
+    Most critical scholars hold that the visions were written during Antiochus IV's
+    persecution, after the temple was desecrated (December 167 BC) and before his death
+    (late 164 BC), and that the stories are older court tales gathered then.
+  views:
+    - date: "6th century BC (c. 536–530 BC), by Daniel"
+      held_by: Jewish and Christian tradition; conservative scholars
+      basis: >-
+        The book presents itself as Daniel's first-person record (7:1–2; 8:1; 9:2; 10:2;
+        12:4). Jesus speaks of "Daniel the prophet" (Matt 24:15), and Josephus says the
+        book was shown to Alexander the Great (*Ant.* 11.337). Fragments of eight copies
+        were found at Qumran, the oldest from the late 2nd century BC, which conservative
+        scholars take as too soon after 164 for a new book to be accepted as scripture.
+        On this view the detailed history of chapters 8 and 11 is predictive prophecy, and
+        the stories' knowledge of Belshazzar (lost from later Greek historians) shows an
+        early source.
+      sources: [dillard-longman, josephus-ant 11.337, dead-sea-scrolls]
+    - date: "Visions c. 167–164 BC; stories from the Persian or early Greek period"
+      held_by: Most critical scholars (Collins); first argued by Porphyry (3rd century AD)
+      basis: >-
+        Chapter 11 follows the wars of the Ptolemies and Seleucids and the career of
+        Antiochus IV in close detail up to the persecution (11:21–39), then predicts his
+        death "between the sea and the glorious holy mountain" (11:45), which did not
+        happen: he died in Persia in late 164 BC. The visions don't know of the temple's
+        rededication (Kislev 164 BC). The stories have historical problems (no siege of
+        Jerusalem in 605, Belshazzar called Nebuchadnezzar's son and king, an unknown
+        "Darius the Mede") and Greek words for musical instruments (3:5). Ben Sira's list
+        of Israel's heroes (c. 180 BC) has no Daniel, and the Hebrew Bible places the book
+        among the Writings, not the Prophets.
+      sources: [collins-daniel, collins-intro, maccabees-1, sirach]
+
+default:
+  anchors: [babylon-597-587, antiochus]
+
+chapters:
+  1:
+    date: "605 BC (3rd year of Jehoiakim), to 539 BC"
+    range: [-605, -602]
+    note: >-
+      "In the third year of the reign of Jehoiakim ... Nebuchadnezzar ... came to Jerusalem"
+      (1:1): 605 BC, counting Jehoiakim's years from his first New Year (Jeremiah 25:1 calls
+      it his 4th year, counting the accession year). Nebuchadnezzar beat Egypt at
+      Carchemish that summer. Daniel's three years of training follow (1:5), and he
+      remained "to the first year of King Cyrus" (1:21, 539 BC). The Babylonian Chronicle
+      mentions no siege of Jerusalem in 605, which critical scholars see as an error
+      (perhaps from 2 Chr 36:6); conservative scholars take it as part of the western
+      campaign the Chronicle does describe.
+    sources: [babylonian-chronicle, grayson-abc]
+  2:
+    date: "c. 603 BC (2nd year of Nebuchadnezzar)"
+    range: [-604, -602]
+    note: >-
+      "In the second year of the reign of Nebuchadnezzar" (2:1): his years ran from Nisan
+      604 BC, so year 2 is 603/602. That seems to clash with three years of training
+      (1:5, 18); counting the accession year and part-years resolves it. The four kingdoms
+      of the statue (2:31–45) are Babylon, Media, Persia and Greece on the critical
+      reading, or Babylon, Medo-Persia, Greece and Rome on the traditional one.
+    sources: [parker-dubberstein]
+  3:
+    date: "Nebuchadnezzar's reign (603–562 BC); perhaps 587 BC"
+    range: [-603, -562]
+    note: >-
+      The golden image on the plain of Dura has no date in the Hebrew-Aramaic text. The
+      Old Greek version begins "in the 18th year", which would be 587 BC, the year
+      Jerusalem fell (Jer 52:29). The officials' titles are Persian and three of the
+      instruments have Greek names (3:5), part of the critical case for a later
+      composition.
+  4:
+    date: "Late in Nebuchadnezzar's reign (before 562 BC)"
+    range: [-580, -562]
+    note: >-
+      Nebuchadnezzar's letter about his seven "times" of madness (4:16, 25, 32) comes after
+      his building of "great Babylon" (4:30) and "at the end of twelve months" from the
+      dream (4:29). No Babylonian source mentions such an illness. The Qumran *Prayer of
+      Nabonidus* (4Q242) tells of Nabonidus struck with a disease for seven years at Teima,
+      and most critical scholars think the story was first told of him.
+    sources: [dead-sea-scrolls, collins-daniel]
+  5:
+    date: "October 539 BC (the night Babylon fell)"
+    range: [-539, -539]
+    anchors: [return, antiochus]
+    note: >-
+      Belshazzar's feast ends with "that night Belshazzar the Chaldean King was slain" and
+      Darius the Mede receiving the kingdom (5:30–31). Persian forces under Ugbaru entered
+      Babylon on 16 Tishri, 12 October 539 BC (Nabonidus Chronicle). Belshazzar was the son
+      of Nabonidus and ruled Babylon for him while he was at Teima; the text calls
+      Nebuchadnezzar his "father" (5:2, 11), meaning predecessor on the critical reading or
+      ancestor through his mother on some conservative ones. He is offered the "third"
+      place in the kingdom (5:16), after Nabonidus and Belshazzar.
+    sources: [grayson-abc, parker-dubberstein, cyrus-cylinder]
+  6:
+    date: "c. 539–537 BC (Darius the Mede)"
+    range: [-539, -537]
+    anchors: [return, antiochus]
+    note: >-
+      Daniel in the lions' den under Darius the Mede, "about sixty-two years old" (5:31).
+      No Darius ruled Babylon before Darius I (522 BC). Conservative scholars identify him
+      with the governor Gubaru/Ugbaru or with Cyrus himself (6:28 can be read "the reign of
+      Darius, that is, the reign of Cyrus"); critical scholars see a figure created by the
+      scheme of a Median kingdom between Babylon and Persia. 6:28 has Daniel prosper into
+      the reign of Cyrus.
+  7:
+    date: "c. 553 BC (1st year of Belshazzar), or written c. 167–164 BC"
+    range: [-553, -164]
+    label: Date of the vision
+    note: >-
+      "In the first year of Belshazzar king of Babylon" (7:1): Belshazzar began to rule
+      when Nabonidus left for Teima, c. 553–550 BC. The fourth beast's "little horn" that
+      speaks against the Most High and would "change the times and the law" for "a time
+      and times and half a time" (7:8, 25) is Antiochus IV on the critical reading, written
+      after his ban on Jewish practice (167 BC); traditional readings take the fourth
+      kingdom as Rome and the horn as a future ruler.
+  8:
+    date: "c. 551 BC (3rd year of Belshazzar), or written c. 167–164 BC"
+    range: [-551, -164]
+    label: Date of the vision
+    note: >-
+      "In the third year of the reign of King Belshazzar" (8:1), at Susa. The text itself
+      names the ram as Media and Persia and the goat as Greece, its great horn the first
+      king (Alexander) and its four horns his successors (8:20–22). The little horn stops
+      the daily sacrifice (8:11), and the sanctuary is restored after "two thousand and three
+      hundred evenings and mornings" (8:14), close to the three years from the desecration (Kislev 167 BC) to
+      the rededication (Kislev 164 BC). Both views take the horn as Antiochus IV; they
+      differ on whether this is prediction or recent history.
+    sources: [maccabees-1]
+  9:
+    date: "539/538 BC (1st year of Darius), or written c. 167–164 BC"
+    range: [-539, -164]
+    label: Date of the vision
+    note: >-
+      "In the first year of Darius the son of Ahasuerus, of the offspring of the Medes"
+      (9:1), Daniel reads Jeremiah's 70 years (Jer 25:11; 29:10) and is told "seventy
+      weeks are decreed" (9:24–27), weeks of years. Traditional readings count from a decree to rebuild
+      Jerusalem (538, 458 or 445 BC) to the Messiah; Hoehner reckons 444 BC to AD 33.
+      Critical scholars count from 587 BC to the crisis of 171–164 BC, with "the Anointed
+      One will be cut off" (9:26) as the murdered high priest Onias III (171 BC) and the
+      "abomination that makes desolate" (9:27) as the altar of 167 BC.
+    anchors: [exile, antiochus]
+    sources: [hoehner, collins-daniel]
+  10:
+    date: "536 BC (3rd year of Cyrus), or written c. 167–164 BC"
+    range: [-536, -164]
+    label: Date of the vision
+    note: >-
+      "In the third year of Cyrus king of Persia" (10:1), after three weeks of mourning, on
+      the 24th day of the first month by the Tigris (10:2–4). Counting from his first year
+      over Babylon (538/537), that is spring 536 BC. The latest date in the book. Daniel
+      did not join the return of 538.
+    anchors: [return, antiochus]
+    sources: [parker-dubberstein]
+  11:
+    date: "536 BC (3rd year of Cyrus), or written c. 165 BC"
+    range: [-536, -164]
+    label: Date of the vision
+    note: >-
+      The vision of chapter 10 continues. It runs from the Persian kings (11:2) and
+      Alexander (11:3–4) through the wars of the Ptolemies and Seleucids to Antiochus IV,
+      the "contemptible person" (11:21), his two Egyptian campaigns (169, 168 BC) and the
+      "abomination that makes desolate" (11:31; 1 Macc 1:54). The account fits history in
+      detail to about 165 BC, but his death "between the sea and the glorious holy
+      mountain" (11:45) does not. For critical scholars this dates the chapter; for
+      conservative scholars 11:36–45 looks beyond Antiochus to a final antichrist.
+    anchors: [antiochus]
+    sources: [maccabees-1, collins-daniel]
+  12:
+    date: "536 BC (3rd year of Cyrus), or written c. 164 BC"
+    range: [-536, -164]
+    label: Date of the vision
+    note: >-
+      The end of the vision: Michael arises, and "many of those who sleep in the dust of the
+      earth will awake" (12:1–2), the Bible's clearest statement of resurrection. The
+      figures of 1,290 days and 1,335 days (12:11–12) are read by many critical
+      scholars as successive updates of the expected end when the first passed; traditional
+      readings take them as prophetic periods still future. "Shut up the words and seal
+      the book, even to the time of the end" (12:4) presents the book as kept hidden until the end.
+    anchors: [antiochus]

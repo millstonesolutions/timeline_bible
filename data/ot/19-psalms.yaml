@@ -1,0 +1,959 @@
+book: Psalms
+code: PSA
+order: 19
+slug: 19-psalms
+kind: writing
+
+written:
+  date: "c. 1000–300 BC (collected by the 2nd century BC)"
+  range: [-1000, -200]
+  summary: >-
+    The Psalter is an anthology written over many centuries and arranged in five books
+    (1–41, 42–72, 73–89, 90–106, 107–150), each closed by a doxology. Its headings name
+    David (73 psalms), Asaph (12), the sons of Korah (11), Solomon (2), Moses, Heman and
+    Ethan (1 each), and some give an occasion in David's life. Contents range from royal
+    psalms of the monarchy to laments over the destroyed temple (74, 79, 137) and songs of
+    the return (126). The Dead Sea Scrolls show the first books fixed by the 2nd century BC
+    and the order of the last two still fluid in the 1st.
+  views:
+    - date: "c. 1000 BC onward; the headings are reliable"
+      held_by: Jewish and Christian tradition; many conservative scholars
+      basis: >-
+        The headings are old (the Septuagint translators had them in the 2nd century BC,
+        though some of their terms were already obscure) and are taken as authorship
+        notes. David was a musician and organizer of the temple singers (1 Sam 16:18;
+        1 Chr 15–16, 25), and the New Testament cites psalms as David's (Mark 12:36;
+        Acts 2:25–34; 4:25). The collection grew from David's time to the return from
+        exile.
+      sources: [dillard-longman, "bava-batra 14b–15a"]
+    - date: "Monarchy to Persian period (c. 950–300 BC), collected c. 400–150 BC"
+      held_by: Most critical scholars (Kraus; Collins)
+      basis: >-
+        Many psalms were written for worship in the Jerusalem temple under the kings
+        (royal psalms such as 2, 45, 72, 110 need a reigning king); others are exilic or
+        later. The headings were added by editors: le-David can mean "for" or "about
+        David", and the historical notes link psalms to episodes in 1–2 Samuel as early
+        interpretation (Childs). Books IV–V are generally the latest part of the
+        collection.
+      sources: [kraus-psalms, collins-intro, childs, dead-sea-scrolls]
+
+default:
+  date: "Undated (between c. 1000 and 300 BC)"
+  range: [-1000, -300]
+  anchors: [psalter]
+
+chapters:
+  1:
+    note: >-
+      No heading. A wisdom psalm on delighting in "the LORD's law" (1:2), placed as the
+      introduction to the whole Psalter; many scholars think it was set here by the final
+      editors after the exile.
+  2:
+    date: "Monarchy (c. 1010–587 BC)"
+    range: [-1010, -587]
+    anchors: [david, psalter]
+    note: >-
+      No heading, but a coronation psalm for a king in Zion (2:6–7), so it needs the monarchy.
+      Acts 4:25 credits it to David; Acts 13:33 calls it "the second psalm".
+  3:
+    date: "c. 980 BC by the heading (Absalom's revolt), or later"
+    range: [-1000, -400]
+    anchors: [david, psalter]
+    note: >-
+      Heading: "when he fled from Absalom his son" (2 Sam 15–18). Absalom's revolt came late in
+      David's reign. Like all the headings, this is a traditional attribution, probably added by
+      editors; many scholars date the psalm itself later.
+  4:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  5:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      "I will bow toward your holy temple" (5:7) is read by some as a sign of a date after
+      Solomon; but the tabernacle at Shiloh is also called a "temple" (1 Sam 1:9).
+  6:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      The first of the seven traditional penitential psalms (6, 32, 38, 51, 102, 130, 143).
+  7:
+    date: "c. 1020–1010 BC by the heading (Saul's persecution?), or later"
+    range: [-1020, -400]
+    anchors: [saul, david, psalter]
+    note: >-
+      Heading: "concerning the words of Cush, the Benjamite", a man otherwise unknown. Since
+      Saul was a Benjamite, it is usually set in the years David fled from Saul.
+  8:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  9:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      Psalms 9 and 10 form one broken alphabetic acrostic and are a single psalm in the
+      Septuagint.
+  10:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      No heading of its own: it continues the acrostic of Psalm 9, so it takes Psalm 9's heading
+      (the Septuagint joins them).
+  11:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  12:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  13:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  14:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      Psalm 53 is nearly the same psalm with "God" (Elohim) for "the LORD", as in the Elohistic
+      collection (Pss 42–83). "When the LORD restores the fortunes of his people" (14:7) is read
+      by some as an exilic addition.
+  15:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  16:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  17:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  18:
+    date: "c. 1000–970 BC by the heading (late in David's reign), or later in the monarchy"
+    range: [-1000, -587]
+    anchors: [david, psalter]
+    note: >-
+      Heading: "in the day that the LORD delivered him from the hand of all his enemies, and
+      from the hand of Saul". The same song appears in 2 Samuel 22, near the end of David's
+      story. A royal thanksgiving: "to David and to his offspring, forever more" (18:50).
+  19:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  20:
+    date: "Monarchy (c. 1010–587 BC)"
+    range: [-1010, -587]
+    anchors: [david, psalter]
+    note: >-
+      Heading "by David". A prayer for the king before battle (20:6, 9), so a royal psalm of the
+      monarchy whoever wrote it.
+  21:
+    date: "Monarchy (c. 1010–587 BC)"
+    range: [-1010, -587]
+    anchors: [david, psalter]
+    note: >-
+      Heading "by David". Thanksgiving for the king's victory and crown (21:1–3).
+  22:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      The lament Jesus quotes on the cross (22:1; Mark 15:34). Its date can't be fixed beyond
+      the heading.
+  23:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  24:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      "Lift up your heads, you gates" (24:7–10) is often linked with a procession of the ark
+      into Jerusalem, as in David's bringing of the ark (2 Sam 6, c. 1000 BC).
+  25:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      An alphabetic acrostic.
+  26:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  27:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  28:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  29:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  30:
+    date: "c. 1000–970 BC by the heading, or later"
+    range: [-1000, -400]
+    anchors: [david, psalter]
+    note: >-
+      Heading: "A Song for the Dedication of the Temple (house)". The "house" may be David's
+      palace (2 Sam 5:11) or the temple he prepared for (1 Chr 22). In later Jewish use it is
+      sung at Hanukkah, the rededication of 164 BC.
+  31:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  32:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      Romans 4:6–8 quotes 32:1–2 as David's words.
+  33:
+    note: >-
+      No heading in the Hebrew text; a hymn of praise with no datable allusion.
+  34:
+    date: "c. 1015 BC by the heading (David at Gath), or later"
+    range: [-1020, -400]
+    anchors: [saul, david, psalter]
+    note: >-
+      Heading: "when he pretended to be insane before Abimelech". 1 Samuel 21:10–15 names the
+      king of Gath Achish; "Abimelech" may be a royal title or a slip in the tradition. An
+      alphabetic acrostic.
+  35:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  36:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  37:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      An alphabetic acrostic in wisdom style.
+  38:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  39:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      "For Jeduthun", one of David's chief musicians (1 Chr 16:41; 25:1).
+  40:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      40:13–17 recurs as Psalm 70. Hebrews 10:5–7 quotes 40:6–8.
+  41:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      41:13 is the doxology that closes Book I (Pss 1–41), mostly psalms headed "of David".
+  42:
+    date: "Monarchy or later (the Korahite temple singers)"
+    range: [-970, -400]
+    anchors: [psalter]
+    note: >-
+      Psalms 42–43 are one poem with a shared refrain (42:5, 11; 43:5). The singer is far from
+      the temple, "from the land of the Jordan, the heights of Hermon" (42:6); this may be exile
+      in the north or simply distance, so the date is open. The sons of Korah were Levite
+      singers (1 Chr 6:31–37; 2 Chr 20:19).
+  43:
+    date: "Monarchy or later (the Korahite temple singers)"
+    range: [-970, -400]
+    anchors: [psalter]
+    note: >-
+      No heading: it completes Psalm 42 (same refrain, 43:5).
+  44:
+    date: "Monarchy or later (the Korahite temple singers)"
+    range: [-970, -400]
+    anchors: [psalter]
+    note: >-
+      A national lament after a defeat: "you have rejected us" (44:9), though the people have
+      not been unfaithful (44:17). Proposed settings range from the monarchy to the exile; some
+      older critics argued for the Maccabean period, which the Psalter's early completion makes
+      unlikely.
+  45:
+    date: "Monarchy (c. 970–587 BC)"
+    range: [-970, -587]
+    anchors: [solomon, psalter]
+    note: >-
+      A royal wedding song: the king marries a foreign princess, with gifts from "the daughter
+      of Tyre" (45:12). Solomon and Ahab (who married Jezebel of Tyre) have both been suggested.
+      Hebrews 1:8–9 reads 45:6–7 of Christ.
+  46:
+    date: "Monarchy or later; often linked with 701 BC"
+    range: [-970, -400]
+    anchors: [hezekiah-701, psalter]
+    note: >-
+      "God is within her. She shall not be moved" (46:5). Zion's deliverance from the nations is
+      often linked with Sennacherib's withdrawal from Jerusalem in 701 BC (2 Kgs 19:35–36), but
+      nothing in the psalm names it.
+  47:
+    date: "Monarchy or later (the Korahite temple singers)"
+    range: [-970, -400]
+    anchors: [psalter]
+    note: >-
+      "God has gone up with a shout" (47:5): an enthronement psalm (see Pss 93, 95–99), often
+      linked with a festival procession in the temple.
+  48:
+    date: "Monarchy or later; often linked with 701 BC"
+    range: [-970, -400]
+    anchors: [hezekiah-701, psalter]
+    note: >-
+      Kings assembled against Zion, saw it and fled (48:4–6); like Psalm 46 it is often linked
+      with 701 BC, without being named.
+  49:
+    date: "Monarchy or later (the Korahite temple singers)"
+    range: [-970, -400]
+    anchors: [psalter]
+    note: >-
+      A wisdom psalm on wealth and death, with no datable allusion.
+  50:
+    date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
+    range: [-1000, -400]
+    anchors: [david, psalter]
+    note: >-
+      Asaph was one of David's chief musicians (1 Chr 15:17; 16:5); the "sons of Asaph" were a
+      guild of temple singers still active after the exile (Ezra 2:41). An "of Asaph" heading
+      may mean either. This is the only Asaph psalm outside Book III (73–83).
+  51:
+    date: "c. 990 BC by the heading (after Bathsheba), or later"
+    range: [-1000, -400]
+    anchors: [david, psalter]
+    note: >-
+      Heading: "when Nathan the prophet came to him, after he had gone in to Bathsheba" (2 Sam
+      11–12), before Solomon's birth. The closing prayer "build the walls of Jerusalem"
+      (51:18–19) is widely read as an addition from the exile.
+  52:
+    date: "c. 1015 BC by the heading (Doeg), or later"
+    range: [-1020, -400]
+    anchors: [saul, david, psalter]
+    note: >-
+      Heading: "when Doeg the Edomite came and told Saul" (1 Sam 22:9–10), after David had been
+      helped by Ahimelech the priest at Nob.
+  53:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      A second version of Psalm 14, using "God" for "the LORD".
+  54:
+    date: "c. 1015–1010 BC by the heading (the Ziphites), or later"
+    range: [-1020, -400]
+    anchors: [saul, david, psalter]
+    note: >-
+      Heading: "when the Ziphites came and said to Saul, 'Isn't David hiding himself among us?'"
+      (1 Sam 23:19; 26:1).
+  55:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      The betrayal by a close friend (55:12–14) was linked by later tradition with Ahithophel in
+      Absalom's revolt (2 Sam 15:12, 31); the heading does not say so.
+  56:
+    date: "c. 1015 BC by the heading (David at Gath), or later"
+    range: [-1020, -400]
+    anchors: [saul, david, psalter]
+    note: >-
+      Heading: "when the Philistines seized him in Gath" (1 Sam 21:10–15; cf. Ps 34).
+  57:
+    date: "c. 1015–1010 BC by the heading (in the cave), or later"
+    range: [-1020, -400]
+    anchors: [saul, david, psalter]
+    note: >-
+      Heading: "when he fled from Saul, in the cave": Adullam (1 Sam 22:1) or En Gedi (1 Sam
+      24:3). 57:7–11 recurs in Psalm 108.
+  58:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  59:
+    date: "c. 1020 BC by the heading (start of David's flight), or later"
+    range: [-1020, -400]
+    anchors: [saul, david, psalter]
+    note: >-
+      Heading: "when Saul sent, and they watched the house to kill him" (1 Sam 19:11), the night
+      Michal let David escape.
+  60:
+    date: "c. 1000–990 BC by the heading (wars with Aram and Edom), or later"
+    range: [-1000, -400]
+    anchors: [david, psalter]
+    note: >-
+      Heading: "when he fought with Aram Naharaim and with Aram Zobah, and Joab returned, and
+      killed twelve thousand of Edom in the Valley of Salt" (2 Sam 8:3–14; 1 Chr 18:12). 60:5–12
+      recurs in Psalm 108.
+  61:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      "You will prolong the king's life" (61:6): a prayer for the king.
+  62:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      "To Jeduthun" (see Ps 39).
+  63:
+    date: "c. 1015 BC or c. 980 BC by the heading (desert of Judah), or later"
+    range: [-1020, -400]
+    anchors: [saul, david, psalter]
+    note: >-
+      Heading: "when he was in the desert of Judah". That fits his flight from Saul (1 Sam
+      23–24) or from Absalom (2 Sam 15:23, 28); "the king shall rejoice in God" (63:11) favours
+      the later flight, when David was king.
+  64:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  65:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  66:
+    note: >-
+      Heading without an author ("A song. A Psalm"). Thanksgiving for a national deliverance
+      (66:10–12) and an individual's vows (66:13–20); no datable allusion.
+  67:
+    note: >-
+      Heading without an author. A harvest blessing: "the earth has yielded its increase"
+      (67:6).
+  68:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      A victory hymn with a procession of God "into the sanctuary" (68:24–25), often linked with
+      the ark. Its Hebrew is among the most difficult in the Psalter, and some scholars think
+      parts of it are very old.
+  69:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      "God will save Zion, and build the cities of Judah" (69:35) is read by many as pointing to
+      the exile or after. John 2:17 and Romans 15:3 quote it.
+  70:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      A second version of 40:13–17.
+  71:
+    note: >-
+      No heading; it continues the prayer of Psalm 70 and speaks of old age (71:9, 18). Within
+      Book II it closes the collection ended by 72:20.
+  72:
+    date: "c. 970–931 BC by the heading (Solomon), or later in the monarchy"
+    range: [-970, -587]
+    anchors: [solomon, psalter]
+    note: >-
+      Heading: "By Solomon" (or "for Solomon"): a prayer for the king's justice and wide rule
+      (72:8–11). "The prayers of David, the son of Jesse, are ended" (72:20) marks the end of an
+      older Davidic collection, though more "of David" psalms follow in Books III–V.
+  73:
+    date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
+    range: [-1000, -400]
+    anchors: [david, psalter]
+    note: >-
+      Book III opens with eleven Asaph psalms (73–83). A wisdom psalm on the prosperity of the
+      wicked.
+  74:
+    date: "After 587/586 BC (the temple destroyed)"
+    range: [-587, -500]
+    anchors: [babylon-597-587, exile, psalter]
+    note: >-
+      "They have burned your sanctuary to the ground" (74:7), "all the places in the land where
+      God was worshiped" (74:8), "there is no longer any prophet" (74:9). Most scholars date it
+      after the Babylonian destruction; some older critics argued for the Maccabean period.
+  75:
+    date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
+    range: [-1000, -400]
+    anchors: [david, psalter]
+  76:
+    date: "Possibly 701 BC (Sennacherib's withdrawal), or later"
+    range: [-1000, -400]
+    anchors: [hezekiah-701, psalter]
+    note: >-
+      "His tabernacle is also in Salem, his dwelling place in Zion. There he broke the flaming
+      arrows of the bow" (76:2–3). The Septuagint heading adds "concerning the Assyrian",
+      linking it with Sennacherib's retreat in 701 BC.
+  77:
+    date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
+    range: [-1000, -400]
+    anchors: [david, psalter]
+    note: >-
+      "To Jeduthun". Recalls the exodus (77:16–20); no datable allusion.
+  78:
+    date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
+    range: [-1000, -400]
+    anchors: [david, psalter]
+    note: >-
+      A history from the exodus to God's rejection of Ephraim and Shiloh and his choice of
+      Judah, Zion and David (78:60, 67–72). It ends with David, so it is pre-exilic, perhaps
+      after the fall of the northern kingdom.
+  79:
+    date: "After 587/586 BC (Jerusalem in ruins)"
+    range: [-587, -500]
+    anchors: [babylon-597-587, exile, psalter]
+    note: >-
+      "They have defiled your holy temple; they have laid Jerusalem in heaps" (79:1). 79:6–7
+      recurs in Jeremiah 10:25. Most date it after the Babylonian destruction; 1 Maccabees 7:17
+      quotes 79:2–3 of the Maccabean martyrs, which some older critics took as its origin.
+  80:
+    date: "c. 735–722 BC (the northern kingdom's last years), or later"
+    range: [-735, -587]
+    anchors: [eighth-century, samaria-fall, psalter]
+    note: >-
+      A plea: "Before Ephraim, Benjamin, and Manasseh, stir up your might!" (80:2): the vine
+      brought out of Egypt is ravaged (80:8–13). Many link it with Assyria's conquest of the
+      northern kingdom.
+  81:
+    date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
+    range: [-1000, -400]
+    anchors: [david, psalter]
+    note: >-
+      A festival psalm: "Blow the trumpet at the New Moon, at the full moon, on our feast day"
+      (81:3), probably Tabernacles.
+  82:
+    date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
+    range: [-1000, -400]
+    anchors: [david, psalter]
+    note: >-
+      God judges the "gods" in his council (82:1, 6); no datable allusion. John 10:34 quotes
+      82:6.
+  83:
+    date: "c. 850–612 BC (an Assyrian-period coalition), or later"
+    range: [-860, -587]
+    anchors: [ahab-qarqar, eighth-century, psalter]
+    note: >-
+      A league of Edom, Moab, Ammon, Philistia, Tyre and others, "Assyria also is joined with
+      them" (83:6–8), so before Assyria fell (612 BC). Some link it with the invasion under
+      Jehoshaphat, when a Levite "of the sons of Asaph" prophesied (2 Chr 20:1, 14).
+  84:
+    date: "Monarchy or later (the Korahite temple singers)"
+    range: [-970, -400]
+    anchors: [psalter]
+    note: >-
+      A pilgrim's longing for the temple courts (84:1–2, 10) and a prayer for "your anointed"
+      (84:9), the king, which suggests the monarchy.
+  85:
+    date: "After the return from exile (c. 538–450 BC)"
+    range: [-538, -400]
+    anchors: [return, psalter]
+    note: >-
+      "You have restored the fortunes of Jacob" (85:1), yet the people still pray "restore us"
+      (85:4): most date it to the hard years after the first return.
+  86:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      The only psalm headed "of David" in Book III; largely made up of phrases found in other
+      psalms.
+  87:
+    date: "Monarchy or later (the Korahite temple singers)"
+    range: [-970, -400]
+    anchors: [psalter]
+    note: >-
+      Zion as mother city of the nations, naming "Rahab" (Egypt) and Babylon (87:4). Many date
+      it after the exile, when Jews lived in those lands.
+  88:
+    date: "c. 970 BC by the heading (Heman), or later"
+    range: [-970, -400]
+    anchors: [psalter]
+    note: >-
+      Headed both "by the sons of Korah" and "by Heman the Ezrahite", a wise man of Solomon's
+      time (1 Kgs 4:31) or David's singer Heman (1 Chr 15:17). The darkest lament in the
+      Psalter, with no datable allusion.
+  89:
+    date: "After 597/587 BC by its content (the fall of David's line)"
+    range: [-597, -540]
+    anchors: [babylon-597-587, exile, psalter]
+    note: >-
+      Headed "by Ethan, the Ezrahite" (1 Kgs 4:31). It recalls the covenant with David (89:3–4,
+      19–37) and then mourns that God has "defiled his crown in the dust" (89:38–45), most
+      likely the exile of Jehoiachin (597) or the end of the kingdom (587/586). Some suggest an
+      earlier royal defeat. 89:52 closes Book III.
+  90:
+    date: "c. 1446–1406 or 1260–1220 BC by the heading (Moses), or after the exile"
+    a: "c. 1446–1406 BC (the wilderness years)"
+    b: "c. 1260–1220 BC (the wilderness years)"
+    range: [-1446, -400]
+    anchors: [wilderness, exodus, psalter]
+    note: >-
+      Heading: "A Prayer by Moses, the man of God" (cf. Deut 33:1), the only psalm ascribed to
+      him. It opens Book IV. Conservative scholars accept the heading; most critical scholars
+      date the psalm, like Book IV as a whole, to the exile or after, with Moses as its honoured
+      voice.
+  91:
+    note: >-
+      No heading; it follows Psalm 90 and is sometimes read with it. Quoted by the devil in the
+      temptation (91:11–12; Matt 4:6).
+  92:
+    note: >-
+      "A song for the Sabbath day", so a liturgical psalm of the temple; no datable allusion.
+  93:
+    date: "Undated (pre-exilic temple worship or later)"
+    range: [-970, -300]
+    anchors: [psalter]
+    note: >-
+      "The LORD reigns" (93:1). Psalms 93 and 95–99 celebrate God's kingship. Mowinckel linked
+      them with an autumn festival of enthronement in the pre-exilic temple; others read them as
+      exilic or later, close to Isaiah 40–55.
+  94:
+    note: >-
+      No heading; a prayer for vengeance on oppressors within Israel. No datable allusion.
+  95:
+    date: "Undated (pre-exilic temple worship or later)"
+    range: [-970, -300]
+    anchors: [psalter]
+    note: >-
+      No heading in Hebrew; Hebrews 4:7 quotes it as spoken "in David" (cf. the Septuagint
+      heading). Recalls Meribah and Massah (95:8; Exod 17:7).
+  96:
+    date: "c. 1000 BC (the Chronicler's setting), or later"
+    range: [-1000, -300]
+    anchors: [psalter]
+    note: >-
+      1 Chronicles 16:23–33 sets most of this psalm in the song sung when David brought the ark
+      to Jerusalem; critical scholars see the Chronicler borrowing an existing psalm.
+  97:
+    date: "Undated (pre-exilic temple worship or later)"
+    range: [-970, -300]
+    anchors: [psalter]
+    note: >-
+      "The LORD reigns! Let the earth rejoice" (97:1). An enthronement psalm (see Ps 93).
+  98:
+    date: "Undated (pre-exilic temple worship or later)"
+    range: [-970, -300]
+    anchors: [psalter]
+    note: >-
+      "A Psalm", without author. Shares much with Psalm 96 and Isaiah 40–55 (98:3; Isa 52:10).
+  99:
+    date: "Undated (pre-exilic temple worship or later)"
+    range: [-970, -300]
+    anchors: [psalter]
+    note: >-
+      "The LORD reigns" (99:1); names Moses, Aaron and Samuel (99:6).
+  100:
+    note: >-
+      "A Psalm of thanksgiving", for the procession into the temple courts (100:4).
+  101:
+    date: "Monarchy (c. 1010–587 BC)"
+    range: [-1010, -587]
+    anchors: [david, psalter]
+    note: >-
+      Heading "by David". A king's vow to rule justly (101:2–8).
+  102:
+    date: "During or soon after the exile (c. 586–520 BC)"
+    range: [-587, -520]
+    anchors: [babylon-597-587, exile, psalter]
+    note: >-
+      Heading: "A Prayer of the afflicted". It looks for God to "have mercy on Zion" and build
+      it up again (102:13–16) and to free those "condemned to death" (102:20): most date it to
+      the exile.
+  103:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  104:
+    note: >-
+      No heading. A creation hymn with close parallels to the Egyptian Hymn to the Aten (14th
+      century BC), especially 104:20–30; that shows shared imagery, not a date.
+    sources: [anet]
+  105:
+    date: "c. 1000 BC (the Chronicler's setting), or later"
+    range: [-1000, -300]
+    anchors: [psalter]
+    note: >-
+      No heading. 105:1–15 appears in the song of 1 Chronicles 16:8–22, set at the ark's arrival
+      in Jerusalem under David. A recital of history from Abraham to the conquest.
+  106:
+    date: "During or after the exile (c. 586–400 BC)"
+    range: [-587, -400]
+    anchors: [exile, return, psalter]
+    note: >-
+      "Save us, LORD, our God, gather us from among the nations" (106:47) points to a people in
+      dispersion. 1 Chronicles 16:34–36 quotes 106:1, 47–48. 106:48 closes Book IV.
+  107:
+    date: "After the exile (c. 538–200 BC)"
+    range: [-538, -200]
+    anchors: [return, psalter]
+    note: >-
+      "Let the redeemed by the LORD say so, whom he has redeemed from the hand of the adversary,
+      and gathered out of the lands" (107:2–3): the return from exile. It opens Book V.
+  108:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      Made of 57:7–11 and 60:5–12, two psalms headed "of David".
+  109:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      Acts 1:20 applies 109:8 to Judas.
+  110:
+    date: "Monarchy (c. 1010–587 BC)"
+    range: [-1010, -587]
+    anchors: [david, psalter]
+    note: >-
+      Heading "by David". The king is set at God's right hand and made "a priest forever in the
+      order of Melchizedek" (110:4), probably a Jerusalem coronation oracle. Jesus cites it as
+      David's (Mark 12:36); a few critics argued for the Maccabean priest-kings.
+  111:
+    note: >-
+      No author; an alphabetic acrostic, paired with Psalm 112.
+  112:
+    note: >-
+      No author; an alphabetic acrostic on the righteous man, matching Psalm 111.
+  113:
+    note: >-
+      Psalms 113–118 are the "Egyptian Hallel", sung at Passover and the pilgrim feasts in later
+      Jewish practice (cf. Mark 14:26). No datable allusion.
+  114:
+    note: >-
+      "When Israel went out of Egypt" (114:1): a hymn on the exodus and the Jordan crossing;
+      undatable.
+  115:
+    note: >-
+      Mocks idols (115:4–8) and calls on Israel, the house of Aaron and "you who fear the LORD"
+      (115:9–13), a pattern many link with second-temple worship.
+  116:
+    note: >-
+      Thanksgiving with vows paid "in the courts of the LORD's house" (116:18–19).
+  117:
+    note: >-
+      The shortest psalm; Romans 15:11 quotes it.
+  118:
+    note: >-
+      A festal procession to the temple gates (118:19–27), the last of the Hallel; quoted of
+      Jesus' entry into Jerusalem (118:26; Mark 11:9).
+  119:
+    date: "After the exile (c. 538–200 BC)"
+    range: [-538, -200]
+    anchors: [ezra-nehemiah, psalter]
+    note: >-
+      An eightfold alphabetic acrostic (176 verses) on God's law. Its devotion to written torah
+      leads most scholars to date it after the exile, in the period of Ezra or later.
+  120:
+    date: "c. 538–400 BC (most scholars), possibly earlier"
+    range: [-700, -400]
+    anchors: [return, psalter]
+    note: >-
+      Psalms 120–134 are "Songs of Ascents", most likely sung by pilgrims going up to Jerusalem
+      for the feasts. Most scholars date the collection after the exile; some psalms in it may
+      be older. "I live in Meshech, in the tents of Kedar" (120:5) speaks of living among
+      foreigners.
+  121:
+    date: "c. 538–400 BC (most scholars), possibly earlier"
+    range: [-700, -400]
+    anchors: [return, psalter]
+  122:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      A Song of Ascents headed "By David". It speaks of "the house of the LORD" and "the thrones
+      of David's house" (122:1, 5); the temple was built only under Solomon, which is why many
+      date it later.
+  123:
+    date: "c. 538–400 BC (most scholars), possibly earlier"
+    range: [-700, -400]
+    anchors: [return, psalter]
+  124:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      A Song of Ascents headed "By David"; thanksgiving for national deliverance.
+  125:
+    date: "c. 538–400 BC (most scholars), possibly earlier"
+    range: [-700, -400]
+    anchors: [return, psalter]
+    note: >-
+      "The scepter of wickedness won't remain over the allotment of the righteous" (125:3)
+      suggests foreign rule, as after the exile.
+  126:
+    date: "After the return from exile (c. 538–450 BC)"
+    range: [-538, -450]
+    anchors: [return, psalter]
+    note: >-
+      "When the LORD brought back those who returned to Zion, we were like those who dream"
+      (126:1), then "restore our fortunes again" (126:4): the joy of the return and the
+      hardships that followed.
+  127:
+    date: "c. 970–931 BC by the heading (Solomon), or after the exile"
+    range: [-970, -400]
+    anchors: [solomon, psalter]
+    note: >-
+      A Song of Ascents headed "By Solomon", probably because of "Unless the LORD builds the
+      house" (127:1), read of the temple. A wisdom psalm; many date it after the exile.
+  128:
+    date: "c. 538–400 BC (most scholars), possibly earlier"
+    range: [-700, -400]
+    anchors: [return, psalter]
+  129:
+    date: "c. 538–400 BC (most scholars), possibly earlier"
+    range: [-700, -400]
+    anchors: [return, psalter]
+    note: >-
+      "Many times they have afflicted me from my youth up" (129:1): Israel's history of
+      oppression.
+  130:
+    date: "c. 538–400 BC (most scholars), possibly earlier"
+    range: [-700, -400]
+    anchors: [return, psalter]
+    note: >-
+      "Out of the depths" (130:1), one of the penitential psalms; Israel waits for redemption
+      (130:7–8).
+  131:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      A Song of Ascents headed "By David".
+  132:
+    date: "Monarchy (c. 970–587 BC)"
+    range: [-970, -587]
+    anchors: [solomon, psalter]
+    note: >-
+      A Song of Ascents recalling David's vow to find a place for the ark (132:1–5) and God's
+      oath to his line (132:11–12). Solomon's prayer at the temple dedication ends with 132:8–10
+      in 2 Chronicles 6:41–42.
+  133:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      A Song of Ascents headed "By David".
+  134:
+    date: "c. 538–400 BC (most scholars), possibly earlier"
+    range: [-700, -400]
+    anchors: [return, psalter]
+    note: >-
+      The last Song of Ascents: a blessing for those who serve "by night in the LORD's house"
+      (134:1).
+  135:
+    date: "After the exile (c. 538–200 BC)"
+    range: [-538, -200]
+    anchors: [return, psalter]
+    note: >-
+      No heading. Built largely from other psalms and the Law (135:15–20 repeats 115:4–11),
+      which suggests a late date.
+  136:
+    note: >-
+      No heading. The refrain "for his loving kindness endures forever" is the temple song of
+      Chronicles and Ezra (2 Chr 7:3; Ezra 3:11, at the second temple's foundation).
+  137:
+    date: "During or soon after the exile (c. 586–520 BC)"
+    range: [-587, -520]
+    anchors: [babylon-597-587, exile, psalter]
+    note: >-
+      "By the rivers of Babylon, there we sat down" (137:1): the exiles asked for "one of the
+      songs of Zion". It remembers Edom's part in "the day of Jerusalem" (137:7). The past tense
+      ("there we sat") may mean it was written after the return.
+  138:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      "I will bow down toward your holy temple" (138:2); see the note on Psalm 5. Some
+      Septuagint manuscripts add Haggai and Zechariah to the heading.
+  139:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  140:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  141:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+  142:
+    date: "c. 1015–1010 BC by the heading (in the cave), or later"
+    range: [-1020, -400]
+    anchors: [saul, david, psalter]
+    note: >-
+      Heading: "when he was in the cave": Adullam (1 Sam 22:1) or En Gedi (1 Sam 24:3), as Psalm
+      57.
+  143:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      The last of the seven penitential psalms.
+  144:
+    date: "Monarchy (c. 1010–587 BC)"
+    range: [-1010, -587]
+    anchors: [david, psalter]
+    note: >-
+      Heading "By David". A king's prayer for victory, "who rescues David, his servant"
+      (144:10); 144:1–11 draws on Psalm 18.
+  145:
+    date: "c. 1010–970 BC by the heading (David), or later"
+    range: [-1010, -400]
+    anchors: [david, psalter]
+    note: >-
+      An alphabetic acrostic; the last psalm headed "of David".
+  146:
+    date: "After the exile (c. 538–200 BC)"
+    range: [-538, -200]
+    anchors: [return, psalter]
+    note: >-
+      Psalms 146–150 close the Psalter with "Praise the LORD" (Hallelujah) at each start and
+      end; most date this final collection after the exile. The Septuagint heads 146–148 with
+      the names of Haggai and Zechariah.
+  147:
+    date: "After the return, perhaps Nehemiah's time (c. 538–400 BC)"
+    range: [-538, -400]
+    anchors: [return, ezra-nehemiah, psalter]
+    note: >-
+      "The LORD builds up Jerusalem. He gathers together the outcasts of Israel" (147:2), "he
+      has strengthened the bars of your gates" (147:13): many link it with the rebuilding of the
+      walls under Nehemiah (445 BC).
+  148:
+    date: "After the exile (c. 538–200 BC)"
+    range: [-538, -200]
+    anchors: [return, psalter]
+    note: >-
+      All creation summoned to praise (148:1–13); no datable allusion beyond its place in the
+      final Hallel.
+  149:
+    date: "After the exile (c. 538–200 BC)"
+    range: [-538, -200]
+    anchors: [return, psalter]
+    note: >-
+      "A two-edged sword in their hand, to execute vengeance on the nations" (149:6–7); some
+      date it as late as the Maccabean wars.
+  150:
+    date: "After the exile (c. 538–200 BC)"
+    range: [-538, -200]
+    anchors: [return, psalter]
+    note: >-
+      The closing doxology of Book V and of the whole Psalter: praise with every instrument
+      (150:3–5).

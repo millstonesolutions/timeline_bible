@@ -1,0 +1,469 @@
+book: Jeremiah
+code: JER
+order: 24
+slug: 24-jeremiah
+kind: prophecy
+
+written:
+  date: "c. 605–560 BC (Jeremiah and Baruch) or growing into the 5th century BC"
+  range: [-605, -400]
+  summary: >-
+    Jeremiah prophesied from Josiah's 13th year (627 BC, 1:2) until after the fall
+    of Jerusalem, last heard of in Egypt (ch. 44, after 586). In 605/604 BC he
+    dictated a scroll of his oracles to Baruch (ch. 36), the first stage of the book.
+    The book is arranged by theme and type, not in date order. It survives in two
+    editions: the Greek (Septuagint) is about one-eighth shorter and puts the
+    oracles against the nations after 25:13; Hebrew fragments from Qumran attest
+    both forms. Chapter 52, taken from 2 Kings 24–25, ends in 562/561 BC.
+  views:
+    - date: "c. 605–560 BC: Jeremiah's words, collected by Baruch and other scribes"
+      held_by: Conservative and many moderate scholars (Lundbom; Dillard & Longman)
+      basis: >-
+        The book describes its own writing (36:2, 32; 30:2; 45:1; 51:60); the prose
+        sermons are Jeremiah's in the style of his day; the scribes Baruch and
+        Seraiah, sons of Neriah, are named (32:12; 51:59). The appendix (ch. 52) and
+        final arrangement came soon after Jehoiachin's release (562 BC).
+      sources: [lundbom-jer, dillard-longman]
+    - date: "6th–5th century BC: Jeremiah's poetry expanded by Deuteronomistic editors in two editions"
+      held_by: Many critical scholars, following Duhm and Mowinckel (Collins)
+      basis: >-
+        Three kinds of material: Jeremiah's poetic oracles, prose narratives about
+        him (often credited to Baruch), and prose sermons in the language of
+        Deuteronomy and Kings, written or reworked in the exile. The shorter Greek
+        text preserves an earlier edition; the longer Hebrew text kept growing into
+        the Persian period.
+      sources: [collins-intro, dead-sea-scrolls, childs]
+
+default:
+  date: "c. 627–587 BC"
+  range: [-627, -586]
+  anchors: [prophets-judah-last-kings]
+
+chapters:
+  1:
+    date: "627 BC (Josiah's 13th year)"
+    range: [-627, -615]
+    anchors: [josiah, prophets-judah-last-kings]
+    note: >-
+      "In the thirteenth year of his reign" (1:2), Josiah's 13th year, 627/626 BC.
+      The heading (1:2–3) covers the whole ministry, to the exile in Zedekiah's 11th
+      year, 587/586. Some scholars read 627 as the year of Jeremiah's birth
+      ("before you were born", 1:5) and start his preaching c. 615–609. The call
+      vision, almond branch and boiling pot "from the north" (1:11–15).
+  2: &josiah
+    date: "c. 627–609 BC (Josiah)"
+    range: [-627, -609]
+    anchors: [josiah]
+    note: >-
+      Early preaching. Judah turns to "Egypt" and "Assyria" (2:18, 36), which fits
+      Josiah's reign, while Assyria still counted; it collapsed between 612 and
+      609 BC.
+  3:
+    <<: *josiah
+    note: >-
+      "The LORD said to me in the days of Josiah the king" (3:6): faithless Israel
+      (the northern kingdom, exiled a century earlier) and treacherous Judah. Calls
+      to the north to return (3:12–14) may connect with Josiah's reform reaching the
+      north.
+  4: &north
+    date: "c. 627–605 BC"
+    range: [-627, -605]
+    anchors: [josiah, babylon-597-587]
+    note: >-
+      The foe "from the north" (4:6; chs. 4–6) is not named. Older scholars
+      thought of the Scythians in Josiah's time; most now identify it with Babylon,
+      either foreseen early or reapplied when Nebuchadnezzar came west after 605 BC.
+  5: *north
+  6: *north
+  7:
+    date: "609/608 BC (beginning of Jehoiakim's reign)"
+    range: [-609, -608]
+    anchors: [prophets-judah-last-kings]
+    note: >-
+      The temple sermon: "Don't trust in lying words, saying, 'The LORD's temple'"
+      (7:4), with the warning that the temple will become like Shiloh (7:12–14).
+      Chapter 26 tells the same event and dates it "in the beginning of the reign of
+      Jehoiakim" (26:1), 609/608 BC.
+  8: &jehoiakim
+    date: "c. 609–598 BC (Jehoiakim)"
+    range: [-609, -598]
+    anchors: [prophets-judah-last-kings]
+    note: >-
+      Undated laments and warnings (8:4–9:26), usually placed in Jehoiakim's reign:
+      the scribes' "false pen" (8:8), the coming invader heard from Dan (8:16), and
+      the harvest past with no deliverance (8:20).
+  9: *jehoiakim
+  10:
+    date: "c. 609–598 BC; 10:1–16 possibly exilic"
+    range: [-609, -540]
+    anchors: [prophets-judah-last-kings]
+    note: >-
+      The satire on idols (10:1–16) includes a verse in Aramaic (10:11) and addresses
+      Israel among the nations; the Greek text lacks 10:6–8 and 10. Many critical
+      scholars date this section to the exile. 10:17–25 returns to the coming siege.
+  11:
+    date: "c. 622–605 BC"
+    range: [-622, -605]
+    anchors: [josiah, prophets-judah-last-kings]
+    note: >-
+      "Hear the words of this covenant" (11:1–8) is often linked with Josiah's
+      covenant renewal after the law book was found in 622 BC; others put it in
+      Jehoiakim's reign, when the covenant was being broken (11:9–10). The plot
+      against Jeremiah by the men of his home town Anathoth (11:18–23) begins his
+      "confessions".
+  12:
+    <<: *jehoiakim
+    note: >-
+      Jeremiah's complaint continues (12:1–6). "I have forsaken my house" (12:7–13)
+      may reflect the raids by Babylonians, Arameans, Moabites and Ammonites that
+      followed Jehoiakim's revolt, c. 600–598 BC (2 Kgs 24:2).
+  13:
+    date: "c. 605–597 BC (13:18–19: 598/597)"
+    range: [-605, -597]
+    anchors: [prophets-judah-last-kings, babylon-597-587]
+    note: >-
+      The ruined linen belt buried by the Euphrates (Hebrew *Perat*, 13:1–11). "Say
+      to the king and to the queen mother, 'Humble yourselves'" (13:18): Jehoiachin
+      and his mother Nehushta, who went into exile together in 597 BC (2 Kgs 24:8,
+      15). The towns of the Negev are shut up (13:19).
+  14:
+    <<: *jehoiakim
+    note: >-
+      A great drought (14:1–6) and the people's lament; false prophets promise peace
+      (14:13–16). No date is given.
+  15:
+    <<: *jehoiakim
+    note: >-
+      Even Moses and Samuel could not turn God's judgment, "because of Manasseh"
+      (15:1–4). Jeremiah's complaint and God's answer (15:10–21).
+  16:
+    <<: *jehoiakim
+    note: >-
+      Jeremiah is forbidden to marry, mourn or feast (16:1–9) as a sign of the
+      coming disaster. The new exodus from the north (16:14–15) recurs in 23:7–8.
+  17:
+    <<: *jehoiakim
+    note: >-
+      Sin engraved "with a pen of iron" (17:1); another confession (17:14–18). The
+      sabbath sermon at the city gates (17:19–27) is dated by some critical scholars
+      after the exile, alongside Nehemiah 13:15–22.
+  18:
+    <<: *jehoiakim
+    note: >-
+      The potter's house (18:1–12) and a plot against Jeremiah (18:18–23). No date;
+      usually placed in Jehoiakim's reign.
+  19: &pashhur
+    date: "c. 605 BC"
+    range: [-609, -598]
+    anchors: [prophets-judah-last-kings, babylon-597-587]
+    note: >-
+      Jeremiah smashes a clay jar at Topheth (19:1–13). The temple official Pashhur
+      son of Immer has him beaten and put in the stocks (20:1–2), and Jeremiah names
+      Babylon as the enemy for the first time in the book (20:4–6), which suggests
+      605 BC or after. Usually dated early in Jehoiakim's reign.
+  20:
+    <<: *pashhur
+    note: >-
+      Pashhur son of Immer puts Jeremiah in the stocks (20:1–6); "the king of
+      Babylon" is named for the first time (20:4). Jeremiah's last and bitterest
+      confession follows (20:7–18).
+  21:
+    date: "588 BC (the siege)"
+    range: [-588, -587]
+    anchors: [prophets-judah-last-kings, babylon-597-587]
+    note: >-
+      "When King Zedekiah sent to him Pashhur the son of Malchijah" (21:1), because
+      Nebuchadnezzar was making war on Jerusalem (21:2). The siege began in January
+      588 BC (52:4). This Pashhur is a different man from Pashhur son of Immer in
+      ch. 20.
+  22:
+    date: "609–597 BC"
+    range: [-609, -597]
+    anchors: [prophets-judah-last-kings]
+    note: >-
+      Oracles on Judah's kings in turn: Shallum (Jehoahaz), taken to Egypt in 609 BC
+      (22:10–12); Jehoiakim, building his palace with unpaid labour (22:13–19);
+      Coniah (Jehoiachin), exiled in 597 and "written childless" (22:24–30).
+  23:
+    date: "c. 597–587 BC (Zedekiah)"
+    range: [-597, -587]
+    anchors: [prophets-judah-last-kings]
+    note: >-
+      The righteous Branch named "The LORD our righteousness" (23:5–6), Hebrew
+      *YHWH tsidqenu*, looks like a play on the name Zedekiah (*tsidqiyahu*), so the
+      oracle is usually set in his reign; some critical scholars date it later.
+      Against the prophets who say "peace" (23:9–40).
+  24:
+    date: "597–594 BC"
+    range: [-597, -594]
+    anchors: [prophets-judah-last-kings, babylon-597-587]
+    note: >-
+      Two baskets of figs, shown "after Nebuchadnezzar king of Babylon had carried
+      away captive Jeconiah" (24:1), in 597 BC. The good figs are the exiles of 597;
+      the bad figs Zedekiah and those left in Jerusalem or gone to Egypt (24:8).
+  25:
+    date: "605/604 BC (Jehoiakim's 4th year)"
+    range: [-605, -604]
+    anchors: [prophets-judah-last-kings, babylon-597-587, exile]
+    note: >-
+      "In the fourth year of Jehoiakim ... the first year of Nebuchadnezzar" (25:1),
+      the year of Carchemish and Nebuchadnezzar's accession (August/September 605
+      BC). "These twenty-three years" since Josiah's 13th year (25:3) fits 627. The
+      seventy years of servitude to Babylon (25:11–12). The Greek text places the
+      oracles against the nations (Hebrew chs. 46–51) after 25:13.
+    sources: [babylonian-chronicle]
+  26:
+    date: "609/608 BC (beginning of Jehoiakim's reign)"
+    range: [-609, -608]
+    anchors: [prophets-judah-last-kings]
+    note: >-
+      "In the beginning of the reign of Jehoiakim" (26:1), the technical term for a
+      king's accession year, 609/608 BC. The temple sermon (cf. ch. 7) and Jeremiah's
+      trial; the elders cite Micah's prophecy under Hezekiah (26:18–19); the prophet
+      Uriah is brought back from Egypt and killed (26:20–23).
+  27:
+    date: "594/593 BC (Zedekiah's 4th year)"
+    range: [-594, -593]
+    anchors: [prophets-judah-last-kings, babylon-597-587]
+    note: >-
+      The Hebrew heading, followed by WEB, reads "the beginning of the reign of
+      Jehoiakim" (27:1), but the chapter concerns Zedekiah (27:3, 12) and 28:1 calls
+      it "that same year ... the fourth year" of Zedekiah. The Syriac and a few
+      Hebrew manuscripts read "Zedekiah"; the Greek omits the verse. Envoys of Edom,
+      Moab, Ammon, Tyre and Sidon meet in Jerusalem (27:3), probably planning revolt
+      after the unrest in Babylon recorded for 595/594 BC.
+    sources: [babylonian-chronicle, lundbom-jer]
+  28:
+    date: "594/593 BC (Zedekiah's 4th year, 5th month)"
+    range: [-594, -593]
+    anchors: [prophets-judah-last-kings]
+    note: >-
+      "In the fourth year, in the fifth month" of Zedekiah (28:1), Hananiah breaks
+      Jeremiah's yoke and promises the exiles home within two years. He dies "the
+      same year in the seventh month" (28:17), two months later.
+  29:
+    date: "c. 597–594 BC"
+    range: [-597, -594]
+    anchors: [prophets-judah-last-kings, exile]
+    note: >-
+      Jeremiah's letter to the exiles taken with Jeconiah (29:1–2), carried by envoys
+      Zedekiah sent to Nebuchadnezzar (29:3): build houses, seek the city's welfare,
+      for Babylon's seventy years must pass (29:10). Often linked with the
+      unrest and false hopes of 594 BC (ch. 28).
+  30: &consolation
+    date: "c. 622–587 BC (parts possibly exilic)"
+    range: [-627, -540]
+    anchors: [josiah, babylon-597-587, exile]
+    note: >-
+      The "book of consolation" (chs. 30–31), which Jeremiah is told to write (30:2).
+      Its promises to Jacob, Ephraim and Rachel's children (31:9, 15–20) suggest to
+      many an early core addressed to the exiled north in Josiah's day; its present
+      form joins Judah and fits the time of the siege (chs. 32–33). Some critical
+      scholars date parts to the exile, close to Second Isaiah.
+  31:
+    <<: *consolation
+    note: >-
+      Rachel weeping for her children (31:15), the restoration of Ephraim (31:18–20)
+      and the new covenant written on the heart (31:31–34). The same setting as
+      ch. 30.
+  32:
+    date: "588/587 BC (Zedekiah's 10th year)"
+    range: [-588, -587]
+    anchors: [prophets-judah-last-kings, babylon-597-587]
+    note: >-
+      "In the tenth year of Zedekiah ... the eighteenth year of Nebuchadnezzar"
+      (32:1), with Jerusalem besieged and Jeremiah confined in the court of the guard
+      (32:2). He buys his cousin's field at Anathoth (32:6–15) as a sign that land
+      will again be bought and sold.
+  33:
+    date: "588/587 BC"
+    range: [-588, -587]
+    anchors: [prophets-judah-last-kings, babylon-597-587]
+    note: >-
+      The word came "the second time, while he was still shut up in the court of the
+      guard" (33:1), so the same year as ch. 32. The promises of 33:14–26 (David's
+      line and the Levitical priests) are absent from the Greek text and are often
+      taken as a later addition.
+  34:
+    date: "588 BC"
+    range: [-588, -587]
+    anchors: [prophets-judah-last-kings, babylon-597-587]
+    note: >-
+      When only Lachish and Azekah were left of the fortified cities (34:7); one of
+      the Lachish letters reports that the signals of Azekah could no longer be seen.
+      Zedekiah's covenant to free Hebrew slaves, revoked when the siege was lifted
+      (34:8–22; cf. 34:21–22 and 37:5), belongs to 588 BC.
+    sources: [anet]
+  35:
+    date: "c. 599–598 BC"
+    range: [-601, -598]
+    anchors: [prophets-judah-last-kings, babylon-597-587]
+    note: >-
+      "In the days of Jehoiakim" (35:1). The Rechabites have taken refuge in
+      Jerusalem "for fear of the army of the Chaldeans and the army of the Syrians"
+      (35:11), which fits the raids after Jehoiakim's revolt (2 Kgs 24:1–2), c. 600–598
+      BC.
+  36:
+    date: "605/604 BC; scroll read and burned December 604 BC"
+    range: [-605, -604]
+    anchors: [prophets-judah-last-kings, babylon-597-587]
+    note: >-
+      Jeremiah dictates his oracles to Baruch "in the fourth year of Jehoiakim"
+      (36:1), 605/604 BC. The scroll is read at a fast in "the fifth year ... the
+      ninth month" (36:9), Kislev, i.e. December 604 BC, and the king burns it column
+      by column by his brazier (36:22–23). The Babylonian Chronicle puts
+      Nebuchadnezzar's sack of Ashkelon in Kislev of his first year, 604 BC, which
+      may explain the fast.
+    sources: [babylonian-chronicle, grayson-abc]
+  37:
+    date: "588 BC"
+    range: [-588, -587]
+    label: Date of events
+    anchors: [prophets-judah-last-kings, babylon-597-587]
+    note: >-
+      The Babylonians lift the siege when Pharaoh's army comes out of Egypt (37:5);
+      the pharaoh is Hophra (Apries, 589–570 BC; named in 44:30). Jeremiah is
+      arrested leaving for Benjamin, accused of deserting, and later moved to the
+      court of the guard (37:11–21).
+  38:
+    date: "588–587/586 BC"
+    range: [-588, -586]
+    label: Date of events
+    anchors: [prophets-judah-last-kings, babylon-597-587]
+    note: >-
+      Jeremiah is thrown into a muddy cistern and rescued by Ebed-melech (38:1–13);
+      Zedekiah consults him secretly (38:14–28). Late in the siege, after it resumed.
+  39:
+    date: "July 587 or 586 BC"
+    range: [-587, -586]
+    label: Date of events
+    anchors: [babylon-597-587, prophets-judah-last-kings]
+    note: >-
+      The siege from the tenth month of Zedekiah's 9th year (39:1; January 588 BC) to
+      the breach on the ninth day of the fourth month of his 11th year (39:2): July
+      587 BC on the reckoning of Galil and Cogan & Tadmor, 586 BC on Thiele's.
+      Zedekiah is blinded at Riblah (39:4–7); Jeremiah is released to Gedaliah
+      (39:14).
+  40:
+    date: "587/586 BC"
+    range: [-587, -586]
+    label: Date of events
+    anchors: [babylon-597-587]
+    note: >-
+      Nebuzaradan frees Jeremiah at Ramah (40:1–6), and Jeremiah joins Gedaliah, the
+      governor, at Mizpah. The scattered Judeans return and gather "wine and summer
+      fruits" (40:12), so late summer of the year of the fall.
+  41:
+    date: "autumn 587/586 BC (or a few years later)"
+    range: [-587, -582]
+    label: Date of events
+    anchors: [babylon-597-587]
+    note: >-
+      Ishmael murders Gedaliah "in the seventh month" (41:1), no year given. Most take
+      it as the same year as the fall; some prefer a later year and link it with the
+      deportation of 582 BC (52:30). Jewish tradition keeps the Fast of Gedaliah on 3
+      Tishri.
+  42:
+    date: "587/586 BC (or a few years later)"
+    range: [-587, -582]
+    label: Date of events
+    anchors: [babylon-597-587]
+    note: >-
+      Johanan and the survivors ask Jeremiah for a word; it comes "after ten days"
+      (42:7): stay in the land and do not go to Egypt.
+  43:
+    date: "c. 586–582 BC"
+    range: [-587, -582]
+    label: Date of events
+    anchors: [babylon-597-587]
+    note: >-
+      The survivors go to Egypt anyway, taking Jeremiah and Baruch, as far as
+      Tahpanhes (43:7). Jeremiah buries stones at Pharaoh's palace and foretells that
+      Nebuchadnezzar will set his throne there (43:8–13). A Babylonian text records a
+      campaign against Egypt in Nebuchadnezzar's 37th year, 568/567 BC.
+    sources: [anet]
+  44:
+    date: "c. 586–570 BC"
+    range: [-586, -570]
+    anchors: [babylon-597-587]
+    note: >-
+      To the Judeans living at Migdol, Tahpanhes, Memphis and Pathros (44:1), who
+      vow to keep burning incense to the queen of heaven. "I will give Pharaoh Hophra
+      ... into the hand of his enemies" (44:30); Hophra was overthrown by Amasis c.
+      570 BC. Jeremiah's last recorded words.
+  45:
+    date: "605/604 BC (Jehoiakim's 4th year)"
+    range: [-605, -604]
+    anchors: [prophets-judah-last-kings]
+    note: >-
+      A word to Baruch "when he wrote these words in a book ... in the fourth year of
+      Jehoiakim" (45:1), the occasion of ch. 36, placed here at the end of the
+      Baruch narratives.
+  46:
+    date: "605 BC (46:2); 46:13–28 c. 604–568 BC"
+    range: [-605, -568]
+    anchors: [babylon-597-587, prophets-judah-last-kings]
+    note: >-
+      The oracles against the nations begin. Egypt's army at Carchemish, "which
+      Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim" (46:2):
+      summer 605 BC, as in the Babylonian Chronicle. Nebuchadnezzar's coming to strike
+      Egypt (46:13–26) may refer to his battle with Egypt in 601 BC or his invasion
+      of 568/567.
+    sources: [babylonian-chronicle]
+  47:
+    date: "c. 609–600 BC"
+    range: [-609, -600]
+    anchors: [babylon-597-587]
+    note: >-
+      On the Philistines, "before Pharaoh struck Gaza" (47:1): Necho II, either in
+      609 BC or c. 601/600. The waters "rising out of the north" (47:2) are Babylon;
+      Nebuchadnezzar destroyed Ashkelon (47:5) in 604 BC.
+    sources: [babylonian-chronicle]
+  48:
+    date: "c. 605–582 BC"
+    range: [-605, -582]
+    anchors: [babylon-597-587]
+    note: >-
+      On Moab, with no date; it reuses Isaiah 15–16. Josephus reports a campaign by
+      Nebuchadnezzar against Ammon and Moab in his 23rd year, 582 BC, a possible
+      fulfilment or setting.
+    sources: ["josephus-ant 10.180–182"]
+  49:
+    date: "c. 605–596 BC (Elam 597/596)"
+    range: [-605, -582]
+    anchors: [babylon-597-587, prophets-judah-last-kings]
+    note: >-
+      Short oracles on Ammon, Edom (close to Obadiah), Damascus, Kedar and Hazor, and
+      Elam. Nebuchadnezzar's strike on Kedar (49:28–33) fits his raid on the Arabs in
+      599/598 BC (Babylonian Chronicle). The Elam oracle is dated "in the beginning of
+      the reign of Zedekiah" (49:34), 597/596 BC.
+    sources: [babylonian-chronicle]
+  50: &babylon
+    date: "594/593 BC (51:59) or c. 550–539 BC (critical)"
+    range: [-594, -539]
+    anchors: [prophets-judah-last-kings, exile, return]
+    note: >-
+      The long oracle against Babylon (50:1–51:58) foresees its fall to "the kings of
+      the Medes" (51:11, 28). The book dates it by the scroll Seraiah took to Babylon
+      in Zedekiah's 4th year (51:59–64), 594/593 BC. Many critical scholars date the
+      poems themselves to the late exile, shortly before 539 BC.
+  51:
+    <<: *babylon
+    note: >-
+      Ends with the scroll given to Seraiah when "he went with Zedekiah the king of
+      Judah to Babylon in the fourth year of his reign" (51:59), 594/593 BC, to be
+      read there and sunk in the Euphrates. "Thus far are the words of Jeremiah"
+      (51:64) marks the end of his book; ch. 52 is an appendix.
+  52:
+    date: "597–561 BC (written after 562)"
+    range: [-597, -561]
+    label: Date of events
+    anchors: [babylon-597-587, exile, prophets-judah-last-kings]
+    note: >-
+      A historical appendix that repeats 2 Kings 24:18–25:30: Zedekiah's reign, the
+      siege (52:4) and the burning of the temple on 10/V of Nebuchadnezzar's 19th year
+      (52:12), 587 or 586 BC. It adds a list of deportees (52:28–30) in his 7th, 18th
+      and 23rd years (598/597, 587/586 and 582/581 BC on Babylonian reckoning).
+      Jehoiachin's release in the 37th year of his captivity, under Evil-Merodach in
+      his first year (52:31), is 562/561 BC.
+    sources: [parker-dubberstein, anet]

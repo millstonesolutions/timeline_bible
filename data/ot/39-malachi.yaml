@@ -1,0 +1,68 @@
+book: Malachi
+code: MAL
+order: 39
+slug: 39-malachi
+kind: prophecy
+
+written:
+  date: "c. 500–430 BC (Persian period, after the temple was rebuilt)"
+  range: [-500, -400]
+  summary: >-
+    Malachi has no date, and "Malachi" (*mal'akhi*, "my messenger", cf. 3:1) may be
+    a title rather than a name; the Targum identifies him with Ezra. The book
+    assumes the second temple is standing and its worship has gone stale, a Persian
+    "governor" rules (1:8), and the abuses it attacks, mixed marriages, unpaid
+    tithes and careless priests, are the ones Ezra and Nehemiah dealt with. So
+    nearly everyone dates it to the 5th century BC; scholars differ over whether it
+    comes before Ezra and Nehemiah or between Nehemiah's two terms.
+  views:
+    - date: "c. 433 BC or shortly after, during or after Nehemiah's absence"
+      held_by: Many conservative scholars
+      basis: >-
+        The same sins as Nehemiah 13: marriage to foreign wives (Mal 2:11; Neh
+        13:23–27), tithes withheld from the Levites (Mal 3:8–10; Neh 13:10–12) and
+        corrupted priests (Mal 1:6–2:9; Neh 13:28–29), which Nehemiah found on his
+        return after his 32nd year (433 BC, Neh 13:6).
+      sources: [dillard-longman]
+    - date: "c. 500–460 BC, before Ezra's mission"
+      held_by: Many critical scholars; Hill argues for the early 5th century on the evidence of the Hebrew
+      basis: >-
+        The book does not know Ezra's law reading or Nehemiah's reforms, and treats
+        the priests' duties in terms close to Deuteronomy rather than the priestly
+        law; the language fits the early post-exilic prophets (Haggai, Zechariah
+        1–8).
+      sources: [hill-malachi, petersen-zech, collins-intro]
+
+default:
+  date: "c. 500–430 BC"
+  range: [-500, -430]
+  anchors: [return, ezra-nehemiah]
+
+chapters:
+  1:
+    note: >-
+      "I loved Jacob; but Esau I hated, and made his mountains a desolation"
+      (1:2–3): Edom has already been laid waste, by the Babylonians in the 6th
+      century and by Arab pressure after. Priests offer blemished animals: "Present
+      it now to your governor" (1:8), using the Persian-period title *pechah*.
+    sources: [hill-malachi]
+  2:
+    note: >-
+      The priests have broken "the covenant of Levi" (2:4–9). Judah "has married the
+      daughter of a foreign god" (2:11) and men divorce "the wife of your youth"
+      (2:14–16), the problem Ezra 9–10 and Nehemiah 13:23–27 also address.
+    anchors: [ezra-nehemiah]
+  3:
+    note: >-
+      "Behold, I send my messenger, and he will prepare the way before me" (3:1),
+      quoted of John the Baptist (Mark 1:2). "Bring the whole tithe into the
+      storehouse" (3:10), as in Nehemiah 13:10–12. The temple is functioning, so the
+      book comes after 515 BC.
+    anchors: [ezra-nehemiah]
+  4:
+    note: >-
+      In the Hebrew Bible this is 3:19–24. The day "burning like a furnace" (4:1);
+      "Remember the law of Moses" (4:4) and "I will send you Elijah the prophet"
+      (4:5–6), which many scholars see as an appendix closing the whole collection of
+      the Prophets, added when it was compiled.
+    sources: [childs, petersen-zech]

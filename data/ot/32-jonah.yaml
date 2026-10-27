@@ -1,0 +1,78 @@
+book: Jonah
+code: JON
+order: 32
+slug: 32-jonah
+kind: narrative
+
+written:
+  date: "8th century BC (traditional) or c. 500–300 BC (most critical scholars)"
+  range: [-780, -250]
+  summary: >-
+    Jonah is a story about a prophet, not a collection of oracles. Its hero is
+    "Jonah the son of Amittai" (1:1), the prophet who foretold Jeroboam II's
+    expansion (2 Kgs 14:25), so the story is set in the first half of the 8th
+    century BC. When it was written is disputed: tradition takes it as an account
+    from Jonah's own time, while most critical scholars date the book after the
+    exile and read it as a didactic story.
+  views:
+    - date: "8th century BC, an account of real events"
+      held_by: Conservative scholars (Dillard & Longman discuss the options); Jewish and Christian tradition
+      basis: >-
+        The prophet is a known historical figure of Jeroboam II's reign; Jesus
+        refers to "the sign of Jonah" and to the men of Nineveh repenting
+        (Matt 12:39–41; Luke 11:29–32); Assyria was weak and troubled in the first
+        half of the 8th century, which might make its capital receptive. The Talmud
+        lists Jonah among the Twelve, ascribed to the men of the Great Assembly as
+        compilers, not authors.
+      sources: [dillard-longman, "bava-batra 14b–15a"]
+    - date: "c. 500–300 BC, a didactic story"
+      held_by: Most critical scholars (Collins); Sasson discusses the evidence
+      basis: >-
+        Late Hebrew and Aramaic words and idioms (e.g. *ta'am* for a royal decree,
+        3:7); Nineveh "was" a great city (3:3), spoken of as long gone (it fell in
+        612 BC); a "king of Nineveh" (3:6) rather than "king of Assyria"; the
+        city's vast size (3:3; 4:11); the psalm (2:2–9) built from phrases of the
+        Psalms. Its theme, God's mercy to a foreign enemy, is often read as a
+        response to the exclusivism of the Persian period. Sirach 49:10 (c. 180 BC)
+        knows "the Twelve Prophets", which sets the lower limit.
+      sources: [collins-intro, sasson-jonah, "sirach 49:10"]
+
+default:
+  date: "c. 780–753 BC (setting under Jeroboam II)"
+  range: [-793, -753]
+  anchors: [eighth-century]
+  sources: [thiele]
+
+chapters:
+  1:
+    note: >-
+      Jonah son of Amittai is the prophet of 2 Kings 14:25, from Gath Hepher, who
+      foretold Jeroboam II's recovery of Israel's borders, so the story is set in or
+      near Jeroboam's reign (793–753 BC on Thiele's dates). Jonah flees from Joppa
+      on a ship for Tarshish (1:3), and is thrown overboard in the storm. Many
+      critical scholars read the date as the story's setting, not the time of
+      writing.
+    sources: [thiele, cogan-kings]
+  2:
+    note: >-
+      Jonah's prayer "out of the fish's belly" (2:1). The psalm of thanksgiving
+      (2:2–9) is made up largely of phrases found in the Psalms, and many scholars
+      think it was added to the story; others see it as integral.
+    sources: [sasson-jonah]
+  3:
+    note: >-
+      Nineveh repents at Jonah's preaching. Assyrian kings lived at Calah (Nimrud)
+      in the 8th century; Nineveh became the capital under Sennacherib (c. 700 BC).
+      Some conservative scholars link the city's openness to the troubles of
+      Ashur-dan III (773–756 BC), with revolts, plague and the eclipse of 763 BC
+      recorded in the eponym list. Critical scholars point to "Nineveh was an
+      exceedingly great city" (3:3) and the "king of Nineveh" (3:6) as signs of
+      later writing.
+    anchors: [eighth-century]
+    sources: [eponym-canon, sasson-jonah]
+  4:
+    note: >-
+      Jonah's anger at God's mercy and the lesson of the plant. Nineveh has "more
+      than one hundred twenty thousand persons who can't discern between their
+      right hand and their left hand" (4:11). No new time indication; the same
+      setting as chapters 1–3.

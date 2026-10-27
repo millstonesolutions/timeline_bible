@@ -1,0 +1,63 @@
+book: Zephaniah
+code: ZEP
+order: 36
+slug: 36-zephaniah
+kind: prophecy
+
+written:
+  date: "c. 640–612 BC (under Josiah), probably before 622 BC"
+  range: [-640, -500]
+  summary: >-
+    Zephaniah, great-great-grandson of a Hezekiah (probably the king), prophesied
+    "in the days of Josiah" (1:1), 640–609 BC. The idolatry he condemns suggests a
+    date before Josiah's reform of 622 BC, and Nineveh is still standing (2:13).
+    Some critical scholars see the hopeful ending (3:14–20) as an exilic or
+    post-exilic addition.
+  views:
+    - date: "c. 640–622 BC, before Josiah's reform"
+      held_by: Most scholars; conservative scholars for the whole book
+      basis: >-
+        Baal worship, the "idolatrous priests", worship of the host of heaven on the
+        rooftops and swearing by Malcam (1:4–5), and royal officials in foreign
+        clothes (1:8) were the targets of the reform (2 Kgs 23:4–14); Nineveh's fall
+        (612 BC) is still future (2:13–15).
+      sources: [roberts-nahum, dillard-longman]
+    - date: "Core c. 630 BC; additions in the exile and after"
+      held_by: Many critical scholars
+      basis: >-
+        The promises to gather the scattered and "bring you home" (3:14–20) and some
+        of the oracles on the nations (2:7, 9–11) assume the exile.
+      sources: [collins-intro, childs]
+
+default:
+  date: "c. 640–622 BC (Josiah, before the reform)"
+  range: [-640, -622]
+  anchors: [josiah]
+
+chapters:
+  1:
+    note: >-
+      The superscription (1:1) dates Zephaniah to Josiah's reign. "I will cut off
+      the remnant of Baal from this place: the name of the idolatrous and pagan
+      priests" (1:4), worshipers of "the army of the sky on the housetops" (1:5),
+      practices Josiah removed in 622 BC (2 Kgs 23:4–12). "The great day of the LORD
+      is near" (1:14).
+  2:
+    date: "c. 640–612 BC"
+    range: [-640, -612]
+    anchors: [josiah, twelve-nineveh]
+    note: >-
+      Oracles against Philistia, Moab and Ammon, Cush and Assyria. God "will make
+      Nineveh a desolation" (2:13), which happened in 612 BC; the oracle comes before
+      that. Promises that the "remnant of the house of Judah" will take the coast and
+      plunder Moab (2:7, 9) are sometimes seen as later additions.
+  3:
+    date: "c. 640–622 BC; 3:14–20 perhaps exilic or later"
+    range: [-640, -500]
+    anchors: [josiah, exile]
+    note: >-
+      Woe to Jerusalem, whose princes are "roaring lions" and whose priests have
+      profaned the sanctuary (3:1–4). The closing song, "Sing, daughter of Zion"
+      (3:14–20), ends "I will bring you in ... when I restore your fortunes before
+      your eyes" (3:20), which many critics date to the exile or after;
+      conservatives keep it with Zephaniah.

@@ -1,0 +1,47 @@
+book: Obadiah
+code: OBA
+order: 31
+slug: 31-obadiah
+kind: prophecy
+
+written:
+  date: "c. 587–550 BC (most scholars); some say c. 845 BC"
+  range: [-845, -500]
+  summary: >-
+    The shortest book of the Old Testament is an oracle against Edom, condemned
+    for gloating over and looting Jerusalem "in the day of his disaster" (vv. 11–14)
+    and handing over its fugitives. Most identify that day with the Babylonian
+    capture of Jerusalem in 587/586 BC; a minority with an earlier raid.
+  views:
+    - date: "Soon after 587/586 BC"
+      held_by: Most critical scholars; many conservative scholars
+      basis: >-
+        Edom's part in Jerusalem's fall is remembered bitterly in Psalm 137:7,
+        Lamentations 4:21–22 and Ezekiel 25:12–14; 35:1–15. The exiles "in Sepharad"
+        (v. 20) suggest a diaspora. Verses 1–9 closely parallel Jeremiah 49:7–22.
+        Edom itself was overrun by the Babylonians and later by Arab groups
+        (Malachi 1:3–4 looks back on its ruin), so the book comes before c. 500 BC.
+      sources: [collins-intro, dillard-longman, childs]
+    - date: "c. 848–841 BC (Jehoram of Judah)"
+      held_by: Some conservative scholars
+      basis: >-
+        Under Jehoram, Edom revolted (2 Kgs 8:20–22) and Philistines and Arabs
+        plundered the king's house in Jerusalem (2 Chr 21:16–17). Obadiah stands
+        between Amos and Jonah in the Hebrew order, among 8th-century prophets, and
+        verses 11–14 do not mention the temple's destruction or an exile to Babylon.
+      sources: [dillard-longman]
+
+default:
+  date: "c. 587–550 BC (most) or c. 845 BC"
+  range: [-845, -550]
+  anchors: [babylon-597-587, exile]
+
+chapters:
+  1:
+    note: >-
+      Edom stood aloof "in the day that strangers carried away his substance, and
+      foreigners entered into his gates, and cast lots for Jerusalem" (v. 11), and
+      cut off the fugitives (v. 14). Most read this as the fall of Jerusalem in
+      587/586 BC; the minority view links it to the raid under Jehoram (2 Chr
+      21:16–17). The "day of the LORD" on all nations (v. 15) and the return of
+      "the captives of Jerusalem, who are in Sepharad" (v. 20) look beyond it.

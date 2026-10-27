@@ -1,0 +1,73 @@
+book: Joel
+code: JOL
+order: 29
+slug: 29-joel
+kind: prophecy
+
+written:
+  date: "Disputed: c. 835 BC (early view) or c. 500–350 BC (most scholars)"
+  range: [-835, -343]
+  summary: >-
+    Joel has no superscription date (1:1 names only his father, Pethuel) and
+    mentions no king. Dates proposed run from the 9th century to the 4th. Most
+    critical scholars now put it after the exile, in the Persian period; an older
+    conservative view put it in the minority of Joash of Judah (c. 835 BC).
+  views:
+    - date: "c. 835–800 BC (Joash's minority)"
+      held_by: Older conservative commentators; some conservative scholars today
+      basis: >-
+        Joel stands among the 8th-century prophets in the Hebrew order of the Twelve;
+        no king is named because Joash was a boy ruled by the priest Jehoiada
+        (2 Kgs 11–12), which would explain why priests and elders lead (1:13–14;
+        2:16–17); the enemies named (Tyre, Sidon, Philistia, Egypt, Edom, 3:4, 19)
+        fit the 9th century; Amos 1:2 seems to echo Joel 3:16.
+      sources: [dillard-longman, childs]
+    - date: "c. 500–343 BC (Persian period)"
+      held_by: Wolff (c. 445–343 BC); most critical scholars
+      basis: >-
+        The temple is standing and its offerings matter (1:9, 13; 2:14), and the
+        city has walls (2:7, 9); there is no king and no northern kingdom; Judah has
+        been "scattered among the nations" and its land divided (3:2); Judeans are
+        sold "to the sons of the Greeks" (3:6). Joel quotes or alludes to many other
+        prophets ("as the LORD has said", 2:32, cf. Obad 17). Sidon is still
+        standing (3:4), so Wolff put the book before its destruction by Artaxerxes
+        III in 343 BC.
+      sources: [wolff-joel-amos, collins-intro]
+    - date: "Late 7th or early 6th century BC"
+      held_by: Some scholars
+      basis: >-
+        The "Day of the LORD" and the enemy from the north (2:20) as in Zephaniah
+        and Jeremiah; the locust army as an image of Babylon before 587 BC.
+      sources: [dillard-longman]
+
+default:
+  date: "c. 835 BC (early view) or c. 500–350 BC (post-exilic view)"
+  range: [-835, -343]
+
+chapters:
+  1:
+    note: >-
+      A locust plague and drought: "what the swarming locust has left, the great
+      locust has eaten" (1:4). Grain and drink offerings are "cut off from the
+      LORD's house" (1:9, 13), so the temple is functioning; priests, not a king,
+      call the fast (1:13–14). Either a pre-exilic temple or the second temple
+      (after 515 BC).
+    sources: [wolff-joel-amos]
+  2:
+    note: >-
+      The locusts become an army of the Day of the LORD, running on the wall and
+      climbing into houses (2:7–9); the people are called to return "with all your
+      heart" (2:12). The promise "I will pour out my Spirit on all flesh" (2:28–32)
+      is quoted by Peter at Pentecost (Acts 2:16–21). The city walls (2:9) are read
+      by late-daters as Nehemiah's walls (rebuilt 445 BC).
+    anchors: [ezra-nehemiah]
+    sources: [wolff-joel-amos]
+  3:
+    note: >-
+      Judgment in the valley of Jehoshaphat on the nations that "scattered" Israel
+      and "divided my land" (3:2), and on Tyre, Sidon and Philistia, who sold
+      Judeans "to the sons of the Greeks" (3:6). Late-daters read 3:2 as looking
+      back on 587 BC; early-daters, as general language or prediction. Egypt and
+      Edom are judged for violence against Judah (3:19).
+    anchors: [exile]
+    sources: [wolff-joel-amos]

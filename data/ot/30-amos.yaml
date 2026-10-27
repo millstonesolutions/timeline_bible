@@ -1,0 +1,100 @@
+book: Amos
+code: AMO
+order: 30
+slug: 30-amos
+kind: prophecy
+
+written:
+  date: "c. 760 BC (Amos's oracles); final form disputed, up to the exile or later"
+  range: [-760, -500]
+  summary: >-
+    Amos, a herdsman of Tekoa in Judah, preached at Bethel in the northern kingdom
+    "in the days of Uzziah ... and Jeroboam ... two years before the earthquake"
+    (1:1), c. 760 BC. Almost everyone accepts that most of the oracles are his; the
+    question is how much was added later.
+  views:
+    - date: "c. 760–750 BC, written down by Amos or his hearers soon after"
+      held_by: Conservative scholars (Dillard & Longman)
+      basis: >-
+        The superscription; the confrontation with Amaziah, priest of Bethel, under
+        Jeroboam II (7:10–17); the prosperity and luxury attacked (3:15; 6:4–6);
+        the puns on Jeroboam's conquests of Lo Debar and Karnaim (6:13; cf. 2 Kgs 14:25). The
+        closing promise (9:11–15) is read as Amos's own hope beyond judgment.
+      sources: [dillard-longman]
+    - date: "Core c. 760 BC; edited in Judah through the 7th century and the exile"
+      held_by: Wolff (six layers, from Amos's own words to a post-exilic ending); many critical scholars
+      basis: >-
+        The oracle against Judah (2:4–5) uses Deuteronomistic language; the hymn
+        fragments (4:13; 5:8–9; 9:5–6) interrupt their contexts; the restoration of
+        "the tent of David that has fallen" (9:11–15) assumes the fall of Judah's
+        dynasty in 587 BC.
+      sources: [wolff-joel-amos, collins-intro]
+
+default:
+  date: "c. 760 BC (under Jeroboam II and Uzziah)"
+  range: [-767, -753]
+  anchors: [twelve-earthquake, eighth-century]
+
+chapters:
+  1:
+    note: >-
+      The superscription (1:1) dates the words "two years before the earthquake".
+      The oracles against the nations begin with Damascus, the house of Hazael and
+      Ben Hadad (1:3–5), Israel's old enemy, weakened by Assyria and by Jeroboam's
+      wars (2 Kgs 14:28).
+    sources: [wolff-joel-amos]
+  2:
+    note: >-
+      The oracles reach Judah (2:4–5) and then Israel, condemned for selling "the
+      righteous for silver, and the needy for a pair of sandals" (2:6). Wolff and
+      many critics read the Judah oracle as a later Deuteronomistic addition.
+    sources: [wolff-joel-amos]
+  3:
+    note: >-
+      "I have chosen only you of all the families of the earth" (3:2). The
+      "winter house with the summer house" and "houses of ivory" (3:15) fit the
+      wealth of Samaria under Jeroboam II, where carved ivories of this period have
+      been excavated.
+  4:
+    note: >-
+      The "cows of Bashan ... in the mountain of Samaria" (4:1) and a list of
+      disasters that did not bring Israel back (4:6–11). The hymn fragment in 4:13 is
+      one of three (with 5:8–9; 9:5–6) often seen as later insertions.
+  5:
+    note: >-
+      Lament over Israel and "Seek me, and you will live" (5:4). "Let justice roll on
+      like rivers" (5:24). Exile is threatened "beyond Damascus" (5:27), still in the
+      future.
+  6:
+    note: >-
+      "Woe to those who are at ease in Zion" (6:1). Calneh, Hamath and Gath (6:2)
+      seem to have fallen already. Calneh (Kullani) was taken by Tiglath-pileser III
+      in 738 BC and Hamath by Sargon II in 720 BC, which some take as a sign that the
+      verse is a later addition; but Gath had already fallen to Hazael
+      (2 Kgs 12:17), and the cities may have suffered earlier defeats. Israel rejoices in "a thing of nothing" and "horns" (6:13),
+      puns on Lo Debar and Karnaim, Jeroboam II's conquests in Transjordan.
+    sources: [wolff-joel-amos]
+  7:
+    note: >-
+      Visions of locusts, fire and the plumb line (7:1–9). Amaziah the priest of
+      Bethel reports Amos to "Jeroboam king of Israel" and tells him to go back to
+      Judah (7:10–13): the one scene in the book set in a named king's reign.
+      Amos replies, "I was no prophet ... I was a herdsman" (7:14).
+  8:
+    note: >-
+      The basket of summer fruit (8:1–2): "the end has come on my people Israel."
+      Traders who long for the Sabbath to end so they can cheat (8:5); "the sun to
+      go down at noon" (8:9) is sometimes linked with the solar eclipse of 15 June
+      763 BC.
+    anchors: [twelve-earthquake, eighth-century]
+  9:
+    date: "c. 760 BC; 9:11–15 often dated after 587 BC"
+    range: [-767, -500]
+    note: >-
+      The vision of the LORD by the altar, who strikes the capitals "that the
+      thresholds may shake" (9:1), perhaps an image of the earthquake. The promise
+      to "raise up the tent of David that has fallen" (9:11–15) is read by many
+      critical scholars as an exilic or post-exilic addition; conservatives take it
+      as Amos's own. James quotes 9:11–12 at the Jerusalem council (Acts 15:16–17).
+    anchors: [twelve-earthquake, exile]
+    sources: [wolff-joel-amos, dillard-longman]

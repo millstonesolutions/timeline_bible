@@ -1,0 +1,120 @@
+# Anchors added by the `prophets` group (Isaiah, Jeremiah, Ezekiel).
+# Same format as anchors-ot.yaml. Years: negative = BC.
+
+prophets-isaiah-parts:
+  title: The three parts of Isaiah
+  date: "Isaiah c. 740–700 BC; or chs. 40–55 c. 550–539 BC and 56–66 c. 538–450 BC"
+  range: [-740, -450]
+  short: >-
+    Tradition takes the whole book as the work of Isaiah son of Amoz (c. 740–700 BC).
+    Since Duhm (1892) most critical scholars divide it into First Isaiah (much of
+    chs. 1–39, 8th century, with later additions), Second Isaiah (40–55, written
+    among the exiles c. 550–539 BC; Cyrus is named in 44:28 and 45:1) and Third
+    Isaiah (56–66, Judah after the return, c. 538–450 BC).
+  discussion: |
+    **One author.** The heading (1:1) names only Isaiah; Sirach (c. 180 BC) credits
+    Isaiah with comforting "those who mourned in Zion" and foretelling "what was to
+    be" (Sir 48:24–25), language from chs. 40–66; the great Isaiah scroll from
+    Qumran (1QIsa^a, 2nd century BC) runs ch. 39 straight into ch. 40; and the New
+    Testament quotes chs. 40–66 under Isaiah's name. Conservative scholars (Oswalt)
+    take chs. 40–66 as Isaiah's own prophecy, written late in his life for a future
+    exile, and Cyrus's naming as predictive.
+
+    **Two or three Isaiahs.** Chapters 40–55 address exiles in Babylon as their
+    present audience, speak of Jerusalem as already ruined (44:26; 51:3), and name
+    Cyrus as the coming deliverer, so most scholars date them to Cyrus's rise:
+    after his defeat of Media (c. 550 BC) and before he took Babylon (539 BC).
+    Chapters 56–66 assume people back in Judah and quarrels in the community; most
+    date them between the return (538) and Nehemiah's time, some to before the
+    temple was finished in 515 BC (63:18; 64:10–11; 66:1). Within chs. 1–39, the
+    oracles on Babylon (13–14), the "Isaiah apocalypse" (24–27) and chs. 34–35 are
+    widely dated to the exile or later. Blenkinsopp's commentary follows this
+    division; Childs reads the parts as one canonical book whatever their dates.
+
+    **In the headings.** Chapters 40–66, and the disputed parts of 1–39, give both
+    dates ("Isaiah" and the critical date), with a range spanning both.
+  sources:
+    - oswalt-isaiah
+    - blenkinsopp-isaiah
+    - childs
+    - sirach 48:22–25
+    - dead-sea-scrolls
+    - collins-intro
+    - dillard-longman
+
+prophets-judah-last-kings:
+  title: Judah's last kings (Jeremiah's regnal dates)
+  date: "609–587/586 BC"
+  range: [-609, -586]
+  short: >-
+    Jehoahaz (Shallum) ruled three months in 609 BC; Jehoiakim 609–598; Jehoiachin
+    (Jeconiah, Coniah) three months to 2 Adar (16 March) 597; Zedekiah 597 to the
+    fall of Jerusalem in 587 or 586. Jehoiakim's 4th year = 605/604 (Jer 25:1;
+    46:2); Zedekiah's 4th year = 594/593 (28:1; 51:59).
+  discussion: |
+    Jeremiah dates his oracles by the kings of Judah, and twice also by
+    Nebuchadnezzar: Jehoiakim's 4th year was Nebuchadnezzar's 1st (25:1), the year
+    of Carchemish (46:2; Babylonian Chronicle, summer 605 BC), and Zedekiah's 10th
+    was Nebuchadnezzar's 18th (32:1), 588/587 BC. The siege of Jerusalem began on
+    10/X of Zedekiah's 9th year (Jer 52:4; 2 Kgs 25:1), January 588 BC, and the wall
+    was breached on 9/IV of his 11th year (Jer 39:2; 52:6–7), July 587 BC on the
+    reckoning of Galil and Cogan & Tadmor, July 586 BC on Thiele's. The Babylonian
+    Chronicle fixes Jehoiachin's surrender to the day (2 Adar, year 7). Whether
+    Judah counted regnal years from spring (Nisan) or autumn (Tishri) moves several
+    of these dates by a year, so a heading such as "594/593 BC" means the regnal
+    year that straddles them.
+  sources:
+    - babylonian-chronicle
+    - grayson-abc
+    - parker-dubberstein
+    - thiele
+    - galil
+    - cogan-kings
+    - lundbom-jer
+
+prophets-ezekiel-dates:
+  title: Ezekiel's dated oracles
+  date: "593–571 BC"
+  range: [-593, -571]
+  short: >-
+    Ezekiel dates thirteen oracles by year, month and day "of King Jehoiachin's
+    captivity" (1:2; 33:21; 40:1), counted from the spring of 597 BC. Converted with
+    Parker & Dubberstein's tables, they run from 31 July 593 BC (1:1–2) to 26 April
+    571 BC (29:17), the latest.
+  discussion: |
+    Jehoiachin surrendered on 2 Adar 597 BC (Babylonian Chronicle), so year 1 of
+    the captivity is the year beginning Nisan 597 BC, and year *n* begins in the
+    spring of 597 − (n − 1) BC. Months are counted from Nisan (I) in spring. The
+    usual conversions (Parker & Dubberstein, as tabulated in Zimmerli's
+    commentary) are:
+
+    | Text | Year/month/day | Date |
+    |---|---|---|
+    | 1:1–2 | 5/IV/5 | 31 July 593 BC |
+    | 8:1 | 6/VI/5 | 17 September 592 BC |
+    | 20:1 | 7/V/10 | 14 August 591 BC |
+    | 24:1 | 9/X/10 | 15 January 588 BC |
+    | 26:1 | 11/?/1 | 587/586 BC (month missing) |
+    | 29:1 | 10/X/12 | 7 January 587 BC |
+    | 29:17 | 27/I/1 | 26 April 571 BC |
+    | 30:20 | 11/I/7 | 29 April 587 BC |
+    | 31:1 | 11/III/1 | 21 June 587 BC |
+    | 32:1 | 12/XII/1 | 3 March 585 BC |
+    | 32:17 | 12/?/15 | 585 BC (month missing; Greek "first month": April 586) |
+    | 33:21 | 12/X/5 | 8 January 585 BC (some manuscripts "11th year": January 586) |
+    | 40:1 | 25/I?/10 | 28 April 573 BC (or October 574 if the year began in autumn) |
+
+    Ezekiel 40:1 equates the 25th year of captivity with "the fourteenth year after
+    the city was struck", which fits a fall of Jerusalem in 587 BC. The news of the
+    fall reaching Babylon in the 10th month of the 12th year (33:21) means a journey
+    of about five months if the city fell in 586, or eighteen months if it fell in
+    587, which is why some prefer the "11th year" reading there. The "thirtieth
+    year" of 1:1 is unexplained: often Ezekiel's age (so Origen), or 30 years from
+    Josiah's reform of 622 BC, which also lands on 593.
+  sources:
+    - parker-dubberstein
+    - zimmerli
+    - babylonian-chronicle
+    - grayson-abc
+    - thiele
+    - galil
