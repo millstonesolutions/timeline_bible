@@ -11,17 +11,17 @@ Attributed to "James" (1:1), traditionally the brother of Jesus and leader of th
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 45–48 (or before 62) | Moo; Carson & Moo; Robinson | A very Jewish setting ("synagogue", 2:2); no reference to the Gentile controversy settled in AD 48–49; faith and works (2:14–26) answer a garbled Paulinism before Paul's letters circulated. | [Moo 2000](sources.md#moo-james); [Carson & Moo 2005](sources.md#carson-moo); [Robinson 1976](sources.md#robinson) |
-| c. AD 80–100 | Brown; many critical scholars | Polished Greek; it seems to respond to Paul's formulations (Rom 3:28) at some remove; slow acceptance into the canon. | [Brown 1997](sources.md#brown-intro) |
+| c. AD 45–48 (or before 62) | Moo; Carson & Moo; Robinson | A very Jewish setting ("synagogue", 2:2); no reference to the Gentile controversy settled in AD 48–49; faith and works (2:14–26) answer a garbled Paulinism before Paul's letters circulated. | [Moo 2000](../reference/sources.md#moo-james); [Carson & Moo 2005](../reference/sources.md#carson-moo); [Robinson 1976](../reference/sources.md#robinson) |
+| c. AD 80–100 | Brown; many critical scholars | Polished Greek; it seems to respond to Paul's formulations (Rom 3:28) at some remove; slow acceptance into the canon. | [Brown 1997](../reference/sources.md#brown-intro) |
 
 ## James 1
 
 > **Date written:** c. AD 45–62 or 80–100
 >
 > **Basis:**
-> - [Death of James, brother of Jesus](anchors.md#james-death), AD 62. Josephus (*Ant.* 20.197–203) reports that the high priest Ananus had James stoned between Festus's death and Albinus's arrival, AD 62.
+> - [Death of James, brother of Jesus](../reference/anchors.md#james-death), AD 62. Josephus (*Ant.* 20.197–203) reports that the high priest Ananus had James stoned between Festus's death and Albinus's arrival, AD 62.
 >
-> **Sources:** [Josephus, Antiquities, 20.197–203](sources.md#josephus-ant); [Schürer (rev.) 1973](sources.md#schurer).
+> **Sources:** [Josephus, Antiquities, 20.197–203](../reference/sources.md#josephus-ant); [Schürer (rev.) 1973](../reference/sources.md#schurer).
 
 <sup>1</sup>James, a servant of God and of the Lord Jesus Christ,[^1-1] to the twelve tribes which are in the Dispersion: Greetings.
 
@@ -50,9 +50,9 @@ Attributed to "James" (1:1), traditionally the brother of Jesus and leader of th
 > **Date written:** c. AD 45–62 or 80–100
 >
 > **Basis:**
-> - [Death of James, brother of Jesus](anchors.md#james-death), AD 62. Josephus (*Ant.* 20.197–203) reports that the high priest Ananus had James stoned between Festus's death and Albinus's arrival, AD 62.
+> - [Death of James, brother of Jesus](../reference/anchors.md#james-death), AD 62. Josephus (*Ant.* 20.197–203) reports that the high priest Ananus had James stoned between Festus's death and Albinus's arrival, AD 62.
 >
-> **Sources:** [Josephus, Antiquities, 20.197–203](sources.md#josephus-ant); [Schürer (rev.) 1973](sources.md#schurer).
+> **Sources:** [Josephus, Antiquities, 20.197–203](../reference/sources.md#josephus-ant); [Schürer (rev.) 1973](../reference/sources.md#schurer).
 
 <sup>1</sup>My brothers, don’t hold the faith of our glorious Lord Jesus Christ with partiality. <sup>2</sup>For if a man with a gold ring, in fine clothing, comes into your synagogue,[^2-1] and a poor man in filthy clothing also comes in, <sup>3</sup>and you pay special attention to him who wears the fine clothing and say, “Sit here in a good place;” and you tell the poor man, “Stand there,” or “Sit by my footstool” <sup>4</sup>haven’t you shown partiality among yourselves, and become judges with evil thoughts? <sup>5</sup>Listen, my beloved brothers. Didn’t God choose those who are poor in this world to be rich in faith and heirs of the Kingdom which he promised to those who love him? <sup>6</sup>But you have dishonored the poor man. Don’t the rich oppress you and personally drag you before the courts? <sup>7</sup>Don’t they blaspheme the honorable name by which you are called?
 
@@ -69,9 +69,9 @@ Attributed to "James" (1:1), traditionally the brother of Jesus and leader of th
 > **Date written:** c. AD 45–62 or 80–100
 >
 > **Basis:**
-> - [Death of James, brother of Jesus](anchors.md#james-death), AD 62. Josephus (*Ant.* 20.197–203) reports that the high priest Ananus had James stoned between Festus's death and Albinus's arrival, AD 62.
+> - [Death of James, brother of Jesus](../reference/anchors.md#james-death), AD 62. Josephus (*Ant.* 20.197–203) reports that the high priest Ananus had James stoned between Festus's death and Albinus's arrival, AD 62.
 >
-> **Sources:** [Josephus, Antiquities, 20.197–203](sources.md#josephus-ant); [Schürer (rev.) 1973](sources.md#schurer).
+> **Sources:** [Josephus, Antiquities, 20.197–203](../reference/sources.md#josephus-ant); [Schürer (rev.) 1973](../reference/sources.md#schurer).
 
 <sup>1</sup>Let not many of you be teachers, my brothers, knowing that we will receive heavier judgment. <sup>2</sup>For we all stumble in many things. Anyone who doesn’t stumble in word is a perfect person, able to bridle the whole body also. <sup>3</sup>Indeed, we put bits into the horses’ mouths so that they may obey us, and we guide their whole body. <sup>4</sup>Behold,[^3-1] the ships also, though they are so big and are driven by fierce winds, are yet guided by a very small rudder, wherever the pilot desires. <sup>5</sup>So the tongue is also a little member, and boasts great things. See how a small fire can spread to a large forest! <sup>6</sup>And the tongue is a fire. The world of iniquity among our members is the tongue, which defiles the whole body, and sets on fire the course of nature, and is set on fire by Gehenna.[^3-2] <sup>7</sup>For every kind of animal, bird, creeping thing, and sea creature is tamed, and has been tamed by mankind; <sup>8</sup>but nobody can tame the tongue. It is a restless evil, full of deadly poison. <sup>9</sup>With it we bless our God and Father, and with it we curse men who are made in the image of God. <sup>10</sup>Out of the same mouth comes blessing and cursing. My brothers, these things ought not to be so. <sup>11</sup>Does a spring send out from the same opening fresh and bitter water? <sup>12</sup>Can a fig tree, my brothers, yield olives, or a vine figs? Thus no spring yields both salt water and fresh water.
 
@@ -85,9 +85,9 @@ Attributed to "James" (1:1), traditionally the brother of Jesus and leader of th
 > **Date written:** c. AD 45–62 or 80–100
 >
 > **Basis:**
-> - [Death of James, brother of Jesus](anchors.md#james-death), AD 62. Josephus (*Ant.* 20.197–203) reports that the high priest Ananus had James stoned between Festus's death and Albinus's arrival, AD 62.
+> - [Death of James, brother of Jesus](../reference/anchors.md#james-death), AD 62. Josephus (*Ant.* 20.197–203) reports that the high priest Ananus had James stoned between Festus's death and Albinus's arrival, AD 62.
 >
-> **Sources:** [Josephus, Antiquities, 20.197–203](sources.md#josephus-ant); [Schürer (rev.) 1973](sources.md#schurer).
+> **Sources:** [Josephus, Antiquities, 20.197–203](../reference/sources.md#josephus-ant); [Schürer (rev.) 1973](../reference/sources.md#schurer).
 
 <sup>1</sup>Where do wars and fightings among you come from? Don’t they come from your pleasures that war in your members? <sup>2</sup>You lust, and don’t have. You murder and covet, and can’t obtain. You fight and make war. You don’t have, because you don’t ask. <sup>3</sup>You ask, and don’t receive, because you ask with wrong motives, so that you may spend it on your pleasures. <sup>4</sup>You adulterers and adulteresses, don’t you know that friendship with the world is hostility toward God? Whoever therefore wants to be a friend of the world makes himself an enemy of God. <sup>5</sup>Or do you think that the Scripture says in vain, “The Spirit who lives in us yearns jealously”? <sup>6</sup>But he gives more grace. Therefore it says, “God resists the proud, but gives grace to the humble.” <sup>7</sup>Be subject therefore to God. Resist the devil, and he will flee from you. <sup>8</sup>Draw near to God, and he will draw near to you. Cleanse your hands, you sinners. Purify your hearts, you double-minded. <sup>9</sup>Lament, mourn, and weep. Let your laughter be turned to mourning and your joy to gloom. <sup>10</sup>Humble yourselves in the sight of the Lord, and he will exalt you.
 
@@ -100,9 +100,9 @@ Attributed to "James" (1:1), traditionally the brother of Jesus and leader of th
 > **Date written:** c. AD 45–62 or 80–100
 >
 > **Basis:**
-> - [Death of James, brother of Jesus](anchors.md#james-death), AD 62. Josephus (*Ant.* 20.197–203) reports that the high priest Ananus had James stoned between Festus's death and Albinus's arrival, AD 62.
+> - [Death of James, brother of Jesus](../reference/anchors.md#james-death), AD 62. Josephus (*Ant.* 20.197–203) reports that the high priest Ananus had James stoned between Festus's death and Albinus's arrival, AD 62.
 >
-> **Sources:** [Josephus, Antiquities, 20.197–203](sources.md#josephus-ant); [Schürer (rev.) 1973](sources.md#schurer).
+> **Sources:** [Josephus, Antiquities, 20.197–203](../reference/sources.md#josephus-ant); [Schürer (rev.) 1973](../reference/sources.md#schurer).
 
 <sup>1</sup>Come now, you rich, weep and howl for your miseries that are coming on you. <sup>2</sup>Your riches are corrupted and your garments are moth-eaten. <sup>3</sup>Your gold and your silver are corroded, and their corrosion will be for a testimony against you and will eat your flesh like fire. You have laid up your treasure in the last days. <sup>4</sup>Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out; and the cries of those who reaped have entered into the ears of the Lord of Armies.[^5-1] <sup>5</sup>You have lived in luxury on the earth, and taken your pleasure. You have nourished your hearts as in a day of slaughter. <sup>6</sup>You have condemned and you have murdered the righteous one. He doesn’t resist you.
 

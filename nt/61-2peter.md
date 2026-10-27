@@ -11,18 +11,18 @@ Presented as Peter's testament before his death (1:14). Many scholars, including
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 64–67 | Some conservative scholars (Carson & Moo discuss the case) | Self-claim (1:1, 16–18, transfiguration eyewitness; 3:1 "second letter"). | [Carson & Moo 2005](sources.md#carson-moo) |
-| c. AD 80–90 | Bauckham | A testament written in Peter's name soon after his death; uses Jude. | [Bauckham 1983](sources.md#bauckham-jude) |
-| c. AD 100–150 | Brown (c. 130); many critical scholars | Paul's letters are a collection called "scripture" (3:15–16); "the fathers fell asleep" (3:4); weak early attestation. | [Brown 1997](sources.md#brown-intro) |
+| c. AD 64–67 | Some conservative scholars (Carson & Moo discuss the case) | Self-claim (1:1, 16–18, transfiguration eyewitness; 3:1 "second letter"). | [Carson & Moo 2005](../reference/sources.md#carson-moo) |
+| c. AD 80–90 | Bauckham | A testament written in Peter's name soon after his death; uses Jude. | [Bauckham 1983](../reference/sources.md#bauckham-jude) |
+| c. AD 100–150 | Brown (c. 130); many critical scholars | Paul's letters are a collection called "scripture" (3:15–16); "the fathers fell asleep" (3:4); weak early attestation. | [Brown 1997](../reference/sources.md#brown-intro) |
 
 ## 2 Peter 1
 
 > **Date written:** c. AD 64–67 or 80–130
 >
 > **Basis:**
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>Simon Peter, a servant and apostle of Jesus Christ,[^1-1] to those who have obtained a like precious faith with us in the righteousness of our God and Savior, Jesus Christ: <sup>2</sup>Grace to you and peace be multiplied in the knowledge of God and of Jesus our Lord, <sup>3</sup>seeing that his divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us by his own glory and virtue, <sup>4</sup>by which he has granted to us his precious and exceedingly great promises; that through these you may become partakers of the divine nature, having escaped from the corruption that is in the world by lust. <sup>5</sup>Yes, and for this very cause adding on your part all diligence, in your faith supply moral excellence; and in moral excellence, knowledge; <sup>6</sup>and in knowledge, self-control; and in self-control, perseverance; and in perseverance, godliness; <sup>7</sup>and in godliness, brotherly affection; and in brotherly affection, love. <sup>8</sup>For if these things are yours and abound, they make you to not be idle or unfruitful in the knowledge of our Lord Jesus Christ. <sup>9</sup>For he who lacks these things is blind, seeing only what is near, having forgotten the cleansing from his old sins. <sup>10</sup>Therefore, brothers,[^1-2] be more diligent to make your calling and election sure. For if you do these things, you will never stumble. <sup>11</sup>For thus you will be richly supplied with the entrance into the eternal Kingdom of our Lord and Savior, Jesus Christ.
 
@@ -42,9 +42,9 @@ Presented as Peter's testament before his death (1:14). Many scholars, including
 > Chapter 2 closely parallels Jude 4–18; most scholars think 2 Peter uses Jude, which makes it later than Jude.
 >
 > **Basis:**
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>But false prophets also arose among the people, as false teachers will also be among you, who will secretly bring in destructive heresies, denying even the Master who bought them, bringing on themselves swift destruction. <sup>2</sup>Many will follow their immoral[^2-1] ways, and as a result, the way of the truth will be maligned. <sup>3</sup>In covetousness they will exploit you with deceptive words: whose sentence now from of old doesn’t linger, and their destruction will not slumber.
 
@@ -62,9 +62,9 @@ Presented as Peter's testament before his death (1:14). Many scholars, including
 > **Date written:** c. AD 64–67 or 80–130
 >
 > **Basis:**
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>This is now, beloved, the second letter that I have written to you; and in both of them I stir up your sincere mind by reminding you <sup>2</sup>that you should remember the words which were spoken before by the holy prophets and the commandment of us, the apostles of the Lord and Savior, <sup>3</sup>knowing this first, that in the last days mockers will come, walking after their own lusts <sup>4</sup>and saying, “Where is the promise of his coming? For, from the day that the fathers fell asleep, all things continue as they were from the beginning of the creation.” <sup>5</sup>For they willfully forget that there were heavens from of old, and an earth formed out of water and amid water by the word of God, <sup>6</sup>by which means the world that existed then, being overflowed with water, perished. <sup>7</sup>But the heavens that exist now and the earth, by the same word have been stored up for fire, being reserved against the day of judgment and destruction of ungodly men.
 

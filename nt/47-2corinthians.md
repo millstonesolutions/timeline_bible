@@ -11,8 +11,8 @@ Paul's authorship is undisputed. Written from Macedonia (2:13; 7:5; 9:2) after h
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| AD 55–56, one letter | Many conservative scholars (Carson & Moo) | Written in Macedonia after Titus brought good news (7:5–7), before the third visit (12:14; 13:1). | [Carson & Moo 2005](sources.md#carson-moo) |
-| AD 55–56, composite | Many critical scholars (Brown discusses the partition theories) | The change of tone at chapter 10 leads many to see chapters 10–13 as a separate letter, often identified with the "tearful letter" (2:4), and so earlier than chapters 1–9; others think 10–13 came later. Chapters 8 and 9 are sometimes separated too. | [Brown 1997](sources.md#brown-intro) |
+| AD 55–56, one letter | Many conservative scholars (Carson & Moo) | Written in Macedonia after Titus brought good news (7:5–7), before the third visit (12:14; 13:1). | [Carson & Moo 2005](../reference/sources.md#carson-moo) |
+| AD 55–56, composite | Many critical scholars (Brown discusses the partition theories) | The change of tone at chapter 10 leads many to see chapters 10–13 as a separate letter, often identified with the "tearful letter" (2:4), and so earlier than chapters 1–9; others think 10–13 came later. Chapters 8 and 9 are sometimes separated too. | [Brown 1997](../reference/sources.md#brown-intro) |
 
 ## 2 Corinthians 1
 
@@ -21,10 +21,10 @@ Paul's authorship is undisputed. Written from Macedonia (2:13; 7:5; 9:2) after h
 > The "affliction which happened to us in Asia" (1:8) is a recent crisis in or near Ephesus.
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Paul, an apostle of Christ[^1-1] Jesus through the will of God, and Timothy our brother, to the assembly of God which is at Corinth, with all the saints who are in the whole of Achaia: <sup>2</sup>Grace to you and peace from God our Father and the Lord Jesus Christ.
 
@@ -51,10 +51,10 @@ Paul's authorship is undisputed. Written from Macedonia (2:13; 7:5; 9:2) after h
 > Refers back to a letter written "out of much affliction ... with many tears" (2:4), which may be lost or may be 2 Cor 10–13.
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>But I determined this for myself, that I would not come to you again in sorrow. <sup>2</sup>For if I make you grieve, then who will make me glad but he who is made to grieve by me? <sup>3</sup>And I wrote this very thing to you, so that when I came, I wouldn’t have sorrow from them of whom I ought to rejoice; having confidence in you all that my joy would be shared by all of you. <sup>4</sup>For out of much affliction and anguish of heart I wrote to you with many tears, not that you should be made to grieve, but that you might know the love that I have so abundantly for you.
 
@@ -69,10 +69,10 @@ Paul's authorship is undisputed. Written from Macedonia (2:13; 7:5; 9:2) after h
 > **Date written:** c. AD 55–56
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Are we beginning again to commend ourselves? Or do we need, as do some, letters of commendation to you or from you? <sup>2</sup>You are our letter, written in our hearts, known and read by all men, <sup>3</sup>being revealed that you are a letter of Christ, served by us, written not with ink, but with the Spirit of the living God; not in tablets of stone, but in tablets that are hearts of flesh.
 
@@ -87,10 +87,10 @@ Paul's authorship is undisputed. Written from Macedonia (2:13; 7:5; 9:2) after h
 > **Date written:** c. AD 55–56
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Therefore, seeing we have this ministry, even as we obtained mercy, we don’t faint. <sup>2</sup>But we have renounced the hidden things of shame, not walking in craftiness nor handling the word of God deceitfully, but by the manifestation of the truth commending ourselves to every man’s conscience in the sight of God. <sup>3</sup>Even if our Good News is veiled, it is veiled in those who are dying, <sup>4</sup>in whom the god of this world has blinded the minds of the unbelieving, that the light of the Good News of the glory of Christ, who is the image of God, should not dawn on them. <sup>5</sup>For we don’t preach ourselves, but Christ Jesus as Lord, and ourselves as your servants for Jesus’ sake, <sup>6</sup>seeing it is God who said, “Light will shine out of darkness,” who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ.
 
@@ -107,10 +107,10 @@ Paul's authorship is undisputed. Written from Macedonia (2:13; 7:5; 9:2) after h
 > **Date written:** c. AD 55–56
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>For we know that if the earthly house of our tent is dissolved, we have a building from God, a house not made with hands, eternal, in the heavens. <sup>2</sup>For most certainly in this we groan, longing to be clothed with our habitation which is from heaven, <sup>3</sup>if indeed being clothed, we will not be found naked. <sup>4</sup>For indeed we who are in this tent do groan, being burdened, not that we desire to be unclothed, but that we desire to be clothed, that what is mortal may be swallowed up by life. <sup>5</sup>Now he who made us for this very thing is God, who also gave to us the down payment of the Spirit.
 
@@ -129,10 +129,10 @@ Paul's authorship is undisputed. Written from Macedonia (2:13; 7:5; 9:2) after h
 > **Date written:** c. AD 55–56
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Working together, we entreat also that you do not receive the grace of God in vain. <sup>2</sup>For he says,
 
@@ -159,10 +159,10 @@ says the Lord Almighty.”
 > **Date written:** c. AD 55–56
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Having therefore these promises, beloved, let’s cleanse ourselves from all defilement of flesh and spirit, perfecting holiness in the fear of God.
 
@@ -177,10 +177,10 @@ says the Lord Almighty.”
 > **Date written:** c. AD 55–56
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Moreover, brothers, we make known to you the grace of God which has been given in the assemblies of Macedonia, <sup>2</sup>how in a severe ordeal of affliction, the abundance of their joy and their deep poverty abounded to the riches of their generosity. <sup>3</sup>For according to their power, I testify, yes and beyond their power, they gave of their own accord, <sup>4</sup>begging us with much entreaty to receive this grace and the fellowship in the service to the saints. <sup>5</sup>This was not as we had expected, but first they gave their own selves to the Lord, and to us through the will of God. <sup>6</sup>So we urged Titus, that as he had made a beginning before, so he would also complete in you this grace. <sup>7</sup>But as you abound in everything—in faith, utterance, knowledge, all earnestness, and in your love to us—see that you also abound in this grace.
 
@@ -193,10 +193,10 @@ says the Lord Almighty.”
 > **Date written:** c. AD 55–56
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>It is indeed unnecessary for me to write to you concerning the service to the saints, <sup>2</sup>for I know your readiness, of which I boast on your behalf to those of Macedonia, that Achaia has been prepared for the past year. Your zeal has stirred up very many of them. <sup>3</sup>But I have sent the brothers so that our boasting on your behalf may not be in vain in this respect, that, just as I said, you may be prepared, <sup>4</sup>lest by any means, if anyone from Macedonia comes there with me and finds you unprepared, we (to say nothing of you) would be disappointed in this confident boasting. <sup>5</sup>I thought it necessary therefore to entreat the brothers that they would go before to you and arrange ahead of time the generous gift that you promised before, that the same might be ready as a matter of generosity, and not of greediness.
 
@@ -214,10 +214,10 @@ says the Lord Almighty.”
 > Chapters 10–13 may be a separate letter (see the book introduction). Whatever their order, all the fragments fall in the same AD 55–56 window.
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Now I Paul, myself, entreat you by the humility and gentleness of Christ, I who in your presence am lowly among you, but being absent am bold toward you. <sup>2</sup>Yes, I beg you that I may not, when present, show courage with the confidence with which I intend to be bold against some, who consider us to be walking according to the flesh. <sup>3</sup>For though we walk in the flesh, we don’t wage war according to the flesh; <sup>4</sup>for the weapons of our warfare are not of the flesh, but mighty before God to the throwing down of strongholds, <sup>5</sup>throwing down imaginations and every high thing that is exalted against the knowledge of God and bringing every thought into captivity to the obedience of Christ, <sup>6</sup>and being in readiness to avenge all disobedience when your obedience is made full.
 
@@ -232,10 +232,10 @@ says the Lord Almighty.”
 > Escape from Damascus "under Aretas the king" (11:32–33), years before, c. AD 34–37; it has to fall before Aretas IV's death (c. AD 40).
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Conversion of Paul](anchors.md#paul-conversion), c. AD 31–36 (often c. 33–34). Galatians 1:18 and 2:1 count 3 + 14 (or 14 inclusive) years back from the Jerusalem meeting of c. AD 48–49, which gives c. AD 31–36. Riesner proposes AD 31/32, Jewett AD 34, Bruce c. 33.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Conversion of Paul](../reference/anchors.md#paul-conversion), c. AD 31–36 (often c. 33–34). Galatians 1:18 and 2:1 count 3 + 14 (or 14 inclusive) years back from the Jerusalem meeting of c. AD 48–49, which gives c. AD 31–36. Riesner proposes AD 31/32, Jewett AD 34, Bruce c. 33.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann).
 
 <sup>1</sup>I wish that you would bear with me in a little foolishness, but indeed you do bear with me. <sup>2</sup>For I am jealous over you with a godly jealousy. For I promised you in marriage to one husband, that I might present you as a pure virgin to Christ. <sup>3</sup>But I am afraid that somehow, as the serpent deceived Eve in his craftiness, so your minds might be corrupted from the simplicity that is in Christ. <sup>4</sup>For if he who comes preaches another Jesus whom we didn’t preach, or if you receive a different spirit which you didn’t receive, or a different “good news” which you didn’t accept, you put up with that well enough. <sup>5</sup>For I reckon that I am not at all behind the very best apostles. <sup>6</sup>But though I am unskilled in speech, yet I am not unskilled in knowledge. No, in every way we have been revealed to you in all things.
 
@@ -258,10 +258,10 @@ says the Lord Almighty.”
 > Chapters 10–13 may be a separate letter (see the book introduction). Whatever their order, all the fragments fall in the same AD 55–56 window.
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>It is doubtless not profitable for me to boast, but I will come to visions and revelations of the Lord. <sup>2</sup>I know a man in Christ who was caught up into the third heaven fourteen years ago—whether in the body, I don’t know, or whether out of the body, I don’t know; God knows. <sup>3</sup>I know such a man (whether in the body, or outside of the body, I don’t know; God knows), <sup>4</sup>how he was caught up into Paradise and heard unspeakable words, which it is not lawful for a man to utter. <sup>5</sup>On behalf of such a one I will boast, but on my own behalf I will not boast, except in my weaknesses. <sup>6</sup>For if I would desire to boast, I will not be foolish; for I will speak the truth. But I refrain, so that no man may think more of me than that which he sees in me or hears from me. <sup>7</sup>By reason of the exceeding greatness of the revelations, that I should not be exalted excessively, a thorn in the flesh was given to me: a messenger of Satan to torment me, that I should not be exalted excessively. <sup>8</sup>Concerning this thing, I begged the Lord three times that it might depart from me. <sup>9</sup>He has said to me, “My grace is sufficient for you, for my power is made perfect in weakness.”Most gladly therefore I will rather glory in my weaknesses, that the power of Christ may rest on me.
 
@@ -278,10 +278,10 @@ says the Lord Almighty.”
 > Chapters 10–13 may be a separate letter (see the book introduction). Whatever their order, all the fragments fall in the same AD 55–56 window.
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>This is the third time I am coming to you. “At the mouth of two or three witnesses shall every word be established.” <sup>2</sup>I have warned previously, and I warn again, as when I was present the second time, so now, being absent, I write to those who have sinned before now and to all the rest that if I come again, I will not spare, <sup>3</sup>seeing that you seek a proof of Christ who speaks in me who is not weak, but is powerful in you. <sup>4</sup>For he was crucified through weakness, yet he lives through the power of God. For we also are weak in him, but we will live with him through the power of God toward you.
 

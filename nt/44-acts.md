@@ -11,9 +11,9 @@ Luke's second volume. Most date it with Luke, c. AD 80–90; a conservative mino
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| AD 80–90 | Most critical scholars (Brown c. 85 ± 5–10; Ehrman) | Written after Luke, which is dated after AD 70; Paul is portrayed from some distance. | [Brown 1997](sources.md#brown-intro); [Ehrman, NT Introduction](sources.md#ehrman-nt) |
-| c. AD 62 | Hemer; Robinson; Bruce (in some works); discussed favourably by Carson & Moo | The book ends with Paul two years in Rome awaiting trial (28:30–31) and says nothing of his death, Nero's persecution (AD 64), James's death (AD 62) or the temple's fall (AD 70). Hemer catalogues detailed first-century local knowledge. | [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo) |
-| AD 110–120 | Pervo (minority) | Possible use of Josephus's *Antiquities* (AD 93/94) and of a collection of Paul's letters. | [Pervo 2006](sources.md#pervo) |
+| AD 80–90 | Most critical scholars (Brown c. 85 ± 5–10; Ehrman) | Written after Luke, which is dated after AD 70; Paul is portrayed from some distance. | [Brown 1997](../reference/sources.md#brown-intro); [Ehrman, NT Introduction](../reference/sources.md#ehrman-nt) |
+| c. AD 62 | Hemer; Robinson; Bruce (in some works); discussed favourably by Carson & Moo | The book ends with Paul two years in Rome awaiting trial (28:30–31) and says nothing of his death, Nero's persecution (AD 64), James's death (AD 62) or the temple's fall (AD 70). Hemer catalogues detailed first-century local knowledge. | [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo) |
+| AD 110–120 | Pervo (minority) | Possible use of Josephus's *Antiquities* (AD 93/94) and of a collection of Paul's letters. | [Pervo 2006](../reference/sources.md#pervo) |
 
 ## Acts 1
 
@@ -25,9 +25,9 @@ Luke's second volume. Most date it with Luke, c. AD 80–90; a conservative mino
 > Forty days of appearances (1:3), the ascension, and the choice of Matthias.
 >
 > **Basis:**
-> - [Resurrection appearances and ascension](anchors.md#resurrection-ascension), April–May AD 30 or 33. The resurrection is the Sunday after the crucifixion (9 April AD 30 or 5 April AD 33); Acts 1:3 puts the ascension 40 days later (mid-May) and Pentecost 10 days after that (Acts 2:1).
+> - [Resurrection appearances and ascension](../reference/anchors.md#resurrection-ascension), April–May AD 30 or 33. The resurrection is the Sunday after the crucifixion (9 April AD 30 or 5 April AD 33); Acts 1:3 puts the ascension 40 days later (mid-May) and Pentecost 10 days after that (Acts 2:1).
 >
-> **Sources:** [Finegan 1998](sources.md#finegan); [Hoehner 1977](sources.md#hoehner).
+> **Sources:** [Finegan 1998](../reference/sources.md#finegan); [Hoehner 1977](../reference/sources.md#hoehner).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -66,9 +66,9 @@ and,
 > Pentecost is fifty days after Passover. Humphreys & Waddington link Peter's "moon into blood" (2:20) with the partial lunar eclipse on 3 April AD 33.
 >
 > **Basis:**
-> - [Resurrection appearances and ascension](anchors.md#resurrection-ascension), April–May AD 30 or 33. The resurrection is the Sunday after the crucifixion (9 April AD 30 or 5 April AD 33); Acts 1:3 puts the ascension 40 days later (mid-May) and Pentecost 10 days after that (Acts 2:1).
+> - [Resurrection appearances and ascension](../reference/anchors.md#resurrection-ascension), April–May AD 30 or 33. The resurrection is the Sunday after the crucifixion (9 April AD 30 or 5 April AD 33); Acts 1:3 puts the ascension 40 days later (mid-May) and Pentecost 10 days after that (Acts 2:1).
 >
-> **Sources:** [Humphreys & Waddington 1983](sources.md#humphreys-waddington); [Finegan 1998](sources.md#finegan); [Hoehner 1977](sources.md#hoehner).
+> **Sources:** [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington); [Finegan 1998](../reference/sources.md#finegan); [Hoehner 1977](../reference/sources.md#hoehner).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -130,9 +130,9 @@ Your sons and your daughters will prophesy.
 > - *Model B (crucifixion AD 33):* c. AD 33–34
 >
 > **Basis:**
-> - [The early Jerusalem church to Stephen](anchors.md#early-church), c. AD 30–34. Acts 2–7 covers the period between Pentecost and Stephen's death. Stephen's death came shortly before Paul's conversion (Acts 8:1; 9:1), so it is usually dated c. AD 31–34.
+> - [The early Jerusalem church to Stephen](../reference/anchors.md#early-church), c. AD 30–34. Acts 2–7 covers the period between Pentecost and Stephen's death. Stephen's death came shortly before Paul's conversion (Acts 8:1; 9:1), so it is usually dated c. AD 31–34.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Bruce 1977](sources.md#bruce-paul); [Finegan 1998](sources.md#finegan).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Bruce 1977](../reference/sources.md#bruce-paul); [Finegan 1998](../reference/sources.md#finegan).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -158,9 +158,9 @@ Your sons and your daughters will prophesy.
 > Annas and Caiaphas are still in power (4:6); Caiaphas was deposed in AD 36/37 (Josephus, *Ant.* 18.95).
 >
 > **Basis:**
-> - [The early Jerusalem church to Stephen](anchors.md#early-church), c. AD 30–34. Acts 2–7 covers the period between Pentecost and Stephen's death. Stephen's death came shortly before Paul's conversion (Acts 8:1; 9:1), so it is usually dated c. AD 31–34.
+> - [The early Jerusalem church to Stephen](../reference/anchors.md#early-church), c. AD 30–34. Acts 2–7 covers the period between Pentecost and Stephen's death. Stephen's death came shortly before Paul's conversion (Acts 8:1; 9:1), so it is usually dated c. AD 31–34.
 >
-> **Sources:** [Josephus, Antiquities, 18.95](sources.md#josephus-ant); [Riesner 1998](sources.md#riesner); [Bruce 1977](sources.md#bruce-paul); [Finegan 1998](sources.md#finegan).
+> **Sources:** [Josephus, Antiquities, 18.95](../reference/sources.md#josephus-ant); [Riesner 1998](../reference/sources.md#riesner); [Bruce 1977](../reference/sources.md#bruce-paul); [Finegan 1998](../reference/sources.md#finegan).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -202,9 +202,9 @@ Your sons and your daughters will prophesy.
 > Gamaliel cites Theudas and Judas the Galilean (5:36–37). Josephus puts a Theudas under the procurator Fadus (c. AD 44–46, *Ant.* 20.97–98), after this speech's setting: either Luke has made an error, or it is a different Theudas. This is one of the evidence points in the debate about Luke's use of Josephus.
 >
 > **Basis:**
-> - [The early Jerusalem church to Stephen](anchors.md#early-church), c. AD 30–34. Acts 2–7 covers the period between Pentecost and Stephen's death. Stephen's death came shortly before Paul's conversion (Acts 8:1; 9:1), so it is usually dated c. AD 31–34.
+> - [The early Jerusalem church to Stephen](../reference/anchors.md#early-church), c. AD 30–34. Acts 2–7 covers the period between Pentecost and Stephen's death. Stephen's death came shortly before Paul's conversion (Acts 8:1; 9:1), so it is usually dated c. AD 31–34.
 >
-> **Sources:** [Josephus, Antiquities, 20.97–98](sources.md#josephus-ant); [Pervo 2006](sources.md#pervo); [Riesner 1998](sources.md#riesner); [Bruce 1977](sources.md#bruce-paul); [Finegan 1998](sources.md#finegan).
+> **Sources:** [Josephus, Antiquities, 20.97–98](../reference/sources.md#josephus-ant); [Pervo 2006](../reference/sources.md#pervo); [Riesner 1998](../reference/sources.md#riesner); [Bruce 1977](../reference/sources.md#bruce-paul); [Finegan 1998](../reference/sources.md#finegan).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -243,9 +243,9 @@ She said, “Yes, for so much.”
 > The Seven appointed; Stephen arrested.
 >
 > **Basis:**
-> - [The early Jerusalem church to Stephen](anchors.md#early-church), c. AD 30–34. Acts 2–7 covers the period between Pentecost and Stephen's death. Stephen's death came shortly before Paul's conversion (Acts 8:1; 9:1), so it is usually dated c. AD 31–34.
+> - [The early Jerusalem church to Stephen](../reference/anchors.md#early-church), c. AD 30–34. Acts 2–7 covers the period between Pentecost and Stephen's death. Stephen's death came shortly before Paul's conversion (Acts 8:1; 9:1), so it is usually dated c. AD 31–34.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Bruce 1977](sources.md#bruce-paul); [Finegan 1998](sources.md#finegan).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Bruce 1977](../reference/sources.md#bruce-paul); [Finegan 1998](../reference/sources.md#finegan).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -266,9 +266,9 @@ She said, “Yes, for so much.”
 > Stephen's speech and stoning; Saul is present (7:58).
 >
 > **Basis:**
-> - [The early Jerusalem church to Stephen](anchors.md#early-church), c. AD 30–34. Acts 2–7 covers the period between Pentecost and Stephen's death. Stephen's death came shortly before Paul's conversion (Acts 8:1; 9:1), so it is usually dated c. AD 31–34.
+> - [The early Jerusalem church to Stephen](../reference/anchors.md#early-church), c. AD 30–34. Acts 2–7 covers the period between Pentecost and Stephen's death. Stephen's death came shortly before Paul's conversion (Acts 8:1; 9:1), so it is usually dated c. AD 31–34.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Bruce 1977](sources.md#bruce-paul); [Finegan 1998](sources.md#finegan).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Bruce 1977](../reference/sources.md#bruce-paul); [Finegan 1998](../reference/sources.md#finegan).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -318,10 +318,10 @@ What kind of house will you build me?’ says the Lord.
 > Persecution after Stephen's death; Philip in Samaria and the Ethiopian official.
 >
 > **Basis:**
-> - [The early Jerusalem church to Stephen](anchors.md#early-church), c. AD 30–34. Acts 2–7 covers the period between Pentecost and Stephen's death. Stephen's death came shortly before Paul's conversion (Acts 8:1; 9:1), so it is usually dated c. AD 31–34.
-> - [Conversion of Paul](anchors.md#paul-conversion), c. AD 31–36 (often c. 33–34). Galatians 1:18 and 2:1 count 3 + 14 (or 14 inclusive) years back from the Jerusalem meeting of c. AD 48–49, which gives c. AD 31–36. Riesner proposes AD 31/32, Jewett AD 34, Bruce c. 33.
+> - [The early Jerusalem church to Stephen](../reference/anchors.md#early-church), c. AD 30–34. Acts 2–7 covers the period between Pentecost and Stephen's death. Stephen's death came shortly before Paul's conversion (Acts 8:1; 9:1), so it is usually dated c. AD 31–34.
+> - [Conversion of Paul](../reference/anchors.md#paul-conversion), c. AD 31–36 (often c. 33–34). Galatians 1:18 and 2:1 count 3 + 14 (or 14 inclusive) years back from the Jerusalem meeting of c. AD 48–49, which gives c. AD 31–36. Riesner proposes AD 31/32, Jewett AD 34, Bruce c. 33.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Bruce 1977](sources.md#bruce-paul); [Finegan 1998](sources.md#finegan); [Jewett 1979](sources.md#jewett); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Bruce 1977](../reference/sources.md#bruce-paul); [Finegan 1998](../reference/sources.md#finegan); [Jewett 1979](../reference/sources.md#jewett); [Lüdemann 1984](../reference/sources.md#luedemann).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -369,9 +369,9 @@ What kind of house will you build me?’ says the Lord.
 > Saul's conversion (9:1–19), preaching in Damascus, escape over the wall (9:23–25; under Aretas, 2 Cor 11:32), first Jerusalem visit "after three years" (Gal 1:18), departure for Tarsus. Peter's tour of Lydda and Joppa (9:32–43) follows, c. AD 37–40.
 >
 > **Basis:**
-> - [Conversion of Paul](anchors.md#paul-conversion), c. AD 31–36 (often c. 33–34). Galatians 1:18 and 2:1 count 3 + 14 (or 14 inclusive) years back from the Jerusalem meeting of c. AD 48–49, which gives c. AD 31–36. Riesner proposes AD 31/32, Jewett AD 34, Bruce c. 33.
+> - [Conversion of Paul](../reference/anchors.md#paul-conversion), c. AD 31–36 (often c. 33–34). Galatians 1:18 and 2:1 count 3 + 14 (or 14 inclusive) years back from the Jerusalem meeting of c. AD 48–49, which gives c. AD 31–36. Riesner proposes AD 31/32, Jewett AD 34, Bruce c. 33.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -424,10 +424,10 @@ Saul stayed several days with the disciples who were at Damascus. <sup>20</sup>I
 > Cornelius at Caesarea. No firm synchronism: it comes after Saul's departure for Tarsus (9:30) and before Agrippa I's persecution (AD 43/44).
 >
 > **Basis:**
-> - [Conversion of Paul](anchors.md#paul-conversion), c. AD 31–36 (often c. 33–34). Galatians 1:18 and 2:1 count 3 + 14 (or 14 inclusive) years back from the Jerusalem meeting of c. AD 48–49, which gives c. AD 31–36. Riesner proposes AD 31/32, Jewett AD 34, Bruce c. 33.
-> - [Death of Herod Agrippa I](anchors.md#agrippa-death), AD 44. Josephus describes Agrippa I's sudden death at Caesarea in AD 44 (*Ant.* 19.343–352), the same event as Acts 12:20–23, so it is one of the firmest dates in Acts.
+> - [Conversion of Paul](../reference/anchors.md#paul-conversion), c. AD 31–36 (often c. 33–34). Galatians 1:18 and 2:1 count 3 + 14 (or 14 inclusive) years back from the Jerusalem meeting of c. AD 48–49, which gives c. AD 31–36. Riesner proposes AD 31/32, Jewett AD 34, Bruce c. 33.
+> - [Death of Herod Agrippa I](../reference/anchors.md#agrippa-death), AD 44. Josephus describes Agrippa I's sudden death at Caesarea in AD 44 (*Ant.* 19.343–352), the same event as Acts 12:20–23, so it is one of the firmest dates in Acts.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann); [Josephus, Antiquities, 19.343–352](sources.md#josephus-ant); [Schürer (rev.) 1973](sources.md#schurer).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann); [Josephus, Antiquities, 19.343–352](../reference/sources.md#josephus-ant); [Schürer (rev.) 1973](../reference/sources.md#schurer).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -474,9 +474,9 @@ Then Peter answered, <sup>47</sup>“Can anyone forbid these people from being b
 > The church at Antioch; Barnabas brings Saul from Tarsus for "a whole year" (11:26); Agabus predicts the famine "in the days of Claudius" (11:28); the relief is sent with Barnabas and Saul (11:30).
 >
 > **Basis:**
-> - [Famine under Claudius](anchors.md#famine), c. AD 45–48. Acts 11:28 places Agabus's famine "in the days of Claudius" (AD 41–54). Josephus reports a severe famine in Judea under the procurators Fadus and Tiberius Alexander, c. AD 45–48 (*Ant.* 20.101).
+> - [Famine under Claudius](../reference/anchors.md#famine), c. AD 45–48. Acts 11:28 places Agabus's famine "in the days of Claudius" (AD 41–54). Josephus reports a severe famine in Judea under the procurators Fadus and Tiberius Alexander, c. AD 45–48 (*Ant.* 20.101).
 >
-> **Sources:** [Josephus, Antiquities, 20.51–53, 20.101](sources.md#josephus-ant); [Riesner 1998](sources.md#riesner).
+> **Sources:** [Josephus, Antiquities, 20.51–53, 20.101](../reference/sources.md#josephus-ant); [Riesner 1998](../reference/sources.md#riesner).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -502,10 +502,10 @@ Then Peter answered, <sup>47</sup>“Can anyone forbid these people from being b
 > James son of Zebedee is executed and Peter imprisoned "during the days of unleavened bread" (12:3). Agrippa dies at Caesarea (12:20–23), firmly AD 44. 12:25 brings Barnabas and Saul back from Jerusalem.
 >
 > **Basis:**
-> - [Death of Herod Agrippa I](anchors.md#agrippa-death), AD 44. Josephus describes Agrippa I's sudden death at Caesarea in AD 44 (*Ant.* 19.343–352), the same event as Acts 12:20–23, so it is one of the firmest dates in Acts.
-> - [Famine under Claudius](anchors.md#famine), c. AD 45–48. Acts 11:28 places Agabus's famine "in the days of Claudius" (AD 41–54). Josephus reports a severe famine in Judea under the procurators Fadus and Tiberius Alexander, c. AD 45–48 (*Ant.* 20.101).
+> - [Death of Herod Agrippa I](../reference/anchors.md#agrippa-death), AD 44. Josephus describes Agrippa I's sudden death at Caesarea in AD 44 (*Ant.* 19.343–352), the same event as Acts 12:20–23, so it is one of the firmest dates in Acts.
+> - [Famine under Claudius](../reference/anchors.md#famine), c. AD 45–48. Acts 11:28 places Agabus's famine "in the days of Claudius" (AD 41–54). Josephus reports a severe famine in Judea under the procurators Fadus and Tiberius Alexander, c. AD 45–48 (*Ant.* 20.101).
 >
-> **Sources:** [Josephus, Antiquities, 19.343–352](sources.md#josephus-ant); [Schürer (rev.) 1973](sources.md#schurer); [Riesner 1998](sources.md#riesner); [Josephus, Antiquities, 20.51–53, 20.101](sources.md#josephus-ant).
+> **Sources:** [Josephus, Antiquities, 19.343–352](../reference/sources.md#josephus-ant); [Schürer (rev.) 1973](../reference/sources.md#schurer); [Riesner 1998](../reference/sources.md#riesner); [Josephus, Antiquities, 20.51–53, 20.101](../reference/sources.md#josephus-ant).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -532,10 +532,10 @@ Then Peter answered, <sup>47</sup>“Can anyone forbid these people from being b
 > First missionary journey: Cyprus, Pisidian Antioch, Iconium, Lystra, Derbe. Sergius Paulus, proconsul of Cyprus (13:7), is known from inscriptions whose identification and dates are debated.
 >
 > **Basis:**
-> - [Jerusalem council](anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
-> - [Famine under Claudius](anchors.md#famine), c. AD 45–48. Acts 11:28 places Agabus's famine "in the days of Claudius" (AD 41–54). Josephus reports a severe famine in Judea under the procurators Fadus and Tiberius Alexander, c. AD 45–48 (*Ant.* 20.101).
+> - [Jerusalem council](../reference/anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
+> - [Famine under Claudius](../reference/anchors.md#famine), c. AD 45–48. Acts 11:28 places Agabus's famine "in the days of Claudius" (AD 41–54). Josephus reports a severe famine in Judea under the procurators Fadus and Tiberius Alexander, c. AD 45–48 (*Ant.* 20.101).
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann); [Josephus, Antiquities, 20.51–53, 20.101](sources.md#josephus-ant).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann); [Josephus, Antiquities, 20.51–53, 20.101](../reference/sources.md#josephus-ant).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -584,9 +584,9 @@ Immediately a mist and darkness fell on him. He went around seeking someone to l
 > Iconium, Lystra and Derbe, the return, and "a long time" at Antioch (14:28).
 >
 > **Basis:**
-> - [Jerusalem council](anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
+> - [Jerusalem council](../reference/anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -614,9 +614,9 @@ Immediately a mist and darkness fell on him. He went around seeking someone to l
 > The Jerusalem council, then Paul and Silas set out through Syria and Cilicia (15:40–41).
 >
 > **Basis:**
-> - [Jerusalem council](anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
+> - [Jerusalem council](../reference/anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -657,10 +657,10 @@ says the Lord, who does all these things.’
 > Timothy joins; the Macedonian call at Troas; Philippi. The "we" passages begin (16:10).
 >
 > **Basis:**
-> - [Jerusalem council](anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
-> - [Gallio proconsul of Achaia](anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
+> - [Jerusalem council](../reference/anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
+> - [Gallio proconsul of Achaia](../reference/anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann); [Delphi (Gallio) inscription](sources.md#gallio-inscription); [Murphy-O'Connor 2002](sources.md#murphy-oconnor).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann); [Delphi (Gallio) inscription](../reference/sources.md#gallio-inscription); [Murphy-O'Connor 2002](../reference/sources.md#murphy-oconnor).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -699,9 +699,9 @@ But Paul, becoming greatly annoyed, turned and said to the spirit, “I command 
 > Thessalonica, Berea, Athens. 1 Thessalonians recalls this (1 Thess 2:1–2; 3:1).
 >
 > **Basis:**
-> - [Gallio proconsul of Achaia](anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
+> - [Gallio proconsul of Achaia](../reference/anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
 >
-> **Sources:** [Delphi (Gallio) inscription](sources.md#gallio-inscription); [Murphy-O'Connor 2002](sources.md#murphy-oconnor); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett).
+> **Sources:** [Delphi (Gallio) inscription](../reference/sources.md#gallio-inscription); [Murphy-O'Connor 2002](../reference/sources.md#murphy-oconnor); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -736,10 +736,10 @@ Others said, “He seems to be advocating foreign deities,” because he preache
 > Aquila and Priscilla had "recently" come from Italy because of Claudius's edict (18:2; AD 49). Paul stays 18 months (18:11) and is brought before the proconsul Gallio (18:12; AD 51–52). Then Ephesus, Caesarea, Antioch, and the start of the third journey (18:23).
 >
 > **Basis:**
-> - [Claudius expels Jews from Rome](anchors.md#claudius-edict), AD 49 (minority AD 41). Suetonius (*Claudius* 25.4) reports the expulsion of Jews "agitating at the instigation of Chrestus". Orosius (7.6.15) dates it to Claudius's 9th year, AD 49. Aquila and Priscilla had "recently" arrived from Rome (Acts 18:2).
-> - [Gallio proconsul of Achaia](anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
+> - [Claudius expels Jews from Rome](../reference/anchors.md#claudius-edict), AD 49 (minority AD 41). Suetonius (*Claudius* 25.4) reports the expulsion of Jews "agitating at the instigation of Chrestus". Orosius (7.6.15) dates it to Claudius's 9th year, AD 49. Aquila and Priscilla had "recently" arrived from Rome (Acts 18:2).
+> - [Gallio proconsul of Achaia](../reference/anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
 >
-> **Sources:** [Suetonius, Claudius, 25.4](sources.md#suetonius-claud); [Orosius, History, 7.6.15](sources.md#orosius); [Cassius Dio, Roman History, 60.6.6](sources.md#dio); [Riesner 1998](sources.md#riesner); [Lüdemann 1984](sources.md#luedemann); [Delphi (Gallio) inscription](sources.md#gallio-inscription); [Murphy-O'Connor 2002](sources.md#murphy-oconnor); [Jewett 1979](sources.md#jewett).
+> **Sources:** [Suetonius, Claudius, 25.4](../reference/sources.md#suetonius-claud); [Orosius, History, 7.6.15](../reference/sources.md#orosius); [Cassius Dio, Roman History, 60.6.6](../reference/sources.md#dio); [Riesner 1998](../reference/sources.md#riesner); [Lüdemann 1984](../reference/sources.md#luedemann); [Delphi (Gallio) inscription](../reference/sources.md#gallio-inscription); [Murphy-O'Connor 2002](../reference/sources.md#murphy-oconnor); [Jewett 1979](../reference/sources.md#jewett).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -770,9 +770,9 @@ Others said, “He seems to be advocating foreign deities,” because he preache
 > Paul in Ephesus for three months in the synagogue and two years in the hall of Tyrannus (19:8–10); the riot of the silversmiths.
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -814,9 +814,9 @@ They said, “Into John’s baptism.”
 > Macedonia, three months in Greece (20:3: Romans is written then), sailing from Philippi "after the days of unleavened bread" (20:6), Troas, and the farewell to the Ephesian elders at Miletus; hurrying to reach Jerusalem by Pentecost (20:16).
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -846,9 +846,9 @@ They said, “Into John’s baptism.”
 > Arrival in Jerusalem, the meeting with James, the temple riot and arrest. The tribune takes Paul for "the Egyptian" (21:38), a rebel Josephus places under Felix (*Ant.* 20.169–172).
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Josephus, Antiquities, 20.169–172](sources.md#josephus-ant); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Josephus, Antiquities, 20.169–172](../reference/sources.md#josephus-ant); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -883,9 +883,9 @@ He said, “Do you know Greek? <sup>38</sup>Aren’t you then the Egyptian who b
 > **Date of events:** AD 57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -928,9 +928,9 @@ Paul said, “But I was born a Roman.”
 > Before the Sanhedrin with the high priest Ananias son of Nedebaeus (in office c. AD 47–58/59); transfer to Felix at Caesarea.
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Josephus, Antiquities, 20.103, 20.131, 20.179](sources.md#josephus-ant); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Josephus, Antiquities, 20.103, 20.131, 20.179](../reference/sources.md#josephus-ant); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -981,10 +981,10 @@ Paul said, “But I was born a Roman.”
 > The hearing before Felix and his wife Drusilla (Agrippa I's daughter). "When two years were fulfilled, Felix was succeeded by Porcius Festus" (24:27).
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
-> - [Felix replaced by Festus](anchors.md#festus), AD 59 or 60 (minority AD 55/56). Felix (procurator c. AD 52–59/60) kept Paul two years (Acts 24:27) before Porcius Festus succeeded him. Most date the change to AD 59 or 60 (Schürer, Riesner); a minority argue for AD 55/56.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Felix replaced by Festus](../reference/anchors.md#festus), AD 59 or 60 (minority AD 55/56). Felix (procurator c. AD 52–59/60) kept Paul two years (Acts 24:27) before Porcius Festus succeeded him. Most date the change to AD 59 or 60 (Schürer, Riesner); a minority argue for AD 55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Josephus, Antiquities, 20.182](sources.md#josephus-ant); [Schürer (rev.) 1973](sources.md#schurer).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Josephus, Antiquities, 20.182](../reference/sources.md#josephus-ant); [Schürer (rev.) 1973](../reference/sources.md#schurer).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -1011,9 +1011,9 @@ Paul said, “But I was born a Roman.”
 > Festus arrives; Paul appeals to Caesar; Agrippa II and Bernice visit.
 >
 > **Basis:**
-> - [Felix replaced by Festus](anchors.md#festus), AD 59 or 60 (minority AD 55/56). Felix (procurator c. AD 52–59/60) kept Paul two years (Acts 24:27) before Porcius Festus succeeded him. Most date the change to AD 59 or 60 (Schürer, Riesner); a minority argue for AD 55/56.
+> - [Felix replaced by Festus](../reference/anchors.md#festus), AD 59 or 60 (minority AD 55/56). Felix (procurator c. AD 52–59/60) kept Paul two years (Acts 24:27) before Porcius Festus succeeded him. Most date the change to AD 59 or 60 (Schürer, Riesner); a minority argue for AD 55/56.
 >
-> **Sources:** [Josephus, Antiquities, 20.182](sources.md#josephus-ant); [Schürer (rev.) 1973](sources.md#schurer); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett).
+> **Sources:** [Josephus, Antiquities, 20.182](../reference/sources.md#josephus-ant); [Schürer (rev.) 1973](../reference/sources.md#schurer); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -1042,9 +1042,9 @@ Paul said, “But I was born a Roman.”
 > Paul's defence before Agrippa II.
 >
 > **Basis:**
-> - [Felix replaced by Festus](anchors.md#festus), AD 59 or 60 (minority AD 55/56). Felix (procurator c. AD 52–59/60) kept Paul two years (Acts 24:27) before Porcius Festus succeeded him. Most date the change to AD 59 or 60 (Schürer, Riesner); a minority argue for AD 55/56.
+> - [Felix replaced by Festus](../reference/anchors.md#festus), AD 59 or 60 (minority AD 55/56). Felix (procurator c. AD 52–59/60) kept Paul two years (Acts 24:27) before Porcius Festus succeeded him. Most date the change to AD 59 or 60 (Schürer, Riesner); a minority argue for AD 55/56.
 >
-> **Sources:** [Josephus, Antiquities, 20.182](sources.md#josephus-ant); [Schürer (rev.) 1973](sources.md#schurer); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett).
+> **Sources:** [Josephus, Antiquities, 20.182](../reference/sources.md#josephus-ant); [Schürer (rev.) 1973](../reference/sources.md#schurer); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -1081,9 +1081,9 @@ Then Paul stretched out his hand, and made his defense. <sup>2</sup>“I think m
 > The voyage and shipwreck. "The Fast had now already gone by" (27:9): the Day of Atonement, after which sailing became dangerous.
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 
@@ -1112,9 +1112,9 @@ Then Paul stretched out his hand, and made his defense. <sup>2</sup>“I think m
 > Three months on Malta (28:11), arrival in Rome in spring, and "two whole years" in his own rented house (28:30). The book ends here, c. AD 62.
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson).
 >
 > **Book written:** c. AD 80–90 (some say c. 62; a few AD 110–120); see [the date of Acts](#date-of-writing).
 

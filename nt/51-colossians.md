@@ -11,17 +11,17 @@ A disputed Pauline letter. It shares its prison setting and names with Philemon 
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 60–62 (Rome) or c. 54–55 (Ephesus) | Carson & Moo; many scholars, including some critical ones | Self-claim; the personal links with the undisputed Philemon (4:7–17). | [Carson & Moo 2005](sources.md#carson-moo) |
-| c. AD 70–80 | Brown (c. 80, if not by Paul); many critical scholars | Style and theology (cosmic Christology, realized eschatology); possibly written after Paul's death. | [Brown 1997](sources.md#brown-intro) |
+| c. AD 60–62 (Rome) or c. 54–55 (Ephesus) | Carson & Moo; many scholars, including some critical ones | Self-claim; the personal links with the undisputed Philemon (4:7–17). | [Carson & Moo 2005](../reference/sources.md#carson-moo) |
+| c. AD 70–80 | Brown (c. 80, if not by Paul); many critical scholars | Style and theology (cosmic Christology, realized eschatology); possibly written after Paul's death. | [Brown 1997](../reference/sources.md#brown-intro) |
 
 ## Colossians 1
 
 > **Date written:** c. AD 60–62 or 70–80
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson).
 
 <sup>1</sup>Paul, an apostle of Christ[^1-1] Jesus through the will of God, and Timothy our brother, <sup>2</sup>to the saints and faithful brothers[^1-2] in Christ at Colossae: Grace to you and peace from God our Father and the Lord Jesus Christ.
 
@@ -45,9 +45,9 @@ A disputed Pauline letter. It shares its prison setting and names with Philemon 
 > **Date written:** c. AD 60–62 or 70–80
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson).
 
 <sup>1</sup>For I desire to have you know how greatly I struggle for you and for those at Laodicea, and for as many as have not seen my face in the flesh; <sup>2</sup>that their hearts may be comforted, they being knit together in love, and gaining all riches of the full assurance of understanding, that they may know the mystery of God, both of the Father and of Christ, <sup>3</sup>in whom all the treasures of wisdom and knowledge are hidden. <sup>4</sup>Now I say this that no one may delude you with persuasiveness of speech. <sup>5</sup>For though I am absent in the flesh, yet I am with you in the spirit, rejoicing and seeing your order, and the steadfastness of your faith in Christ.
 
@@ -64,9 +64,9 @@ A disputed Pauline letter. It shares its prison setting and names with Philemon 
 > **Date written:** c. AD 60–62 or 70–80
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson).
 
 <sup>1</sup>If then you were raised together with Christ, seek the things that are above, where Christ is, seated on the right hand of God. <sup>2</sup>Set your mind on the things that are above, not on the things that are on the earth. <sup>3</sup>For you died, and your life is hidden with Christ in God. <sup>4</sup>When Christ, our life, is revealed, then you will also be revealed with him in glory.
 
@@ -95,9 +95,9 @@ A disputed Pauline letter. It shares its prison setting and names with Philemon 
 > Laodicea and Hierapolis (4:13–16) were damaged by an earthquake in AD 60 (Tacitus, *Ann.* 14.27). The letter doesn't mention it, which some take as a sign it was written before 60 or long after.
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
 >
-> **Sources:** [Tacitus, Annals, 14.27](sources.md#tacitus-ann); [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson).
+> **Sources:** [Tacitus, Annals, 14.27](../reference/sources.md#tacitus-ann); [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson).
 
 <sup>1</sup>Masters, give to your servants that which is just and equal, knowing that you also have a Master in heaven.
 

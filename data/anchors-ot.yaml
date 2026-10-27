@@ -1,0 +1,579 @@
+# Old Testament chronological anchors. Same format as anchors-nt.yaml.
+# Years: negative = BC. Kings' dates follow Thiele unless stated; Galil and others
+# usually differ by 1–5 years, and the discussions say where it matters more.
+
+primeval:
+  title: Creation to Babel (Genesis 1–11)
+  date: "Undated (traditional reckonings 4004 BC and earlier)"
+  short: >-
+    No historical date can be given. Adding up the genealogies in the Hebrew text
+    puts creation c. 4000 BC (Ussher 4004 BC, flood 2348 BC); the Greek Septuagint's
+    larger numbers put it c. 5500 BC. Most scholars read these chapters as ancient
+    Near Eastern origin stories, not datable history.
+  discussion: |
+    **Biblical arithmetic.** Genesis 5 and 11 give each ancestor's age at the birth
+    of a son. On the Masoretic (Hebrew) text this gives about 1,656 years from
+    creation to the flood and 2,000 years to Abraham. Ussher (1650) worked out
+    creation in 4004 BC and the flood in 2348 BC; the rabbinic *Seder Olam* gives
+    3761 BC, the start of the Jewish calendar era. The Septuagint and the Samaritan
+    Pentateuch have different numbers, so even the internal chronology depends on
+    which text is followed.
+
+    **Scholarly readings.** Most scholars, including many evangelicals, read
+    Genesis 1–11 as theological prologue in the forms of ancient Near Eastern
+    literature: Mesopotamian flood stories such as *Atrahasis* and the Gilgamesh
+    epic survive on tablets from the early 2nd millennium BC. Genealogies with gaps
+    are well known in the ancient world (Kitchen), so many conservative scholars
+    also decline to compute dates from them. The headings mark these chapters
+    *undated*.
+  sources:
+    - ussher
+    - seder-olam
+    - lambert-millard
+    - wenham-genesis
+    - kitchen
+    - collins-intro
+
+patriarchs:
+  title: Abraham, Isaac and Jacob
+  date: "c. 2100–1700 BC (biblical figures and Kitchen) or undatable"
+  range: [-2166, -1650]
+  short: >-
+    Taking the Bible's numbers from the early exodus date, Abraham was born 2166 BC
+    and Jacob went to Egypt in 1876 BC. Kitchen sets the stories in the Middle
+    Bronze Age (c. 2000–1600 BC). Thompson and Van Seters argue that they were
+    written in the 1st millennium BC and can't be dated as history.
+  discussion: |
+    **Biblical chronology.** 1 Kings 6:1 (480 years from the exodus to Solomon's
+    4th year, 967/966 BC) gives an exodus in 1446 BC; Exodus 12:40 (430 years in
+    Egypt) puts Jacob's arrival in 1876 BC; the ages in Genesis then put Abraham's
+    birth in 2166 BC. The Septuagint and Samaritan text of Exodus 12:40 include the
+    patriarchs' years in Canaan in the 430, which shortens the stay in Egypt to
+    about 215 years and moves the patriarchs about two centuries later. On the late
+    exodus date everything shifts down by about 190 years more.
+
+    **Middle Bronze Age setting.** Kitchen points to the price of slaves (20 shekels,
+    Gen 37:28), treaty forms and personal names typical of the early 2nd millennium.
+
+    **Late composition.** Thompson (1974) and Van Seters (1975) argued that the
+    parallels fit the 1st millennium as well or better, and that details such as
+    domesticated camels, Philistines and "Ur of the Chaldeans" belong to the Iron
+    Age, when the stories were written down. Many scholars now treat the patriarchs
+    as figures of tradition who can't be placed in a century.
+  sources:
+    - kitchen
+    - thompson-patriarchs
+    - van-seters
+    - finkelstein-silberman
+    - miller-hayes
+
+sojourn:
+  title: Israel in Egypt
+  date: "c. 1876–1446 BC, or a shorter stay ending c. 1260 BC"
+  range: [-1876, -1260]
+  short: >-
+    Exodus 12:40 gives 430 years in Egypt (the Septuagint counts that from
+    Abraham, about 215 years in Egypt). Joseph is often placed in the Hyksos
+    period (c. 1650–1550 BC) or, on the longer chronology, in the Middle Kingdom.
+  discussion: |
+    Semitic groups living in the eastern Nile Delta are well attested in the Middle
+    Bronze Age, and the Hyksos (Asiatic rulers of Lower Egypt, c. 1650–1550 BC) are
+    often linked with Joseph's rise. "Raamses" (Exod 1:11), the store city the
+    Israelites built, is best known as Pi-Ramesses, built by Ramesses II
+    (1279–1213 BC), which supports the late exodus date; supporters of the early
+    date read the name as an updating by a later scribe (as in Gen 47:11).
+  sources:
+    - hoffmeier
+    - kitchen
+    - miller-hayes
+
+exodus:
+  title: The exodus
+  date: "c. 1446 BC (early) or c. 1260 BC (late)"
+  range: [-1446, -1250]
+  short: >-
+    1 Kings 6:1 (480 years before Solomon's 4th year, 967/966 BC) gives c. 1446 BC.
+    The city Raamses (Exod 1:11) and the archaeology of the 13th century point to
+    c. 1260 BC under Ramesses II (Kitchen, Hoffmeier). By 1208 BC the Merneptah Stele
+    knows Israel as a people in Canaan.
+  discussion: |
+    **Early date, c. 1446 BC.** Taken literally, 1 Kings 6:1 and Judges 11:26 (300
+    years between the conquest and Jephthah) fit a 15th-century exodus under
+    Thutmose III or Amenhotep II. Supporters cite Bryant Wood's reading of
+    Jericho's destruction (c. 1400 BC).
+
+    **Late date, c. 1260 BC.** The store city Raamses; destruction layers at several
+    Canaanite cities in the late 13th century; the appearance of hundreds of small
+    highland villages c. 1200 BC; the Merneptah Stele (1208 BC). On this view the
+    480 years is a schematic figure (12 generations × 40). Held by Kitchen and
+    Hoffmeier, among others.
+
+    **Critical views.** Many historians find no archaeological trace of a large
+    exodus or desert wandering. They see Israel emerging mainly from within Canaan
+    (Dever; Finkelstein and Silberman), with the exodus story preserving the memory
+    of a smaller group and later shaped as national epic.
+
+    In the chapter headings, the two dates appear as *Early exodus* and *Late
+    exodus*; the critical view is noted where relevant.
+  sources:
+    - kitchen
+    - hoffmeier
+    - wood-jericho
+    - merneptah-stele
+    - dever
+    - finkelstein-silberman
+    - miller-hayes
+
+wilderness:
+  title: Sinai and the wilderness years
+  date: "1446–1406 BC (early) or c. 1260–1220 BC (late)"
+  range: [-1446, -1210]
+  short: >-
+    Israel reaches Sinai in the third month after leaving Egypt (Exod 19:1); the
+    tabernacle is set up a year after the exodus (Exod 40:17); the census of
+    Numbers 1 is a month later; the forty years end on the plains of Moab
+    (Deut 1:3). Absolute dates follow the exodus date.
+  discussion: |
+    The internal dates of Exodus–Deuteronomy are precise relative to the exodus
+    (year 1, month 3; year 2, month 1, day 1; year 40, month 11, day 1), so each
+    chapter can be placed within the forty years even though the starting year is
+    disputed.
+  sources:
+    - kitchen
+    - miller-hayes
+
+conquest:
+  title: Entry into Canaan
+  date: "c. 1406 BC (early) or c. 1220 BC (late)"
+  range: [-1406, -1200]
+  short: >-
+    Forty years after the exodus: c. 1406 BC on the early date, c. 1220 BC on the
+    late. Archaeology has not confirmed a single campaign; Jericho and Ai are much
+    debated.
+  discussion: |
+    Kenyon's excavations dated Jericho's fall to the end of the Middle Bronze Age
+    (c. 1550 BC), too early for either date; Wood argued for c. 1400 BC. Ai seems
+    to have been unoccupied in the Late Bronze Age. Hazor was burned in the 13th
+    century. Many historians read Joshua's sweeping conquest as a later, idealized
+    account; Judges 1 itself shows a slower, partial settlement.
+  sources:
+    - kenyon-jericho
+    - wood-jericho
+    - mazar
+    - dever
+    - finkelstein-silberman
+
+judges-period:
+  title: The time of the judges
+  date: "c. 1380–1050 BC (early) or c. 1200–1050 BC (late)"
+  range: [-1380, -1050]
+  short: >-
+    Between Joshua and Saul. The years given in Judges add up to about 410, too
+    many for either exodus date unless some judges overlapped, as most scholars
+    assume. Late Bronze to early Iron Age.
+  discussion: |
+    The stories are arranged as a cycle, not a strict sequence, and several judges
+    were probably local leaders at the same time. Jephthah's "300 years" (Judg
+    11:26) is used for the early date. The Philistines, prominent in Samson's
+    stories, settled on the coast c. 1175 BC.
+  sources:
+    - kitchen
+    - miller-hayes
+    - provan-long-longman
+
+saul:
+  title: Saul
+  date: "c. 1050–1010 BC"
+  range: [-1050, -1010]
+  short: >-
+    The text of 1 Samuel 13:1 giving Saul's age and reign is damaged; Acts 13:21
+    gives 40 years. Most date his reign c. 1050/1030–1010 BC, counting back from
+    David.
+  discussion: |
+    1 Samuel 13:1 reads literally "Saul was a year old when he began to reign, and
+    he reigned two years over Israel", where numbers have dropped out. Estimates of
+    his reign range from about 2 to 40 years.
+  sources:
+    - mccarter-sam
+    - thiele
+    - miller-hayes
+
+david:
+  title: David
+  date: "c. 1010–970 BC"
+  range: [-1010, -970]
+  short: >-
+    Forty years: 7½ at Hebron and 33 at Jerusalem (2 Sam 5:4–5), counted back from
+    Solomon. The Tel Dan inscription (9th century BC) names "the house of David".
+  discussion: |
+    The dates come from counting back from the division of the kingdom (931/930 BC)
+    through Solomon's 40 years. The Tel Dan stele confirms David as the founder of
+    Judah's dynasty. How large his kingdom was is debated: Finkelstein argues that
+    10th-century Jerusalem was a small highland town, while others (Mazar) point
+    to monumental building.
+  sources:
+    - thiele
+    - tel-dan
+    - finkelstein-silberman
+    - mazar
+    - provan-long-longman
+
+solomon:
+  title: Solomon
+  date: "c. 970–931 BC"
+  range: [-970, -931]
+  short: >-
+    Forty years (1 Kgs 11:42). The temple was begun in his 4th year (967/966 BC,
+    1 Kgs 6:1) and finished seven years later (6:38).
+  discussion: |
+    Thiele dates the accession to 971/970 BC. The temple dates in 1 Kings 6 are the
+    anchor for the early exodus date. Shoshenq I's campaign five years after
+    Solomon's death (1 Kgs 14:25) gives an Egyptian synchronism c. 925 BC.
+  sources:
+    - thiele
+    - galil
+    - shoshenq-relief
+    - cogan-kings
+
+schism:
+  title: The divided kingdom
+  date: "931/930 BC"
+  range: [-931, -930]
+  short: >-
+    After Solomon's death the northern tribes made Jeroboam I king (1 Kgs 12).
+    Shishak (Shoshenq I) invaded in Rehoboam's 5th year, c. 925 BC (1 Kgs 14:25),
+    attested by his relief at Karnak.
+  discussion: |
+    From here on, Kings dates each reign by the other kingdom's (e.g. "in the 18th
+    year of Jeroboam, Abijam began to reign", 1 Kgs 15:1). The figures don't add up
+    simply; Thiele resolved them with co-regencies and different ways of counting
+    accession years, and most later chronologies (Galil, Cogan and Tadmor) refine
+    his.
+  sources:
+    - thiele
+    - galil
+    - shoshenq-relief
+
+ahab-qarqar:
+  title: Omri's dynasty and the battle of Qarqar
+  date: "885–841 BC (Qarqar 853 BC)"
+  range: [-885, -841]
+  short: >-
+    Ahab fought Assyria at Qarqar in 853 BC (Kurkh Monolith), shortly before his
+    death. Mesha of Moab's revolt after Ahab's death (2 Kgs 3) is told on the Mesha
+    Stele.
+  discussion: |
+    Shalmaneser III's annals list "Ahab the Israelite" with 2,000 chariots at
+    Qarqar in his 6th year, 853 BC. Twelve years later (841 BC) Jehu paid him
+    tribute. Fitting Ahab's death and Jehu's accession into those 12 years is the
+    keystone of Thiele's chronology.
+  sources:
+    - kurkh-monolith
+    - mesha-stele
+    - thiele
+    - cogan-kings
+
+jehu:
+  title: Jehu's coup
+  date: "841 BC"
+  range: [-841, -841]
+  short: >-
+    Jehu killed Joram of Israel and Ahaziah of Judah (2 Kgs 9) and paid tribute to
+    Shalmaneser III in 841 BC (Black Obelisk). Athaliah ruled Judah for six years
+    after.
+  discussion: |
+    The Black Obelisk shows "Jehu son of Omri" (i.e. king of Omri's land) bowing
+    before Shalmaneser, the only contemporary picture of an Israelite king. The Tel
+    Dan stele seems to have Hazael claiming the killing of Joram and Ahaziah.
+  sources:
+    - black-obelisk
+    - tel-dan
+    - thiele
+
+eighth-century:
+  title: Jeroboam II, Uzziah and the Assyrian advance
+  date: "c. 793–722 BC"
+  range: [-793, -722]
+  short: >-
+    Jeroboam II (793–753) and Uzziah (792–740) ruled in prosperity; Tiglath-pileser
+    III (745–727) then pushed west, Israel and Aram attacked Judah (the
+    Syro-Ephraimite war, 734–732) and Damascus fell in 732. The eclipse of 763 BC in
+    the Assyrian eponym list fixes these dates.
+  discussion: |
+    The Assyrian eponym list, tied to the solar eclipse of 15 June 763 BC, gives
+    year-by-year dates for Tiglath-pileser's campaigns, which name Menahem, Pekah,
+    Hoshea and Ahaz (Jehoahaz) of Judah. Amos and Hosea prophesied under Jeroboam
+    II; Isaiah began "in the year King Uzziah died" (Isa 6:1, c. 740/739 BC).
+  sources:
+    - eponym-canon
+    - thiele
+    - cogan-kings
+    - anet
+
+samaria-fall:
+  title: Fall of Samaria
+  date: "722/720 BC"
+  range: [-722, -720]
+  short: >-
+    After a three-year siege Samaria fell to Shalmaneser V in 722 BC; Sargon II
+    (722–705) claims its capture and deported its people (2 Kgs 17).
+  discussion: |
+    Babylonian and Assyrian sources credit Shalmaneser V with the capture in 722;
+    Sargon, his successor, claims it in his annals and resettled the region c. 720.
+    2 Kings 18:10 synchronizes the fall with Hezekiah's 6th year, one of the hardest
+    points in the chronology of Judah (see *Hezekiah and Sennacherib*).
+  sources:
+    - thiele
+    - cogan-kings
+    - anet
+
+hezekiah-701:
+  title: Hezekiah and Sennacherib
+  date: "Hezekiah 716/715–687/686 BC; invasion 701 BC"
+  range: [-716, -686]
+  short: >-
+    Sennacherib invaded Judah in 701 BC, "Hezekiah's 14th year" (2 Kgs 18:13),
+    which gives Hezekiah's accession in 716/715 BC (Thiele). His annals describe
+    shutting Hezekiah in Jerusalem "like a bird in a cage".
+  discussion: |
+    The 14th-year synchronism (701 BC) conflicts with 2 Kings 18:1, 9–10, which put
+    Hezekiah on the throne before Samaria fell (722). Thiele kept 716/715 and called
+    the other figures a later scribe's miscalculation; others propose a co-regency
+    with Ahaz from c. 729 BC (Galil) or emend the 14th year to the 24th. The Siloam
+    tunnel and the Lachish reliefs belong to this period.
+  sources:
+    - sennacherib-annals
+    - thiele
+    - galil
+    - cogan-kings
+
+josiah:
+  title: Josiah and the book of the law
+  date: "640–609 BC (reform 622 BC)"
+  range: [-640, -609]
+  short: >-
+    Josiah reigned 31 years. In his 18th year (622 BC) the "book of the law" was
+    found in the temple (2 Kgs 22:8), widely identified with Deuteronomy. He was
+    killed at Megiddo by Pharaoh Necho in 609 BC.
+  discussion: |
+    Since de Wette (1805) and Wellhausen, critical scholars have linked the book
+    found in 622 with Deuteronomy, either written then or not long before. Necho's
+    march to help Assyria at Harran in 609 is in the Babylonian Chronicle. Jeremiah
+    began in Josiah's 13th year (627 BC, Jer 1:2).
+  sources:
+    - wellhausen
+    - babylonian-chronicle
+    - thiele
+    - cogan-kings
+
+babylon-597-587:
+  title: Nebuchadnezzar and the fall of Jerusalem
+  date: "605–586 BC"
+  range: [-605, -586]
+  short: >-
+    Nebuchadnezzar beat Egypt at Carchemish in 605 BC, captured Jerusalem on 2 Adar
+    (15/16 March) 597 BC and exiled Jehoiachin (Babylonian Chronicle), then
+    destroyed the city and temple in Zedekiah's 11th year: 587 or 586 BC.
+  discussion: |
+    **597 BC** is fixed to the day by the Babylonian Chronicle. **The destruction**
+    (2 Kgs 25:8, the 19th year of Nebuchadnezzar) is dated to summer 587 BC by many
+    (e.g. Galil, Cogan and Tadmor) and to 586 BC by Thiele and others. It depends on
+    whether Judah counted regnal years from spring or autumn and how the Bible
+    counted Nebuchadnezzar's years.
+  sources:
+    - babylonian-chronicle
+    - grayson-abc
+    - parker-dubberstein
+    - thiele
+    - galil
+    - cogan-kings
+
+exile:
+  title: The Babylonian exile
+  date: "597/587–539 BC"
+  range: [-597, -539]
+  short: >-
+    From the deportations of 597 and 587/586 BC to Cyrus's capture of Babylon in
+    539 BC. Jehoiachin was released by Evil-Merodach (Amel-Marduk) in 562 BC
+    (2 Kgs 25:27). Ezekiel dates his oracles from Jehoiachin's exile (597 BC).
+  discussion: |
+    Babylonian ration tablets list "Yaukin, king of the land of Yahud" receiving
+    oil in Babylon, confirming Jehoiachin's captivity. The "seventy years" of
+    Jeremiah 25:11 and 29:10 are counted from 605 or 587 BC, to 539 or 515 BC.
+  sources:
+    - parker-dubberstein
+    - grayson-abc
+    - anet
+    - zimmerli
+
+return:
+  title: Cyrus, the return and the second temple
+  date: "539–515 BC"
+  range: [-539, -515]
+  short: >-
+    Cyrus took Babylon in October 539 BC; his decree (Ezra 1:1–4) is dated to his
+    first year, 538 BC. Rebuilding resumed in Darius I's 2nd year, 520 BC (Haggai,
+    Zechariah), and the temple was finished on 3 Adar of his 6th year, March 515 BC
+    (Ezra 6:15).
+  discussion: |
+    The Cyrus Cylinder describes his policy of returning deported peoples and their
+    gods, which fits the decree in Ezra 1. Haggai's and Zechariah's dates convert
+    exactly with Babylonian calendars (e.g. Hag 1:1, 1 Elul year 2 = 29 August 520
+    BC).
+  sources:
+    - cyrus-cylinder
+    - parker-dubberstein
+    - meyers-haggai
+    - williamson-ezra
+
+ezra-nehemiah:
+  title: Ezra and Nehemiah
+  date: "Ezra 458 BC (or 398 BC); Nehemiah 445–c. 430 BC"
+  range: [-458, -398]
+  short: >-
+    Nehemiah came in the 20th year of Artaxerxes I, 445 BC (Neh 2:1), and went back
+    in his 32nd, 433 BC (13:6). Ezra came in "the 7th year of Artaxerxes" (Ezra
+    7:7): 458 BC if Artaxerxes I, the traditional order; 398 BC if Artaxerxes II,
+    which would put Ezra after Nehemiah.
+  discussion: |
+    The Elephantine papyri (407 BC) name the sons of Sanballat, Nehemiah's opponent,
+    as active, confirming Nehemiah under Artaxerxes I. For Ezra, 458 BC is
+    defended by Williamson and many others; 398 BC (first argued by Van Hoonacker)
+    is still held by some, and a compromise emends Ezra 7:7 to the 37th year
+    (428 BC).
+  sources:
+    - elephantine-papyri
+    - williamson-ezra
+    - parker-dubberstein
+    - miller-hayes
+
+xerxes:
+  title: Xerxes I (Ahasuerus)
+  date: "486–465 BC"
+  range: [-486, -465]
+  short: >-
+    Ahasuerus of Esther is Xerxes I. The book dates its events to his 3rd year
+    (483 BC, Esth 1:3), 7th year (479 BC, 2:16) and 12th year (474 BC, 3:7).
+  discussion: |
+    The Hebrew name *Ahashwerosh* matches Persian *Khshayarsha* (Xerxes). How far
+    the story is historical is debated: it fits Persian court customs well, but its
+    queen Vashti and Esther are unknown outside the Bible, and Herodotus names
+    Xerxes' queen as Amestris.
+  sources:
+    - fox-esther
+    - parker-dubberstein
+
+antiochus:
+  title: Antiochus IV and the Maccabean crisis
+  date: "175–164 BC (temple desecrated 167 BC)"
+  range: [-175, -164]
+  short: >-
+    Antiochus IV desecrated the temple on 15 Kislev 167 BC (1 Macc 1:54); Judas
+    Maccabeus rededicated it on 25 Kislev 164 BC. Most scholars date the final form
+    of Daniel to 167–164 BC, because Daniel 11 tracks these events closely up to
+    about 165 BC.
+  discussion: |
+    Daniel 11:21–39 matches Antiochus's career in detail, while 11:40–45
+    (his death between the sea and Jerusalem) does not match his actual death in
+    Persia in late 164 BC. Critical scholars take this as the point where the
+    author's own time ends (Collins). Conservative scholars take Daniel as written
+    by Daniel in the 6th century BC and chs. 8 and 11 as predictive prophecy.
+  sources:
+    - maccabees-1
+    - collins-daniel
+    - dillard-longman
+    - dead-sea-scrolls
+
+pentateuch:
+  title: Composition of the Pentateuch
+  date: "Mosaic (c. 1400/1250 BC) or compiled c. 950–400 BC"
+  range: [-1446, -400]
+  short: >-
+    Jewish and Christian tradition ascribes Genesis–Deuteronomy to Moses. Most
+    critical scholars see it compiled from sources over centuries: older traditions
+    written down in the monarchy, Deuteronomy linked with 622 BC, and priestly
+    material (P) from the exile or after, completed by c. 400 BC.
+  discussion: |
+    **Tradition.** Moses as author (Josephus, *Against Apion* 1.39; Talmud, *Bava
+    Batra* 14b), with Deuteronomy 34 (his death) added by Joshua. Many conservative
+    scholars hold that Moses wrote or supplied most of it, with later editing (e.g.
+    place names updated; Gen 36:31 "before any king reigned over Israel").
+
+    **Documentary hypothesis** (Wellhausen 1883): four sources, J (c. 950–850), E
+    (c. 850–750), D (7th century) and P (6th–5th century). Since the 1970s many
+    scholars have abandoned J and E as separate documents in favour of a
+    non-priestly and a priestly layer, with most of the writing done in the exile
+    and Persian period. Milgrom and others date much of P before the exile.
+    Ezra's reading of "the book of the law of Moses" (Neh 8, c. 458/445 BC) is often
+    taken as the point by which it was complete.
+  sources:
+    - wellhausen
+    - josephus-apion 1.37–43
+    - bava-batra 14b–15a
+    - milgrom-lev
+    - collins-intro
+    - dillard-longman
+    - kitchen
+
+dtr-history:
+  title: Composition of Joshua to Kings
+  date: "c. 620–550 BC (final form after 562 BC)"
+  range: [-640, -540]
+  short: >-
+    Joshua, Judges, Samuel and Kings share Deuteronomy's language and outlook.
+    Noth (1943) saw one exilic author (after 562 BC, the last event in Kings); Cross
+    (1973) a first edition under Josiah (c. 620 BC) revised in the exile. Tradition
+    names Joshua, Samuel, and Jeremiah as authors.
+  discussion: |
+    Kings ends with Jehoiachin's release in 562 BC (2 Kgs 25:27–30), so its final
+    form is no earlier. The books draw on older sources they name, such as "the
+    book of the chronicles of the kings of Israel" and "the book of Jashar". The
+    Talmud (*Bava Batra* 15a) ascribes Joshua to Joshua, Judges and Samuel to
+    Samuel, and Kings to Jeremiah.
+  sources:
+    - noth-dtr
+    - cross
+    - bava-batra 14b–15a
+    - collins-intro
+    - schniedewind
+
+chronicler:
+  title: Composition of Chronicles
+  date: "c. 400–250 BC"
+  range: [-450, -250]
+  short: >-
+    Chronicles ends with Cyrus's decree (539/538 BC) and traces David's line about
+    six generations past Zerubbabel (1 Chr 3:19–24), so most date it to the late
+    Persian or early Greek period. Tradition names Ezra.
+  discussion: |
+    Chronicles uses Samuel and Kings as a source, and coins named "darics" (Persian,
+    first minted under Darius I) appear in 1 Chr 29:7. Japhet dates it to the late
+    4th century BC. Older scholarship treated Chronicles and Ezra–Nehemiah as one
+    work; Japhet and Williamson argued that they are separate.
+  sources:
+    - japhet
+    - knoppers-chron
+    - williamson-ezra
+    - bava-batra 14b–15a
+
+psalter:
+  title: Composition of the Psalms
+  date: "c. 1000–300 BC"
+  range: [-1000, -200]
+  short: >-
+    The psalms were written over centuries: 73 carry the heading "of David"
+    (c. 1000 BC), one "of Moses" (Ps 90), others are plainly exilic (Ps 137) or
+    later. The five-book collection was complete by the 2nd century BC, judging by
+    the Dead Sea Scrolls.
+  discussion: |
+    The headings (*le-David*, "of/for/to David") are old but probably not
+    original; many scholars read them as attributions or dedications, not claims of
+    authorship. Royal psalms (2, 45, 72, 110) need a king and so come from the
+    monarchy; laments over the temple's destruction (74, 79, 137) come after 587 BC.
+    The Qumran Psalms scrolls show the order of Books IV–V was still fluid in the
+    1st century BC.
+  sources:
+    - kraus-psalms
+    - dead-sea-scrolls
+    - collins-intro
+    - dillard-longman

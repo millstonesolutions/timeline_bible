@@ -11,8 +11,8 @@ Anonymous; traditionally by John the apostle in Ephesus. Most scholars put it sh
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 100 | Brown (after the Gospel, c. 100); most critical scholars | Presupposes the Gospel's tradition and a later schism over Christology (2:18–23; 4:1–3). | [Brown 1982](sources.md#brown-epistles); [Brown 1997](sources.md#brown-intro) |
-| c. AD 85–95 | Carson & Moo; many conservative scholars | Tradition of John's old age in Ephesus (Irenaeus, *Against Heresies* 3.3.4). | [Carson & Moo 2005](sources.md#carson-moo); [Irenaeus, Against Heresies, 3.3.4](sources.md#irenaeus) |
+| c. AD 100 | Brown (after the Gospel, c. 100); most critical scholars | Presupposes the Gospel's tradition and a later schism over Christology (2:18–23; 4:1–3). | [Brown 1982](../reference/sources.md#brown-epistles); [Brown 1997](../reference/sources.md#brown-intro) |
+| c. AD 85–95 | Carson & Moo; many conservative scholars | Tradition of John's old age in Ephesus (Irenaeus, *Against Heresies* 3.3.4). | [Carson & Moo 2005](../reference/sources.md#carson-moo); [Irenaeus, Against Heresies, 3.3.4](../reference/sources.md#irenaeus) |
 
 ## 1 John 1
 

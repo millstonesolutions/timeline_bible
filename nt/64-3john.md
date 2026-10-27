@@ -11,7 +11,7 @@ From "the elder" to Gaius about Diotrephes; dated with 1 and 2 John.
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 90–110 | Brown; most scholars (Carson & Moo c. 85–95) |  | [Brown 1982](sources.md#brown-epistles); [Carson & Moo 2005](sources.md#carson-moo) |
+| c. AD 90–110 | Brown; most scholars (Carson & Moo c. 85–95) |  | [Brown 1982](../reference/sources.md#brown-epistles); [Carson & Moo 2005](../reference/sources.md#carson-moo) |
 
 ## 3 John 1
 

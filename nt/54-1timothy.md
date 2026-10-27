@@ -11,18 +11,18 @@ One of the three Pastoral Letters, whose Pauline authorship most critical schola
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 62–64 | Carson & Moo; many conservative scholars | Self-claim; Paul left Timothy in Ephesus and went to Macedonia (1:3), a journey Acts doesn't fit, which suggests a second phase of ministry after AD 62 (cf. 1 Clement 5.7, "the limit of the west"). | [Carson & Moo 2005](sources.md#carson-moo); [1 Clement, 5](sources.md#clement-1) |
-| c. AD 90–110 | Brown; Ehrman; most critical scholars | Vocabulary and style; a developed church order (bishops, elders, deacons, enrolled widows); a 'deposit' of faith to guard. | [Brown 1997](sources.md#brown-intro); [Ehrman, NT Introduction](sources.md#ehrman-nt) |
+| c. AD 62–64 | Carson & Moo; many conservative scholars | Self-claim; Paul left Timothy in Ephesus and went to Macedonia (1:3), a journey Acts doesn't fit, which suggests a second phase of ministry after AD 62 (cf. 1 Clement 5.7, "the limit of the west"). | [Carson & Moo 2005](../reference/sources.md#carson-moo); [1 Clement, 5](../reference/sources.md#clement-1) |
+| c. AD 90–110 | Brown; Ehrman; most critical scholars | Vocabulary and style; a developed church order (bishops, elders, deacons, enrolled widows); a 'deposit' of faith to guard. | [Brown 1997](../reference/sources.md#brown-intro); [Ehrman, NT Introduction](../reference/sources.md#ehrman-nt) |
 
 ## 1 Timothy 1
 
 > **Date written:** c. AD 62–64 or 90–110
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson); [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson); [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>Paul, an apostle of Jesus Christ according to the commandment of God our Savior and the Lord Jesus Christ[^1-1] our hope, <sup>2</sup>to Timothy, my true child in faith: Grace, mercy, and peace from God our Father and Christ Jesus our Lord.
 
@@ -41,10 +41,10 @@ One of the three Pastoral Letters, whose Pauline authorship most critical schola
 > **Date written:** c. AD 62–64 or 90–110
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson); [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson); [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>I exhort therefore, first of all, that petitions, prayers, intercessions, and givings of thanks be made for all men, <sup>2</sup>for kings and all who are in high places, that we may lead a tranquil and quiet life in all godliness and reverence. <sup>3</sup>For this is good and acceptable in the sight of God our Savior, <sup>4</sup>who desires all people to be saved and come to full knowledge of the truth. <sup>5</sup>For there is one God and one mediator between God and men, the man Christ Jesus, <sup>6</sup>who gave himself as a ransom for all, the testimony at the proper time, <sup>7</sup>to which I was appointed a preacher and an apostle—I am telling the truth in Christ, not lying—a teacher of the Gentiles in faith and truth.
 
@@ -57,10 +57,10 @@ One of the three Pastoral Letters, whose Pauline authorship most critical schola
 > **Date written:** c. AD 62–64 or 90–110
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson); [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson); [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>This is a faithful saying: someone who seeks to be an overseer[^3-1] desires a good work. <sup>2</sup>The overseer therefore must be without reproach, the husband of one wife, temperate, sensible, modest, hospitable, good at teaching; <sup>3</sup>not a drinker, not violent, not greedy for money, but gentle, not quarrelsome, not covetous; <sup>4</sup>one who rules his own house well, having children in subjection with all reverence; <sup>5</sup>(for how could someone who doesn’t know how to rule his own house take care of God’s assembly?) <sup>6</sup>not a new convert, lest being puffed up he fall into the same condemnation as the devil. <sup>7</sup>Moreover he must have good testimony from those who are outside, to avoid falling into reproach and the snare of the devil.
 
@@ -87,10 +87,10 @@ and received up in glory.
 > **Date written:** c. AD 62–64 or 90–110
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson); [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson); [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons, <sup>2</sup>through the hypocrisy of men who speak lies, branded in their own conscience as with a hot iron, <sup>3</sup>forbidding marriage and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth. <sup>4</sup>For every creature of God is good, and nothing is to be rejected if it is received with thanksgiving. <sup>5</sup>For it is sanctified through the word of God and prayer.
 
@@ -103,10 +103,10 @@ and received up in glory.
 > **Date written:** c. AD 62–64 or 90–110
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson); [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson); [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>Don’t rebuke an older man, but exhort him as a father; the younger men as brothers; <sup>2</sup>the elder women as mothers; the younger as sisters, in all purity.
 
@@ -131,10 +131,10 @@ and received up in glory.
 > **Date written:** c. AD 62–64 or 90–110
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson); [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson); [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>Let as many as are bondservants under the yoke count their own masters worthy of all honor, that the name of God and the doctrine not be blasphemed. <sup>2</sup>Those who have believing masters, let them not despise them because they are brothers, but rather let them serve them, because those who partake of the benefit are believing and beloved. Teach and exhort these things.
 

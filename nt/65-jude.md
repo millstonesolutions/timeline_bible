@@ -11,8 +11,8 @@ See [How to read the date headings](README.md#how-to-read-the-date-headings).
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 50–60 | Bauckham (possibly the 50s); many conservative scholars | Palestinian Jewish-Christian apocalyptic exegesis; the author lived in the first Christian generation. | [Bauckham 1983](sources.md#bauckham-jude); [Carson & Moo 2005](sources.md#carson-moo) |
-| c. AD 90–120 | Brown (90s); many critical scholars | "Remember the words spoken before by the apostles" (v. 17) looks back on the apostolic age; "the faith once for all delivered" (v. 3). | [Brown 1997](sources.md#brown-intro) |
+| c. AD 50–60 | Bauckham (possibly the 50s); many conservative scholars | Palestinian Jewish-Christian apocalyptic exegesis; the author lived in the first Christian generation. | [Bauckham 1983](../reference/sources.md#bauckham-jude); [Carson & Moo 2005](../reference/sources.md#carson-moo) |
+| c. AD 90–120 | Brown (90s); many critical scholars | "Remember the words spoken before by the apostles" (v. 17) looks back on the apostolic age; "the faith once for all delivered" (v. 3). | [Brown 1997](../reference/sources.md#brown-intro) |
 
 ## Jude 1
 

@@ -11,17 +11,17 @@ Sent from "Babylon" (5:13), a code name for Rome, to churches in five provinces 
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 62–64, Rome | Carson & Moo; many conservative scholars | Self-claim; the "fiery trial" (4:12) as the time leading up to or the start of Nero's persecution. | [Carson & Moo 2005](sources.md#carson-moo); [Tacitus, Annals, 15.44](sources.md#tacitus-ann) |
-| c. AD 70–92 | Brown (70–90); Elliott (73–92); many critical scholars | "Babylon" as a name for Rome is otherwise attested after AD 70 (when Rome, like Babylon, destroyed the temple); cultivated Greek; a church spread through Asia Minor in Peter's lifetime is doubted. | [Brown 1997](sources.md#brown-intro); [Elliott 2000](sources.md#elliott-1pet) |
+| c. AD 62–64, Rome | Carson & Moo; many conservative scholars | Self-claim; the "fiery trial" (4:12) as the time leading up to or the start of Nero's persecution. | [Carson & Moo 2005](../reference/sources.md#carson-moo); [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann) |
+| c. AD 70–92 | Brown (70–90); Elliott (73–92); many critical scholars | "Babylon" as a name for Rome is otherwise attested after AD 70 (when Rome, like Babylon, destroyed the temple); cultivated Greek; a church spread through Asia Minor in Peter's lifetime is doubted. | [Brown 1997](../reference/sources.md#brown-intro); [Elliott 2000](../reference/sources.md#elliott-1pet) |
 
 ## 1 Peter 1
 
 > **Date written:** c. AD 62–64 or 70–92
 >
 > **Basis:**
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>Peter, an apostle of Jesus Christ,[^1-1] to the chosen ones who are living as foreigners in the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia, <sup>2</sup>according to the foreknowledge of God the Father, in sanctification of the Spirit, that you may obey Jesus Christ and be sprinkled with his blood: Grace to you and peace be multiplied.
 
@@ -50,9 +50,9 @@ This is the word of Good News which was preached to you.
 > **Date written:** c. AD 62–64 or 70–92
 >
 > **Basis:**
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>Putting away therefore all wickedness, all deceit, hypocrisies, envies, and all evil speaking, <sup>2</sup>as newborn babies, long for the pure spiritual milk, that with it you may grow, <sup>3</sup>if indeed you have tasted that the Lord is gracious. <sup>4</sup>Come to him, a living stone, rejected indeed by men, but chosen by God, precious. <sup>5</sup>You also as living stones are built up as a spiritual house, to be a holy priesthood, to offer up spiritual sacrifices, acceptable to God through Jesus Christ. <sup>6</sup>Because it is contained in Scripture,
 
@@ -88,9 +88,9 @@ For they stumble at the word, being disobedient, to which also they were appoint
 > **Date written:** c. AD 62–64 or 70–92
 >
 > **Basis:**
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>In the same way, wives, be in subjection to your own husbands, so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word, <sup>2</sup>seeing your pure behavior in fear. <sup>3</sup>Let your beauty come not from the outward adorning of braiding your hair, and of wearing gold ornaments or of putting on fine clothing, <sup>4</sup>but from the hidden person of the heart, in the incorruptible adornment of a gentle and quiet spirit, which is very precious in God’s sight. <sup>5</sup>For this is how in the past the holy women who hoped in God also adorned themselves, being in subjection to their own husbands. <sup>6</sup>So Sarah obeyed Abraham, calling him lord, whose children you now are if you do well and are not put in fear by any terror.
 
@@ -115,9 +115,9 @@ let him keep his tongue from evil
 > **Date written:** c. AD 62–64 or 70–92
 >
 > **Basis:**
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind; for he who has suffered in the flesh has ceased from sin, <sup>2</sup>that you no longer should live the rest of your time in the flesh for the lusts of men, but for the will of God. <sup>3</sup>For we have spent enough of our past time doing the desire of the Gentiles, and having walked in lewdness, lusts, drunken binges, orgies, carousings, and abominable idolatries. <sup>4</sup>They think it is strange that you don’t run with them into the same excess of riot, speaking evil of you. <sup>5</sup>They will give account to him who is ready to judge the living and the dead. <sup>6</sup>For to this end the Good News was preached even to the dead, that they might be judged indeed as men in the flesh, but live as to God in the spirit.
 
@@ -132,10 +132,10 @@ let him keep his tongue from evil
 > "She who is in Babylon" (5:13), with Mark. Babylon as a name for Rome is central to the dating.
 >
 > **Basis:**
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he); [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he); [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 
 <sup>1</sup>Therefore I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, and who will also share in the glory that will be revealed: <sup>2</sup>shepherd the flock of God which is among you, exercising the oversight, not under compulsion, but voluntarily; not for dishonest gain, but willingly; <sup>3</sup>not as lording it over those entrusted to you, but making yourselves examples to the flock. <sup>4</sup>When the chief Shepherd is revealed, you will receive the crown of glory that doesn’t fade away.
 

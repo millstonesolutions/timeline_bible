@@ -11,8 +11,8 @@ John on Patmos (1:9). Most date it to the end of Domitian's reign, following Ire
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 95 | Brown; Carson & Moo; Aune (final edition); most scholars | See the anchor *Revelation and the reign of Domitian*. | [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Brown 1997](sources.md#brown-intro); [Carson & Moo 2005](sources.md#carson-moo); [Aune 1997](sources.md#aune) |
-| AD 68–69 | Robinson; Gentry | The temple apparently still standing (11:1–2); the five fallen kings (17:10); Nero and 666 (13:18). | [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry) |
+| c. AD 95 | Brown; Carson & Moo; Aune (final edition); most scholars | See the anchor *Revelation and the reign of Domitian*. | [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Brown 1997](../reference/sources.md#brown-intro); [Carson & Moo 2005](../reference/sources.md#carson-moo); [Aune 1997](../reference/sources.md#aune) |
+| AD 68–69 | Robinson; Gentry | The temple apparently still standing (11:1–2); the five fallen kings (17:10); Nero and 666 (13:18). | [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry) |
 
 ## Revelation 1
 
@@ -21,9 +21,9 @@ John on Patmos (1:9). Most date it to the end of Domitian's reign, following Ire
 > "I, John ... was on the isle that is called Patmos because of God's Word" (1:9), on "the Lord's day" (1:10).
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -60,9 +60,9 @@ He laid his right hand on me, saying, “Don’t be afraid. I am the first and t
 > The seven churches of Asia. The church in Ephesus has "left its first love" (2:4) and a martyr, Antipas, has died in Pergamum (2:13), which suggests some time has passed since the churches were founded (c. AD 52–56).
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -102,9 +102,9 @@ He laid his right hand on me, saying, “Don’t be afraid. I am the first and t
 > Laodicea's boast "I am rich ... and have need of nothing" (3:17) may recall the city rebuilding after the AD 60 earthquake without imperial help (Tacitus, *Ann.* 14.27). Smyrna and Laodicea's development is part of the argument for a late date.
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Tacitus, Annals, 14.27](sources.md#tacitus-ann); [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Tacitus, Annals, 14.27](../reference/sources.md#tacitus-ann); [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -134,9 +134,9 @@ He laid his right hand on me, saying, “Don’t be afraid. I am the first and t
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -154,9 +154,9 @@ He laid his right hand on me, saying, “Don’t be afraid. I am the first and t
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -187,9 +187,9 @@ for you were killed,
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -214,9 +214,9 @@ for you were killed,
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -252,9 +252,9 @@ He said to me, “These are those who came out of the great suffering.[^7-1] The
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -280,9 +280,9 @@ He said to me, “These are those who came out of the great suffering.[^7-1] The
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -309,9 +309,9 @@ He said to me, “These are those who came out of the great suffering.[^7-1] The
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -336,10 +336,10 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 > "Measure God's temple" (11:1–2) is an argument for a date before 70 if taken literally; most read it symbolically.
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry); [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry); [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -366,9 +366,9 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -391,10 +391,10 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 > The number of the beast, 666 (13:18; some manuscripts 616), is often taken as the value of "Nero Caesar" in Hebrew letters. On the late date, it alludes to the legend of Nero's return (*Nero redivivus*).
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry); [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry); [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -413,9 +413,9 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -445,9 +445,9 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -474,9 +474,9 @@ For you only are holy.
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -510,9 +510,9 @@ For you only are holy.
 > "Five have fallen, one is, the other has not yet come" (17:10): the count of emperors depends on where it starts and whether the three of AD 68–69 are included. That's how the text can support a date under Nero, Galba, Vespasian or Domitian.
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -529,9 +529,9 @@ For you only are holy.
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -550,9 +550,9 @@ For you only are holy.
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -579,9 +579,9 @@ For you only are holy.
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -602,9 +602,9 @@ For you only are holy.
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 
@@ -629,9 +629,9 @@ For you only are holy.
 > **Date of the vision and writing:** c. AD 95 (or 68–69)
 >
 > **Basis:**
-> - [Revelation and the reign of Domitian](anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
+> - [Revelation and the reign of Domitian](../reference/anchors.md#domitian), c. AD 95 (minority AD 68–69). Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign" (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to AD 68–69, after Nero.
 >
-> **Sources:** [Irenaeus, Against Heresies, 5.30.3](sources.md#irenaeus); [Eusebius, Church History, 3.18](sources.md#eusebius-he); [Brown 1997](sources.md#brown-intro); [Aune 1997](sources.md#aune); [Robinson 1976](sources.md#robinson); [Gentry 1989](sources.md#gentry).
+> **Sources:** [Irenaeus, Against Heresies, 5.30.3](../reference/sources.md#irenaeus); [Eusebius, Church History, 3.18](../reference/sources.md#eusebius-he); [Brown 1997](../reference/sources.md#brown-intro); [Aune 1997](../reference/sources.md#aune); [Robinson 1976](../reference/sources.md#robinson); [Gentry 1989](../reference/sources.md#gentry).
 >
 > **Book written:** c. AD 95 (minority AD 68–69); see [the date of Revelation](#date-of-writing).
 

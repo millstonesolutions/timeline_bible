@@ -11,18 +11,18 @@ Paul's authorship is undisputed. Written from prison (1:7, 13); the date depends
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 60–62, Rome | Fee; Carson & Moo; the traditional view | "The whole praetorian guard" (1:13) and "Caesar's household" (4:22); Paul facing a verdict of life or death (1:20–26). | [Fee 1995](sources.md#fee-phil); [Carson & Moo 2005](sources.md#carson-moo) |
-| c. AD 54–55, Ephesus | Many scholars (Brown regards Ephesus as a serious possibility) | The frequent journeys between Philippi and Paul's prison (2:25–30) fit the short distance from Ephesus; praetorian personnel also served in provinces; compare 1 Cor 15:32 and 2 Cor 1:8–10. | [Brown 1997](sources.md#brown-intro) |
+| c. AD 60–62, Rome | Fee; Carson & Moo; the traditional view | "The whole praetorian guard" (1:13) and "Caesar's household" (4:22); Paul facing a verdict of life or death (1:20–26). | [Fee 1995](../reference/sources.md#fee-phil); [Carson & Moo 2005](../reference/sources.md#carson-moo) |
+| c. AD 54–55, Ephesus | Many scholars (Brown regards Ephesus as a serious possibility) | The frequent journeys between Philippi and Paul's prison (2:25–30) fit the short distance from Ephesus; praetorian personnel also served in provinces; compare 1 Cor 15:32 and 2 Cor 1:8–10. | [Brown 1997](../reference/sources.md#brown-intro) |
 
 ## Philippians 1
 
 > **Date written:** c. AD 60–62 (or 54–55)
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Paul and Timothy, servants of Jesus Christ,[^1-1] to all the saints in Christ Jesus who are at Philippi, with the overseers[^1-2] and servants:[^1-3] <sup>2</sup>Grace to you and peace from God our Father and the Lord Jesus Christ.
 
@@ -49,10 +49,10 @@ Paul's authorship is undisputed. Written from prison (1:7, 13); the date depends
 > **Date written:** c. AD 60–62 (or 54–55)
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>If therefore there is any exhortation in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassion, <sup>2</sup>make my joy full by being like-minded, having the same love, being of one accord, of one mind; <sup>3</sup>doing nothing through rivalry or through conceit, but in humility, each counting others better than himself; <sup>4</sup>each of you not just looking to his own things, but each of you also to the things of others.
 
@@ -73,10 +73,10 @@ Paul's authorship is undisputed. Written from prison (1:7, 13); the date depends
 > The abrupt change at 3:1–2 has led some scholars to see chapters 3–4 as parts of separate letters; even so, all would date from the same imprisonment.
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Finally, my brothers, rejoice in the Lord! To write the same things to you, to me indeed is not tiresome, but for you it is safe.
 
@@ -93,10 +93,10 @@ Paul's authorship is undisputed. Written from prison (1:7, 13); the date depends
 > **Date written:** c. AD 60–62 (or 54–55)
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Therefore, my brothers, beloved and longed for, my joy and crown, stand firm in the Lord in this way, my beloved.
 

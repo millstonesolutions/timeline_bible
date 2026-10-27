@@ -11,17 +11,17 @@ Presented as Paul's last letter, from a Roman prison shortly before his death (1
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 64–67, Rome | Carson & Moo; many conservative scholars | "I am already being offered" (4:6); a second Roman imprisonment, harsher than Acts 28; the tradition of Paul's death under Nero. | [Carson & Moo 2005](sources.md#carson-moo); [Eusebius, Church History, 2.22](sources.md#eusebius-he) |
-| c. AD 80–100 | Brown (who notes it is the likeliest of the three to be Pauline); most critical scholars | Same arguments as for 1 Timothy, though the personal details are richer. | [Brown 1997](sources.md#brown-intro) |
+| c. AD 64–67, Rome | Carson & Moo; many conservative scholars | "I am already being offered" (4:6); a second Roman imprisonment, harsher than Acts 28; the tradition of Paul's death under Nero. | [Carson & Moo 2005](../reference/sources.md#carson-moo); [Eusebius, Church History, 2.22](../reference/sources.md#eusebius-he) |
+| c. AD 80–100 | Brown (who notes it is the likeliest of the three to be Pauline); most critical scholars | Same arguments as for 1 Timothy, though the personal details are richer. | [Brown 1997](../reference/sources.md#brown-intro) |
 
 ## 2 Timothy 1
 
 > **Date written:** c. AD 64–67 or 80–100
 >
 > **Basis:**
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>Paul, an apostle of Jesus Christ[^1-1] through the will of God, according to the promise of the life which is in Christ Jesus, <sup>2</sup>to Timothy, my beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.
 
@@ -42,9 +42,9 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 > **Date written:** c. AD 64–67 or 80–100
 >
 > **Basis:**
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>You therefore, my child, be strengthened in the grace that is in Christ Jesus. <sup>2</sup>The things which you have heard from me among many witnesses, commit the same things to faithful men who will be able to teach others also. <sup>3</sup>You therefore must endure hardship as a good soldier of Christ Jesus. <sup>4</sup>No soldier on duty entangles himself in the affairs of life, that he may please him who enrolled him as a soldier. <sup>5</sup>Also, if anyone competes in athletics, he isn’t crowned unless he has competed by the rules. <sup>6</sup>The farmer who labors must be the first to get a share of the crops. <sup>7</sup>Consider what I say, and may the Lord give you understanding in all things.
 
@@ -76,9 +76,9 @@ If we deny him,
 > **Date written:** c. AD 64–67 or 80–100
 >
 > **Basis:**
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>But know this: that in the last days, grievous times will come. <sup>2</sup>For men will be lovers of self, lovers of money, boastful, arrogant, blasphemers, disobedient to parents, unthankful, unholy, <sup>3</sup>without natural affection, unforgiving, slanderers, without self-control, fierce, not lovers of good, <sup>4</sup>traitors, headstrong, conceited, lovers of pleasure rather than lovers of God, <sup>5</sup>holding a form of godliness but having denied its power. Turn away from these, also. <sup>6</sup>For some of these are people who creep into houses and take captive gullible women loaded down with sins, led away by various lusts, <sup>7</sup>always learning and never able to come to the knowledge of the truth. <sup>8</sup>Even as Jannes and Jambres opposed Moses, so these also oppose the truth, men corrupted in mind, who concerning the faith are rejected. <sup>9</sup>But they will proceed no further. For their folly will be evident to all men, as theirs also came to be.
 
@@ -93,9 +93,9 @@ If we deny him,
 > "The time of my departure has come" (4:6); "come before winter" (4:21). If authentic, a few months before Paul's execution.
 >
 > **Basis:**
-> - [Nero's persecution and the deaths of Peter and Paul](anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+> - [Nero's persecution and the deaths of Peter and Paul](../reference/anchors.md#nero), AD 64–67/68. Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
 >
-> **Sources:** [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [1 Clement, 5](sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](sources.md#eusebius-he).
+> **Sources:** [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [1 Clement, 5](../reference/sources.md#clement-1); [Eusebius, Church History, 2.22, 2.25](../reference/sources.md#eusebius-he).
 
 <sup>1</sup>I command you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at his appearing and his Kingdom: <sup>2</sup>preach the word; be urgent in season and out of season; reprove, rebuke, and exhort with all patience and teaching. <sup>3</sup>For the time will come when they will not listen to the sound doctrine, but having itching ears, will heap up for themselves teachers after their own lusts, <sup>4</sup>and will turn away their ears from the truth, and turn away to fables. <sup>5</sup>But you be sober in all things, suffer hardship, do the work of an evangelist, and fulfill your ministry.
 

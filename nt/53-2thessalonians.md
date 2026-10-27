@@ -11,17 +11,17 @@ Disputed. If by Paul, written from Corinth a few months after 1 Thessalonians; i
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 51, Corinth | Carson & Moo; many scholars | Same co-senders (Silvanus, Timothy, 1:1); responds to a misunderstanding about the day of the Lord (2:1–2). | [Carson & Moo 2005](sources.md#carson-moo) |
-| late 1st century | Brown sets out the case; many critical scholars | Close literary dependence on 1 Thessalonians with different eschatology; the warning about forged letters (2:2; 3:17). | [Brown 1997](sources.md#brown-intro) |
+| c. AD 51, Corinth | Carson & Moo; many scholars | Same co-senders (Silvanus, Timothy, 1:1); responds to a misunderstanding about the day of the Lord (2:1–2). | [Carson & Moo 2005](../reference/sources.md#carson-moo) |
+| late 1st century | Brown sets out the case; many critical scholars | Close literary dependence on 1 Thessalonians with different eschatology; the warning about forged letters (2:2; 3:17). | [Brown 1997](../reference/sources.md#brown-intro) |
 
 ## 2 Thessalonians 1
 
 > **Date written:** c. AD 51 or late 1st century
 >
 > **Basis:**
-> - [Gallio proconsul of Achaia](anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
+> - [Gallio proconsul of Achaia](../reference/anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
 >
-> **Sources:** [Delphi (Gallio) inscription](sources.md#gallio-inscription); [Murphy-O'Connor 2002](sources.md#murphy-oconnor); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett).
+> **Sources:** [Delphi (Gallio) inscription](../reference/sources.md#gallio-inscription); [Murphy-O'Connor 2002](../reference/sources.md#murphy-oconnor); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett).
 
 <sup>1</sup>Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God our Father and the Lord Jesus Christ: <sup>2</sup>Grace to you and peace from God our Father and the Lord Jesus Christ.
 
@@ -37,9 +37,9 @@ Disputed. If by Paul, written from Corinth a few months after 1 Thessalonians; i
 > **Date written:** c. AD 51 or late 1st century
 >
 > **Basis:**
-> - [Gallio proconsul of Achaia](anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
+> - [Gallio proconsul of Achaia](../reference/anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
 >
-> **Sources:** [Delphi (Gallio) inscription](sources.md#gallio-inscription); [Murphy-O'Connor 2002](sources.md#murphy-oconnor); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett).
+> **Sources:** [Delphi (Gallio) inscription](../reference/sources.md#gallio-inscription); [Murphy-O'Connor 2002](../reference/sources.md#murphy-oconnor); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett).
 
 <sup>1</sup>Now, brothers, concerning the coming of our Lord Jesus Christ and our gathering together to him, we ask you <sup>2</sup>not to be quickly shaken in your mind or troubled, either by spirit or by word or by letter as if from us, saying that the day of Christ has already come. <sup>3</sup>Let no one deceive you in any way. For it will not be unless the rebellion[^2-1] comes first, and the man of sin is revealed, the son of destruction. <sup>4</sup>He opposes and exalts himself against all that is called God or that is worshiped, so that he sits as God in the temple of God, setting himself up as God. <sup>5</sup>Don’t you remember that when I was still with you, I told you these things? <sup>6</sup>Now you know what is restraining him, to the end that he may be revealed in his own season. <sup>7</sup>For the mystery of lawlessness already works. Only there is one who restrains now, until he is taken out of the way. <sup>8</sup>Then the lawless one will be revealed, whom the Lord will kill with the breath of his mouth and destroy by the manifestation of his coming; <sup>9</sup>even he whose coming is according to the working of Satan with all power and signs and lying wonders, <sup>10</sup>and with all deception of wickedness for those who are being lost, because they didn’t receive the love of the truth, that they might be saved. <sup>11</sup>Because of this, God sends them a powerful delusion, that they should believe a lie, <sup>12</sup>that they all might be judged who didn’t believe the truth, but had pleasure in unrighteousness.
 
@@ -54,9 +54,9 @@ Disputed. If by Paul, written from Corinth a few months after 1 Thessalonians; i
 > **Date written:** c. AD 51 or late 1st century
 >
 > **Basis:**
-> - [Gallio proconsul of Achaia](anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
+> - [Gallio proconsul of Achaia](../reference/anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
 >
-> **Sources:** [Delphi (Gallio) inscription](sources.md#gallio-inscription); [Murphy-O'Connor 2002](sources.md#murphy-oconnor); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett).
+> **Sources:** [Delphi (Gallio) inscription](../reference/sources.md#gallio-inscription); [Murphy-O'Connor 2002](../reference/sources.md#murphy-oconnor); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett).
 
 <sup>1</sup>Finally, brothers, pray for us, that the word of the Lord may spread rapidly and be glorified, even as also with you, <sup>2</sup>and that we may be delivered from unreasonable and evil men; for not all have faith. <sup>3</sup>But the Lord is faithful, who will establish you and guard you from the evil one. <sup>4</sup>We have confidence in the Lord concerning you, that you both do and will do the things we command. <sup>5</sup>May the Lord direct your hearts into God’s love and into the perseverance of Christ.
 

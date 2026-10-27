@@ -11,17 +11,17 @@ Anonymous (the ancient attribution to Paul is now almost universally rejected). 
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 60–69 | Lane (mid-60s, to Rome); Robinson; many scholars | Speaks of the sacrifices as still being offered (10:1–3; 8:4, 13); doesn't mention the temple's destruction, which would have clinched its argument; Timothy is still alive and active (13:23). | [Lane 1991](sources.md#lane-heb); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo) |
-| c. AD 80–90 | Brown (in the 80s); many critical scholars | Hebrews argues from the tabernacle of the Pentateuch, not the Herodian temple, so its present tenses don't prove the temple was standing; a second-generation community (2:3). | [Brown 1997](sources.md#brown-intro) |
+| c. AD 60–69 | Lane (mid-60s, to Rome); Robinson; many scholars | Speaks of the sacrifices as still being offered (10:1–3; 8:4, 13); doesn't mention the temple's destruction, which would have clinched its argument; Timothy is still alive and active (13:23). | [Lane 1991](../reference/sources.md#lane-heb); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo) |
+| c. AD 80–90 | Brown (in the 80s); many critical scholars | Hebrews argues from the tabernacle of the Pentateuch, not the Herodian temple, so its present tenses don't prove the temple was standing; a second-generation community (2:3). | [Brown 1997](../reference/sources.md#brown-intro) |
 
 ## Hebrews 1
 
 > **Date written:** c. AD 60–69 or 80–90
 >
 > **Basis:**
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 
 <sup>1</sup>God, having in the past spoken to the fathers through the prophets at many times and in various ways, <sup>2</sup>has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds. <sup>3</sup>His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high, <sup>4</sup>having become as much better than the angels as the more excellent name he has inherited is better than theirs. <sup>5</sup>For to which of the angels did he say at any time,
 
@@ -68,9 +68,9 @@ and again,
 > **Date written:** c. AD 60–69 or 80–90
 >
 > **Basis:**
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 
 <sup>1</sup>Therefore we ought to pay greater attention to the things that were heard, lest perhaps we drift away. <sup>2</sup>For if the word spoken through angels proved steadfast, and every transgression and disobedience received a just penalty, <sup>3</sup>how will we escape if we neglect so great a salvation—which at the first having been spoken through the Lord, was confirmed to us by those who heard, <sup>4</sup>God also testifying with them, both by signs and wonders, by various works of power, and by gifts of the Holy Spirit, according to his own will?
 
@@ -100,9 +100,9 @@ For in that he subjected all things to him, he left nothing that is not subject 
 > **Date written:** c. AD 60–69 or 80–90
 >
 > **Basis:**
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 
 <sup>1</sup>Therefore, holy brothers, partakers of a heavenly calling, consider the Apostle and High Priest of our confession: Jesus, <sup>2</sup>who was faithful to him who appointed him, as also Moses was in all his house. <sup>3</sup>For he has been counted worthy of more glory than Moses, because he who built the house has more honor than the house. <sup>4</sup>For every house is built by someone; but he who built all things is God. <sup>5</sup>Moses indeed was faithful in all his house as a servant, for a testimony of those things which were afterward to be spoken, <sup>6</sup>but Christ[^3-1] is faithful as a Son over his house. We are his house, if we hold fast our confidence and the glorying of our hope firm to the end. <sup>7</sup>Therefore, even as the Holy Spirit says,
 
@@ -131,9 +131,9 @@ For in that he subjected all things to him, he left nothing that is not subject 
 > **Date written:** c. AD 60–69 or 80–90
 >
 > **Basis:**
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 
 <sup>1</sup>Let’s fear therefore, lest perhaps anyone of you should seem to have come short of a promise of entering into his rest. <sup>2</sup>For indeed we have had good news preached to us, even as they also did, but the word they heard didn’t profit them, because it wasn’t mixed with faith by those who heard. <sup>3</sup>For we who have believed do enter into that rest, even as he has said, “As I swore in my wrath, they will not enter into my rest;” although the works were finished from the foundation of the world. <sup>4</sup>For he has said this somewhere about the seventh day, “God rested on the seventh day from all his works;” <sup>5</sup>and in this place again, “They will not enter into my rest.”
 
@@ -151,9 +151,9 @@ For in that he subjected all things to him, he left nothing that is not subject 
 > **Date written:** c. AD 60–69 or 80–90
 >
 > **Basis:**
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 
 <sup>1</sup>For every high priest, being taken from among men, is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins. <sup>2</sup>The high priest can deal gently with those who are ignorant and going astray, because he himself is also surrounded with weakness. <sup>3</sup>Because of this, he must offer sacrifices for sins for the people, as well as for himself. <sup>4</sup>Nobody takes this honor on himself, but he is called by God, just like Aaron was. <sup>5</sup>So also Christ didn’t glorify himself to be made a high priest, but it was he who said to him,
 
@@ -174,9 +174,9 @@ For in that he subjected all things to him, he left nothing that is not subject 
 > **Date written:** c. AD 60–69 or 80–90
 >
 > **Basis:**
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 
 <sup>1</sup>Therefore leaving the teaching of the first principles of Christ, let’s press on to perfection—not laying again a foundation of repentance from dead works, of faith toward God, <sup>2</sup>of the teaching of baptisms, of laying on of hands, of resurrection of the dead, and of eternal judgment. <sup>3</sup>This will we do, if God permits. <sup>4</sup>For concerning those who were once enlightened and tasted of the heavenly gift, and were made partakers of the Holy Spirit, <sup>5</sup>and tasted the good word of God and the powers of the age to come, <sup>6</sup>and then fell away, it is impossible to renew them again to repentance; seeing they crucify the Son of God for themselves again, and put him to open shame. <sup>7</sup>For the land which has drunk the rain that comes often on it and produces a crop suitable for them for whose sake it is also tilled, receives blessing from God; <sup>8</sup>but if it bears thorns and thistles, it is rejected and near being cursed, whose end is to be burned.
 
@@ -189,9 +189,9 @@ For in that he subjected all things to him, he left nothing that is not subject 
 > **Date written:** c. AD 60–69 or 80–90
 >
 > **Basis:**
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 
 <sup>1</sup>For this Melchizedek, king of Salem, priest of God Most High, who met Abraham returning from the slaughter of the kings and blessed him, <sup>2</sup>to whom also Abraham divided a tenth part of all (being first, by interpretation, “king of righteousness”, and then also “king of Salem”, which means “king of peace”, <sup>3</sup>without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like the Son of God), remains a priest continually.
 
@@ -219,9 +219,9 @@ For in that he subjected all things to him, he left nothing that is not subject 
 > **Date written:** c. AD 60–69 or 80–90
 >
 > **Basis:**
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 
 <sup>1</sup>Now in the things which we are saying, the main point is this: we have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens, <sup>2</sup>a servant of the sanctuary and of the true tabernacle which the Lord pitched, not man. <sup>3</sup>For every high priest is appointed to offer both gifts and sacrifices. Therefore it is necessary that this high priest also have something to offer. <sup>4</sup>For if he were on earth, he would not be a priest at all, seeing there are priests who offer the gifts according to the law, <sup>5</sup>who serve a copy and shadow of the heavenly things, even as Moses was warned by God when he was about to make the tabernacle, for he said, “See, you shall make everything according to the pattern that was shown to you on the mountain.” <sup>6</sup>But now he has obtained a more excellent ministry, by as much as he is also the mediator of a better covenant, which on better promises has been given as law.
 
@@ -256,9 +256,9 @@ I will be their God,
 > **Date written:** c. AD 60–69 or 80–90
 >
 > **Basis:**
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 
 <sup>1</sup>Now indeed even the first[^9-1] covenant had ordinances of divine service and an earthly sanctuary. <sup>2</sup>For a tabernacle was prepared. In the first part were the lamp stand, the table, and the show bread, which is called the Holy Place. <sup>3</sup>After the second veil was the tabernacle which is called the Holy of Holies, <sup>4</sup>having a golden altar of incense and the ark of the covenant overlaid on all sides with gold, in which was a golden pot holding the manna, Aaron’s rod that budded, and the tablets of the covenant; <sup>5</sup>and above it cherubim of glory overshadowing the mercy seat, of which things we can’t speak now in detail.
 
@@ -279,10 +279,10 @@ I will be their God,
 > "Would they not have ceased to be offered?" (10:2): one of the main texts for a date while the temple's sacrifices continued. 10:32–34 recalls an earlier persecution without martyrdom (12:4), possibly Claudius's expulsion of AD 49.
 >
 > **Basis:**
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
-> - [Claudius expels Jews from Rome](anchors.md#claudius-edict), AD 49 (minority AD 41). Suetonius (*Claudius* 25.4) reports the expulsion of Jews "agitating at the instigation of Chrestus". Orosius (7.6.15) dates it to Claudius's 9th year, AD 49. Aquila and Priscilla had "recently" arrived from Rome (Acts 18:2).
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Claudius expels Jews from Rome](../reference/anchors.md#claudius-edict), AD 49 (minority AD 41). Suetonius (*Claudius* 25.4) reports the expulsion of Jews "agitating at the instigation of Chrestus". Orosius (7.6.15) dates it to Claudius's 9th year, AD 49. Aquila and Priscilla had "recently" arrived from Rome (Acts 18:2).
 >
-> **Sources:** [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo); [Suetonius, Claudius, 25.4](sources.md#suetonius-claud); [Orosius, History, 7.6.15](sources.md#orosius); [Cassius Dio, Roman History, 60.6.6](sources.md#dio); [Riesner 1998](sources.md#riesner); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo); [Suetonius, Claudius, 25.4](../reference/sources.md#suetonius-claud); [Orosius, History, 7.6.15](../reference/sources.md#orosius); [Cassius Dio, Roman History, 60.6.6](../reference/sources.md#dio); [Riesner 1998](../reference/sources.md#riesner); [Lüdemann 1984](../reference/sources.md#luedemann).
 
 <sup>1</sup>For the law, having a shadow of the good to come, not the very image of the things, can never with the same sacrifices year by year, which they offer continually, make perfect those who draw near. <sup>2</sup>Or else wouldn’t they have ceased to be offered, because the worshipers, having been once cleansed, would have had no more consciousness of sins? <sup>3</sup>But in those sacrifices there is a yearly reminder of sins. <sup>4</sup>For it is impossible that the blood of bulls and goats should take away sins. <sup>5</sup>Therefore when he comes into the world, he says,
 
@@ -327,9 +327,9 @@ then he says,
 > **Date written:** c. AD 60–69 or 80–90
 >
 > **Basis:**
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 
 <sup>1</sup>Now faith is assurance of things hoped for, proof of things not seen. <sup>2</sup>For by this, the elders obtained approval. <sup>3</sup>By faith we understand that the universe has been framed by the word of God, so that what is seen has not been made out of things which are visible.
 
@@ -376,9 +376,9 @@ then he says,
 > **Date written:** c. AD 60–69 or 80–90
 >
 > **Basis:**
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 
 <sup>1</sup>Therefore let’s also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let’s run with perseverance the race that is set before us, <sup>2</sup>looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God.
 
@@ -408,9 +408,9 @@ then he says,
 > "Our brother Timothy has been freed" (13:23); "those from Italy greet you" (13:24).
 >
 > **Basis:**
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 
 <sup>1</sup>Let brotherly love continue. <sup>2</sup>Don’t forget to show hospitality to strangers, for in doing so, some have entertained angels without knowing it. <sup>3</sup>Remember those who are in bonds, as bound with them, and those who are ill-treated, since you are also in the body. <sup>4</sup>Let marriage be held in honor among all, and let the bed be undefiled; but God will judge the sexually immoral and adulterers.
 

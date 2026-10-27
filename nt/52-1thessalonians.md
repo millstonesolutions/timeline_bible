@@ -11,17 +11,17 @@ Usually considered the earliest surviving Christian writing. Paul's authorship i
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 50–51, Corinth | Nearly all scholars (Brown; Carson & Moo; Riesner) | Acts 17–18 and 1 Thess 2:17–3:6; the Gallio inscription fixes Paul's time in Corinth. | [Brown 1997](sources.md#brown-intro); [Carson & Moo 2005](sources.md#carson-moo); [Riesner 1998](sources.md#riesner); [Delphi (Gallio) inscription](sources.md#gallio-inscription) |
-| c. AD 41–43 | Lüdemann (early chronology) | His dating of the Claudius edict to AD 41 and of Paul's first visit to Greece before the council. | [Lüdemann 1984](sources.md#luedemann) |
+| c. AD 50–51, Corinth | Nearly all scholars (Brown; Carson & Moo; Riesner) | Acts 17–18 and 1 Thess 2:17–3:6; the Gallio inscription fixes Paul's time in Corinth. | [Brown 1997](../reference/sources.md#brown-intro); [Carson & Moo 2005](../reference/sources.md#carson-moo); [Riesner 1998](../reference/sources.md#riesner); [Delphi (Gallio) inscription](../reference/sources.md#gallio-inscription) |
+| c. AD 41–43 | Lüdemann (early chronology) | His dating of the Claudius edict to AD 41 and of Paul's first visit to Greece before the council. | [Lüdemann 1984](../reference/sources.md#luedemann) |
 
 ## 1 Thessalonians 1
 
 > **Date written:** c. AD 50–51
 >
 > **Basis:**
-> - [Gallio proconsul of Achaia](anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
+> - [Gallio proconsul of Achaia](../reference/anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
 >
-> **Sources:** [Delphi (Gallio) inscription](sources.md#gallio-inscription); [Murphy-O'Connor 2002](sources.md#murphy-oconnor); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett).
+> **Sources:** [Delphi (Gallio) inscription](../reference/sources.md#gallio-inscription); [Murphy-O'Connor 2002](../reference/sources.md#murphy-oconnor); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett).
 
 <sup>1</sup>Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God the Father and the Lord Jesus Christ:[^1-1] Grace to you and peace from God our Father and the Lord Jesus Christ.
 
@@ -37,9 +37,9 @@ Usually considered the earliest surviving Christian writing. Paul's authorship i
 > 2:14–16 ("wrath has come on them at last") is read by a few scholars as a later insertion after AD 70; most consider it original.
 >
 > **Basis:**
-> - [Gallio proconsul of Achaia](anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
+> - [Gallio proconsul of Achaia](../reference/anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
 >
-> **Sources:** [Delphi (Gallio) inscription](sources.md#gallio-inscription); [Murphy-O'Connor 2002](sources.md#murphy-oconnor); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett).
+> **Sources:** [Delphi (Gallio) inscription](../reference/sources.md#gallio-inscription); [Murphy-O'Connor 2002](../reference/sources.md#murphy-oconnor); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett).
 
 <sup>1</sup>For you yourselves know, brothers, our visit to you wasn’t in vain, <sup>2</sup>but having suffered before and been shamefully treated, as you know, at Philippi, we grew bold in our God to tell you the Good News of God in much conflict. <sup>3</sup>For our exhortation is not of error, nor of uncleanness, nor in deception. <sup>4</sup>But even as we have been approved by God to be entrusted with the Good News, so we speak—not as pleasing men, but God, who tests our hearts. <sup>5</sup>For neither were we at any time found using words of flattery, as you know, nor a cloak of covetousness (God is witness), <sup>6</sup>nor seeking glory from men (neither from you nor from others), when we might have claimed authority as apostles of Christ. <sup>7</sup>But we were gentle among you, like a nursing mother cherishes her own children.
 
@@ -56,9 +56,9 @@ Usually considered the earliest surviving Christian writing. Paul's authorship i
 > **Date written:** c. AD 50–51
 >
 > **Basis:**
-> - [Gallio proconsul of Achaia](anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
+> - [Gallio proconsul of Achaia](../reference/anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
 >
-> **Sources:** [Delphi (Gallio) inscription](sources.md#gallio-inscription); [Murphy-O'Connor 2002](sources.md#murphy-oconnor); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett).
+> **Sources:** [Delphi (Gallio) inscription](../reference/sources.md#gallio-inscription); [Murphy-O'Connor 2002](../reference/sources.md#murphy-oconnor); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett).
 
 <sup>1</sup>Therefore when we couldn’t stand it any longer, we thought it good to be left behind at Athens alone, <sup>2</sup>and sent Timothy, our brother and God’s servant in the Good News of Christ, to establish you and to comfort you concerning your faith, <sup>3</sup>that no one would be moved by these afflictions. For you know that we are appointed to this task. <sup>4</sup>For most certainly, when we were with you, we told you beforehand that we are to suffer affliction, even as it happened, and you know. <sup>5</sup>For this cause I also, when I couldn’t stand it any longer, sent that I might know your faith, for fear that by any means the tempter had tempted you, and our labor would have been in vain.
 
@@ -71,9 +71,9 @@ Usually considered the earliest surviving Christian writing. Paul's authorship i
 > **Date written:** c. AD 50–51
 >
 > **Basis:**
-> - [Gallio proconsul of Achaia](anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
+> - [Gallio proconsul of Achaia](../reference/anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
 >
-> **Sources:** [Delphi (Gallio) inscription](sources.md#gallio-inscription); [Murphy-O'Connor 2002](sources.md#murphy-oconnor); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett).
+> **Sources:** [Delphi (Gallio) inscription](../reference/sources.md#gallio-inscription); [Murphy-O'Connor 2002](../reference/sources.md#murphy-oconnor); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett).
 
 <sup>1</sup>Finally then, brothers, we beg and exhort you in the Lord Jesus, that as you received from us how you ought to walk and to please God, that you abound more and more. <sup>2</sup>For you know what instructions we gave you through the Lord Jesus. <sup>3</sup>For this is the will of God: your sanctification, that you abstain from sexual immorality, <sup>4</sup>that each one of you know how to control his own body[^4-1] in sanctification and honor, <sup>5</sup>not in the passion of lust, even as the Gentiles who don’t know God, <sup>6</sup>that no one should take advantage of and wrong a brother or sister in this matter; because the Lord is an avenger in all these things, as also we forewarned you and testified. <sup>7</sup>For God called us not for uncleanness, but in sanctification. <sup>8</sup>Therefore he who rejects this doesn’t reject man, but God, who has also given his Holy Spirit to you.
 
@@ -88,9 +88,9 @@ Usually considered the earliest surviving Christian writing. Paul's authorship i
 > **Date written:** c. AD 50–51
 >
 > **Basis:**
-> - [Gallio proconsul of Achaia](anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
+> - [Gallio proconsul of Achaia](../reference/anchors.md#gallio), AD 51–52. The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52 (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in Paul's chronology.
 >
-> **Sources:** [Delphi (Gallio) inscription](sources.md#gallio-inscription); [Murphy-O'Connor 2002](sources.md#murphy-oconnor); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett).
+> **Sources:** [Delphi (Gallio) inscription](../reference/sources.md#gallio-inscription); [Murphy-O'Connor 2002](../reference/sources.md#murphy-oconnor); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett).
 
 <sup>1</sup>But concerning the times and the seasons, brothers, you have no need that anything be written to you. <sup>2</sup>For you yourselves know well that the day of the Lord comes like a thief in the night. <sup>3</sup>For when they are saying, “Peace and safety,” then sudden destruction will come on them, like birth pains on a pregnant woman. Then they will in no way escape. <sup>4</sup>But you, brothers, aren’t in darkness, that the day should overtake you like a thief. <sup>5</sup>You are all children of light and children of the day. We don’t belong to the night, nor to darkness, <sup>6</sup>so then let’s not sleep, as the rest do, but let’s watch and be sober. <sup>7</sup>For those who sleep, sleep in the night; and those who are drunk are drunk in the night. <sup>8</sup>But since we belong to the day, let’s be sober, putting on the breastplate of faith and love, and for a helmet, the hope of salvation. <sup>9</sup>For God didn’t appoint us to wrath, but to the obtaining of salvation through our Lord Jesus Christ, <sup>10</sup>who died for us, that, whether we wake or sleep, we should live together with him. <sup>11</sup>Therefore exhort one another, and build each other up, even as you also do.
 

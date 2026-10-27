@@ -11,8 +11,8 @@ Paul's authorship is undisputed; the date depends on who "the Galatians" were. I
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 48–49, before the Jerusalem council | Bruce; Longenecker; Riesner; many conservative scholars | The churches of Pisidian Antioch, Iconium, Lystra and Derbe (in the Roman province of Galatia); Galatians 2:1–10 = the famine visit (Acts 11:30); the letter never mentions the council's decision, which would have settled the dispute. | [Bruce 1977](sources.md#bruce-paul); [Longenecker 1990](sources.md#longenecker-gal); [Riesner 1998](sources.md#riesner) |
-| c. AD 53–57, from Ephesus or Macedonia | Lightfoot's older consensus; Betz; Brown (c. 54–55); many critical scholars | "Galatians" in the ethnic sense (Acts 16:6; 18:23); Galatians 2:1–10 = the council; close in theme to Romans and 2 Corinthians. | [Betz 1979](sources.md#betz-gal); [Brown 1997](sources.md#brown-intro) |
+| c. AD 48–49, before the Jerusalem council | Bruce; Longenecker; Riesner; many conservative scholars | The churches of Pisidian Antioch, Iconium, Lystra and Derbe (in the Roman province of Galatia); Galatians 2:1–10 = the famine visit (Acts 11:30); the letter never mentions the council's decision, which would have settled the dispute. | [Bruce 1977](../reference/sources.md#bruce-paul); [Longenecker 1990](../reference/sources.md#longenecker-gal); [Riesner 1998](../reference/sources.md#riesner) |
+| c. AD 53–57, from Ephesus or Macedonia | Lightfoot's older consensus; Betz; Brown (c. 54–55); many critical scholars | "Galatians" in the ethnic sense (Acts 16:6; 18:23); Galatians 2:1–10 = the council; close in theme to Romans and 2 Corinthians. | [Betz 1979](../reference/sources.md#betz-gal); [Brown 1997](../reference/sources.md#brown-intro) |
 
 ## Galatians 1
 
@@ -21,10 +21,10 @@ Paul's authorship is undisputed; the date depends on who "the Galatians" were. I
 > Recalls Paul's conversion (1:15–16), the trip to Arabia and Damascus, and his first Jerusalem visit "after three years" (1:18): c. AD 31–37.
 >
 > **Basis:**
-> - [Jerusalem council](anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
-> - [Conversion of Paul](anchors.md#paul-conversion), c. AD 31–36 (often c. 33–34). Galatians 1:18 and 2:1 count 3 + 14 (or 14 inclusive) years back from the Jerusalem meeting of c. AD 48–49, which gives c. AD 31–36. Riesner proposes AD 31/32, Jewett AD 34, Bruce c. 33.
+> - [Jerusalem council](../reference/anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
+> - [Conversion of Paul](../reference/anchors.md#paul-conversion), c. AD 31–36 (often c. 33–34). Galatians 1:18 and 2:1 count 3 + 14 (or 14 inclusive) years back from the Jerusalem meeting of c. AD 48–49, which gives c. AD 31–36. Riesner proposes AD 31/32, Jewett AD 34, Bruce c. 33.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann).
 
 <sup>1</sup>Paul, an apostle—not from men, nor through man, but through Jesus Christ,[^1-1] and God the Father, who raised him from the dead— <sup>2</sup>and all the brothers[^1-2] who are with me, to the assemblies of Galatia: <sup>3</sup>Grace to you and peace from God the Father and our Lord Jesus Christ, <sup>4</sup>who gave himself for our sins, that he might deliver us out of this present evil age, according to the will of our God and Father— <sup>5</sup>to whom be the glory forever and ever. Amen.
 
@@ -47,10 +47,10 @@ Paul's authorship is undisputed; the date depends on who "the Galatians" were. I
 > Recalls the visit "after fourteen years" (2:1–10), the council or the famine visit (c. AD 46–49), and the dispute with Peter at Antioch (2:11–14).
 >
 > **Basis:**
-> - [Jerusalem council](anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
-> - [Famine under Claudius](anchors.md#famine), c. AD 45–48. Acts 11:28 places Agabus's famine "in the days of Claudius" (AD 41–54). Josephus reports a severe famine in Judea under the procurators Fadus and Tiberius Alexander, c. AD 45–48 (*Ant.* 20.101).
+> - [Jerusalem council](../reference/anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
+> - [Famine under Claudius](../reference/anchors.md#famine), c. AD 45–48. Acts 11:28 places Agabus's famine "in the days of Claudius" (AD 41–54). Josephus reports a severe famine in Judea under the procurators Fadus and Tiberius Alexander, c. AD 45–48 (*Ant.* 20.101).
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann); [Josephus, Antiquities, 20.51–53, 20.101](sources.md#josephus-ant).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann); [Josephus, Antiquities, 20.51–53, 20.101](../reference/sources.md#josephus-ant).
 
 <sup>1</sup>Then after a period of fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me. <sup>2</sup>I went up by revelation, and I laid before them the Good News which I preach among the Gentiles, but privately before those who were respected, for fear that I might be running, or had run, in vain. <sup>3</sup>But not even Titus, who was with me, being a Greek, was compelled to be circumcised. <sup>4</sup>This was because of the false brothers secretly brought in, who stole in to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage, <sup>5</sup>to whom we gave no place in the way of subjection, not for an hour, that the truth of the Good News might continue with you. <sup>6</sup>But from those who were reputed to be important—whatever they were, it makes no difference to me; God doesn’t show partiality to man—they, I say, who were respected imparted nothing to me, <sup>7</sup>but to the contrary, when they saw that I had been entrusted with the Good News for the uncircumcised, even as Peter with the Good News for the circumcised— <sup>8</sup>for he who worked through Peter in the apostleship with the circumcised also worked through me with the Gentiles— <sup>9</sup>and when they perceived the grace that was given to me, James and Cephas and John, those who were reputed to be pillars, gave to Barnabas and me the right hand of fellowship, that we should go to the Gentiles, and they to the circumcision. <sup>10</sup>They only asked us to remember the poor—which very thing I was also zealous to do.
 
@@ -63,9 +63,9 @@ Paul's authorship is undisputed; the date depends on who "the Galatians" were. I
 > **Date written:** c. AD 48–49 or 53–57
 >
 > **Basis:**
-> - [Jerusalem council](anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
+> - [Jerusalem council](../reference/anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann).
 
 <sup>1</sup>Foolish Galatians, who has bewitched you not to obey the truth, before whose eyes Jesus Christ was openly portrayed among you as crucified? <sup>2</sup>I just want to learn this from you: Did you receive the Spirit by the works of the law, or by hearing of faith? <sup>3</sup>Are you so foolish? Having begun in the Spirit, are you now completed in the flesh? <sup>4</sup>Did you suffer so many things in vain, if it is indeed in vain? <sup>5</sup>He therefore who supplies the Spirit to you and does miracles among you, does he do it by the works of the law, or by hearing of faith? <sup>6</sup>Even so, Abraham “believed God, and it was counted to him for righteousness.” <sup>7</sup>Know therefore that those who are of faith are children of Abraham. <sup>8</sup>The Scripture, foreseeing that God would justify the Gentiles by faith, preached the Good News beforehand to Abraham, saying, “In you all the nations will be blessed.” <sup>9</sup>So then, those who are of faith are blessed with the faithful Abraham.
 
@@ -89,9 +89,9 @@ Paul's authorship is undisputed; the date depends on who "the Galatians" were. I
 > **Date written:** c. AD 48–49 or 53–57
 >
 > **Basis:**
-> - [Jerusalem council](anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
+> - [Jerusalem council](../reference/anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann).
 
 <sup>1</sup>But I say that so long as the heir is a child, he is no different from a bondservant, though he is lord of all, <sup>2</sup>but is under guardians and stewards until the day appointed by the father. <sup>3</sup>So we also, when we were children, were held in bondage under the elemental principles of the world. <sup>4</sup>But when the fullness of the time came, God sent out his Son, born to a woman, born under the law, <sup>5</sup>that he might redeem those who were under the law, that we might receive the adoption as children. <sup>6</sup>And because you are children, God sent out the Spirit of his Son into your hearts, crying, “Abba,[^4-1] Father!” <sup>7</sup>So you are no longer a bondservant, but a son; and if a son, then an heir of God through Christ.
 
@@ -118,9 +118,9 @@ Paul's authorship is undisputed; the date depends on who "the Galatians" were. I
 > **Date written:** c. AD 48–49 or 53–57
 >
 > **Basis:**
-> - [Jerusalem council](anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
+> - [Jerusalem council](../reference/anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann).
 
 <sup>1</sup>Stand firm therefore in the liberty by which Christ has made us free, and don’t be entangled again with a yoke of bondage.
 
@@ -145,9 +145,9 @@ Paul's authorship is undisputed; the date depends on who "the Galatians" were. I
 > **Date written:** c. AD 48–49 or 53–57
 >
 > **Basis:**
-> - [Jerusalem council](anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
+> - [Jerusalem council](../reference/anchors.md#council), c. AD 48–49. Acts 15 comes after the first journey and before Paul reached Corinth (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years") fits that date.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann).
 
 <sup>1</sup>Brothers, even if a man is caught in some fault, you who are spiritual must restore such a one in a spirit of gentleness, looking to yourself so that you also aren’t tempted. <sup>2</sup>Bear one another’s burdens, and so fulfill the law of Christ. <sup>3</sup>For if a man thinks himself to be something when he is nothing, he deceives himself. <sup>4</sup>But let each man examine his own work, and then he will have reason to boast in himself, and not in someone else. <sup>5</sup>For each man will bear his own burden.
 

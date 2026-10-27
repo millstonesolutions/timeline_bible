@@ -11,8 +11,8 @@ Most scholars date Matthew after Mark and after AD 70, usually in the 80s; a sub
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| AD 80–90 | Most critical scholars (Brown; Ehrman) | Matthew uses Mark (dated c. 65–73); 22:7 (the king burns the murderers' city) is read as hindsight on AD 70; the conflict with the synagogue suggests the period after 70. Ignatius (c. 110) seems to know it. | [Brown 1997](sources.md#brown-intro); [Ehrman, NT Introduction](sources.md#ehrman-nt) |
-| AD 50s–60s | Some conservative scholars (Carson & Moo regard a date before 70 as plausible); Robinson | Instructions that assume the temple is still standing (5:23–24; 17:24–27; 23:16–22); the predictions are not detailed enough to need hindsight; early tradition (Irenaeus, *Against Heresies* 3.1.1) puts Matthew first. | [Carson & Moo 2005](sources.md#carson-moo); [Robinson 1976](sources.md#robinson); [Irenaeus, Against Heresies, 3.1.1](sources.md#irenaeus) |
+| AD 80–90 | Most critical scholars (Brown; Ehrman) | Matthew uses Mark (dated c. 65–73); 22:7 (the king burns the murderers' city) is read as hindsight on AD 70; the conflict with the synagogue suggests the period after 70. Ignatius (c. 110) seems to know it. | [Brown 1997](../reference/sources.md#brown-intro); [Ehrman, NT Introduction](../reference/sources.md#ehrman-nt) |
+| AD 50s–60s | Some conservative scholars (Carson & Moo regard a date before 70 as plausible); Robinson | Instructions that assume the temple is still standing (5:23–24; 17:24–27; 23:16–22); the predictions are not detailed enough to need hindsight; early tradition (Irenaeus, *Against Heresies* 3.1.1) puts Matthew first. | [Carson & Moo 2005](../reference/sources.md#carson-moo); [Robinson 1976](../reference/sources.md#robinson); [Irenaeus, Against Heresies, 3.1.1](../reference/sources.md#irenaeus) |
 
 ## Matthew 1
 
@@ -21,9 +21,9 @@ Most scholars date Matthew after Mark and after AD 70, usually in the 80s; a sub
 > The genealogy (1:1–17) has no date of its own. Joseph's dream and the birth (1:18–25) come before Herod's death.
 >
 > **Basis:**
-> - [Birth of Jesus](anchors.md#birth), c. 6–4 BC. Before Herod the Great's death (Matt 2:1, 19; Luke 1:5), which most historians put in spring 4 BC; a minority argue for 1 BC, which puts the birth c. 3–2 BC.
+> - [Birth of Jesus](../reference/anchors.md#birth), c. 6–4 BC. Before Herod the Great's death (Matt 2:1, 19; Luke 1:5), which most historians put in spring 4 BC; a minority argue for 1 BC, which puts the birth c. 3–2 BC.
 >
-> **Sources:** [Josephus, Antiquities, 17.167, 17.191, 17.213](sources.md#josephus-ant); [Schürer (rev.) 1973](sources.md#schurer); [Finegan 1998](sources.md#finegan); [Brown, Birth of the Messiah, Appendix VII](sources.md#brown-birth); [Meier 1991, ch. 11](sources.md#meier); [Filmer 1966](sources.md#filmer); [Steinmann 2009](sources.md#steinmann-herod).
+> **Sources:** [Josephus, Antiquities, 17.167, 17.191, 17.213](../reference/sources.md#josephus-ant); [Schürer (rev.) 1973](../reference/sources.md#schurer); [Finegan 1998](../reference/sources.md#finegan); [Brown, Birth of the Messiah, Appendix VII](../reference/sources.md#brown-birth); [Meier 1991, ch. 11](../reference/sources.md#meier); [Filmer 1966](../reference/sources.md#filmer); [Steinmann 2009](../reference/sources.md#steinmann-herod).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -59,9 +59,9 @@ They shall call his name Immanuel,”
 > The magi find the child before Herod dies; "two years old and under" (2:16) suggests a birth up to two years earlier. The family returns after Herod's death, when Archelaus ruled Judea (2:22; ethnarch 4 BC–AD 6, Josephus *Ant.* 17.317–320, 17.342–344). On the 1 BC chronology, this is c. 3–1 BC.
 >
 > **Basis:**
-> - [Birth of Jesus](anchors.md#birth), c. 6–4 BC. Before Herod the Great's death (Matt 2:1, 19; Luke 1:5), which most historians put in spring 4 BC; a minority argue for 1 BC, which puts the birth c. 3–2 BC.
+> - [Birth of Jesus](../reference/anchors.md#birth), c. 6–4 BC. Before Herod the Great's death (Matt 2:1, 19; Luke 1:5), which most historians put in spring 4 BC; a minority argue for 1 BC, which puts the birth c. 3–2 BC.
 >
-> **Sources:** [Josephus, Antiquities, 17.317–320, 17.342–344](sources.md#josephus-ant); [Josephus, Antiquities, 17.167, 17.191, 17.213](sources.md#josephus-ant); [Schürer (rev.) 1973](sources.md#schurer); [Finegan 1998](sources.md#finegan); [Brown, Birth of the Messiah, Appendix VII](sources.md#brown-birth); [Meier 1991, ch. 11](sources.md#meier); [Filmer 1966](sources.md#filmer); [Steinmann 2009](sources.md#steinmann-herod).
+> **Sources:** [Josephus, Antiquities, 17.317–320, 17.342–344](../reference/sources.md#josephus-ant); [Josephus, Antiquities, 17.167, 17.191, 17.213](../reference/sources.md#josephus-ant); [Schürer (rev.) 1973](../reference/sources.md#schurer); [Finegan 1998](../reference/sources.md#finegan); [Brown, Birth of the Messiah, Appendix VII](../reference/sources.md#brown-birth); [Meier 1991, ch. 11](../reference/sources.md#meier); [Filmer 1966](../reference/sources.md#filmer); [Steinmann 2009](../reference/sources.md#steinmann-herod).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -104,10 +104,10 @@ Rachel weeping for her children;
 > John the Baptist's preaching and the baptism of Jesus (Luke 3:1 gives the year).
 >
 > **Basis:**
-> - [Start of John the Baptist's preaching and Jesus' baptism](anchors.md#ministry-start), AD 27–29. Luke 3:1 dates John's preaching to the 15th year of Tiberius: AD 28/29 counted from Augustus' death (19 Aug AD 14), or AD 26/27 or 27/28 on other reckonings. John 2:20 ("46 years" building the temple) gives AD 27/28 or 29/30, depending on what Herod's building start refers to.
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Start of John the Baptist's preaching and Jesus' baptism](../reference/anchors.md#ministry-start), AD 27–29. Luke 3:1 dates John's preaching to the 15th year of Tiberius: AD 28/29 counted from Augustus' death (19 Aug AD 14), or AD 26/27 or 27/28 on other reckonings. John 2:20 ("46 years" building the temple) gives AD 27/28 or 29/30, depending on what Herod's building start refers to.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Meier 1991, ch. 11](sources.md#meier); [Josephus, Antiquities, 15.380](sources.md#josephus-ant); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Meier 1991, ch. 11](../reference/sources.md#meier); [Josephus, Antiquities, 15.380](../reference/sources.md#josephus-ant); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -142,10 +142,10 @@ Rachel weeping for her children;
 > The temptation follows the baptism. The Galilean ministry begins "when he heard that John was delivered up" (4:12). John 3:24 indicates an earlier Judean period (John 2–4) before that.
 >
 > **Basis:**
-> - [Start of John the Baptist's preaching and Jesus' baptism](anchors.md#ministry-start), AD 27–29. Luke 3:1 dates John's preaching to the 15th year of Tiberius: AD 28/29 counted from Augustus' death (19 Aug AD 14), or AD 26/27 or 27/28 on other reckonings. John 2:20 ("46 years" building the temple) gives AD 27/28 or 29/30, depending on what Herod's building start refers to.
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Start of John the Baptist's preaching and Jesus' baptism](../reference/anchors.md#ministry-start), AD 27–29. Luke 3:1 dates John's preaching to the 15th year of Tiberius: AD 28/29 counted from Augustus' death (19 Aug AD 14), or AD 26/27 or 27/28 on other reckonings. John 2:20 ("46 years" building the temple) gives AD 27/28 or 29/30, depending on what Herod's building start refers to.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Meier 1991, ch. 11](sources.md#meier); [Josephus, Antiquities, 15.380](sources.md#josephus-ant); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Meier 1991, ch. 11](../reference/sources.md#meier); [Josephus, Antiquities, 15.380](../reference/sources.md#josephus-ant); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -197,9 +197,9 @@ Rachel weeping for her children;
 > The Sermon on the Mount (chs. 5–7). Matthew gathers Jesus' teaching into topical blocks, so a single date for the sermon is a convenience, not a claim that every saying was spoken on one day.
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -267,9 +267,9 @@ Rachel weeping for her children;
 > The Sermon on the Mount (chs. 5–7). Matthew gathers Jesus' teaching into topical blocks, so a single date for the sermon is a convenience, not a claim that every saying was spoken on one day.
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -315,9 +315,9 @@ For yours is the Kingdom, the power, and the glory forever. Amen.’[^6-2]
 > The Sermon on the Mount (chs. 5–7). Matthew gathers Jesus' teaching into topical blocks, so a single date for the sermon is a convenience, not a claim that every saying was spoken on one day.
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -349,9 +349,9 @@ For yours is the Kingdom, the power, and the glory forever. Amen.’[^6-2]
 > Galilean ministry. Matthew 8–9 groups ten miracles by topic; Mark and Luke place several of them in a different order.
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -404,9 +404,9 @@ They came out and went into the herd of pigs; and behold, the whole herd of pigs
 > Galilean ministry. Matthew 8–9 groups ten miracles by topic; Mark and Luke place several of them in a different order.
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -462,9 +462,9 @@ They told him, “Yes, Lord.”
 > The twelve are sent out (Mark 6:7; Luke 9:1), shortly before John's death and the feeding of the 5,000.
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -500,9 +500,9 @@ They told him, “Yes, Lord.”
 > John the Baptist, now in prison, sends disciples to Jesus (11:2).
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -536,9 +536,9 @@ They told him, “Yes, Lord.”
 > Sabbath disputes; the grain fields (12:1) suggest spring (barley/wheat harvest, April–June).
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -593,9 +593,9 @@ until he leads justice to victory.
 > Parables discourse; rejection at Nazareth (13:53–58).
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -672,10 +672,10 @@ But Jesus said to them, “A prophet is not without honor, except in his own cou
 > John's execution is told as a flashback (14:3–12). The feeding of the 5,000 took place near a Passover (John 6:4) and on green grass (Mark 6:39).
 >
 > **Basis:**
-> - [Death of John the Baptist](anchors.md#john-baptist-death), c. AD 28–32. John was beheaded by Herod Antipas at Machaerus (Josephus, *Ant.* 18.116–119) during Jesus' Galilean ministry, before the Passover of John 6:4: c. AD 28–29 (Model A) or c. AD 31–32 (Model B).
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Death of John the Baptist](../reference/anchors.md#john-baptist-death), c. AD 28–32. John was beheaded by Herod Antipas at Machaerus (Josephus, *Ant.* 18.116–119) during Jesus' Galilean ministry, before the Passover of John 6:4: c. AD 28–29 (Model A) or c. AD 31–32 (Model B).
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Josephus, Antiquities, 18.116–119](sources.md#josephus-ant); [Hoehner 1977](sources.md#hoehner); [Meier 1991, ch. 11](sources.md#meier); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Josephus, Antiquities, 18.116–119](../reference/sources.md#josephus-ant); [Hoehner 1977](../reference/sources.md#hoehner); [Meier 1991, ch. 11](../reference/sources.md#meier); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -717,9 +717,9 @@ Peter stepped down from the boat and walked on the waters to come to Jesus. <sup
 > Withdrawal to the region of Tyre and Sidon; feeding of the 4,000.
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -781,9 +781,9 @@ They said, “Seven, and a few small fish.”
 > Peter's confession at Caesarea Philippi; first passion prediction.
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -829,9 +829,9 @@ He left them and departed. <sup>5</sup>The disciples came to the other side and 
 > Transfiguration "after six days" (17:1). The temple tax (17:24) was collected in Adar (February–March), but Matthew does not tie the episode to a season.
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -884,9 +884,9 @@ Jesus said to him, “Therefore the children are exempt. <sup>27</sup>But, lest 
 > Community discourse at Capernaum, the last Galilean teaching block before the journey south.
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -923,9 +923,9 @@ Jesus said to him, “Therefore the children are exempt. <sup>27</sup>But, lest 
 > Jesus leaves Galilee for "the borders of Judea beyond the Jordan" (19:1), i.e. Perea (cf. John 10:40).
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -979,9 +979,9 @@ Jesus said, “‘You shall not murder.’ ‘You shall not commit adultery.’ 
 > Going up to Jerusalem; the healing at Jericho (20:29) comes days before Passover.
 >
 > **Basis:**
-> - [Two models for the ministry of Jesus](anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
+> - [Two models for the ministry of Jesus](../reference/anchors.md#models), AD 27/28–30 or AD 29–33. Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30. Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely, so chapters set in the ministry give a date for each model.
 >
-> **Sources:** [Meier 1991, ch. 11](sources.md#meier); [Hoehner 1977](sources.md#hoehner); [Finegan 1998](sources.md#finegan); [Brown, Death of the Messiah](sources.md#brown-death); [Humphreys & Waddington 1983](sources.md#humphreys-waddington).
+> **Sources:** [Meier 1991, ch. 11](../reference/sources.md#meier); [Hoehner 1977](../reference/sources.md#hoehner); [Finegan 1998](../reference/sources.md#finegan); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -1035,9 +1035,9 @@ They said to him, “We are able.”
 > Entry into Jerusalem and the temple cleansing. Matthew joins the entry and the cleansing; Mark (11:11–15) puts the cleansing on the next day. John 12:1, 12 ("six days before the Passover ... the next day") fixes the entry on the Sunday.
 >
 > **Basis:**
-> - [Last week in Jerusalem](anchors.md#passion-week), AD 30 or 33 (Passover week). The final Passover week: Sunday 2 – Friday 7 April AD 30 (Model A) or Sunday 29 March – Friday 3 April AD 33 (Model B).
+> - [Last week in Jerusalem](../reference/anchors.md#passion-week), AD 30 or 33 (Passover week). The final Passover week: Sunday 2 – Friday 7 April AD 30 (Model A) or Sunday 29 March – Friday 3 April AD 33 (Model B).
 >
-> **Sources:** [Humphreys & Waddington 1983](sources.md#humphreys-waddington); [Humphreys 2011](sources.md#humphreys-2011); [Brown, Death of the Messiah](sources.md#brown-death); [Finegan 1998](sources.md#finegan).
+> **Sources:** [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington); [Humphreys 2011](../reference/sources.md#humphreys-2011); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Finegan 1998](../reference/sources.md#finegan).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -1112,9 +1112,9 @@ This was from the Lord.
 > Controversies in the temple. The weekday is the usual harmony (Mark 11:20, 27); Matthew himself only says "that day".
 >
 > **Basis:**
-> - [Last week in Jerusalem](anchors.md#passion-week), AD 30 or 33 (Passover week). The final Passover week: Sunday 2 – Friday 7 April AD 30 (Model A) or Sunday 29 March – Friday 3 April AD 33 (Model B).
+> - [Last week in Jerusalem](../reference/anchors.md#passion-week), AD 30 or 33 (Passover week). The final Passover week: Sunday 2 – Friday 7 April AD 30 (Model A) or Sunday 29 March – Friday 3 April AD 33 (Model B).
 >
-> **Sources:** [Humphreys & Waddington 1983](sources.md#humphreys-waddington); [Humphreys 2011](sources.md#humphreys-2011); [Brown, Death of the Messiah](sources.md#brown-death); [Finegan 1998](sources.md#finegan).
+> **Sources:** [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington); [Humphreys 2011](../reference/sources.md#humphreys-2011); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Finegan 1998](../reference/sources.md#finegan).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -1174,9 +1174,9 @@ They said to him, “Of David.”
 > Controversies in the temple. The weekday is the usual harmony (Mark 11:20, 27); Matthew himself only says "that day".
 >
 > **Basis:**
-> - [Last week in Jerusalem](anchors.md#passion-week), AD 30 or 33 (Passover week). The final Passover week: Sunday 2 – Friday 7 April AD 30 (Model A) or Sunday 29 March – Friday 3 April AD 33 (Model B).
+> - [Last week in Jerusalem](../reference/anchors.md#passion-week), AD 30 or 33 (Passover week). The final Passover week: Sunday 2 – Friday 7 April AD 30 (Model A) or Sunday 29 March – Friday 3 April AD 33 (Model B).
 >
-> **Sources:** [Humphreys & Waddington 1983](sources.md#humphreys-waddington); [Humphreys 2011](sources.md#humphreys-2011); [Brown, Death of the Messiah](sources.md#brown-death); [Finegan 1998](sources.md#finegan).
+> **Sources:** [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington); [Humphreys 2011](../reference/sources.md#humphreys-2011); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Finegan 1998](../reference/sources.md#finegan).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -1218,10 +1218,10 @@ They said to him, “Of David.”
 > The Olivet discourse. Its prediction of the temple's destruction (24:1–2) is central to the debate on when Matthew was written; see the book introduction.
 >
 > **Basis:**
-> - [Last week in Jerusalem](anchors.md#passion-week), AD 30 or 33 (Passover week). The final Passover week: Sunday 2 – Friday 7 April AD 30 (Model A) or Sunday 29 March – Friday 3 April AD 33 (Model B).
-> - [Destruction of the Jerusalem temple](anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
+> - [Last week in Jerusalem](../reference/anchors.md#passion-week), AD 30 or 33 (Passover week). The final Passover week: Sunday 2 – Friday 7 April AD 30 (Model A) or Sunday 29 March – Friday 3 April AD 33 (Model B).
+> - [Destruction of the Jerusalem temple](../reference/anchors.md#temple-70), AD 70. Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus, *War* 6). Whether a book seems to know of this event is the main argument for dating the Gospels, Acts and Hebrews.
 >
-> **Sources:** [Humphreys & Waddington 1983](sources.md#humphreys-waddington); [Humphreys 2011](sources.md#humphreys-2011); [Brown, Death of the Messiah](sources.md#brown-death); [Finegan 1998](sources.md#finegan); [Josephus, Jewish War, 6.249–266](sources.md#josephus-war); [Brown 1997](sources.md#brown-intro); [Robinson 1976](sources.md#robinson); [Carson & Moo 2005](sources.md#carson-moo).
+> **Sources:** [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington); [Humphreys 2011](../reference/sources.md#humphreys-2011); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Finegan 1998](../reference/sources.md#finegan); [Josephus, Jewish War, 6.249–266](../reference/sources.md#josephus-war); [Brown 1997](../reference/sources.md#brown-intro); [Robinson 1976](../reference/sources.md#robinson); [Carson & Moo 2005](../reference/sources.md#carson-moo).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -1265,9 +1265,9 @@ They said to him, “Of David.”
 > Controversies in the temple. The weekday is the usual harmony (Mark 11:20, 27); Matthew himself only says "that day".
 >
 > **Basis:**
-> - [Last week in Jerusalem](anchors.md#passion-week), AD 30 or 33 (Passover week). The final Passover week: Sunday 2 – Friday 7 April AD 30 (Model A) or Sunday 29 March – Friday 3 April AD 33 (Model B).
+> - [Last week in Jerusalem](../reference/anchors.md#passion-week), AD 30 or 33 (Passover week). The final Passover week: Sunday 2 – Friday 7 April AD 30 (Model A) or Sunday 29 March – Friday 3 April AD 33 (Model B).
 >
-> **Sources:** [Humphreys & Waddington 1983](sources.md#humphreys-waddington); [Humphreys 2011](sources.md#humphreys-2011); [Brown, Death of the Messiah](sources.md#brown-death); [Finegan 1998](sources.md#finegan).
+> **Sources:** [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington); [Humphreys 2011](../reference/sources.md#humphreys-2011); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Finegan 1998](../reference/sources.md#finegan).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -1311,9 +1311,9 @@ They said to him, “Of David.”
 > "After two days the Passover comes" (26:2); the Last Supper, Gethsemane and the night hearing. Matthew presents the supper as a Passover meal (26:17); see the anchor on the Synoptic/Johannine difference.
 >
 > **Basis:**
-> - [Last week in Jerusalem](anchors.md#passion-week), AD 30 or 33 (Passover week). The final Passover week: Sunday 2 – Friday 7 April AD 30 (Model A) or Sunday 29 March – Friday 3 April AD 33 (Model B).
+> - [Last week in Jerusalem](../reference/anchors.md#passion-week), AD 30 or 33 (Passover week). The final Passover week: Sunday 2 – Friday 7 April AD 30 (Model A) or Sunday 29 March – Friday 3 April AD 33 (Model B).
 >
-> **Sources:** [Humphreys & Waddington 1983](sources.md#humphreys-waddington); [Humphreys 2011](sources.md#humphreys-2011); [Brown, Death of the Messiah](sources.md#brown-death); [Finegan 1998](sources.md#finegan).
+> **Sources:** [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington); [Humphreys 2011](../reference/sources.md#humphreys-2011); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Finegan 1998](../reference/sources.md#finegan).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -1413,9 +1413,9 @@ Immediately the rooster crowed. <sup>75</sup>Peter remembered the word which Jes
 > - *Model B (crucifixion AD 33):* 3 April AD 33
 >
 > **Basis:**
-> - [Crucifixion](anchors.md#crucifixion), 7 April AD 30 or 3 April AD 33. Under Pontius Pilate (AD 26–36/37; Tacitus, *Ann.* 15.44). A Friday on Nisan 14 only fits AD 30 or AD 33. AD 30 (Meier, Riesner) and AD 33 (Hoehner, Humphreys & Waddington) are the two main views.
+> - [Crucifixion](../reference/anchors.md#crucifixion), 7 April AD 30 or 3 April AD 33. Under Pontius Pilate (AD 26–36/37; Tacitus, *Ann.* 15.44). A Friday on Nisan 14 only fits AD 30 or AD 33. AD 30 (Meier, Riesner) and AD 33 (Hoehner, Humphreys & Waddington) are the two main views.
 >
-> **Sources:** [Tacitus, Annals, 15.44](sources.md#tacitus-ann); [Humphreys & Waddington 1983](sources.md#humphreys-waddington); [Meier 1991, ch. 11](sources.md#meier); [Brown, Death of the Messiah](sources.md#brown-death); [Hoehner 1977](sources.md#hoehner); [Riesner 1998](sources.md#riesner); [Kokkinos 1989](sources.md#kokkinos); [Bond 2013](sources.md#bond); [Sanders 1993](sources.md#sanders).
+> **Sources:** [Tacitus, Annals, 15.44](../reference/sources.md#tacitus-ann); [Humphreys & Waddington 1983](../reference/sources.md#humphreys-waddington); [Meier 1991, ch. 11](../reference/sources.md#meier); [Brown, Death of the Messiah](../reference/sources.md#brown-death); [Hoehner 1977](../reference/sources.md#hoehner); [Riesner 1998](../reference/sources.md#riesner); [Kokkinos 1989](../reference/sources.md#kokkinos); [Bond 2013](../reference/sources.md#bond); [Sanders 1993](../reference/sources.md#sanders).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 
@@ -1514,9 +1514,9 @@ But they cried out exceedingly, saying, “Let him be crucified!”
 > The Galilee appearance (28:16–20) comes some days or weeks later.
 >
 > **Basis:**
-> - [Resurrection appearances and ascension](anchors.md#resurrection-ascension), April–May AD 30 or 33. The resurrection is the Sunday after the crucifixion (9 April AD 30 or 5 April AD 33); Acts 1:3 puts the ascension 40 days later (mid-May) and Pentecost 10 days after that (Acts 2:1).
+> - [Resurrection appearances and ascension](../reference/anchors.md#resurrection-ascension), April–May AD 30 or 33. The resurrection is the Sunday after the crucifixion (9 April AD 30 or 5 April AD 33); Acts 1:3 puts the ascension 40 days later (mid-May) and Pentecost 10 days after that (Acts 2:1).
 >
-> **Sources:** [Finegan 1998](sources.md#finegan); [Hoehner 1977](sources.md#hoehner).
+> **Sources:** [Finegan 1998](../reference/sources.md#finegan); [Hoehner 1977](../reference/sources.md#hoehner).
 >
 > **Book written:** c. AD 80–90 (some say the 60s); see [the date of Matthew](#date-of-writing).
 

@@ -11,17 +11,17 @@ Paul's authorship is undisputed. Written from Ephesus before Pentecost (16:8), d
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| spring AD 54 or 55 (Ephesus) | Nearly all scholars (Brown; Carson & Moo; Riesner) | "I will stay at Ephesus until Pentecost" (16:8); the collection is under way (16:1–4) but not yet complete (cf. 2 Cor 8–9; Rom 15:25). | [Brown 1997](sources.md#brown-intro); [Carson & Moo 2005](sources.md#carson-moo); [Riesner 1998](sources.md#riesner) |
-| c. AD 49–51 | Lüdemann's early chronology |  | [Lüdemann 1984](sources.md#luedemann) |
+| spring AD 54 or 55 (Ephesus) | Nearly all scholars (Brown; Carson & Moo; Riesner) | "I will stay at Ephesus until Pentecost" (16:8); the collection is under way (16:1–4) but not yet complete (cf. 2 Cor 8–9; Rom 15:25). | [Brown 1997](../reference/sources.md#brown-intro); [Carson & Moo 2005](../reference/sources.md#carson-moo); [Riesner 1998](../reference/sources.md#riesner) |
+| c. AD 49–51 | Lüdemann's early chronology |  | [Lüdemann 1984](../reference/sources.md#luedemann) |
 
 ## 1 Corinthians 1
 
 > **Date written:** c. AD 54–55
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Paul, called to be an apostle of Jesus Christ[^1-1] through the will of God, and our brother Sosthenes, <sup>2</sup>to the assembly of God which is at Corinth—those who are sanctified in Christ Jesus, called saints, with all who call on the name of our Lord Jesus Christ in every place, both theirs and ours: <sup>3</sup>Grace to you and peace from God our Father and the Lord Jesus Christ.
 
@@ -44,9 +44,9 @@ Paul's authorship is undisputed. Written from Ephesus before Pentecost (16:8), d
 > **Date written:** c. AD 54–55
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>When I came to you, brothers, I didn’t come with excellence of speech or of wisdom, proclaiming to you the testimony of God. <sup>2</sup>For I determined not to know anything among you except Jesus Christ and him crucified. <sup>3</sup>I was with you in weakness, in fear, and in much trembling. <sup>4</sup>My speech and my preaching were not in persuasive words of human wisdom, but in demonstration of the Spirit and of power, <sup>5</sup>that your faith wouldn’t stand in the wisdom of men, but in the power of God.
 
@@ -63,9 +63,9 @@ Paul's authorship is undisputed. Written from Ephesus before Pentecost (16:8), d
 > **Date written:** c. AD 54–55
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Brothers, I couldn’t speak to you as to spiritual, but as to fleshly, as to babies in Christ. <sup>2</sup>I fed you with milk, not with solid food, for you weren’t yet ready. Indeed, you aren’t ready even now, <sup>3</sup>for you are still fleshly. For insofar as there is jealousy, strife, and factions among you, aren’t you fleshly, and don’t you walk in the ways of men? <sup>4</sup>For when one says, “I follow Paul,” and another, “I follow Apollos,” aren’t you fleshly?
 
@@ -82,9 +82,9 @@ Paul's authorship is undisputed. Written from Ephesus before Pentecost (16:8), d
 > **Date written:** c. AD 54–55
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>So let a man think of us as Christ’s servants and stewards of God’s mysteries. <sup>2</sup>Here, moreover, it is required of stewards that they be found faithful. <sup>3</sup>But with me it is a very small thing that I should be judged by you, or by a human court. Yes, I don’t even judge my own self. <sup>4</sup>For I know nothing against myself. Yet I am not justified by this, but he who judges me is the Lord. <sup>5</sup>Therefore judge nothing before the time, until the Lord comes, who will both bring to light the hidden things of darkness and reveal the counsels of the hearts. Then each man will get his praise from God.
 
@@ -101,9 +101,9 @@ Paul's authorship is undisputed. Written from Ephesus before Pentecost (16:8), d
 > "I wrote to you in my letter" (5:9) refers to an earlier letter to Corinth, now lost.
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles, that one has his father’s wife. <sup>2</sup>You are arrogant, and didn’t mourn instead, that he who had done this deed might be removed from among you. <sup>3</sup>For I most certainly, as being absent in body but present in spirit, have already, as though I were present, judged him who has done this thing. <sup>4</sup>In the name of our Lord Jesus Christ, when you are gathered together with my spirit with the power of our Lord Jesus Christ, <sup>5</sup>you are to deliver such a one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
 
@@ -116,9 +116,9 @@ Paul's authorship is undisputed. Written from Ephesus before Pentecost (16:8), d
 > **Date written:** c. AD 54–55
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Dare any of you, having a matter against his neighbor, go to law before the unrighteous, and not before the saints? <sup>2</sup>Don’t you know that the saints will judge the world? And if the world is judged by you, are you unworthy to judge the smallest matters? <sup>3</sup>Don’t you know that we will judge angels? How much more, things that pertain to this life? <sup>4</sup>If then you have to judge things pertaining to this life, do you set them to judge who are of no account in the assembly? <sup>5</sup>I say this to move you to shame. Isn’t there even one wise man among you who would be able to decide between his brothers? <sup>6</sup>But brother goes to law with brother, and that before unbelievers! <sup>7</sup>Therefore it is already altogether a defect in you that you have lawsuits one with another. Why not rather be wronged? Why not rather be defrauded? <sup>8</sup>No, but you yourselves do wrong and defraud, and that against your brothers.
 
@@ -131,9 +131,9 @@ Paul's authorship is undisputed. Written from Ephesus before Pentecost (16:8), d
 > **Date written:** c. AD 54–55
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Now concerning the things about which you wrote to me: it is good for a man not to touch a woman. <sup>2</sup>But, because of sexual immoralities, let each man have his own wife, and let each woman have her own husband. <sup>3</sup>Let the husband give his wife the affection owed her,[^7-1] and likewise also the wife her husband. <sup>4</sup>The wife doesn’t have authority over her own body, but the husband does. Likewise also the husband doesn’t have authority over his own body, but the wife does. <sup>5</sup>Don’t deprive one another, unless it is by consent for a season, that you may give yourselves to fasting and prayer, and may be together again, that Satan doesn’t tempt you because of your lack of self-control.
 
@@ -160,9 +160,9 @@ Paul's authorship is undisputed. Written from Ephesus before Pentecost (16:8), d
 > **Date written:** c. AD 54–55
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Now concerning things sacrificed to idols: We know that we all have knowledge. Knowledge puffs up, but love builds up. <sup>2</sup>But if anyone thinks that he knows anything, he doesn’t yet know as he ought to know. <sup>3</sup>But anyone who loves God is known by him.
 
@@ -175,9 +175,9 @@ Paul's authorship is undisputed. Written from Ephesus before Pentecost (16:8), d
 > **Date written:** c. AD 54–55
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Am I not free? Am I not an apostle? Haven’t I seen Jesus Christ, our Lord? Aren’t you my work in the Lord? <sup>2</sup>If to others I am not an apostle, yet at least I am to you; for you are the seal of my apostleship in the Lord.
 
@@ -198,9 +198,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 > **Date written:** c. AD 54–55
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Now I would not have you ignorant, brothers, that our fathers were all under the cloud, and all passed through the sea; <sup>2</sup>and were all baptized into Moses in the cloud and in the sea; <sup>3</sup>and all ate the same spiritual food; <sup>4</sup>and all drank the same spiritual drink. For they drank of a spiritual rock that followed them, and the rock was Christ. <sup>5</sup>However with most of them, God was not well pleased, for they were overthrown in the wilderness.
 
@@ -223,9 +223,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 > **Date written:** c. AD 54–55
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Be imitators of me, even as I also am of Christ.
 
@@ -248,9 +248,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 > **Date written:** c. AD 54–55
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Now concerning spiritual things, brothers, I don’t want you to be ignorant. <sup>2</sup>You know that when you were heathen,[^12-1] you were led away to those mute idols, however you might be led. <sup>3</sup>Therefore I make known to you that no man speaking by God’s Spirit says, “Jesus is accursed.” No one can say, “Jesus is Lord,” but by the Holy Spirit.
 
@@ -269,9 +269,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 > **Date written:** c. AD 54–55
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>If I speak with the languages of men and of angels, but don’t have love, I have become sounding brass or a clanging cymbal. <sup>2</sup>If I have the gift of prophecy, and know all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but don’t have love, I am nothing. <sup>3</sup>If I give away all my goods to feed the poor, and if I give my body to be burned, but don’t have love, it profits me nothing.
 
@@ -284,9 +284,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 > **Date written:** c. AD 54–55
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Follow after love and earnestly desire spiritual gifts, but especially that you may prophesy. <sup>2</sup>For he who speaks in another language speaks not to men, but to God, for no one understands, but in the Spirit he speaks mysteries. <sup>3</sup>But he who prophesies speaks to men for their edification, exhortation, and consolation. <sup>4</sup>He who speaks in another language edifies himself, but he who prophesies edifies the assembly. <sup>5</sup>Now I desire to have you all speak with other languages, but even more that you would prophesy. For he is greater who prophesies than he who speaks with other languages, unless he interprets, that the assembly may be built up.
 
@@ -313,10 +313,10 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 > 15:3–8 quotes a tradition Paul "received", widely dated to within a few years of the crucifixion (Paul's first Jerusalem visit, c. AD 35–37, Gal 1:18).
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
-> - [Conversion of Paul](anchors.md#paul-conversion), c. AD 31–36 (often c. 33–34). Galatians 1:18 and 2:1 count 3 + 14 (or 14 inclusive) years back from the Jerusalem meeting of c. AD 48–49, which gives c. AD 31–36. Riesner proposes AD 31/32, Jewett AD 34, Bruce c. 33.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Conversion of Paul](../reference/anchors.md#paul-conversion), c. AD 31–36 (often c. 33–34). Galatians 1:18 and 2:1 count 3 + 14 (or 14 inclusive) years back from the Jerusalem meeting of c. AD 48–49, which gives c. AD 31–36. Riesner proposes AD 31/32, Jewett AD 34, Bruce c. 33.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Lüdemann 1984](../reference/sources.md#luedemann).
 
 <sup>1</sup>Now I declare to you, brothers, the Good News which I preached to you, which also you received, in which you also stand, <sup>2</sup>by which also you are saved, if you hold firmly the word which I preached to you—unless you believed in vain.
 
@@ -353,9 +353,9 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 > "I will stay at Ephesus until Pentecost" (16:8): spring of the year of writing.
 >
 > **Basis:**
-> - [Paul's Ephesian ministry](anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+> - [Paul's Ephesian ministry](../reference/anchors.md#ephesus), c. AD 52/53–55/56. After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Now concerning the collection for the saints: as I commanded the assemblies of Galatia, you do likewise. <sup>2</sup>On the first day of every week, let each one of you save as he may prosper, that no collections are made when I come. <sup>3</sup>When I arrive, I will send whoever you approve with letters to carry your gracious gift to Jerusalem. <sup>4</sup>If it is appropriate for me to go also, they will go with me.
 

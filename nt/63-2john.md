@@ -11,7 +11,7 @@ From "the elder" (v. 1); dated with 1 John, which it echoes (v. 7 ~ 1 John 4:2�
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 90–110 | Brown; most scholars (Carson & Moo c. 85–95) |  | [Brown 1982](sources.md#brown-epistles); [Carson & Moo 2005](sources.md#carson-moo) |
+| c. AD 90–110 | Brown; most scholars (Carson & Moo c. 85–95) |  | [Brown 1982](../reference/sources.md#brown-epistles); [Carson & Moo 2005](../reference/sources.md#carson-moo) |
 
 ## 2 John 1
 

@@ -11,17 +11,17 @@ One of the disputed Pauline letters. It claims to be written by Paul in prison (
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| c. AD 60–62, Rome | Hoehner; Carson & Moo; many conservative scholars | Self-claim; the close links with Colossians and Philemon (Tychicus, 6:21 = Col 4:7). | [Hoehner 2002](sources.md#hoehner-eph); [Carson & Moo 2005](sources.md#carson-moo) |
-| c. AD 80–90 | Lincoln; Brown (c. 90, ± 10); a majority of critical scholars | Style and vocabulary, literary dependence on Colossians, the universal "church", and a perspective looking back on the apostles (2:20; 3:5). | [Lincoln 1990](sources.md#lincoln-eph); [Brown 1997](sources.md#brown-intro) |
+| c. AD 60–62, Rome | Hoehner; Carson & Moo; many conservative scholars | Self-claim; the close links with Colossians and Philemon (Tychicus, 6:21 = Col 4:7). | [Hoehner 2002](../reference/sources.md#hoehner-eph); [Carson & Moo 2005](../reference/sources.md#carson-moo) |
+| c. AD 80–90 | Lincoln; Brown (c. 90, ± 10); a majority of critical scholars | Style and vocabulary, literary dependence on Colossians, the universal "church", and a perspective looking back on the apostles (2:20; 3:5). | [Lincoln 1990](../reference/sources.md#lincoln-eph); [Brown 1997](../reference/sources.md#brown-intro) |
 
 ## Ephesians 1
 
 > **Date written:** c. AD 60–62 or 80–90
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson).
 
 <sup>1</sup>Paul, an apostle of Christ[^1-1] Jesus through the will of God, to the saints who are at Ephesus, and the faithful in Christ Jesus: <sup>2</sup>Grace to you and peace from God our Father and the Lord Jesus Christ.
 
@@ -37,9 +37,9 @@ One of the disputed Pauline letters. It claims to be written by Paul in prison (
 > **Date written:** c. AD 60–62 or 80–90
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson).
 
 <sup>1</sup>You were made alive when you were dead in transgressions and sins, <sup>2</sup>in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience. <sup>3</sup>We also all once lived among them in the lusts of our flesh, doing the desires of the flesh and of the mind, and were by nature children of wrath, even as the rest. <sup>4</sup>But God, being rich in mercy, for his great love with which he loved us, <sup>5</sup>even when we were dead through our trespasses, made us alive together with Christ—by grace you have been saved— <sup>6</sup>and raised us up with him, and made us to sit with him in the heavenly places in Christ Jesus, <sup>7</sup>that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus; <sup>8</sup>for by grace you have been saved through faith, and that not of yourselves; it is the gift of God, <sup>9</sup>not of works, that no one would boast. <sup>10</sup>For we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them.
 
@@ -50,9 +50,9 @@ One of the disputed Pauline letters. It claims to be written by Paul in prison (
 > **Date written:** c. AD 60–62 or 80–90
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson).
 
 <sup>1</sup>For this cause I, Paul, am the prisoner of Christ Jesus on behalf of you Gentiles, <sup>2</sup>if it is so that you have heard of the administration of that grace of God which was given me toward you, <sup>3</sup>how that by revelation the mystery was made known to me, as I wrote before in few words, <sup>4</sup>by which, when you read, you can perceive my understanding in the mystery of Christ, <sup>5</sup>which in other generations was not made known to the children of men, as it has now been revealed to his holy apostles and prophets in the Spirit, <sup>6</sup>that the Gentiles are fellow heirs and fellow members of the body, and fellow partakers of his promise in Christ Jesus through the Good News, <sup>7</sup>of which I was made a servant according to the gift of that grace of God which was given me according to the working of his power. <sup>8</sup>To me, the very least of all saints, was this grace given, to preach to the Gentiles the unsearchable riches of Christ, <sup>9</sup>and to make all men see what is the administration[^3-1] of the mystery which for ages has been hidden in God, who created all things through Jesus Christ, <sup>10</sup>to the intent that now through the assembly the manifold wisdom of God might be made known to the principalities and the powers in the heavenly places, <sup>11</sup>according to the eternal purpose which he accomplished in Christ Jesus our Lord. <sup>12</sup>In him we have boldness and access in confidence through our faith in him. <sup>13</sup>Therefore I ask that you may not lose heart at my troubles for you, which are your glory.
 
@@ -67,9 +67,9 @@ One of the disputed Pauline letters. It claims to be written by Paul in prison (
 > **Date written:** c. AD 60–62 or 80–90
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson).
 
 <sup>1</sup>I therefore, the prisoner in the Lord, beg you to walk worthily of the calling with which you were called, <sup>2</sup>with all lowliness and humility, with patience, bearing with one another in love, <sup>3</sup>being eager to keep the unity of the Spirit in the bond of peace. <sup>4</sup>There is one body and one Spirit, even as you also were called in one hope of your calling, <sup>5</sup>one Lord, one faith, one baptism, <sup>6</sup>one God and Father of all, who is over all and through all and in us all. <sup>7</sup>But to each one of us, the grace was given according to the measure of the gift of Christ. <sup>8</sup>Therefore he says,
 
@@ -93,9 +93,9 @@ One of the disputed Pauline letters. It claims to be written by Paul in prison (
 > **Date written:** c. AD 60–62 or 80–90
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson).
 
 <sup>1</sup>Be therefore imitators of God, as beloved children. <sup>2</sup>Walk in love, even as Christ also loved us and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance.
 
@@ -116,9 +116,9 @@ One of the disputed Pauline letters. It claims to be written by Paul in prison (
 > **Date written:** c. AD 60–62 or 80–90
 >
 > **Basis:**
-> - [Voyage to Rome and Roman custody](anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
+> - [Voyage to Rome and Roman custody](../reference/anchors.md#paul-rome), AD 59/60–62 (or 60/61–63). Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn, wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the common Festus date. He then spent two years under house arrest (Acts 28:30), to c. AD 62.
 >
-> **Sources:** [Ramsay 1895](sources.md#ramsay); [Riesner 1998](sources.md#riesner); [Hemer 1989](sources.md#hemer); [Robinson 1976](sources.md#robinson).
+> **Sources:** [Ramsay 1895](../reference/sources.md#ramsay); [Riesner 1998](../reference/sources.md#riesner); [Hemer 1989](../reference/sources.md#hemer); [Robinson 1976](../reference/sources.md#robinson).
 
 <sup>1</sup>Children, obey your parents in the Lord, for this is right. <sup>2</sup>“Honor your father and mother,” which is the first commandment with a promise: <sup>3</sup>“that it may be well with you, and you may live long on the earth.”
 

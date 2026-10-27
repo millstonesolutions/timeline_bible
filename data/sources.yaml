@@ -319,3 +319,429 @@ gentry:
   full: "Kenneth L. Gentry Jr., *Before Jerusalem Fell: Dating the Book of Revelation* (Tyler, TX: Institute for Christian Economics, 1989)."
   kind: modern
   status: unverified
+
+# =============================================================================
+# Old Testament
+# =============================================================================
+
+# --- Ancient texts and inscriptions ---------------------------------------------
+
+anet:
+  short: ANET
+  full: "James B. Pritchard (ed.), *Ancient Near Eastern Texts Relating to the Old Testament*, 3rd ed. (Princeton: Princeton University Press, 1969). Standard translations of the inscriptions below."
+  kind: modern
+  status: unverified
+
+merneptah-stele:
+  short: Merneptah Stele
+  full: "Victory stele of Pharaoh Merneptah, year 5 (c. 1208 BC), Cairo Museum; the earliest mention of 'Israel' outside the Bible, as a people in Canaan. Translation in ANET 376–378."
+  kind: inscription
+  status: unverified
+
+shoshenq-relief:
+  short: Shoshenq I relief
+  full: "Shoshenq I's (biblical Shishak's) list of conquered towns in Canaan on the Bubastite Portal at Karnak, c. 925 BC."
+  kind: inscription
+  status: unverified
+
+mesha-stele:
+  short: Mesha Stele
+  full: "Mesha Stele (Moabite Stone), c. 840 BC, Louvre; King Mesha of Moab on Omri's dynasty and his revolt (cf. 2 Kings 3). Translation in ANET 320–321."
+  kind: inscription
+  status: unverified
+
+tel-dan:
+  short: Tel Dan inscription
+  full: "Aramaic victory stele from Tel Dan, 9th century BC, naming a king of 'the house of David'. A. Biran and J. Naveh, *Israel Exploration Journal* 43 (1993): 81–98 and 45 (1995): 1–18."
+  kind: inscription
+  status: unverified
+
+kurkh-monolith:
+  short: Kurkh Monolith
+  full: "Kurkh Monolith of Shalmaneser III, British Museum: the battle of Qarqar (853 BC), naming 'Ahab the Israelite' among the coalition. Translation in ANET 278–279."
+  kind: inscription
+  status: unverified
+
+black-obelisk:
+  short: Black Obelisk
+  full: "Black Obelisk of Shalmaneser III, British Museum: tribute of 'Jehu son of Omri' in Shalmaneser's 18th year (841 BC). Translation in ANET 280–281."
+  kind: inscription
+  status: unverified
+
+eponym-canon:
+  short: Assyrian eponym list
+  full: "The Assyrian eponym (limmu) lists, which name each year after an official and record a solar eclipse in the eponymy of Bur-Saggile, astronomically fixed to 15 June 763 BC. This fixes Assyrian, and through synchronisms Israelite, chronology."
+  kind: inscription
+  status: unverified
+
+sennacherib-annals:
+  short: Sennacherib's annals
+  full: "Annals of Sennacherib (Taylor, Oriental Institute and Jerusalem prisms) on the campaign of 701 BC: Hezekiah shut up in Jerusalem 'like a bird in a cage'. Translation in ANET 287–288."
+  kind: inscription
+  status: unverified
+
+babylonian-chronicle:
+  short: Babylonian Chronicle
+  full: "Babylonian Chronicles, especially ABC 5 (the early years of Nebuchadnezzar II): Carchemish (605 BC) and the capture of Jerusalem on 2 Adar of year 7 (15/16 March 597 BC). Edition: Grayson 1975."
+  kind: inscription
+  status: unverified
+
+cyrus-cylinder:
+  short: Cyrus Cylinder
+  full: "Cyrus Cylinder (539 BC or soon after), British Museum: Cyrus's capture of Babylon and his return of deported peoples and their gods. Translation in ANET 315–316."
+  kind: inscription
+  status: unverified
+
+elephantine-papyri:
+  short: Elephantine papyri
+  full: "Aramaic papyri from the Jewish garrison at Elephantine, Egypt (5th century BC); the petition to Bagohi of 407 BC names the high priest Johanan and the sons of Sanballat. Translation in ANET 491–492."
+  kind: ancient
+  status: unverified
+
+dead-sea-scrolls:
+  short: Dead Sea Scrolls
+  full: "Biblical manuscripts from Qumran (c. 250 BC – AD 68), e.g. the Great Isaiah Scroll (1QIsaᵃ, c. 125 BC) and copies of Daniel from the late 2nd century BC; they set the latest possible date for each book's text."
+  kind: ancient
+  status: unverified
+
+maccabees-1:
+  short: 1 Maccabees
+  full: "*1 Maccabees* (late 2nd century BC): the desecration of the temple by Antiochus IV (15 Kislev 167 BC, 1:54) and its rededication (25 Kislev 164 BC, 4:52)."
+  kind: ancient
+  status: unverified
+
+sirach:
+  short: Sirach
+  full: "*Wisdom of Ben Sira* (Sirach), c. 180 BC, translated by his grandson c. 132 BC; chs. 44–50 survey Israel's heroes and books, including 'the Twelve Prophets' (49:10)."
+  kind: ancient
+  status: unverified
+
+josephus-apion:
+  short: Josephus, Against Apion
+  full: "Flavius Josephus, *Against Apion* (c. AD 95); 1.37–43 on the 22 books of the Jewish scriptures, written from Moses to Artaxerxes."
+  kind: ancient
+  status: unverified
+
+bava-batra:
+  short: Talmud, Bava Batra
+  full: "Babylonian Talmud, *Bava Batra* 14b–15a (compiled c. AD 500, using earlier traditions): the traditional authors and order of the books of the Hebrew Bible."
+  kind: ancient
+  status: unverified
+
+seder-olam:
+  short: Seder Olam Rabbah
+  full: "*Seder Olam Rabbah* (rabbinic chronology attributed to Yose ben Halafta, 2nd century AD), the basis of the traditional Jewish era from creation."
+  kind: ancient
+  status: unverified
+
+ussher:
+  short: Ussher 1650
+  full: "James Ussher, *Annales Veteris Testamenti* (London, 1650); English *The Annals of the World* (1658). Creation in 4004 BC, the flood in 2348 BC."
+  kind: modern
+  status: unverified
+
+# --- Chronology and history ----------------------------------------------------
+
+thiele:
+  short: Thiele 1983
+  full: "Edwin R. Thiele, *The Mysterious Numbers of the Hebrew Kings*, new rev. ed. (Grand Rapids: Zondervan/Kregel, 1983)."
+  kind: modern
+  status: unverified
+
+galil:
+  short: Galil 1996
+  full: "Gershon Galil, *The Chronology of the Kings of Israel and Judah* (Leiden: Brill, 1996)."
+  kind: modern
+  status: unverified
+
+parker-dubberstein:
+  short: Parker & Dubberstein 1956
+  full: "Richard A. Parker and Waldo H. Dubberstein, *Babylonian Chronology 626 B.C.–A.D. 75* (Providence: Brown University Press, 1956). Converts Babylonian and Persian regnal dates to Julian dates."
+  kind: modern
+  status: unverified
+
+grayson-abc:
+  short: Grayson 1975
+  full: "A. Kirk Grayson, *Assyrian and Babylonian Chronicles*, Texts from Cuneiform Sources 5 (Locust Valley: J. J. Augustin, 1975)."
+  kind: modern
+  status: unverified
+
+kitchen:
+  short: Kitchen 2003
+  full: "K. A. Kitchen, *On the Reliability of the Old Testament* (Grand Rapids: Eerdmans, 2003)."
+  kind: modern
+  status: unverified
+
+hoffmeier:
+  short: Hoffmeier 1997
+  full: "James K. Hoffmeier, *Israel in Egypt: The Evidence for the Authenticity of the Exodus Tradition* (New York: Oxford University Press, 1997)."
+  kind: modern
+  status: unverified
+
+finkelstein-silberman:
+  short: Finkelstein & Silberman 2001
+  full: "Israel Finkelstein and Neil Asher Silberman, *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts* (New York: Free Press, 2001)."
+  kind: modern
+  status: unverified
+
+miller-hayes:
+  short: Miller & Hayes 2006
+  full: "J. Maxwell Miller and John H. Hayes, *A History of Ancient Israel and Judah*, 2nd ed. (Louisville: Westminster John Knox, 2006)."
+  kind: modern
+  status: unverified
+
+provan-long-longman:
+  short: Provan, Long & Longman 2003
+  full: "Iain Provan, V. Philips Long and Tremper Longman III, *A Biblical History of Israel* (Louisville: Westminster John Knox, 2003; 2nd ed. 2015)."
+  kind: modern
+  status: unverified
+
+dever:
+  short: Dever 2003
+  full: "William G. Dever, *Who Were the Early Israelites and Where Did They Come From?* (Grand Rapids: Eerdmans, 2003)."
+  kind: modern
+  status: unverified
+
+mazar:
+  short: Mazar 1990
+  full: "Amihai Mazar, *Archaeology of the Land of the Bible, 10,000–586 B.C.E.* (New York: Doubleday, 1990)."
+  kind: modern
+  status: unverified
+
+wood-jericho:
+  short: Wood 1990
+  full: "Bryant G. Wood, 'Did the Israelites Conquer Jericho? A New Look at the Archaeological Evidence,' *Biblical Archaeology Review* 16, no. 2 (1990): 44–58."
+  kind: modern
+  status: unverified
+
+kenyon-jericho:
+  short: Kenyon 1957
+  full: "Kathleen M. Kenyon, *Digging Up Jericho* (London: Ernest Benn, 1957)."
+  kind: modern
+  status: unverified
+
+thompson-patriarchs:
+  short: Thompson 1974
+  full: "Thomas L. Thompson, *The Historicity of the Patriarchal Narratives*, BZAW 133 (Berlin: de Gruyter, 1974)."
+  kind: modern
+  status: unverified
+
+van-seters:
+  short: Van Seters 1975
+  full: "John Van Seters, *Abraham in History and Tradition* (New Haven: Yale University Press, 1975)."
+  kind: modern
+  status: unverified
+
+lambert-millard:
+  short: Lambert & Millard 1969
+  full: "W. G. Lambert and A. R. Millard, *Atra-ḫasīs: The Babylonian Story of the Flood* (Oxford: Clarendon, 1969)."
+  kind: modern
+  status: unverified
+
+schniedewind:
+  short: Schniedewind 2004
+  full: "William M. Schniedewind, *How the Bible Became a Book: The Textualization of Ancient Israel* (Cambridge: Cambridge University Press, 2004)."
+  kind: modern
+  status: unverified
+
+# --- Introductions and composition -----------------------------------------------
+
+collins-intro:
+  short: Collins, Hebrew Bible
+  full: "John J. Collins, *Introduction to the Hebrew Bible* (Minneapolis: Fortress, 2004; 3rd ed. 2018)."
+  kind: modern
+  status: unverified
+
+dillard-longman:
+  short: Dillard & Longman
+  full: "Raymond B. Dillard and Tremper Longman III, *An Introduction to the Old Testament* (Grand Rapids: Zondervan, 1994; 2nd ed. by Longman and Dillard, 2006)."
+  kind: modern
+  status: unverified
+
+childs:
+  short: Childs 1979
+  full: "Brevard S. Childs, *Introduction to the Old Testament as Scripture* (Philadelphia: Fortress, 1979)."
+  kind: modern
+  status: unverified
+
+wellhausen:
+  short: Wellhausen 1883
+  full: "Julius Wellhausen, *Prolegomena zur Geschichte Israels* (1883); English *Prolegomena to the History of Israel* (Edinburgh, 1885; public domain)."
+  kind: modern
+  status: unverified
+
+noth-dtr:
+  short: Noth 1943
+  full: "Martin Noth, *Überlieferungsgeschichtliche Studien* (1943); English *The Deuteronomistic History*, JSOTSup 15 (Sheffield, 1981)."
+  kind: modern
+  status: unverified
+
+cross:
+  short: Cross 1973
+  full: "Frank Moore Cross, *Canaanite Myth and Hebrew Epic* (Cambridge, MA: Harvard University Press, 1973)."
+  kind: modern
+  status: unverified
+
+# --- Commentaries ----------------------------------------------------------------
+
+wenham-genesis:
+  short: Wenham 1987
+  full: "Gordon J. Wenham, *Genesis 1–15*, Word Biblical Commentary 1 (Waco: Word, 1987)."
+  kind: modern
+  status: unverified
+
+milgrom-lev:
+  short: Milgrom 1991
+  full: "Jacob Milgrom, *Leviticus 1–16*, Anchor Bible 3 (New York: Doubleday, 1991)."
+  kind: modern
+  status: unverified
+
+mccarter-sam:
+  short: McCarter 1980
+  full: "P. Kyle McCarter Jr., *I Samuel*, Anchor Bible 8 (Garden City: Doubleday, 1980)."
+  kind: modern
+  status: unverified
+
+cogan-kings:
+  short: Cogan; Cogan & Tadmor
+  full: "Mordechai Cogan, *I Kings*, Anchor Bible 10 (New York: Doubleday, 2001); Mordechai Cogan and Hayim Tadmor, *II Kings*, Anchor Bible 11 (Garden City: Doubleday, 1988)."
+  kind: modern
+  status: unverified
+
+japhet:
+  short: Japhet 1993
+  full: "Sara Japhet, *I & II Chronicles*, Old Testament Library (Louisville: Westminster John Knox, 1993)."
+  kind: modern
+  status: unverified
+
+knoppers-chron:
+  short: Knoppers 2004
+  full: "Gary N. Knoppers, *I Chronicles 1–9*, Anchor Bible 12 (New York: Doubleday, 2004)."
+  kind: modern
+  status: unverified
+
+williamson-ezra:
+  short: Williamson 1985
+  full: "H. G. M. Williamson, *Ezra, Nehemiah*, Word Biblical Commentary 16 (Waco: Word, 1985)."
+  kind: modern
+  status: unverified
+
+fox-esther:
+  short: Fox 1991
+  full: "Michael V. Fox, *Character and Ideology in the Book of Esther* (Columbia: University of South Carolina Press, 1991)."
+  kind: modern
+  status: unverified
+
+campbell-ruth:
+  short: Campbell 1975
+  full: "Edward F. Campbell Jr., *Ruth*, Anchor Bible 7 (Garden City: Doubleday, 1975)."
+  kind: modern
+  status: unverified
+
+clines-job:
+  short: Clines 1989
+  full: "David J. A. Clines, *Job 1–20*, Word Biblical Commentary 17 (Dallas: Word, 1989)."
+  kind: modern
+  status: unverified
+
+kraus-psalms:
+  short: Kraus 1988–89
+  full: "Hans-Joachim Kraus, *Psalms 1–59* and *Psalms 60–150*, Continental Commentary (Minneapolis: Augsburg, 1988–89)."
+  kind: modern
+  status: unverified
+
+fox-proverbs:
+  short: Fox 2000
+  full: "Michael V. Fox, *Proverbs 1–9*, Anchor Bible 18A (New York: Doubleday, 2000)."
+  kind: modern
+  status: unverified
+
+seow-eccl:
+  short: Seow 1997
+  full: "Choon-Leong Seow, *Ecclesiastes*, Anchor Bible 18C (New York: Doubleday, 1997)."
+  kind: modern
+  status: unverified
+
+exum-song:
+  short: Exum 2005
+  full: "J. Cheryl Exum, *Song of Songs*, Old Testament Library (Louisville: Westminster John Knox, 2005)."
+  kind: modern
+  status: unverified
+
+blenkinsopp-isaiah:
+  short: Blenkinsopp 2000–03
+  full: "Joseph Blenkinsopp, *Isaiah 1–39*, *Isaiah 40–55* and *Isaiah 56–66*, Anchor Bible 19, 19A, 19B (New York: Doubleday, 2000–2003)."
+  kind: modern
+  status: unverified
+
+oswalt-isaiah:
+  short: Oswalt 1986–98
+  full: "John N. Oswalt, *The Book of Isaiah*, 2 vols., NICOT (Grand Rapids: Eerdmans, 1986, 1998)."
+  kind: modern
+  status: unverified
+
+lundbom-jer:
+  short: Lundbom 1999–2004
+  full: "Jack R. Lundbom, *Jeremiah 1–20*, *21–36*, *37–52*, Anchor Bible 21A–C (New York: Doubleday, 1999–2004)."
+  kind: modern
+  status: unverified
+
+hillers-lam:
+  short: Hillers 1992
+  full: "Delbert R. Hillers, *Lamentations*, Anchor Bible 7A, 2nd ed. (New York: Doubleday, 1992)."
+  kind: modern
+  status: unverified
+
+zimmerli:
+  short: Zimmerli 1979–83
+  full: "Walther Zimmerli, *Ezekiel*, 2 vols., Hermeneia (Philadelphia: Fortress, 1979, 1983)."
+  kind: modern
+  status: unverified
+
+collins-daniel:
+  short: Collins 1993
+  full: "John J. Collins, *Daniel*, Hermeneia (Minneapolis: Fortress, 1993)."
+  kind: modern
+  status: unverified
+
+wolff-hosea:
+  short: Wolff 1974
+  full: "Hans Walter Wolff, *Hosea*, Hermeneia (Philadelphia: Fortress, 1974)."
+  kind: modern
+  status: unverified
+
+wolff-joel-amos:
+  short: Wolff 1977
+  full: "Hans Walter Wolff, *Joel and Amos*, Hermeneia (Philadelphia: Fortress, 1977)."
+  kind: modern
+  status: unverified
+
+sasson-jonah:
+  short: Sasson 1990
+  full: "Jack M. Sasson, *Jonah*, Anchor Bible 24B (New York: Doubleday, 1990)."
+  kind: modern
+  status: unverified
+
+roberts-nahum:
+  short: Roberts 1991
+  full: "J. J. M. Roberts, *Nahum, Habakkuk, and Zephaniah*, Old Testament Library (Louisville: Westminster John Knox, 1991)."
+  kind: modern
+  status: unverified
+
+meyers-haggai:
+  short: Meyers & Meyers 1987
+  full: "Carol L. Meyers and Eric M. Meyers, *Haggai, Zechariah 1–8*, Anchor Bible 25B (Garden City: Doubleday, 1987)."
+  kind: modern
+  status: unverified
+
+petersen-zech:
+  short: Petersen 1995
+  full: "David L. Petersen, *Zechariah 9–14 and Malachi*, Old Testament Library (Louisville: Westminster John Knox, 1995)."
+  kind: modern
+  status: unverified
+
+hill-malachi:
+  short: Hill 1998
+  full: "Andrew E. Hill, *Malachi*, Anchor Bible 25D (New York: Doubleday, 1998)."
+  kind: modern
+  status: unverified

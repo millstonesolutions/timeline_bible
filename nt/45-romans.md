@@ -11,8 +11,8 @@ Paul's authorship is undisputed. Written from Corinth during the three months in
 
 | Date | Held by | Basis | Sources |
 |---|---|---|---|
-| winter AD 56/57 (range 55–58) | Nearly all scholars (Brown; Carson & Moo; Riesner; Jewett) | Phoebe of Cenchreae, Corinth's port (16:1); Gaius the host (16:23; cf. 1 Cor 1:14); Erastus the city treasurer (16:23). The year comes from the Pauline chronology (Gallio, Festus). | [Brown 1997](sources.md#brown-intro); [Carson & Moo 2005](sources.md#carson-moo); [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett) |
-| AD 51–52 or 54–55 | Lüdemann's early chronology | Follows from his earlier dates for the whole Aegean mission. | [Lüdemann 1984](sources.md#luedemann) |
+| winter AD 56/57 (range 55–58) | Nearly all scholars (Brown; Carson & Moo; Riesner; Jewett) | Phoebe of Cenchreae, Corinth's port (16:1); Gaius the host (16:23; cf. 1 Cor 1:14); Erastus the city treasurer (16:23). The year comes from the Pauline chronology (Gallio, Festus). | [Brown 1997](../reference/sources.md#brown-intro); [Carson & Moo 2005](../reference/sources.md#carson-moo); [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett) |
+| AD 51–52 or 54–55 | Lüdemann's early chronology | Follows from his earlier dates for the whole Aegean mission. | [Lüdemann 1984](../reference/sources.md#luedemann) |
 
 ## Romans 1
 
@@ -21,10 +21,10 @@ Paul's authorship is undisputed. Written from Corinth during the three months in
 > "Your faith is proclaimed throughout the whole world" (1:8): the Roman church was already established, probably before Claudius's edict (AD 49).
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
-> - [Claudius expels Jews from Rome](anchors.md#claudius-edict), AD 49 (minority AD 41). Suetonius (*Claudius* 25.4) reports the expulsion of Jews "agitating at the instigation of Chrestus". Orosius (7.6.15) dates it to Claudius's 9th year, AD 49. Aquila and Priscilla had "recently" arrived from Rome (Acts 18:2).
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Claudius expels Jews from Rome](../reference/anchors.md#claudius-edict), AD 49 (minority AD 41). Suetonius (*Claudius* 25.4) reports the expulsion of Jews "agitating at the instigation of Chrestus". Orosius (7.6.15) dates it to Claudius's 9th year, AD 49. Aquila and Priscilla had "recently" arrived from Rome (Acts 18:2).
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Suetonius, Claudius, 25.4](sources.md#suetonius-claud); [Orosius, History, 7.6.15](sources.md#orosius); [Cassius Dio, Roman History, 60.6.6](sources.md#dio); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Suetonius, Claudius, 25.4](../reference/sources.md#suetonius-claud); [Orosius, History, 7.6.15](../reference/sources.md#orosius); [Cassius Dio, Roman History, 60.6.6](../reference/sources.md#dio); [Lüdemann 1984](../reference/sources.md#luedemann).
 
 <sup>1</sup>Paul, a servant of Jesus Christ,[^1-1] called to be an apostle, set apart for the Good News of God, <sup>2</sup>which he promised before through his prophets in the holy Scriptures, <sup>3</sup>concerning his Son, who was born of the offspring[^1-2] of David according to the flesh, <sup>4</sup>who was declared to be the Son of God with power according to the Spirit of holiness, by the resurrection from the dead, Jesus Christ our Lord, <sup>5</sup>through whom we received grace and apostleship for obedience of faith among all the nations for his name’s sake; <sup>6</sup>among whom you are also called to belong to Jesus Christ; <sup>7</sup>to all who are in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.
 
@@ -48,9 +48,9 @@ Paul's authorship is undisputed. Written from Corinth during the three months in
 > **Date written:** c. AD 56–57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Therefore you are without excuse, O man, whoever you are who judge. For in that which you judge another, you condemn yourself. For you who judge practice the same things. <sup>2</sup>We know that the judgment of God is according to truth against those who practice such things. <sup>3</sup>Do you think this, O man who judges those who practice such things, and do the same, that you will escape the judgment of God? <sup>4</sup>Or do you despise the riches of his goodness, forbearance, and patience, not knowing that the goodness of God leads you to repentance? <sup>5</sup>But according to your hardness and unrepentant heart you are treasuring up for yourself wrath in the day of wrath, revelation, and of the righteous judgment of God, <sup>6</sup>who “will pay back to everyone according to their works:” <sup>7</sup>to those who by perseverance in well-doing seek for glory, honor, and incorruptibility, eternal life; <sup>8</sup>but to those who are self-seeking and don’t obey the truth, but obey unrighteousness, will be wrath, indignation, <sup>9</sup>oppression, and anguish on every soul of man who does evil, to the Jew first, and also to the Greek.
 
@@ -63,9 +63,9 @@ Paul's authorship is undisputed. Written from Corinth during the three months in
 > **Date written:** c. AD 56–57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Then what advantage does the Jew have? Or what is the profit of circumcision? <sup>2</sup>Much in every way! Because first of all, they were entrusted with the revelations of God. <sup>3</sup>For what if some were without faith? Will their lack of faith nullify the faithfulness of God? <sup>4</sup>May it never be! Yes, let God be found true, but every man a liar. As it is written,
 
@@ -108,9 +108,9 @@ There is no one who does good,
 > **Date written:** c. AD 56–57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>What then will we say that Abraham, our forefather, has found according to the flesh? <sup>2</sup>For if Abraham was justified by works, he has something to boast about, but not toward God. <sup>3</sup>For what does the Scripture say? “Abraham believed God, and it was accounted to him for righteousness.” <sup>4</sup>Now to him who works, the reward is not counted as grace, but as something owed. <sup>5</sup>But to him who doesn’t work, but believes in him who justifies the ungodly, his faith is accounted for righteousness. <sup>6</sup>Even as David also pronounces blessing on the man to whom God counts righteousness apart from works:
 
@@ -129,9 +129,9 @@ There is no one who does good,
 > **Date written:** c. AD 56–57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Being therefore justified by faith, we have peace with God through our Lord Jesus Christ; <sup>2</sup>through whom we also have our access by faith into this grace in which we stand. We rejoice in hope of the glory of God. <sup>3</sup>Not only this, but we also rejoice in our sufferings, knowing that suffering produces perseverance; <sup>4</sup>and perseverance, proven character; and proven character, hope; <sup>5</sup>and hope doesn’t disappoint us, because God’s love has been poured into our hearts through the Holy Spirit who was given to us.
 
@@ -150,9 +150,9 @@ There is no one who does good,
 > **Date written:** c. AD 56–57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>What shall we say then? Shall we continue in sin, that grace may abound? <sup>2</sup>May it never be! We who died to sin, how could we live in it any longer? <sup>3</sup>Or don’t you know that all of us who were baptized into Christ Jesus were baptized into his death? <sup>4</sup>We were buried therefore with him through baptism into death, that just as Christ was raised from the dead through the glory of the Father, so we also might walk in newness of life.
 
@@ -169,9 +169,9 @@ There is no one who does good,
 > **Date written:** c. AD 56–57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Or don’t you know, brothers[^7-1] (for I speak to men who know the law), that the law has dominion over a man for as long as he lives? <sup>2</sup>For the woman that has a husband is bound by law to the husband while he lives, but if the husband dies, she is discharged from the law of the husband. <sup>3</sup>So then if, while the husband lives, she is joined to another man, she would be called an adulteress. But if the husband dies, she is free from the law, so that she is no adulteress, though she is joined to another man. <sup>4</sup>Therefore, my brothers, you also were made dead to the law through the body of Christ, that you would be joined to another, to him who was raised from the dead, that we might produce fruit to God. <sup>5</sup>For when we were in the flesh, the sinful passions which were through the law worked in our members to bring out fruit to death. <sup>6</sup>But now we have been discharged from the law, having died to that in which we were held; so that we serve in newness of the spirit, and not in oldness of the letter.
 
@@ -186,9 +186,9 @@ There is no one who does good,
 > **Date written:** c. AD 56–57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>There is therefore now no condemnation to those who are in Christ Jesus, who don’t walk according to the flesh, but according to the Spirit.[^8-1] <sup>2</sup>For the law of the Spirit of life in Christ Jesus made me free from the law of sin and of death. <sup>3</sup>For what the law couldn’t do, in that it was weak through the flesh, God did, sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh, <sup>4</sup>that the ordinance of the law might be fulfilled in us who don’t walk according to the flesh, but according to the Spirit. <sup>5</sup>For those who live according to the flesh set their minds on the things of the flesh, but those who live according to the Spirit, the things of the Spirit. <sup>6</sup>For the mind of the flesh is death, but the mind of the Spirit is life and peace; <sup>7</sup>because the mind of the flesh is hostile toward God, for it is not subject to God’s law, neither indeed can it be. <sup>8</sup>Those who are in the flesh can’t please God.
 
@@ -222,9 +222,9 @@ There is no one who does good,
 > **Date written:** c. AD 56–57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>I tell the truth in Christ. I am not lying, my conscience testifying with me in the Holy Spirit <sup>2</sup>that I have great sorrow and unceasing pain in my heart. <sup>3</sup>For I could wish that I myself were accursed from Christ for my brothers’ sake, my relatives according to the flesh <sup>4</sup>who are Israelites; whose is the adoption, the glory, the covenants, the giving of the law, the service, and the promises; <sup>5</sup>of whom are the fathers, and from whom is Christ as concerning the flesh, who is over all, God, blessed forever. Amen.
 
@@ -266,9 +266,9 @@ There is no one who does good,
 > **Date written:** c. AD 56–57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Brothers, my heart’s desire and my prayer to God is for Israel, that they may be saved. <sup>2</sup>For I testify about them that they have a zeal for God, but not according to knowledge. <sup>3</sup>For being ignorant of God’s righteousness, and seeking to establish their own righteousness, they didn’t subject themselves to the righteousness of God. <sup>4</sup>For Christ is the fulfillment[^10-1] of the law for righteousness to everyone who believes.
 
@@ -303,9 +303,9 @@ There is no one who does good,
 > **Date written:** c. AD 56–57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>I ask then, did God reject his people? May it never be! For I also am an Israelite, a descendant of Abraham, of the tribe of Benjamin. <sup>2</sup>God didn’t reject his people, whom he foreknew. Or don’t you know what the Scripture says about Elijah? How he pleads with God against Israel: <sup>3</sup>“Lord, they have killed your prophets. They have broken down your altars. I am left alone, and they seek my life.” <sup>4</sup>But how does God answer him? “I have reserved for myself seven thousand men who have not bowed the knee to Baal.” <sup>5</sup>Even so too at this present time also there is a remnant according to the election of grace. <sup>6</sup>And if by grace, then it is no longer of works; otherwise grace is no longer grace. But if it is of works, it is no longer grace; otherwise work is no longer work.
 
@@ -349,9 +349,9 @@ There is no one who does good,
 > **Date written:** c. AD 56–57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Therefore I urge you, brothers, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your spiritual service. <sup>2</sup>Don’t be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what is the good, well-pleasing, and perfect will of God.
 
@@ -372,9 +372,9 @@ There is no one who does good,
 > **Date written:** c. AD 56–57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Let every soul be in subjection to the higher authorities, for there is no authority except from God, and those who exist are ordained by God. <sup>2</sup>Therefore he who resists the authority withstands the ordinance of God; and those who withstand will receive to themselves judgment. <sup>3</sup>For rulers are not a terror to the good work, but to the evil. Do you desire to have no fear of the authority? Do that which is good, and you will have praise from the authority, <sup>4</sup>for he is a servant of God to you for good. But if you do that which is evil, be afraid, for he doesn’t bear the sword in vain; for he is a servant of God, an avenger for wrath to him who does evil. <sup>5</sup>Therefore you need to be in subjection, not only because of the wrath, but also for conscience’ sake. <sup>6</sup>For this reason you also pay taxes, for they are servants of God’s service, continually doing this very thing. <sup>7</sup>Therefore give everyone what you owe: if you owe taxes, pay taxes; if customs, then customs; if respect, then respect; if honor, then honor.
 
@@ -389,9 +389,9 @@ There is no one who does good,
 > **Date written:** c. AD 56–57
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Now accept one who is weak in faith, but not for disputes over opinions. <sup>2</sup>One man has faith to eat all things, but he who is weak eats only vegetables. <sup>3</sup>Don’t let him who eats despise him who doesn’t eat. Don’t let him who doesn’t eat judge him who eats, for God has accepted him. <sup>4</sup>Who are you who judge another’s servant? To his own lord he stands or falls. Yes, he will be made to stand, for God has power to make him stand.
 
@@ -419,9 +419,9 @@ There is no one who does good,
 > Paul is about to take the collection to Jerusalem (15:25–28) and then hopes to visit Rome on the way to Spain. This sets the letter on the eve of Acts 20–21.
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul).
 
 <sup>1</sup>Now we who are strong ought to bear the weaknesses of the weak, and not to please ourselves. <sup>2</sup>Let each one of us please his neighbor for that which is good, to be building him up. <sup>3</sup>For even Christ didn’t please himself. But, as it is written, “The reproaches of those who reproached you fell on me.” <sup>4</sup>For whatever things were written before were written for our learning, that through perseverance and through encouragement of the Scriptures we might have hope. <sup>5</sup>Now the God of perseverance and of encouragement grant you to be of the same mind with one another according to Christ Jesus, <sup>6</sup>that with one accord you may with one mouth glorify the God and Father of our Lord Jesus Christ.
 
@@ -466,10 +466,10 @@ There is no one who does good,
 > Some scholars think chapter 16 (25+ greetings) was a separate note to Ephesus; most now take it as part of Romans. Priscilla and Aquila are back in Rome (16:3), which suggests Claudius's edict had lapsed after his death (AD 54).
 >
 > **Basis:**
-> - [Paul's last journey to Jerusalem and arrest](anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
-> - [Claudius expels Jews from Rome](anchors.md#claudius-edict), AD 49 (minority AD 41). Suetonius (*Claudius* 25.4) reports the expulsion of Jews "agitating at the instigation of Chrestus". Orosius (7.6.15) dates it to Claudius's 9th year, AD 49. Aquila and Priscilla had "recently" arrived from Rome (Acts 18:2).
+> - [Paul's last journey to Jerusalem and arrest](../reference/anchors.md#paul-arrest), AD 57 (some say 56 or 58). After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6) to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put this in AD 57; others say 56 or 58.
+> - [Claudius expels Jews from Rome](../reference/anchors.md#claudius-edict), AD 49 (minority AD 41). Suetonius (*Claudius* 25.4) reports the expulsion of Jews "agitating at the instigation of Chrestus". Orosius (7.6.15) dates it to Claudius's 9th year, AD 49. Aquila and Priscilla had "recently" arrived from Rome (Acts 18:2).
 >
-> **Sources:** [Riesner 1998](sources.md#riesner); [Jewett 1979](sources.md#jewett); [Bruce 1977](sources.md#bruce-paul); [Suetonius, Claudius, 25.4](sources.md#suetonius-claud); [Orosius, History, 7.6.15](sources.md#orosius); [Cassius Dio, Roman History, 60.6.6](sources.md#dio); [Lüdemann 1984](sources.md#luedemann).
+> **Sources:** [Riesner 1998](../reference/sources.md#riesner); [Jewett 1979](../reference/sources.md#jewett); [Bruce 1977](../reference/sources.md#bruce-paul); [Suetonius, Claudius, 25.4](../reference/sources.md#suetonius-claud); [Orosius, History, 7.6.15](../reference/sources.md#orosius); [Cassius Dio, Roman History, 60.6.6](../reference/sources.md#dio); [Lüdemann 1984](../reference/sources.md#luedemann).
 
 <sup>1</sup>I commend to you Phoebe, our sister, who is a servant[^16-1] of the assembly that is at Cenchreae, <sup>2</sup>that you receive her in the Lord in a way worthy of the saints, and that you assist her in whatever matter she may need from you, for she herself also has been a helper of many, and of my own self.
 
