@@ -4,9 +4,21 @@ The New Testament text of the World English Bible, with a heading on every chapt
 giving its approximate date, the reasoning behind it, the scholarly views where they
 disagree, and citations.
 
-**Read it:** [nt/README.md](nt/README.md) (book list),
-[nt/timeline.md](nt/timeline.md) (every chapter in date order),
-[nt/anchors.md](nt/anchors.md) (the key dates and the debates behind them).
+## Read it in your browser
+
+**https://millstonesolutions.github.io/timeline_bible/**
+
+The whole thing is one web page: a book menu, a date card on every chapter, a
+timeline of all 260 chapters, the key dates behind them and the bibliography.
+Nothing to download.
+
+If that link isn't live yet, this mirror of the same page works now:
+https://raw.githack.com/millstonesolutions/timeline_bible/main/docs/index.html
+
+On GitHub itself the Markdown version reads well too: start at
+[nt/README.md](nt/README.md) (book list), [nt/timeline.md](nt/timeline.md) (every
+chapter in date order) or [nt/anchors.md](nt/anchors.md) (the key dates and the
+debates behind them).
 
 ## How it's built
 
@@ -19,18 +31,23 @@ other:
 | `data/sources.yaml` | Bibliography: every work cited, by key. | Yes |
 | `data/anchors.yaml` | Chronological anchors: Herod's death, Luke 3:1, the crucifixion year, Gallio, Festus, AD 70, Domitian… each with its views, explanation and sources. | Yes |
 | `data/nt/NN-book.yaml` | Per book: date of writing (with views) and a date for every chapter. | Yes |
-| `tools/build.py` | Merges text and data into Markdown. | Rarely |
-| `nt/*.md` | Generated output. | **No.** Rebuilt from the above. |
+| `tools/build.py` | Merges text and data into Markdown (`nt/`). | Rarely |
+| `tools/build_html.py` | Builds the web page (`docs/index.html`) from the same data. | Rarely |
+| `nt/*.md`, `docs/index.html` | Generated output. | **No.** Rebuilt from the above. |
 
 Rebuild after any change:
 
 ```
-python3 tools/build.py           # writes nt/
+python3 tools/build.py           # writes nt/ (Markdown)
+python3 tools/build_html.py      # writes docs/index.html (web page)
 python3 tools/build.py --check   # validate only
 ```
 
 It needs Python 3 with PyYAML (`pip install pyyaml`). The build fails if a chapter
 has no date, or if it cites an anchor or source key that doesn't exist.
+
+Commit and push both outputs; GitHub Pages republishes the web page from
+`docs/index.html` on `main` within a minute or two.
 
 Everything is plain text (YAML and Markdown), so it diffs cleanly in git and converts
 to other formats, e.g. `pandoc nt/40-matthew.md -o matthew.docx` or `.epub`/`.pdf`.

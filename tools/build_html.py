@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 """Build a single-page HTML reader of the Timeline Bible.
 
-    python3 tools/build_html.py      # writes site/timeline-bible.html
+    python3 tools/build_html.py
 
-Uses the same data and USFM parsing as tools/build.py. The page is published as
-a claude.ai artifact; it is generated, so edit data/ and rebuild.
+Writes two copies of the same page, generated from the same data and USFM
+parsing as tools/build.py (edit data/ and rebuild, never the HTML):
+  docs/index.html          standalone page, served by GitHub Pages
+  site/artifact.html       body-only copy for publishing as a claude.ai artifact
+                           (the artifact host adds the document skeleton)
 """
 
 import html
@@ -15,7 +18,18 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import build  # noqa: E402
 
-OUT = os.path.join(build.ROOT, "site", "timeline-bible.html")
+OUT_PAGES = os.path.join(build.ROOT, "docs", "index.html")
+OUT_ARTIFACT = os.path.join(build.ROOT, "site", "artifact.html")
+
+# What the artifact host's skeleton adds, for the standalone copy.
+STANDALONE_HEAD = """<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="The New Testament (World English Bible) with an approximate date for every chapter, the evidence, where scholars disagree, and sources.">
+<style>:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+"""
 AXIS_MIN, AXIS_MAX = -10, 150   # years shown on the time scales
 
 
@@ -474,10 +488,13 @@ def main():
 </main>
 <script>{JS}</script>
 '''
-    os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    with open(OUT, "w", encoding="utf-8", newline="\n") as f:
-        f.write(page)
-    print(f"Wrote {OUT} ({len(page.encode()) / 1e6:.1f} MB)")
+    head, body = page.split("<div class=\"topbar\">", 1)
+    standalone = STANDALONE_HEAD + head + "</head>\n<body>\n<div class=\"topbar\">" + body + "</body>\n</html>\n"
+    for path, text in ((OUT_PAGES, standalone), (OUT_ARTIFACT, page)):
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, "w", encoding="utf-8", newline="\n") as f:
+            f.write(text)
+        print(f"Wrote {path} ({len(text.encode()) / 1e6:.1f} MB)")
 
 
 if __name__ == "__main__":
