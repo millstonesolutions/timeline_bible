@@ -1,0 +1,123 @@
+book: Ezra
+code: EZR
+order: 15
+slug: 15-ezra
+kind: narrative
+
+written:
+  date: "c. 440–400 BC (some later, to c. 300 BC)"
+  range: [-450, -300]
+  summary: >-
+    Ezra and Nehemiah were one book in the Hebrew Bible. It uses first-person memoirs
+    of Ezra (Ezra 7:27–9:15) and Nehemiah, Aramaic documents (Ezra 4:8–6:18,
+    7:12–26) and lists. Tradition names Ezra as author; most scholars date the
+    compilation after Nehemiah's governorship, between c. 400 BC and the early
+    Greek period.
+  views:
+    - date: "c. 440–400 BC"
+      held_by: Jewish tradition (Ezra as author); many conservative scholars
+      basis: >-
+        The Talmud ascribes the book to Ezra. The memoirs are contemporary, the
+        Aramaic documents fit Persian chancery style, and nothing in the narrative
+        needs to be later than the end of the 5th century.
+      sources: [bava-batra 14b–15a, dillard-longman]
+    - date: "c. 400–300 BC"
+      held_by: Most critical scholars (e.g. Williamson, who takes Ezra 1–6 as the last part added)
+      basis: >-
+        The high priestly list in Nehemiah 12:10–11, 22 runs to Jaddua and "Darius
+        the Persian" (Darius II, 423–404, or Darius III, 336–330); the memoirs and
+        documents were combined by an editor after Nehemiah's time.
+      sources: [williamson-ezra, collins-intro]
+
+chapters:
+  1:
+    date: "538 BC (Cyrus's decree)"
+    range: [-539, -537]
+    anchors: [return]
+    note: >-
+      "In the first year of Cyrus king of Persia" (1:1), i.e. his first regnal year
+      in Babylon after its capture in October 539 BC: 538 BC. Sheshbazzar receives
+      the temple vessels (1:7–11). The Cyrus Cylinder shows the policy, though it
+      does not mention Judah.
+    sources: [cyrus-cylinder]
+  2:
+    date: "c. 538–537 BC (the list of returnees)"
+    range: [-538, -520]
+    anchors: [return]
+    note: >-
+      The list of those who came back with Zerubbabel and Jeshua, 42,360 in all
+      (2:64). It is repeated in Nehemiah 7. Many scholars think it combines several
+      groups that returned between 538 and c. 520 BC.
+  3:
+    date: "537–536 BC (altar and foundation)"
+    range: [-538, -536]
+    anchors: [return]
+    note: >-
+      The altar is rebuilt "when the seventh month had come" (3:1, autumn 538 or 537
+      BC) and the temple foundation laid "in the second year of their coming ... in
+      the second month" (3:8), spring 537 or 536 BC.
+  4:
+    date: "536–520 BC, with letters from c. 486–445 BC"
+    range: [-536, -445]
+    anchors: [return, xerxes, ezra-nehemiah]
+    note: >-
+      Opposition halts the work "all the days of Cyrus ... until the reign of
+      Darius" (4:5, 24: Darius's second year, 520 BC). In between, 4:6–23 is a
+      thematic aside about later opposition: an accusation under Ahasuerus
+      (Xerxes, 486–465 BC, 4:6) and the Aramaic correspondence with Artaxerxes I
+      (465–424 BC, 4:7–23) that stopped work on the city walls, probably before
+      Nehemiah's mission of 445 BC.
+  5:
+    date: "520 BC (work resumes)"
+    range: [-520, -520]
+    anchors: [return]
+    note: >-
+      Haggai and Zechariah stir up Zerubbabel and Jeshua (5:1–2; Haggai 1:1 is
+      dated 29 August 520 BC). Tattenai, governor "beyond the River", writes to
+      Darius I (5:6–17).
+    sources: [parker-dubberstein]
+  6:
+    date: "520–515 BC (the temple finished)"
+    range: [-520, -515]
+    anchors: [return]
+    note: >-
+      Cyrus's memorandum is found at Ecbatana (6:2) and Darius confirms it. "This
+      house was finished on the third day of the month Adar, which was in the sixth
+      year of the reign of Darius" (6:15): 12 March 515 BC (Parker & Dubberstein).
+      The Passover follows on 14 Nisan (6:19), April 515 BC. Then nearly sixty
+      years pass in silence before chapter 7.
+    sources: [parker-dubberstein]
+  7:
+    date: "458 BC (or 398 BC): Ezra's journey"
+    range: [-458, -398]
+    anchors: [ezra-nehemiah]
+    note: >-
+      Ezra leaves Babylon on the first day of the first month and reaches Jerusalem
+      "in the fifth month, which was in the seventh year of the king" (7:8–9). Under
+      Artaxerxes I that is August 458 BC; if the king is Artaxerxes II, 398 BC. The
+      king's letter (7:12–26) is in Aramaic.
+  8:
+    date: "458 BC (or 398 BC)"
+    range: [-458, -398]
+    anchors: [ezra-nehemiah]
+    note: >-
+      The list of families who came with Ezra, the fast at the river Ahava, and the
+      journey from the 12th day of the first month (8:31) to Jerusalem.
+  9:
+    date: "458 BC (or 398 BC): mixed marriages"
+    range: [-458, -398]
+    anchors: [ezra-nehemiah]
+    note: >-
+      Ezra's prayer of confession over marriages with the peoples of the land, some
+      four months after arrival (cf. 10:9). The prayer thanks God for "a wall in
+      Judah and in Jerusalem" (9:9), which supporters of the 398 BC date read as
+      Nehemiah's wall; most take it as a metaphor for protection.
+  10:
+    date: "Dec 458–Mar 457 BC (or 398–397 BC)"
+    range: [-458, -397]
+    anchors: [ezra-nehemiah]
+    note: >-
+      The assembly meets "the ninth month, on the twentieth day" in heavy rain
+      (10:9), December. The inquiry runs from the first day of the tenth month to
+      "the first day of the first month" (10:16–17), spring of the next year. The
+      list of men who had married foreign wives ends the book abruptly.

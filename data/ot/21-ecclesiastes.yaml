@@ -1,0 +1,95 @@
+book: Ecclesiastes
+code: ECC
+order: 21
+slug: 21-ecclesiastes
+kind: writing
+
+written:
+  date: "c. 950 BC (Solomon) or c. 450–250 BC (Persian/Hellenistic)"
+  range: [-970, -200]
+  summary: >-
+    "The words of the Preacher (Qohelet), the son of David, king in Jerusalem"
+    (1:1). Jewish and Christian tradition took the Preacher to be Solomon, and
+    chapters 1–2 adopt his persona. But the book never names Solomon, and its
+    Hebrew is late, close to the Hebrew of the Mishnah, with Persian loanwords.
+    Most scholars, many conservatives among them, date it after the exile: in the
+    Persian period (5th–4th century) or the early Greek period (3rd century BC). A
+    Qumran fragment (4QQoh^a) copied c. 175–150 BC sets the latest date.
+  views:
+    - date: "c. 950–931 BC"
+      held_by: Traditional Jewish and Christian view; some conservative scholars
+      basis: >-
+        "Son of David, king in Jerusalem" (1:1) and the description of unmatched
+        wisdom, wealth and building (1:16; 2:4–9) fit only Solomon. The Talmud
+        ascribes the book to "Hezekiah and his colleagues", i.e. edited under
+        Hezekiah.
+      sources: [bava-batra 14b–15a]
+    - date: "c. 450–330 BC (Persian period)"
+      held_by: Seow; some other critical and conservative scholars
+      basis: >-
+        Persian loanwords (*pardes* "park", 2:5; *pitgam* "sentence", 8:11), the
+        economic vocabulary of a money economy and of grants and investments, and
+        the language of Persian-period documents. Seow argues for the 5th–4th
+        century.
+      sources: [seow-eccl]
+    - date: "c. 300–200 BC (Ptolemaic period)"
+      held_by: Many critical scholars
+      basis: >-
+        The late Hebrew, possible contact with Greek popular philosophy, and the
+        administrative world of officials over officials (5:8) read against Ptolemaic
+        Judea. Ben Sira (c. 180 BC) seems to know the book.
+      sources: [collins-intro, sirach]
+    - date: "Solomon as a literary persona (date open)"
+      held_by: Many conservative scholars (e.g. Longman, in Dillard & Longman)
+      basis: >-
+        A frame narrator speaks of "the Preacher" in the third person (1:2; 7:27;
+        12:8–14); the "Solomonic" first person of chs. 1–2 is a device, so the book
+        need not come from Solomon.
+      sources: [dillard-longman]
+
+default:
+  date: "c. 950 BC (Solomon) or c. 450–250 BC"
+  range: [-970, -200]
+  anchors: [solomon]
+
+chapters:
+  1:
+    note: >-
+      "The son of David, king in Jerusalem" (1:1). "I, the Preacher, was king over
+      Israel in Jerusalem" (1:12) uses the past tense, and "all who were before me
+      in Jerusalem" (1:16) implies a line of kings there, though Solomon had only
+      David before him. Both are read as signs of a later writer using Solomon's
+      persona.
+  2:
+    note: >-
+      The royal experiment: houses, vineyards, "gardens and parks" (2:5, Hebrew
+      *pardesim*, from Persian), pools, slaves, silver and gold (2:4–11), modelled on
+      Solomon's reign (1 Kgs 10). The Persian word is a key argument for a date
+      after 539 BC; defenders of Solomonic authorship regard it as a later
+      updating or not certainly Persian.
+  4:
+    note: >-
+      The "poor and wise youth" who comes out of prison to reign (4:13–16) may allude
+      to a historical figure; suggestions run from Joseph to Ptolemaic rulers, with
+      no agreement.
+  5:
+    note: >-
+      "If you see the oppression of the poor ... one official is eyed by a higher
+      one, and there are officials over them" (5:8): a layered bureaucracy, often
+      read as Persian or Ptolemaic provincial administration.
+  8:
+    note: >-
+      "Keep the king's command" (8:2–4) and "the sentence against an evil work"
+      (8:11, *pitgam*, a Persian loanword also found in Esther 1:20 and Ezra's
+      Aramaic).
+  10:
+    note: >-
+      "Woe to you, land, when your king is a child" (10:16); proverbs on rulers and
+      officials, and a warning not to curse the king even in private (10:20).
+  12:
+    note: >-
+      The poem on old age (12:1–8), then an epilogue about the Preacher in the third
+      person: he "set in order many proverbs" (12:9), and "the end of the matter ...
+      fear God, and keep his commandments" (12:13). Many scholars see 12:9–14 as an
+      editor's addition, which would make the final form somewhat later than the
+      Preacher's words.

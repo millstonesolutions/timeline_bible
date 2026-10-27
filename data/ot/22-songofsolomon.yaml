@@ -1,0 +1,70 @@
+book: Song of Solomon
+code: SNG
+order: 22
+slug: 22-songofsolomon
+kind: writing
+
+written:
+  date: "c. 950 BC (Solomon) or c. 500–250 BC (final form)"
+  range: [-970, -250]
+  summary: >-
+    "The Song of songs, which is Solomon's" (1:1). The heading can mean "by", "for"
+    or "about" Solomon, who appears in the poems as a figure (3:7–11; 8:11–12) but
+    not clearly as the speaker. Tradition ascribes it to Solomon (1 Kgs 4:32 credits
+    him with 1,005 songs). Most critical scholars date the collection, in its final
+    form, to the Persian or Hellenistic period on the evidence of its language,
+    while allowing that individual love poems may be older. Four manuscripts were
+    found at Qumran, so it was complete by the 1st century BC.
+  views:
+    - date: "c. 970–931 BC"
+      held_by: Traditional Jewish and Christian view; some conservative scholars
+      basis: >-
+        The heading; Solomon's horses, chariots and wealth (1:9; 3:9–10); Tirzah
+        paired with Jerusalem (6:4), which suits a time when Tirzah was a capital
+        (c. 930–880 BC, before Omri built Samaria); place names from the whole land,
+        north and south. The Talmud ascribes it, with Proverbs and Ecclesiastes, to
+        "Hezekiah and his colleagues".
+      sources: [bava-batra 14b–15a, dillard-longman]
+    - date: "c. 500–250 BC (final form)"
+      held_by: Many critical scholars
+      basis: >-
+        Late Hebrew features (the relative particle *she-* throughout except in the
+        heading), Aramaisms, the Persian loanword *pardes* "orchard" (4:13), and
+        *appiryon* "carriage" (3:9), possibly from Greek *phoreion*. Many hold that
+        the date can't be settled and that oral love poetry may be much older.
+      sources: [exum-song, collins-intro]
+
+default:
+  date: "c. 950 BC (Solomon) or c. 500–250 BC"
+  range: [-970, -250]
+  anchors: [solomon]
+
+chapters:
+  1:
+    note: >-
+      The heading (1:1), whose relative word *asher* differs from the *she-* used in
+      the poems, a sign that it was added by an editor. "The tents of Kedar ... the
+      curtains of Solomon" (1:5); a mare "among Pharaoh's chariots" (1:9).
+  3:
+    note: >-
+      Solomon's procession with sixty warriors (3:7–8) and the "carriage"
+      (*appiryon*, 3:9) on "the day of his wedding" (3:11). The word *appiryon* is
+      used in arguments for a Hellenistic date if it comes from Greek *phoreion*;
+      others derive it from Persian or Sanskrit.
+  4:
+    note: >-
+      "Your shoots are an orchard (*pardes*) of pomegranates" (4:13), a Persian
+      loanword, the strongest linguistic clue to a date after 539 BC (the same word
+      as in Eccl 2:5 and Neh 2:8). Lebanon, Amana, Senir and Hermon (4:8) name the
+      northern mountains.
+  6:
+    note: >-
+      "You are beautiful, my love, as Tirzah, lovely as Jerusalem" (6:4). Tirzah was
+      the northern capital from Jeroboam I to Omri (c. 930–880 BC); this pairing is
+      cited for an early date, though a later poet could use the name for its
+      meaning ("pleasing").
+  8:
+    note: >-
+      "Solomon had a vineyard at Baal Hamon" (8:11–12), contrasted with the
+      speaker's own vineyard: Solomon as a figure in the poem, perhaps viewed from
+      a distance.

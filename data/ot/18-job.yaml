@@ -1,0 +1,107 @@
+book: Job
+code: JOB
+order: 18
+slug: 18-job
+kind: writing
+
+# Job is treated as a writing, not a narrative. The prose frame (chs. 1–2,
+# 42:7–17) has a patriarchal setting but no datable events: no king, no
+# synchronism, a hero from Uz outside Israel's history. The other 39 chapters are
+# poetic debate. So every heading gives the date of composition, and the notes
+# point out the setting where it matters.
+
+written:
+  date: "c. 7th–4th century BC (critical), or earlier by tradition"
+  range: [-1000, -300]
+  summary: >-
+    The book gives no author and no date. Its story is set in a patriarchal world:
+    Job measures wealth in flocks, offers sacrifice himself as head of the family,
+    and lives about 140 years after his trial (42:16). That setting is not the date
+    of writing. Ezekiel (14:14, 20) already knows Job as a proverbial righteous man
+    of old, and Qumran has an Aramaic translation of the book (11QtgJob), so the
+    book was written before the 2nd century BC. Most critical scholars put it
+    between the 7th and 4th centuries, often in the exile or Persian period.
+    Traditional views range from Moses to Solomon.
+  views:
+    - date: "patriarchal age or Moses"
+      held_by: Talmudic tradition (one opinion in Bava Batra 15a names Moses as author); a few older conservative writers
+      basis: >-
+        The setting before the Mosaic law and Israel, the absence of the exodus and
+        the covenant, and the very long life (42:16).
+      sources: [bava-batra 14b–15a]
+    - date: "c. 950–700 BC (monarchy)"
+      held_by: Some conservative scholars
+      basis: >-
+        Wisdom literature flourished under Solomon and Hezekiah; the book's
+        language and its links with Psalms and Proverbs fit the monarchy.
+        Dillard & Longman judge that the date can't be fixed.
+      sources: [dillard-longman]
+    - date: "c. 600–400 BC (exile or Persian period)"
+      held_by: Most critical scholars
+      basis: >-
+        The questioning of the doctrine that suffering follows sin answers the
+        crisis of the exile; "the satan" as a member of the heavenly court appears
+        elsewhere only in late texts (Zech 3:1–2; 1 Chr 21:1); Aramaic influence in
+        the language. Clines notes that no firm date is possible.
+      sources: [clines-job, collins-intro]
+
+default:
+  date: "c. 7th–4th century BC (or earlier)"
+  range: [-1000, -300]
+
+chapters:
+  1:
+    note: >-
+      "There was a man in the land of Uz" (1:1), east of Israel, probably in Edom or
+      northern Arabia (cf. Lam 4:21). The heavenly court and "the satan" (Hebrew
+      *ha-satan*, "the accuser") test Job. The setting is patriarchal: Job is head
+      of a clan, rich in livestock, and sacrifices for his children himself (1:5).
+      Sabeans and Chaldeans raid his herds (1:15, 17), as nomadic raiders.
+  2:
+    note: >-
+      The second test and the arrival of the three friends, Eliphaz the Temanite,
+      Bildad the Shuhite and Zophar the Naamathite (2:11). Teman is an Edomite clan
+      (Gen 36:11), which fits an Edomite setting.
+  3:
+    note: >-
+      The poetry begins: Job curses the day of his birth. Jeremiah 20:14–18 has a
+      closely related curse, and scholars disagree over which depends on the other.
+  28:
+    note: >-
+      The poem on wisdom ("where shall wisdom be found?", 28:12), with a detailed
+      description of mining (28:1–11). Many scholars read it as an interlude by the
+      author or a later editor, not Job's own speech.
+  32:
+    note: >-
+      Elihu's speeches begin (chs. 32–37). He is not mentioned in the prologue or
+      the epilogue, and his Hebrew has more Aramaisms, so many critical scholars
+      think the speeches were added later to the finished book; others take them
+      as the author's deliberate device.
+  33:
+    note: Elihu's speeches (see chapter 32).
+  34:
+    note: Elihu's speeches (see chapter 32).
+  35:
+    note: Elihu's speeches (see chapter 32).
+  36:
+    note: Elihu's speeches (see chapter 32).
+  37:
+    note: Elihu's speeches (see chapter 32).
+  38:
+    note: >-
+      The LORD answers "out of the whirlwind" (38:1), the speeches about creation
+      and the animals (chs. 38–41).
+  40:
+    note: >-
+      Behemoth (40:15–24), usually taken as the hippopotamus or a mythic creature;
+      a feature of the poetry, not a dating clue.
+  41:
+    note: >-
+      Leviathan, the sea monster also known in Ugaritic texts of the 13th century
+      BC (Lotan) and in Psalm 74:14 and Isaiah 27:1.
+  42:
+    note: >-
+      Job repents (42:1–6), then the prose epilogue: the friends rebuked, Job's
+      fortunes doubled, and 140 more years of life (42:16), a patriarchal span.
+      The Septuagint adds a note making Job Jobab, a king of Edom (cf. Gen 36:33),
+      a later tradition.

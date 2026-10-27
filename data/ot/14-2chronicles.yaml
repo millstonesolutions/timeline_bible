@@ -1,0 +1,335 @@
+book: 2 Chronicles
+code: 2CH
+order: 14
+slug: 14-2chronicles
+kind: narrative
+
+written:
+  date: "c. 400–300 BC (tradition: Ezra, c. 450–400 BC)"
+  range: [-450, -250]
+  summary: >-
+    The second half of one work with 1 Chronicles (they were a single book in the
+    Hebrew canon). It ends with Cyrus's decree of 538 BC (36:22–23), repeated at the
+    start of Ezra. For the date of writing see 1 Chronicles: most scholars put it in
+    the 4th century BC, tradition names Ezra.
+  views:
+    - date: "c. 450–400 BC"
+      held_by: Jewish tradition (Talmud, Ezra as author); some conservative scholars
+      basis: >-
+        The ending (36:22–23) is the same as the opening of Ezra (1:1–3), read as
+        one author's continuous work.
+      sources: [bava-batra 14b–15a, dillard-longman]
+    - date: "c. 400–300 BC"
+      held_by: Most critical scholars (Japhet; Knoppers; Williamson)
+      basis: >-
+        The genealogy of 1 Chr 3:19–24, the darics of 1 Chr 29:7, late biblical
+        Hebrew; Chronicles reworks the finished books of Samuel and Kings.
+      sources: [japhet, knoppers-chron, williamson-ezra, collins-intro]
+    - date: "c. 300–250 BC"
+      held_by: Some critical scholars
+      basis: Hellenistic features in the military and building notes; the upper limit is set by the Greek translation and Eupolemus (2nd century BC).
+      sources: [collins-intro]
+
+chapters:
+  1:
+    date: "c. 970 BC (Solomon's accession)"
+    range: [-971, -969]
+    anchors: [solomon]
+    note: >-
+      Solomon at Gibeon asks for wisdom (cf. 1 Kgs 3), at the start of his reign
+      (Thiele 971/970 BC). His chariots and horse trade (1:14–17) are summarised
+      here.
+  2:
+    date: "c. 968–967 BC"
+    range: [-970, -966]
+    anchors: [solomon]
+    note: >-
+      The agreement with Huram (Hiram) of Tyre for cedar and craftsmen, before
+      building began (cf. 1 Kgs 5).
+  3:
+    date: "966 BC (temple begun, 4th year)"
+    range: [-967, -966]
+    anchors: [solomon, exodus]
+    note: >-
+      "In the second month, on the second day, in the fourth year of his reign"
+      (3:2): spring 966 BC (Thiele; 967 BC on other reckonings). 1 Kings 6:1 adds
+      "480 years after the exodus", the basis of the early exodus date. The site
+      is Mount Moriah, Ornan's threshing floor (3:1).
+  4:
+    date: "c. 966–959 BC (the temple's furnishings)"
+    range: [-966, -959]
+    anchors: [solomon]
+    note: >-
+      The bronze altar, the sea and the vessels, made during the seven years of
+      building (1 Kgs 6:38: finished in the 8th month of the 11th year).
+  5:
+    date: "c. 959 BC (the ark brought in)"
+    range: [-959, -958]
+    anchors: [solomon]
+    note: >-
+      The ark is brought into the temple "at the feast, which was in the seventh
+      month" (5:3), Tabernacles. The temple was finished in the 8th month of year
+      11 (1 Kgs 6:38), so the dedication was either a month before completion or
+      eleven months after it (959 or 958 BC).
+  6:
+    date: "c. 959 BC (Solomon's prayer)"
+    range: [-959, -958]
+    anchors: [solomon]
+    note: Solomon's prayer of dedication (cf. 1 Kgs 8:12–53).
+  7:
+    date: "c. 959 BC (dedication)"
+    range: [-959, -958]
+    anchors: [solomon]
+    note: >-
+      Fire from heaven, fourteen days of feasting, and the people sent home "on
+      the twenty-third day of the seventh month" (7:10). The LORD's second
+      appearance to Solomon (7:12–22) follows, which 1 Kings 9:1 sets after the
+      palace was finished, c. 946 BC.
+  8:
+    date: "c. 946 BC and after (Solomon's buildings)"
+    range: [-947, -931]
+    anchors: [solomon]
+    note: >-
+      "At the end of twenty years, in which Solomon had built the LORD's house and
+      his own house" (8:1): seven years for the temple and thirteen for the palace
+      (1 Kgs 7:1), c. 947/946 BC. Cities, forced labour, the fleet to Ophir.
+  9:
+    date: "c. 950–931 BC (Sheba; Solomon's death)"
+    range: [-950, -931]
+    anchors: [solomon]
+    note: >-
+      The queen of Sheba's visit is undated. Solomon's wealth, then his death after
+      40 years (9:30–31), 931/930 BC. Chronicles leaves out his foreign wives and
+      apostasy (1 Kgs 11).
+  10:
+    date: "931/930 BC (the kingdom divides)"
+    range: [-931, -930]
+    anchors: [schism]
+    note: >-
+      Rehoboam refuses to lighten the yoke and the north follows Jeroboam (cf. 1 Kgs
+      12:1–19). From here Chronicles follows Judah only.
+  11:
+    date: "c. 931–926 BC (Rehoboam's early years)"
+    range: [-931, -926]
+    anchors: [schism]
+    note: >-
+      Shemaiah stops war with the north; Rehoboam fortifies fifteen cities (11:5–12,
+      not in Kings); priests and Levites come south. "For three years" they walked
+      in David's way (11:17).
+  12:
+    date: "c. 925 BC (Shishak's invasion)"
+    range: [-926, -925]
+    anchors: [schism, solomon]
+    note: >-
+      "In the fifth year of King Rehoboam, Shishak king of Egypt came up against
+      Jerusalem" (12:2): Shoshenq I, whose Karnak relief lists towns taken in
+      Canaan. Rehoboam reigns 17 years (12:13), to 913 BC.
+    sources: [shoshenq-relief]
+  13:
+    date: "c. 913–911 BC (Abijah)"
+    range: [-913, -910]
+    anchors: [schism]
+    note: >-
+      "In the eighteenth year of King Jeroboam, Abijah began to reign over Judah"
+      (13:1); three years. His battle with Jeroboam and speech on Mount Zemaraim
+      are not in Kings.
+  14:
+    date: "c. 911–900 BC (Asa's early reign)"
+    range: [-911, -896]
+    anchors: [schism]
+    note: >-
+      Asa (Thiele 911/910–870/869 BC). "The land was quiet ten years" (14:1), then
+      Zerah the Cushite invades and is defeated at Mareshah (14:9–15). Zerah has not
+      been identified securely in Egyptian records.
+  15:
+    date: "c. 896 BC (Asa's covenant, 15th year)"
+    range: [-897, -895]
+    anchors: [schism]
+    note: >-
+      Azariah son of Oded's sermon and the covenant assembly "in the third month,
+      in the fifteenth year of Asa's reign" (15:10). "No more war to the
+      thirty-fifth year" (15:19) is a problem, since Baasha died in Asa's 26th year
+      (1 Kgs 16:8). Thiele counts the 35th year from the division of the kingdom
+      (= Asa's 15th, 896/895 BC); others emend it to the 15th.
+  16:
+    date: "c. 895–870 BC (Asa's last years)"
+    range: [-895, -869]
+    anchors: [schism]
+    note: >-
+      Baasha builds Ramah "in the thirty-sixth year" (16:1), the same problem as
+      15:19 (Thiele: 895 BC, the 36th year from the division). Asa pays Ben-hadad,
+      jails Hanani the seer, falls ill in his 39th year (16:12) and dies in his 41st
+      (16:13), 870/869 BC.
+  17:
+    date: "c. 870–860 BC (Jehoshaphat)"
+    range: [-872, -860]
+    anchors: [ahab-qarqar]
+    note: >-
+      Jehoshaphat (Thiele: co-regent 873/872, sole king 870/869–848 BC). In his third
+      year he sends officials and Levites to teach the law (17:7–9). Not in Kings.
+  18:
+    date: "853 BC (Ramoth Gilead)"
+    range: [-853, -853]
+    anchors: [ahab-qarqar]
+    note: >-
+      Jehoshaphat allies with Ahab; Micaiah's prophecy; Ahab dies at Ramoth Gilead
+      (cf. 1 Kgs 22). Ahab fought at Qarqar in 853 and died the same year, so the
+      battle was late 853 BC on Thiele's chronology.
+  19:
+    date: "c. 853–850 BC"
+    range: [-853, -849]
+    anchors: [ahab-qarqar]
+    note: >-
+      Jehu son of Hanani rebukes Jehoshaphat for helping Ahab; Jehoshaphat appoints
+      judges in the cities and a court in Jerusalem (19:5–11). Not in Kings.
+  20:
+    date: "c. 853–848 BC"
+    range: [-853, -848]
+    anchors: [ahab-qarqar]
+    note: >-
+      Moab, Ammon and the Meunim invade and destroy one another in the wilderness
+      of Tekoa (20:1–30), after Ahab's death. The fleet built with Ahaziah of Israel
+      (20:35–37) falls in Ahaziah's reign, 853–852 BC. Jehoshaphat dies 848 BC.
+  21:
+    date: "c. 848–841 BC (Jehoram)"
+    range: [-848, -841]
+    anchors: [ahab-qarqar]
+    note: >-
+      Jehoram (co-regent from 853, sole king 848–841 BC) kills his brothers; Edom
+      and Libnah revolt. A letter from Elijah (21:12) is a puzzle, because 2 Kings
+      2–3 seems to put Elijah's departure in Jehoshaphat's lifetime; some suggest it
+      was written before his departure, others that it was Elisha's or a later
+      composition.
+  22:
+    date: "841–835 BC (Ahaziah; Athaliah)"
+    range: [-841, -835]
+    anchors: [jehu]
+    note: >-
+      Ahaziah reigns one year and is killed in Jehu's purge (22:7–9; cf. 2 Kgs 9),
+      841 BC. Athaliah seizes the throne; Joash is hidden in the temple for six
+      years (22:12).
+  23:
+    date: "835 BC (Athaliah overthrown)"
+    range: [-835, -835]
+    anchors: [jehu]
+    note: >-
+      "In the seventh year" (23:1) Jehoiada crowns Joash and Athaliah is killed
+      (cf. 2 Kgs 11).
+  24:
+    date: "835–796 BC (Joash)"
+    range: [-835, -796]
+    anchors: [jehu, eighth-century]
+    note: >-
+      Joash reigns 40 years. The temple repair (24:4–14) is dated in 2 Kings 12:6
+      to his 23rd year (c. 813 BC). After Jehoiada's death he turns away; Zechariah
+      son of Jehoiada is stoned (24:20–22; cf. Matt 23:35); the Arameans invade
+      (24:23–24) and Joash is murdered, 796 BC.
+  25:
+    date: "796–767 BC (Amaziah)"
+    range: [-796, -767]
+    anchors: [eighth-century]
+    note: >-
+      Amaziah defeats Edom in the Valley of Salt, then challenges Joash of Israel
+      and is captured at Beth Shemesh (cf. 2 Kgs 14). Thiele puts that defeat c. 791
+      BC and makes Uzziah co-regent from then; Amaziah dies 767 BC.
+  26:
+    date: "792–740 BC (Uzziah)"
+    range: [-792, -739]
+    anchors: [eighth-century]
+    note: >-
+      Uzziah (Azariah) reigns 52 years (Thiele 792/791–740/739 BC, co-regent with
+      his father at first). His leprosy after burning incense (26:16–21) is usually
+      dated c. 750 BC, when Jotham took over in the palace. Isaiah's call came "in
+      the year that King Uzziah died" (Isa 6:1).
+  27:
+    date: "750–732 BC (Jotham)"
+    range: [-750, -731]
+    anchors: [eighth-century]
+    note: >-
+      Jotham reigns 16 years (27:1), from 750 BC as co-regent; the Ammonites pay him
+      tribute for three years (27:5). Thiele's dates for Jotham and Ahaz rely on
+      overlapping reigns; Galil and others arrange them differently by a few years.
+  28:
+    date: "c. 735–715 BC (Ahaz)"
+    range: [-735, -715]
+    anchors: [eighth-century]
+    note: >-
+      Pekah of Israel and Rezin of Aram defeat Ahaz (the Syro-Ephraimite war,
+      734–732 BC); Ahaz asks "the kings of Assyria" for help (28:16) and
+      Tiglath-pileser III (Tilgath-pilneser, 28:20) takes his tribute. Edom and the
+      Philistines raid Judah. Kings and Assyrian records give Ahaz's tribute.
+    sources: [anet]
+  29:
+    date: "c. 715 BC (Hezekiah's first year)"
+    range: [-729, -715]
+    anchors: [hezekiah-701]
+    note: >-
+      "In the first year of his reign, in the first month, he opened the doors of
+      the LORD's house" (29:3) and the temple is cleansed in sixteen days (29:17).
+      Thiele puts the accession in 716/715 BC; on Galil's co-regency the first year
+      is c. 726 BC (or 729 BC by other counts).
+  30:
+    date: "c. 715 BC (Hezekiah's Passover)"
+    range: [-729, -715]
+    anchors: [hezekiah-701, samaria-fall]
+    note: >-
+      The Passover kept in the second month (30:2), with letters sent "from
+      Beersheba even to Dan" and to Ephraim and Manasseh, to "the remnant who have
+      escaped out of the hand of the kings of Assyria" (30:6), which assumes the
+      fall of Samaria (722 BC). Its year depends on the date of Hezekiah's
+      accession. Not in Kings.
+  31:
+    date: "c. 715 BC"
+    range: [-729, -714]
+    anchors: [hezekiah-701]
+    note: >-
+      Idols broken throughout Judah and Israel; tithes heaped up "in the third
+      month" until "the seventh month" (31:7); storerooms organised.
+  32:
+    date: "701–686 BC (Sennacherib; Hezekiah's last years)"
+    range: [-701, -686]
+    anchors: [hezekiah-701]
+    note: >-
+      Sennacherib's invasion of 701 BC (32:1–23), told more briefly than in 2 Kings
+      18–19 and confirmed by his annals; the water tunnel from Gihon (32:30; the
+      Siloam tunnel); Hezekiah's illness and the Babylonian envoys (32:24–31), which
+      Kings puts around the invasion; his death in 687/686 BC.
+    sources: [sennacherib-annals]
+  33:
+    date: "697–640 BC (Manasseh; Amon)"
+    range: [-697, -640]
+    anchors: [hezekiah-701, josiah]
+    note: >-
+      Manasseh reigns 55 years (Thiele 697/696–643/642 BC, at first with Hezekiah).
+      Chronicles alone reports that Assyrian commanders took him in chains "to
+      Babylon" (33:11) and that he repented and was restored; some link this with
+      the Babylonian revolt of 652–648 BC, when Assyria held Babylon. Amon reigns
+      two years and is murdered (33:21–25).
+  34:
+    date: "640–622 BC (Josiah's reforms)"
+    range: [-640, -622]
+    anchors: [josiah]
+    note: >-
+      Josiah seeks God "in the eighth year of his reign" (632 BC) and begins
+      purging the high places in the twelfth (628 BC, 34:3); the book of the law is
+      found in his 18th year, 622 BC (34:8–14). Kings puts the whole reform after
+      the discovery.
+  35:
+    date: "622–609 BC (Passover; Josiah's death)"
+    range: [-622, -609]
+    anchors: [josiah, babylon-597-587]
+    note: >-
+      The Passover "in the eighteenth year of the reign of Josiah" (35:19), 622 BC.
+      Josiah is killed at Megiddo opposing Necho, who was marching "to fight at
+      Carchemish by the Euphrates" (35:20), in 609 BC (Babylonian Chronicle).
+      Jeremiah's lament for him (35:25).
+    sources: [babylonian-chronicle]
+  36:
+    date: "609–586 BC, ending with Cyrus's decree (538 BC)"
+    range: [-609, -538]
+    anchors: [babylon-597-587, exile, return]
+    note: >-
+      Jehoahaz (609), Jehoiakim (609–598), Jehoiachin (597) and Zedekiah (597–586).
+      The temple burns (36:19) in 587 or 586 BC. The land keeps its sabbaths "to
+      fulfill seventy years" (36:21). The book closes with Cyrus's decree "in the
+      first year of Cyrus king of Persia" (36:22–23), 538 BC.

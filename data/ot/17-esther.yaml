@@ -1,0 +1,109 @@
+book: Esther
+code: EST
+order: 17
+slug: 17-esther
+kind: narrative
+
+written:
+  date: "c. 460–350 BC (some say 3rd–2nd century BC)"
+  range: [-465, -200]
+  summary: >-
+    The story is set at Susa under Ahasuerus, Xerxes I (486–465 BC), and refers to
+    his reign as finished, recorded "in the book of the chronicles of the kings of
+    Media and Persia" (10:2). It knows Persian court life well and uses Persian
+    loanwords but no Greek ones. Conservative scholars date it in the Persian
+    period; many critical scholars in the late Persian or early Greek period. It is
+    the one Old Testament book not found among the Dead Sea Scrolls.
+  views:
+    - date: "c. 460–400 BC"
+      held_by: Many conservative scholars
+      basis: >-
+        Accurate detail of Persian administration (the courier system, the
+        seven princes, the palace at Susa), Persian loanwords, no Greek influence,
+        and a narrator who looks back on Xerxes' reign from not far away.
+      sources: [dillard-longman, kitchen]
+    - date: "c. 400–200 BC"
+      held_by: Many critical scholars
+      basis: >-
+        The story reads as a court novella explaining Purim; Vashti, Esther and
+        Mordecai's office are unknown in Persian sources, and Herodotus names
+        Xerxes' queen as Amestris. 2 Maccabees 15:36 (late 2nd century BC) is the
+        first outside reference to "Mordecai's day". A few argue for the Maccabean
+        period itself.
+      sources: [fox-esther, collins-intro]
+
+chapters:
+  1:
+    date: "483 BC (Xerxes' 3rd year)"
+    range: [-483, -482]
+    anchors: [xerxes]
+    note: >-
+      The 180-day display and seven-day banquet "in the third year of his reign"
+      (1:3), 483/482 BC; Vashti refuses to appear and is deposed. Herodotus places
+      a great council at Susa before the invasion of Greece (480 BC) in roughly
+      these years, which many link with this gathering.
+  2:
+    date: "c. 482–478 BC (Esther made queen)"
+    range: [-482, -478]
+    anchors: [xerxes]
+    note: >-
+      The search for a new queen and a year of preparation (2:12). Esther is taken
+      to the king "in the tenth month, which is the month Tebeth, in the seventh
+      year of his reign" (2:16): December 479 or January 478 BC, after Xerxes'
+      return from the defeats at Salamis (480) and Plataea (479). Mordecai uncovers
+      the eunuchs' plot (2:21–23).
+  3:
+    date: "Apr 474 BC (Haman's decree)"
+    range: [-474, -474]
+    anchors: [xerxes]
+    note: >-
+      "In the first month, which is the month Nisan, in the twelfth year of King
+      Ahasuerus" (3:7), the lot (pur) is cast for a date; the decree is written on
+      the 13th of Nisan (3:12), April 474 BC, for the 13th of Adar.
+  4:
+    date: "474 BC"
+    range: [-474, -474]
+    anchors: [xerxes]
+    note: >-
+      Mordecai mourns; Esther agrees to go to the king unsummoned after a three-day
+      fast (4:16), soon after the decree.
+  5:
+    date: "474 BC"
+    range: [-474, -474]
+    anchors: [xerxes]
+    note: >-
+      "On the third day" (5:1) Esther approaches the king and invites him and Haman
+      to a banquet; Haman builds the gallows.
+  6:
+    date: "474 BC"
+    range: [-474, -474]
+    anchors: [xerxes]
+    note: >-
+      The sleepless king reads the chronicles and honours Mordecai, the next day.
+  7:
+    date: "474 BC"
+    range: [-474, -474]
+    anchors: [xerxes]
+    note: Esther's second banquet; Haman is exposed and hanged on his own gallows.
+  8:
+    date: "Jun 474 BC (Sivan, the counter-decree)"
+    range: [-474, -474]
+    anchors: [xerxes]
+    note: >-
+      The new decree is written "in the third month Sivan, on the twenty-third day"
+      (8:9), June 474 BC, allowing the Jews to defend themselves.
+  9:
+    date: "Mar 473 BC (13–14 Adar, Purim)"
+    range: [-473, -473]
+    anchors: [xerxes]
+    note: >-
+      The fighting on "the thirteenth day" of Adar (9:1) and the rest on the 14th
+      (15th in Susa), March 473 BC, still within Xerxes' 12th regnal year. Mordecai
+      and Esther establish Purim as an annual feast (9:20–32).
+  10:
+    date: "c. 473–465 BC (Xerxes' later reign)"
+    range: [-473, -465]
+    anchors: [xerxes]
+    note: >-
+      An epilogue on Xerxes' tribute and Mordecai's greatness, referring readers to
+      the Persian royal chronicles (10:2). Xerxes was murdered in 465 BC.

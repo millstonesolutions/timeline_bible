@@ -1,0 +1,146 @@
+book: Nehemiah
+code: NEH
+order: 16
+slug: 16-nehemiah
+kind: narrative
+
+written:
+  date: "c. 430–400 BC (memoir); compiled c. 400–300 BC"
+  range: [-433, -300]
+  summary: >-
+    The second half of Ezra–Nehemiah. Its core is Nehemiah's first-person memoir
+    (chs. 1–7, parts of 12–13), written soon after his governorship (445–433 BC and
+    a second term). Lists and the Ezra material of chapters 8–10 were added by the
+    compiler of Ezra–Nehemiah; the priestly list reaches Jaddua and "Darius the
+    Persian" (12:22).
+  views:
+    - date: "c. 430–400 BC"
+      held_by: Jewish tradition; many conservative scholars
+      basis: >-
+        The memoir is contemporary; the Talmud says Nehemiah completed the book Ezra
+        began. "Darius the Persian" (12:22) is taken as Darius II (423–404 BC).
+      sources: [bava-batra 14b–15a, dillard-longman]
+    - date: "c. 400–300 BC"
+      held_by: Most critical scholars (e.g. Williamson)
+      basis: >-
+        The memoir is early, but the compilation is later: the high priest list
+        runs to Jaddua (12:11, 22), whom Josephus places at the time of Alexander
+        the Great; if "Darius the Persian" is Darius III (336–330 BC), the lists
+        were updated into the Greek period.
+      sources: [williamson-ezra, collins-intro, josephus-ant 11]
+
+chapters:
+  1:
+    date: "Dec 446 BC (Kislev, Artaxerxes' 20th year)"
+    range: [-446, -446]
+    anchors: [ezra-nehemiah]
+    note: >-
+      News of Jerusalem's broken walls reaches Nehemiah "in the month Chislev, in
+      the twentieth year" at Susa (1:1). Since 2:1 puts Nisan in the same 20th year,
+      the count probably runs from autumn (or the year is a slip), so Kislev 446 BC
+      (November/December). The broken walls may be the result of Ezra 4:7–23.
+  2:
+    date: "Mar/Apr 445 BC (Nisan, 20th year)"
+    range: [-445, -445]
+    anchors: [ezra-nehemiah]
+    note: >-
+      "In the month Nisan, in the twentieth year of Artaxerxes the king" (2:1),
+      445 BC. Nehemiah is sent as governor; Sanballat the Horonite, Tobiah the
+      Ammonite and Geshem the Arab appear (2:10, 19). Sanballat is governor of
+      Samaria in the Elephantine papyri of 407 BC, and a Geshem is known from
+      inscriptions, which confirms the setting under Artaxerxes I.
+    sources: [elephantine-papyri]
+  3:
+    date: "445 BC (the wall builders)"
+    range: [-445, -445]
+    anchors: [ezra-nehemiah]
+    note: >-
+      The list of groups who repaired each section and gate, beginning with the high
+      priest Eliashib (3:1), Ezra's and Nehemiah's contemporary.
+  4:
+    date: "445 BC (opposition)"
+    range: [-445, -445]
+    anchors: [ezra-nehemiah]
+    note: >-
+      Mockery and threatened attack; the builders work with weapons at hand
+      (4:16–18). Within the 52 days of 6:15.
+  5:
+    date: "445 BC, looking back to 433 BC"
+    range: [-445, -433]
+    anchors: [ezra-nehemiah]
+    note: >-
+      The outcry over debt slavery and Nehemiah's remission of debts. In 5:14 he
+      looks back on twelve years as governor "from the twentieth year even to the
+      thirty-second year of Artaxerxes" (445–433 BC), so this part was written
+      after 433 BC.
+  6:
+    date: "Oct 445 BC (the wall finished)"
+    range: [-445, -445]
+    anchors: [ezra-nehemiah]
+    note: >-
+      Plots against Nehemiah and the false prophet Shemaiah. "The wall was finished
+      in the twenty-fifth day of Elul, in fifty-two days" (6:15): early October 445
+      BC (about 2 October on Parker & Dubberstein's tables).
+    sources: [parker-dubberstein]
+  7:
+    date: "445 BC (with the list of 538 BC)"
+    range: [-445, -445]
+    anchors: [ezra-nehemiah, return]
+    note: >-
+      Nehemiah sets guards and finds "the book of the genealogy of those who came up
+      at the first" (7:5), the list of Ezra 2 (538 BC onward), repeated here almost
+      exactly.
+  8:
+    date: "7th month, 445 BC as placed (or 458/398 BC)"
+    range: [-458, -398]
+    anchors: [ezra-nehemiah]
+    note: >-
+      Ezra reads the law "on the first day of the seventh month" (8:2) and the
+      people keep Tabernacles. As the book stands this is October 445 BC, with
+      Nehemiah present (8:9). Many scholars think the chapter belonged originally
+      with Ezra 7–10, so the reading happened in Ezra's first year (458 BC, or 398
+      BC on the late date), and Nehemiah's name in 8:9 is a later addition.
+  9:
+    date: "445 BC (24th day of the 7th month)"
+    range: [-458, -398]
+    anchors: [ezra-nehemiah]
+    note: >-
+      A day of fasting and the long prayer of confession (9:6–37) "on the
+      twenty-fourth day of this month" (9:1), three weeks after the reading. Same
+      dating question as chapter 8.
+  10:
+    date: "445 BC (or c. 430 BC): the covenant"
+    range: [-445, -430]
+    anchors: [ezra-nehemiah]
+    note: >-
+      The sealed covenant, headed by Nehemiah the governor (10:1). Its pledges (no
+      mixed marriages, sabbath trading, the wood offering, tithes) match the abuses
+      Nehemiah fights in chapter 13, so many place it after his return c. 430 BC.
+  11:
+    date: "c. 445–440 BC (Jerusalem resettled)"
+    range: [-445, -440]
+    anchors: [ezra-nehemiah]
+    note: >-
+      One in ten is chosen by lot to live in Jerusalem (11:1); the list of
+      residents and of villages in Judah and Benjamin. Close to 1 Chronicles 9.
+  12:
+    date: "538–c. 400 BC (lists); 445 BC (wall dedicated)"
+    range: [-538, -330]
+    anchors: [ezra-nehemiah, return]
+    note: >-
+      Priests and Levites who returned with Zerubbabel (12:1–9); the high priests
+      from Jeshua to Jaddua (12:10–11), recorded "in the reign of Darius the
+      Persian" (12:22): Darius II (423–404 BC) or, if Josephus's Jaddua of
+      Alexander's time is the same man, Darius III (336–330 BC). The dedication of
+      the wall with two choirs (12:27–43) follows its completion in 445 BC.
+    sources: [josephus-ant 11, elephantine-papyri]
+  13:
+    date: "c. 433–425 BC (Nehemiah's second term)"
+    range: [-433, -425]
+    anchors: [ezra-nehemiah]
+    note: >-
+      Nehemiah went back to the king "in the thirty-second year of Artaxerxes"
+      (13:6), 433/432 BC, and returned "after some days". He expels Tobiah from the
+      temple chamber, restores the Levites' portions, enforces the sabbath and
+      confronts mixed marriages, including a grandson of Eliashib married to
+      Sanballat's daughter (13:28). Artaxerxes I died in 424 BC.

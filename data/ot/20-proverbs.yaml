@@ -1,0 +1,152 @@
+book: Proverbs
+code: PRO
+order: 20
+slug: 20-proverbs
+kind: writing
+
+written:
+  date: "collections c. 950–700 BC; final form c. 700 BC or Persian period"
+  range: [-970, -300]
+  summary: >-
+    Proverbs is an anthology with its own headings: "The proverbs of Solomon" (1:1;
+    10:1), "the words of the wise" (22:17; 24:23), proverbs of Solomon "which the
+    men of Hezekiah king of Judah copied out" (25:1), "the words of Agur" (30:1) and
+    "the words of King Lemuel" (31:1). Its collections therefore come from different
+    times. Hezekiah's scribes (c. 715–686 BC) give a fixed point for chapters
+    25–29. Conservative scholars place the final form not long after that; most
+    critical scholars put the final edition, with chapters 1–9 as its introduction,
+    in the Persian period.
+  views:
+    - date: "c. 950 BC (Solomon) to c. 700 BC (Hezekiah); final form soon after"
+      held_by: Conservative scholars (e.g. Kitchen; Dillard & Longman on the collections)
+      basis: >-
+        The headings; Solomon's proverbs (1 Kgs 4:32 credits him with 3,000);
+        Kitchen argues that the long instruction of chs. 1–24, with title and
+        prologue, matches Near Eastern instruction texts of the 2nd and early 1st
+        millennium BC. 22:17–24:22 parallels the Egyptian *Instruction of
+        Amenemope* (c. 1100 BC or earlier).
+      sources: [kitchen, dillard-longman, anet]
+    - date: "older sayings; final edition c. 500–300 BC"
+      held_by: Most critical scholars (e.g. Fox for chs. 1–9)
+      basis: >-
+        The Solomonic heading is an honorific attribution, as with the Psalms and
+        David. Chapters 1–9, with Wisdom personified as a woman (chs. 8–9), are
+        usually dated to the Persian period and frame the older collections; the
+        acrostic poem of 31:10–31 is also often taken as late.
+      sources: [fox-proverbs, collins-intro]
+
+chapters:
+  1:
+    date: "c. 950 BC (Solomon) or c. 500–300 BC (critical)"
+    range: [-970, -300]
+    anchors: [solomon]
+    note: >-
+      "The proverbs of Solomon, the son of David, king of Israel" (1:1) heads the
+      whole book. Chapters 1–9 are a father's instruction to his son and Wisdom's
+      call in the streets (1:20–33). Many critical scholars date this introduction
+      latest of all.
+  2: &intro
+    date: "c. 950 BC (Solomon) or c. 500–300 BC (critical)"
+    range: [-970, -300]
+    anchors: [solomon]
+    note: >-
+      Part of the introductory instruction (chs. 1–9); see chapter 1 for the
+      dating question.
+  3: *intro
+  4: *intro
+  5: *intro
+  6: *intro
+  7: *intro
+  8:
+    date: "c. 950 BC (Solomon) or c. 500–300 BC (critical)"
+    range: [-970, -300]
+    anchors: [solomon]
+    note: >-
+      Wisdom speaks as a woman present at creation (8:22–31). This personification
+      is central to the late dating of chs. 1–9; it influenced later Jewish
+      writings such as Sirach 24 and the Wisdom of Solomon.
+    sources: [sirach]
+  9: *intro
+  10:
+    date: "c. 950–700 BC (Solomonic collection)"
+    range: [-970, -700]
+    anchors: [solomon]
+    note: >-
+      A new heading: "The proverbs of Solomon" (10:1). The collection 10:1–22:16
+      is 375 two-line sayings, the numerical value of the name "Solomon" in Hebrew
+      letters. Most scholars, critical ones included, regard it as the oldest part,
+      from the monarchy.
+  11: &solomon1
+    date: "c. 950–700 BC (Solomonic collection)"
+    range: [-970, -700]
+    anchors: [solomon]
+    note: Part of the first Solomonic collection (10:1–22:16).
+  12: *solomon1
+  13: *solomon1
+  14: *solomon1
+  15: *solomon1
+  16: *solomon1
+  17: *solomon1
+  18: *solomon1
+  19: *solomon1
+  20: *solomon1
+  21: *solomon1
+  22:
+    date: "c. 950–700 BC (Solomon; the words of the wise)"
+    range: [-1000, -600]
+    anchors: [solomon]
+    note: >-
+      The Solomonic collection ends at 22:16. "Turn your ear, and listen to the
+      words of the wise" (22:17) opens a new collection whose "thirty sayings"
+      (22:20) closely parallel the Egyptian *Instruction of Amenemope*, a
+      thirty-chapter text known from copies of the early 1st millennium BC. Most
+      scholars think Proverbs adapted Amenemope.
+    sources: [anet]
+  23:
+    date: "c. 1000–700 BC (the words of the wise)"
+    range: [-1000, -600]
+    note: >-
+      The words of the wise (22:17–24:22). The Amenemope parallels continue to
+      about 23:11; the date is the monarchy, when Judah's court had contact with
+      Egyptian scribal culture.
+    sources: [anet]
+  24:
+    date: "c. 1000–700 BC (the words of the wise)"
+    range: [-1000, -600]
+    note: >-
+      The words of the wise end at 24:22; "These also are sayings of the wise"
+      (24:23) adds a short appendix (24:23–34), with no date of its own.
+  25:
+    date: "c. 715–686 BC (copied under Hezekiah)"
+    range: [-729, -686]
+    anchors: [hezekiah-701, solomon]
+    note: >-
+      "These also are proverbs of Solomon, which the men of Hezekiah king of Judah
+      copied out" (25:1): a second Solomonic collection (chs. 25–29), edited by
+      royal scribes during Hezekiah's reign (Thiele 716/715–687/686 BC; earlier on
+      a co-regency). The sayings themselves are older.
+  26: &hezekiah
+    date: "c. 715–686 BC (copied under Hezekiah)"
+    range: [-729, -686]
+    anchors: [hezekiah-701]
+    note: Part of the collection copied by Hezekiah's men (chs. 25–29).
+  27: *hezekiah
+  28: *hezekiah
+  29: *hezekiah
+  30:
+    date: "Undated (Agur); before c. 300 BC"
+    range: [-1000, -300]
+    note: >-
+      "The words of Agur the son of Jakeh, the revelation" (30:1). "The revelation"
+      may be read *Massa*, an Arabian tribe (Gen 25:14), making Agur a non-Israelite
+      sage. Nothing else is known of him. Numerical sayings ("three things ... yes,
+      four", 30:15–31). The Septuagint places this chapter in a different part of
+      the book, a sign that the appendices were arranged late.
+  31:
+    date: "Undated (Lemuel); 31:10–31 perhaps post-exilic"
+    range: [-1000, -300]
+    note: >-
+      "The words of King Lemuel, the revelation which his mother taught him" (31:1),
+      again possibly "king of Massa"; Lemuel is otherwise unknown. The book closes
+      with the acrostic poem on the capable wife (31:10–31), which many critical
+      scholars date to the Persian period as part of the final edition.

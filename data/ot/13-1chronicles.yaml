@@ -1,0 +1,283 @@
+book: 1 Chronicles
+code: 1CH
+order: 13
+slug: 13-1chronicles
+kind: narrative
+
+written:
+  date: "c. 400–300 BC (tradition: Ezra, c. 450–400 BC)"
+  range: [-450, -250]
+  summary: >-
+    Chronicles retells Israel's history from Adam to Cyrus's decree (2 Chr 36:22–23),
+    using Samuel and Kings as its main source. David's line runs about six
+    generations past Zerubbabel (3:19–24), and 29:7 counts gold in Persian "darics",
+    so it was written well into the Persian period. Most scholars put it in the 4th
+    century BC; some in the early Greek period. Jewish tradition names Ezra.
+  views:
+    - date: "c. 450–400 BC"
+      held_by: Jewish tradition (Talmud, Ezra as author); some conservative scholars
+      basis: >-
+        The Talmud says Ezra wrote "the genealogies of Chronicles up to his own
+        time". The overlap of 2 Chr 36:22–23 with Ezra 1:1–3 was long read as one
+        author continuing his own work.
+      sources: [bava-batra 14b–15a, dillard-longman]
+    - date: "c. 400–300 BC"
+      held_by: Most critical scholars (Japhet; Knoppers; Williamson)
+      basis: >-
+        The six generations after Zerubbabel (c. 520 BC) in 3:19–24 reach c. 400 BC
+        at the earliest; darics (first minted under Darius I) are used for David's
+        time (29:7); the language is late biblical Hebrew. Japhet and Williamson
+        argue that Chronicles and Ezra–Nehemiah are separate works with different
+        outlooks.
+      sources: [japhet, knoppers-chron, williamson-ezra, collins-intro]
+    - date: "c. 300–250 BC"
+      held_by: Some critical scholars
+      basis: >-
+        Read the Septuagint of 3:21, which has more generations after Zerubbabel,
+        and see Hellenistic features in the military notes. The Greek translation
+        and Eupolemus's use of Chronicles (mid-2nd century BC) set the latest date.
+      sources: [collins-intro]
+
+chapters:
+  1:
+    date: "Undated (Adam to the kings of Edom)"
+    range: null
+    anchors: [primeval, patriarchs]
+    note: >-
+      A genealogy drawn from Genesis 5, 10, 11, 25 and 36: Adam to Noah, the
+      nations, Abraham, Ishmael, Esau and the Edomite kings "before any king reigned
+      over the children of Israel" (1:43). It spans the undated primeval era and the
+      patriarchs, so no single date applies.
+  2:
+    date: "c. 1900–1000 BC (Judah to David), plus later clans"
+    range: [-1900, -1000]
+    anchors: [patriarchs, david]
+    note: >-
+      The sons of Israel and the line of Judah through Perez, Hezron and Ram to
+      Jesse and David (2:1–17), then the Calebite and Jerahmeelite clans. The upper
+      end follows the patriarchal chronology (about two centuries later on the late
+      exodus date); some clan lists reflect settlements of the monarchy and after.
+  3:
+    date: "c. 1000 BC to c. 400 BC (David's line)"
+    range: [-1010, -400]
+    anchors: [david, exile, return]
+    note: >-
+      David's sons born at Hebron and Jerusalem (3:1–9), the kings of Judah, then
+      Jehoiachin's descendants in and after the exile: Zerubbabel (3:19, c. 520 BC)
+      and about six generations more, ending with the seven sons of Elioenai (3:24).
+      At 20–25 years a generation that reaches c. 400 BC, the main clue to the date
+      of writing; the Septuagint's longer reading of 3:21 would reach later.
+  4:
+    date: "c. 1900–700 BC (Judah and Simeon)"
+    range: [-1900, -700]
+    anchors: [patriarchs, hezekiah-701]
+    note: >-
+      Further clans of Judah, including Jabez's prayer (4:9–10), and the tribe of
+      Simeon. The latest dated event is a Simeonite raid on the Meunim "in the days
+      of Hezekiah king of Judah" (4:41), c. 715–686 BC.
+  5:
+    date: "c. 1900–732 BC (Reuben, Gad, half Manasseh)"
+    range: [-1900, -732]
+    anchors: [patriarchs, eighth-century]
+    note: >-
+      The Transjordan tribes. They were registered "in the days of Jotham king of
+      Judah, and in the days of Jeroboam king of Israel" (5:17, mid-8th century BC)
+      and deported by "Pul" and "Tilgath Pilneser" (5:6, 26), the same Assyrian king
+      Tiglath-pileser III, in his campaigns of 734–732 BC.
+  6:
+    date: "c. 1900–586 BC (Levi and the high priests)"
+    range: [-1900, -586]
+    anchors: [patriarchs, david, babylon-597-587]
+    note: >-
+      Levi's descendants and the high priestly line from Aaron to Jehozadak, who
+      "went into captivity" under Nebuchadnezzar (6:15), 587/586 BC. The singers
+      David appointed (6:31–48) and the Levitical cities (6:54–81, cf. Joshua 21)
+      are also here. The priestly list is selective; it omits Jehoiada and others
+      named in Kings.
+  7:
+    date: "c. 1900–1000 BC (northern tribes)"
+    range: [-1900, -1000]
+    anchors: [patriarchs, david]
+    note: >-
+      Issachar, Benjamin, Naphtali, Manasseh, Ephraim and Asher. The fighting-men
+      totals are said to come from "the days of David" (7:2); the lists may draw on
+      military musters of the monarchy. No other datable event.
+  8:
+    date: "c. 1900–700 BC (Benjamin and Saul's line)"
+    range: [-1900, -700]
+    anchors: [patriarchs, saul]
+    note: >-
+      A second Benjamite genealogy. Saul's line runs through Jonathan and
+      Mephibosheth (Merib-baal) about a dozen generations past Saul (8:33–40),
+      which would reach roughly the 8th or 7th century BC.
+  9:
+    date: "c. 538–400 BC (Jerusalem after the return)"
+    range: [-538, -400]
+    anchors: [return, ezra-nehemiah]
+    note: >-
+      "Judah was carried away captive to Babylon" (9:1); then "the first
+      inhabitants who lived in their possessions" (9:2), the returned priests,
+      Levites and gatekeepers of Jerusalem. The list is close to Nehemiah 11, which
+      dates it to the Persian period. Saul's genealogy (9:35–44) is repeated to lead
+      into chapter 10.
+  10:
+    date: "c. 1010 BC (death of Saul)"
+    range: [-1012, -1010]
+    anchors: [saul]
+    note: >-
+      Saul and his sons die on Mount Gilboa (cf. 1 Samuel 31). It is Chronicles'
+      only Saul narrative, a prelude to David.
+  11:
+    date: "c. 1003 BC (David king over all Israel)"
+    range: [-1010, -1000]
+    anchors: [david]
+    note: >-
+      All Israel anoints David at Hebron and he takes Jerusalem (11:1–9; cf. 2 Sam
+      5), after 7½ years as king of Judah alone (Thiele: 1010–1003 BC). The list of
+      mighty men (11:10–47) covers his whole career. Chronicles leaves out David's
+      reign at Hebron over Judah alone and the civil war with Ish-bosheth.
+  12:
+    date: "c. 1012–1003 BC (Ziklag and Hebron)"
+    range: [-1012, -1003]
+    anchors: [saul, david]
+    note: >-
+      Those who joined David while he was "shut up because of Saul" at Ziklag
+      (12:1; cf. 1 Sam 27, before Saul's death) and the tribal contingents that came
+      to Hebron to make him king (12:23–40).
+  13:
+    date: "c. 1000 BC (the ark from Kiriath Jearim)"
+    range: [-1003, -995]
+    anchors: [david]
+    note: >-
+      The first attempt to bring the ark, and Uzza's death (cf. 2 Sam 6:1–11).
+      Chronicles puts it before the Philistine wars and Hiram's embassy (ch. 14);
+      2 Samuel 5–6 has the reverse order. The order is thematic, not a separate
+      chronology.
+  14:
+    date: "c. 1000–980 BC"
+    range: [-1003, -980]
+    anchors: [david]
+    note: >-
+      Hiram of Tyre sends builders (14:1), David's sons born in Jerusalem, and two
+      Philistine defeats (cf. 2 Sam 5:11–25). The Tyrian king list in Josephus puts
+      Hiram's accession c. 980 BC, so the embassy may belong later in David's reign
+      than the placement suggests.
+    sources: ["josephus-apion 1.116–126"]
+  15:
+    date: "c. 1000–990 BC (the ark brought to Jerusalem)"
+    range: [-1000, -990]
+    anchors: [david]
+    note: >-
+      The ark is carried by Levites into the tent David pitched (cf. 2 Sam
+      6:12–19). Chronicles adds the Levitical singers and gatekeepers, whose order
+      reflects the practice the chronicler knew in the second temple.
+  16:
+    date: "c. 1000–990 BC"
+    range: [-1000, -990]
+    anchors: [david]
+    note: >-
+      The thanksgiving psalm at the ark's arrival (16:8–36) combines Psalms 105:1–15,
+      96 and 106:1, 47–48. The psalm's date of composition is a separate question
+      (see Psalms).
+  17:
+    date: "c. 990–980 BC (Nathan's oracle)"
+    range: [-995, -975]
+    anchors: [david]
+    note: >-
+      David, living in his cedar house, plans a temple; Nathan's dynastic promise
+      (cf. 2 Sam 7). 2 Samuel 7:1 sets it after God "had given him rest from all
+      his enemies", which Chronicles omits; it is usually placed in the middle of
+      the reign.
+  18:
+    date: "c. 1000–980 BC (David's wars)"
+    range: [-1000, -980]
+    anchors: [david]
+    note: >-
+      Summary of victories over Philistia, Moab, Zobah, Aram and Edom (cf. 2 Sam 8),
+      grouped by theme rather than in sequence.
+  19:
+    date: "c. 990–980 BC (the Ammonite war)"
+    range: [-995, -980]
+    anchors: [david]
+    note: >-
+      Hanun of Ammon humiliates David's envoys; Joab defeats Ammon and its Aramean
+      allies (cf. 2 Sam 10).
+  20:
+    date: "c. 990–980 BC"
+    range: [-995, -975]
+    anchors: [david]
+    note: >-
+      Rabbah taken "at the time when kings go out" (20:1, spring). 2 Samuel 11–12
+      sets the Bathsheba affair during this siege; Chronicles omits it. Then three
+      Philistine giants (20:4–8; cf. 2 Sam 21:18–22).
+  21:
+    date: "c. 975 BC (the census)"
+    range: [-980, -971]
+    anchors: [david]
+    note: >-
+      "Satan stood up against Israel" (21:1) where 2 Samuel 24:1 has the LORD's
+      anger. The plague stops at Ornan's threshing floor, which becomes the temple
+      site (22:1). Usually placed late in David's reign; 2 Samuel puts it in an
+      appendix without a date.
+  22:
+    date: "c. 971 BC (preparations for the temple)"
+    range: [-975, -970]
+    anchors: [david, solomon]
+    note: >-
+      David gathers materials and charges Solomon, "young and tender" (22:5), to
+      build. Not in Samuel or Kings; set near the end of the reign.
+  23:
+    date: "c. 971–970 BC (David old; Levites)"
+    range: [-971, -970]
+    anchors: [david, solomon]
+    note: >-
+      "David was old and full of days; and he made Solomon his son king" (23:1),
+      the co-regency at the end of the reign (Thiele 971/970 BC). The Levites'
+      divisions and their lower age limit of twenty (23:24–27) are usually read as
+      second-temple practice projected back onto David.
+  24:
+    date: "c. 971–970 BC"
+    range: [-971, -970]
+    anchors: [david]
+    note: >-
+      The 24 priestly divisions (24:7–18), still in use in the 1st century AD (Luke
+      1:5, Abijah's division). Critical scholars date the system to the Persian
+      period.
+  25:
+    date: "c. 971–970 BC"
+    range: [-971, -970]
+    anchors: [david]
+    note: >-
+      The 24 courses of temple musicians under Asaph, Heman and Jeduthun. The names
+      in 25:4b may be a fragment of a psalm, an often-noted puzzle.
+  26:
+    date: "c. 971–970 BC (David's 40th year)"
+    range: [-971, -970]
+    anchors: [david]
+    note: >-
+      Gatekeepers, treasurers and officials. The Hebronites "were sought for in the
+      fortieth year of the reign of David" (26:31), the one explicit date in these
+      chapters.
+  27:
+    date: "c. 971–970 BC"
+    range: [-975, -970]
+    anchors: [david]
+    note: >-
+      The twelve monthly army divisions, tribal leaders and royal stewards. 27:24
+      refers back to the census (ch. 21).
+  28:
+    date: "c. 970 BC (David's last assembly)"
+    range: [-971, -970]
+    anchors: [david, solomon]
+    note: >-
+      David presents Solomon to the assembly and hands over the temple plan "in
+      writing from the LORD's hand" (28:19).
+  29:
+    date: "c. 970 BC (death of David)"
+    range: [-971, -970]
+    note: >-
+      The freewill offering, counted partly in "darics" (29:7), a Persian coin first
+      minted under Darius I (late 6th century BC): the chronicler's own currency, a clue to
+      the date of writing. Solomon is made king "the second time" (29:22) and David
+      dies after reigning 40 years (29:26–28).
+    anchors: [david, solomon, chronicler]
