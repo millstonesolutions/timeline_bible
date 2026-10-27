@@ -773,3 +773,189 @@ The Qumran Psalms scrolls show the order of Books IV–V was still fluid in the
 1st century BC.
 
 **Sources:** [Kraus 1988–89](../reference/sources.md#kraus-psalms); [Dead Sea Scrolls](../reference/sources.md#dead-sea-scrolls); [Collins, Hebrew Bible](../reference/sources.md#collins-intro); [Dillard & Longman](../reference/sources.md#dillard-longman).
+
+<a id="prophets-isaiah-parts"></a>
+
+## The three parts of Isaiah: Isaiah c. 740–700 BC; or chs. 40–55 c. 550–539 BC and 56–66 c. 538–450 BC
+
+Tradition takes the whole book as the work of Isaiah son of Amoz (c. 740–700 BC). Since Duhm (1892) most critical scholars divide it into First Isaiah (much of chs. 1–39, 8th century, with later additions), Second Isaiah (40–55, written among the exiles c. 550–539 BC; Cyrus is named in 44:28 and 45:1) and Third Isaiah (56–66, Judah after the return, c. 538–450 BC).
+
+**One author.** The heading (1:1) names only Isaiah; Sirach (c. 180 BC) credits
+Isaiah with comforting "those who mourned in Zion" and foretelling "what was to
+be" (Sir 48:24–25), language from chs. 40–66; the great Isaiah scroll from
+Qumran (1QIsa^a, 2nd century BC) runs ch. 39 straight into ch. 40; and the New
+Testament quotes chs. 40–66 under Isaiah's name. Conservative scholars (Oswalt)
+take chs. 40–66 as Isaiah's own prophecy, written late in his life for a future
+exile, and Cyrus's naming as predictive.
+
+**Two or three Isaiahs.** Chapters 40–55 address exiles in Babylon as their
+present audience, speak of Jerusalem as already ruined (44:26; 51:3), and name
+Cyrus as the coming deliverer, so most scholars date them to Cyrus's rise:
+after his defeat of Media (c. 550 BC) and before he took Babylon (539 BC).
+Chapters 56–66 assume people back in Judah and quarrels in the community; most
+date them between the return (538) and Nehemiah's time, some to before the
+temple was finished in 515 BC (63:18; 64:10–11; 66:1). Within chs. 1–39, the
+oracles on Babylon (13–14), the "Isaiah apocalypse" (24–27) and chs. 34–35 are
+widely dated to the exile or later. Blenkinsopp's commentary follows this
+division; Childs reads the parts as one canonical book whatever their dates.
+
+**In the headings.** Chapters 40–66, and the disputed parts of 1–39, give both
+dates ("Isaiah" and the critical date), with a range spanning both.
+
+**Sources:** [Oswalt 1986–98](../reference/sources.md#oswalt-isaiah); [Blenkinsopp 2000–03](../reference/sources.md#blenkinsopp-isaiah); [Childs 1979](../reference/sources.md#childs); [Sirach, 48:22–25](../reference/sources.md#sirach); [Dead Sea Scrolls](../reference/sources.md#dead-sea-scrolls); [Collins, Hebrew Bible](../reference/sources.md#collins-intro); [Dillard & Longman](../reference/sources.md#dillard-longman).
+
+<a id="prophets-judah-last-kings"></a>
+
+## Judah's last kings (Jeremiah's regnal dates): 609–587/586 BC
+
+Jehoahaz (Shallum) ruled three months in 609 BC; Jehoiakim 609–598; Jehoiachin (Jeconiah, Coniah) three months to 2 Adar (16 March) 597; Zedekiah 597 to the fall of Jerusalem in 587 or 586. Jehoiakim's 4th year = 605/604 (Jer 25:1; 46:2); Zedekiah's 4th year = 594/593 (28:1; 51:59).
+
+Jeremiah dates his oracles by the kings of Judah, and twice also by
+Nebuchadnezzar: Jehoiakim's 4th year was Nebuchadnezzar's 1st (25:1), the year
+of Carchemish (46:2; Babylonian Chronicle, summer 605 BC), and Zedekiah's 10th
+was Nebuchadnezzar's 18th (32:1), 588/587 BC. The siege of Jerusalem began on
+10/X of Zedekiah's 9th year (Jer 52:4; 2 Kgs 25:1), January 588 BC, and the wall
+was breached on 9/IV of his 11th year (Jer 39:2; 52:6–7), July 587 BC on the
+reckoning of Galil and Cogan & Tadmor, July 586 BC on Thiele's. The Babylonian
+Chronicle fixes Jehoiachin's surrender to the day (2 Adar, year 7). Whether
+Judah counted regnal years from spring (Nisan) or autumn (Tishri) moves several
+of these dates by a year, so a heading such as "594/593 BC" means the regnal
+year that straddles them.
+
+**Sources:** [Babylonian Chronicle](../reference/sources.md#babylonian-chronicle); [Grayson 1975](../reference/sources.md#grayson-abc); [Parker & Dubberstein 1956](../reference/sources.md#parker-dubberstein); [Thiele 1983](../reference/sources.md#thiele); [Galil 1996](../reference/sources.md#galil); [Cogan; Cogan & Tadmor](../reference/sources.md#cogan-kings); [Lundbom 1999–2004](../reference/sources.md#lundbom-jer).
+
+<a id="prophets-ezekiel-dates"></a>
+
+## Ezekiel's dated oracles: 593–571 BC
+
+Ezekiel dates thirteen oracles by year, month and day "of King Jehoiachin's captivity" (1:2; 33:21; 40:1), counted from the spring of 597 BC. Converted with Parker & Dubberstein's tables, they run from 31 July 593 BC (1:1–2) to 26 April 571 BC (29:17), the latest.
+
+Jehoiachin surrendered on 2 Adar 597 BC (Babylonian Chronicle), so year 1 of
+the captivity is the year beginning Nisan 597 BC, and year *n* begins in the
+spring of 597 − (n − 1) BC. Months are counted from Nisan (I) in spring. The
+usual conversions (Parker & Dubberstein, as tabulated in Zimmerli's
+commentary) are:
+
+| Text | Year/month/day | Date |
+|---|---|---|
+| 1:1–2 | 5/IV/5 | 31 July 593 BC |
+| 8:1 | 6/VI/5 | 17 September 592 BC |
+| 20:1 | 7/V/10 | 14 August 591 BC |
+| 24:1 | 9/X/10 | 15 January 588 BC |
+| 26:1 | 11/?/1 | 587/586 BC (month missing) |
+| 29:1 | 10/X/12 | 7 January 587 BC |
+| 29:17 | 27/I/1 | 26 April 571 BC |
+| 30:20 | 11/I/7 | 29 April 587 BC |
+| 31:1 | 11/III/1 | 21 June 587 BC |
+| 32:1 | 12/XII/1 | 3 March 585 BC |
+| 32:17 | 12/?/15 | 585 BC (month missing; Greek "first month": April 586) |
+| 33:21 | 12/X/5 | 8 January 585 BC (some manuscripts "11th year": January 586) |
+| 40:1 | 25/I?/10 | 28 April 573 BC (or October 574 if the year began in autumn) |
+
+Ezekiel 40:1 equates the 25th year of captivity with "the fourteenth year after
+the city was struck", which fits a fall of Jerusalem in 587 BC. The news of the
+fall reaching Babylon in the 10th month of the 12th year (33:21) means a journey
+of about five months if the city fell in 586, or eighteen months if it fell in
+587, which is why some prefer the "11th year" reading there. The "thirtieth
+year" of 1:1 is unexplained: often Ezekiel's age (so Origen), or 30 years from
+Josiah's reform of 622 BC, which also lands on 593.
+
+**Sources:** [Parker & Dubberstein 1956](../reference/sources.md#parker-dubberstein); [Zimmerli 1979–83](../reference/sources.md#zimmerli); [Babylonian Chronicle](../reference/sources.md#babylonian-chronicle); [Grayson 1975](../reference/sources.md#grayson-abc); [Thiele 1983](../reference/sources.md#thiele); [Galil 1996](../reference/sources.md#galil).
+
+<a id="twelve-earthquake"></a>
+
+## The earthquake in Uzziah's reign: c. 760 BC
+
+Amos prophesied "two years before the earthquake" (Amos 1:1), under Uzziah and Jeroboam II. The quake was still remembered more than two centuries later ("as you fled from before the earthquake in the days of Uzziah", Zech 14:5). Excavators date a major earthquake destruction at Hazor and other sites to the mid-8th century BC, usually c. 760 BC.
+
+**Biblical limits.** Amos names Uzziah (792–740 BC on Thiele's dates, sole reign
+from 767) and Jeroboam II (793–753), so his ministry falls before 753. The
+phrase "two years before the earthquake" treats the quake as a well-known
+reference point, and suggests that Amos's preaching was brief.
+
+**Later memory.** Zechariah 14:5 still uses it as a byword. Josephus links the
+earthquake with Uzziah's attempt to burn incense in the temple (2 Chr 26:16–21),
+a tradition the Bible itself does not make.
+
+**Archaeology.** Destruction by earthquake in the mid-8th century BC has been
+identified at Hazor (Stratum VI) and several other sites in Israel and Judah.
+The date c. 760 BC is the usual estimate; it cannot be fixed to the year.
+
+**Sources:** [Thiele 1983](../reference/sources.md#thiele); [Wolff 1977](../reference/sources.md#wolff-joel-amos); [Josephus, Antiquities, 9.222–227](../reference/sources.md#josephus-ant); [Mazar 1990](../reference/sources.md#mazar).
+
+<a id="twelve-nineveh"></a>
+
+## Thebes (663 BC) and the fall of Nineveh (612 BC): 663–612 BC
+
+Nahum 3:8–10 recalls the sack of Thebes ("No-Amon") by Ashurbanipal of Assyria in 663 BC as past; Nahum and Zephaniah 2:13–15 foretell Nineveh's fall, which came in 612 BC to the Babylonians and Medes (Babylonian Chronicle). Oracles against Nineveh as a living power fall between the two dates.
+
+**Thebes, 663 BC.** Ashurbanipal's annals describe his second Egyptian campaign,
+in which Thebes was taken and plundered after the flight of the Kushite king
+Tantamani. Nahum uses its fate as a warning to Nineveh: a great river city that
+fell anyway.
+
+**Nineveh, 612 BC.** The Babylonian chronicle of the fall of Nineveh records
+that Nabopolassar of Babylon and Cyaxares the Mede besieged the city and took
+it in the summer of Nabopolassar's 14th year, 612 BC. Assyrian resistance went
+on at Harran until 610–609 BC.
+
+**Assyria's decline.** After Ashurbanipal's last years (died c. 631 BC) Assyria
+lost Babylonia (626 BC) and declined rapidly. Oracles that treat Assyria as still
+oppressive but doomed are often placed in the 620s and 610s; those that stress
+its power, closer to 663.
+
+**Sources:** [ANET](../reference/sources.md#anet); [Grayson 1975](../reference/sources.md#grayson-abc); [Babylonian Chronicle](../reference/sources.md#babylonian-chronicle); [Roberts 1991](../reference/sources.md#roberts-nahum).
+
+<a id="twelve-darius-dates"></a>
+
+## The dated oracles of Haggai and Zechariah: 29 August 520 – 7 December 518 BC
+
+Haggai and Zechariah 1–8 date their oracles by the year of Darius I (522–486 BC), month and day. Converted with Parker & Dubberstein's tables they run from 1 Elul of Darius's 2nd year (29 August 520 BC, Hag 1:1) to 4 Kislev of his 4th year (7 December 518 BC, Zech 7:1).
+
+Darius I took the throne in 522 BC; his first regnal year began in Nisan 521, so
+his 2nd year ran from spring 520 to spring 519 BC. Months are counted from the
+spring (Nisan = month 1), as in the Babylonian calendar.
+
+| Reference | Text date | Julian date |
+|---|---|---|
+| Hag 1:1 | year 2, month 6, day 1 | 29 August 520 BC |
+| Hag 1:15 | year 2, month 6, day 24 | 21 September 520 BC |
+| Hag 2:1 | year 2, month 7, day 21 | 17 October 520 BC |
+| Zech 1:1 | year 2, month 8 (no day) | October–November 520 BC |
+| Hag 2:10, 2:18, 2:20 | year 2, month 9, day 24 | 18 December 520 BC |
+| Zech 1:7 | year 2, month 11 (Shebat), day 24 | 15 February 519 BC |
+| Zech 7:1 | year 4, month 9 (Kislev), day 4 | 7 December 518 BC |
+
+The temple was finished on 3 Adar of Darius's 6th year, March 515 BC
+(Ezra 6:15). Ezra 5:1 and 6:14 name Haggai and Zechariah as the prophets who
+urged the rebuilding.
+
+**Sources:** [Parker & Dubberstein 1956](../reference/sources.md#parker-dubberstein); [Meyers & Meyers 1987](../reference/sources.md#meyers-haggai).
+
+<a id="twelve-deutero-zechariah"></a>
+
+## The date of Zechariah 9–14: c. 520–470 BC (Zechariah) or 5th–4th century BC (later prophets)
+
+Zechariah 9–14 has no dates, no mention of Zechariah, Joshua, Zerubbabel or the temple building, and a different style from chs. 1–8. Tradition reads it as Zechariah's later oracles; most critical scholars assign it to one or more anonymous prophets of the later Persian or early Greek period.
+
+**Two "burdens".** Chapters 9–11 and 12–14 each open with *massa*, "burden" or
+"oracle" (WEB "A revelation", 9:1; 12:1), as does Malachi (1:1). Many scholars treat the three as
+an appendix of anonymous collections added at the end of the Twelve.
+
+**Late date.** The sons of Zion are set against "your sons, Greece" (9:13);
+9:1–8 traces a conqueror's route down the Syrian and Phoenician coast, which
+some have linked with Alexander's campaign of 332 BC; the shepherd allegories
+(11:4–17; 13:7–9) suggest conflicts over leadership in the restored community.
+Most critical commentators put the chapters in the 5th or 4th century BC.
+
+**Early date.** Older critics, starting in the 17th–18th centuries, put chs.
+9–11 before the exile because they mention Ephraim, Assyria and Egypt as live
+powers (9:10, 13; 10:10–11); Matthew 27:9–10 quotes 11:12–13 under Jeremiah's
+name. This view is now rarely held.
+
+**Traditional view.** Conservative scholars ascribe the chapters to Zechariah
+himself, late in a long ministry (after 480 BC), the change of style reflecting
+a change of subject from the temple to the distant future; Greece was already a
+known power after Darius's and Xerxes' wars.
+
+**Sources:** [Petersen 1995](../reference/sources.md#petersen-zech); [Meyers & Meyers 1987](../reference/sources.md#meyers-haggai); [Childs 1979](../reference/sources.md#childs); [Collins, Hebrew Bible](../reference/sources.md#collins-intro); [Dillard & Longman](../reference/sources.md#dillard-longman).

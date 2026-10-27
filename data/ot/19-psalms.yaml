@@ -58,6 +58,7 @@ chapters:
   3:
     date: "c. 980 BC by the heading (Absalom's revolt), or later"
     range: [-1000, -400]
+    sort: -980   # heading date
     anchors: [david, psalter]
     note: >-
       Heading: "when he fled from Absalom his son" (2 Sam 15–18). Absalom's revolt came late in
@@ -66,10 +67,12 @@ chapters:
   4:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   5:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       "I will bow toward your holy temple" (5:7) is read by some as a sign of a date after
@@ -77,12 +80,14 @@ chapters:
   6:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       The first of the seven traditional penitential psalms (6, 32, 38, 51, 102, 130, 143).
   7:
     date: "c. 1020–1010 BC by the heading (Saul's persecution?), or later"
     range: [-1020, -400]
+    sort: -1015   # heading date
     anchors: [saul, david, psalter]
     note: >-
       Heading: "concerning the words of Cush, the Benjamite", a man otherwise unknown. Since
@@ -90,10 +95,12 @@ chapters:
   8:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   9:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       Psalms 9 and 10 form one broken alphabetic acrostic and are a single psalm in the
@@ -101,6 +108,7 @@ chapters:
   10:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       No heading of its own: it continues the acrostic of Psalm 9, so it takes Psalm 9's heading
@@ -108,18 +116,22 @@ chapters:
   11:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   12:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   13:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   14:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       Psalm 53 is nearly the same psalm with "God" (Elohim) for "the LORD", as in the Elohistic
@@ -128,18 +140,22 @@ chapters:
   15:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   16:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   17:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   18:
     date: "c. 1000–970 BC by the heading (late in David's reign), or later in the monarchy"
     range: [-1000, -587]
+    sort: -985   # heading date
     anchors: [david, psalter]
     note: >-
       Heading: "in the day that the LORD delivered him from the hand of all his enemies, and
@@ -148,6 +164,7 @@ chapters:
   19:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   20:
     date: "Monarchy (c. 1010–587 BC)"
@@ -165,6 +182,7 @@ chapters:
   22:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       The lament Jesus quotes on the cross (22:1; Mark 15:34). Its date can't be fixed beyond
@@ -172,10 +190,12 @@ chapters:
   23:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   24:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       "Lift up your heads, you gates" (24:7–10) is often linked with a procession of the ark
@@ -183,28 +203,34 @@ chapters:
   25:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       An alphabetic acrostic.
   26:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   27:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   28:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   29:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   30:
     date: "c. 1000–970 BC by the heading, or later"
     range: [-1000, -400]
+    sort: -985   # heading date
     anchors: [david, psalter]
     note: >-
       Heading: "A Song for the Dedication of the Temple (house)". The "house" may be David's
@@ -213,10 +239,12 @@ chapters:
   31:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   32:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       Romans 4:6–8 quotes 32:1–2 as David's words.
@@ -226,6 +254,7 @@ chapters:
   34:
     date: "c. 1015 BC by the heading (David at Gath), or later"
     range: [-1020, -400]
+    sort: -1015   # heading date
     anchors: [saul, david, psalter]
     note: >-
       Heading: "when he pretended to be insane before Abimelech". 1 Samuel 21:10–15 names the
@@ -234,36 +263,43 @@ chapters:
   35:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   36:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   37:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       An alphabetic acrostic in wisdom style.
   38:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   39:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       "For Jeduthun", one of David's chief musicians (1 Chr 16:41; 25:1).
   40:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       40:13–17 recurs as Psalm 70. Hebrews 10:5–7 quotes 40:6–8.
   41:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       41:13 is the doxology that closes Book I (Pss 1–41), mostly psalms headed "of David".
@@ -330,6 +366,7 @@ chapters:
   50:
     date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
     range: [-1000, -400]
+    sort: -1000   # heading date
     anchors: [david, psalter]
     note: >-
       Asaph was one of David's chief musicians (1 Chr 15:17; 16:5); the "sons of Asaph" were a
@@ -338,6 +375,7 @@ chapters:
   51:
     date: "c. 990 BC by the heading (after Bathsheba), or later"
     range: [-1000, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       Heading: "when Nathan the prophet came to him, after he had gone in to Bathsheba" (2 Sam
@@ -346,6 +384,7 @@ chapters:
   52:
     date: "c. 1015 BC by the heading (Doeg), or later"
     range: [-1020, -400]
+    sort: -1015   # heading date
     anchors: [saul, david, psalter]
     note: >-
       Heading: "when Doeg the Edomite came and told Saul" (1 Sam 22:9–10), after David had been
@@ -353,12 +392,14 @@ chapters:
   53:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       A second version of Psalm 14, using "God" for "the LORD".
   54:
     date: "c. 1015–1010 BC by the heading (the Ziphites), or later"
     range: [-1020, -400]
+    sort: -1012   # heading date
     anchors: [saul, david, psalter]
     note: >-
       Heading: "when the Ziphites came and said to Saul, 'Isn't David hiding himself among us?'"
@@ -366,6 +407,7 @@ chapters:
   55:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       The betrayal by a close friend (55:12–14) was linked by later tradition with Ahithophel in
@@ -373,12 +415,14 @@ chapters:
   56:
     date: "c. 1015 BC by the heading (David at Gath), or later"
     range: [-1020, -400]
+    sort: -1015   # heading date
     anchors: [saul, david, psalter]
     note: >-
       Heading: "when the Philistines seized him in Gath" (1 Sam 21:10–15; cf. Ps 34).
   57:
     date: "c. 1015–1010 BC by the heading (in the cave), or later"
     range: [-1020, -400]
+    sort: -1012   # heading date
     anchors: [saul, david, psalter]
     note: >-
       Heading: "when he fled from Saul, in the cave": Adullam (1 Sam 22:1) or En Gedi (1 Sam
@@ -386,10 +430,12 @@ chapters:
   58:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   59:
     date: "c. 1020 BC by the heading (start of David's flight), or later"
     range: [-1020, -400]
+    sort: -1020   # heading date
     anchors: [saul, david, psalter]
     note: >-
       Heading: "when Saul sent, and they watched the house to kill him" (1 Sam 19:11), the night
@@ -397,6 +443,7 @@ chapters:
   60:
     date: "c. 1000–990 BC by the heading (wars with Aram and Edom), or later"
     range: [-1000, -400]
+    sort: -995   # heading date
     anchors: [david, psalter]
     note: >-
       Heading: "when he fought with Aram Naharaim and with Aram Zobah, and Joab returned, and
@@ -405,18 +452,21 @@ chapters:
   61:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       "You will prolong the king's life" (61:6): a prayer for the king.
   62:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       "To Jeduthun" (see Ps 39).
   63:
     date: "c. 1015 BC or c. 980 BC by the heading (desert of Judah), or later"
     range: [-1020, -400]
+    sort: -998   # heading date
     anchors: [saul, david, psalter]
     note: >-
       Heading: "when he was in the desert of Judah". That fits his flight from Saul (1 Sam
@@ -425,10 +475,12 @@ chapters:
   64:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   65:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   66:
     note: >-
@@ -441,6 +493,7 @@ chapters:
   68:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       A victory hymn with a procession of God "into the sanctuary" (68:24–25), often linked with
@@ -449,6 +502,7 @@ chapters:
   69:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       "God will save Zion, and build the cities of Judah" (69:35) is read by many as pointing to
@@ -456,6 +510,7 @@ chapters:
   70:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       A second version of 40:13–17.
@@ -466,6 +521,7 @@ chapters:
   72:
     date: "c. 970–931 BC by the heading (Solomon), or later in the monarchy"
     range: [-970, -587]
+    sort: -950   # heading date
     anchors: [solomon, psalter]
     note: >-
       Heading: "By Solomon" (or "for Solomon"): a prayer for the king's justice and wide rule
@@ -474,6 +530,7 @@ chapters:
   73:
     date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
     range: [-1000, -400]
+    sort: -1000   # heading date
     anchors: [david, psalter]
     note: >-
       Book III opens with eleven Asaph psalms (73–83). A wisdom psalm on the prosperity of the
@@ -489,6 +546,7 @@ chapters:
   75:
     date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
     range: [-1000, -400]
+    sort: -1000   # heading date
     anchors: [david, psalter]
   76:
     date: "Possibly 701 BC (Sennacherib's withdrawal), or later"
@@ -501,12 +559,14 @@ chapters:
   77:
     date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
     range: [-1000, -400]
+    sort: -1000   # heading date
     anchors: [david, psalter]
     note: >-
       "To Jeduthun". Recalls the exodus (77:16–20); no datable allusion.
   78:
     date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
     range: [-1000, -400]
+    sort: -1000   # heading date
     anchors: [david, psalter]
     note: >-
       A history from the exodus to God's rejection of Ephraim and Shiloh and his choice of
@@ -531,6 +591,7 @@ chapters:
   81:
     date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
     range: [-1000, -400]
+    sort: -1000   # heading date
     anchors: [david, psalter]
     note: >-
       A festival psalm: "Blow the trumpet at the New Moon, at the full moon, on our feast day"
@@ -538,6 +599,7 @@ chapters:
   82:
     date: "c. 1000 BC by the heading (Asaph), or later (the guild of Asaph's sons)"
     range: [-1000, -400]
+    sort: -1000   # heading date
     anchors: [david, psalter]
     note: >-
       God judges the "gods" in his council (82:1, 6); no datable allusion. John 10:34 quotes
@@ -567,6 +629,7 @@ chapters:
   86:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       The only psalm headed "of David" in Book III; largely made up of phrases found in other
@@ -581,6 +644,7 @@ chapters:
   88:
     date: "c. 970 BC by the heading (Heman), or later"
     range: [-970, -400]
+    sort: -970   # heading date
     anchors: [psalter]
     note: >-
       Headed both "by the sons of Korah" and "by Heman the Ezrahite", a wise man of Solomon's
@@ -600,6 +664,7 @@ chapters:
     a: "c. 1446–1406 BC (the wilderness years)"
     b: "c. 1260–1220 BC (the wilderness years)"
     range: [-1446, -400]
+    sort: -1426   # heading date
     anchors: [wilderness, exodus, psalter]
     note: >-
       Heading: "A Prayer by Moses, the man of God" (cf. Deut 33:1), the only psalm ascribed to
@@ -676,6 +741,7 @@ chapters:
   103:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   104:
     note: >-
@@ -706,12 +772,14 @@ chapters:
   108:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       Made of 57:7–11 and 60:5–12, two psalms headed "of David".
   109:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       Acts 1:20 applies 109:8 to Judas.
@@ -774,6 +842,7 @@ chapters:
   122:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       A Song of Ascents headed "By David". It speaks of "the house of the LORD" and "the thrones
@@ -786,6 +855,7 @@ chapters:
   124:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       A Song of Ascents headed "By David"; thanksgiving for national deliverance.
@@ -807,6 +877,7 @@ chapters:
   127:
     date: "c. 970–931 BC by the heading (Solomon), or after the exile"
     range: [-970, -400]
+    sort: -950   # heading date
     anchors: [solomon, psalter]
     note: >-
       A Song of Ascents headed "By Solomon", probably because of "Unless the LORD builds the
@@ -832,6 +903,7 @@ chapters:
   131:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       A Song of Ascents headed "By David".
@@ -846,6 +918,7 @@ chapters:
   133:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       A Song of Ascents headed "By David".
@@ -878,6 +951,7 @@ chapters:
   138:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       "I will bow down toward your holy temple" (138:2); see the note on Psalm 5. Some
@@ -885,18 +959,22 @@ chapters:
   139:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   140:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   141:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
   142:
     date: "c. 1015–1010 BC by the heading (in the cave), or later"
     range: [-1020, -400]
+    sort: -1012   # heading date
     anchors: [saul, david, psalter]
     note: >-
       Heading: "when he was in the cave": Adullam (1 Sam 22:1) or En Gedi (1 Sam 24:3), as Psalm
@@ -904,6 +982,7 @@ chapters:
   143:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       The last of the seven penitential psalms.
@@ -917,6 +996,7 @@ chapters:
   145:
     date: "c. 1010–970 BC by the heading (David), or later"
     range: [-1010, -400]
+    sort: -990   # heading date
     anchors: [david, psalter]
     note: >-
       An alphabetic acrostic; the last psalm headed "of David".

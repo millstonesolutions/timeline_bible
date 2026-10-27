@@ -250,6 +250,10 @@ def model_labels(book):
 def timeline_rows(data, testament, all_chapters):
     """One row per run of consecutive chapters with the same date, sorted by date.
 
+    The sort year is the chapter's `sort:` if given (e.g. the date a psalm's heading
+    implies, when the range also covers a much later critical date), otherwise the
+    middle of its range.
+
     Returns dicts: book, first, last, date, range (or None), kind ('events' or
     'written'). Undated rows sort first.
     """
@@ -262,15 +266,18 @@ def timeline_rows(data, testament, all_chapters):
         run = None
         for n in sorted(chapters):
             ch = chapters[n]
-            key = (ch["date"], tuple(ch["range"]) if ch.get("range") else None)
+            key = (ch["date"], tuple(ch["range"]) if ch.get("range") else None, ch.get("sort"))
             if run and run["key"] == key:
                 run["last"] = n
                 continue
             run = {"key": key, "book": book, "first": n, "last": n, "date": ch["date"],
-                   "range": ch.get("range"), "kind": kind}
+                   "range": ch.get("range"), "sort": ch.get("sort"), "kind": kind}
             rows.append(run)
-    rows.sort(key=lambda r: (float("-inf") if not r["range"] else (r["range"][0] + r["range"][1]) / 2,
-                             r["book"]["order"], r["first"]))
+    def year(r):
+        if r["sort"] is not None:
+            return r["sort"]
+        return float("-inf") if not r["range"] else (r["range"][0] + r["range"][1]) / 2
+    rows.sort(key=lambda r: (year(r), r["book"]["order"], r["first"]))
     return rows
 
 

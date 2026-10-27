@@ -364,10 +364,10 @@ h2.testament{margin-top:48px;padding-top:14px;border-top:2px solid var(--ink)}
 .shelf{font-size:1.5rem;margin:26px 0 10px;display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
 .shelf.testament{font-size:2rem;margin-top:40px;padding-top:12px;border-top:2px solid var(--ink)}
 .shelf small,.fine{font-family:var(--f-ui);font-size:.78rem;color:var(--muted);font-weight:400}
-.books{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:2px 24px}
-.books a{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 10px;padding:9px 0;border-bottom:1px solid var(--rule);text-decoration:none;color:var(--ink)}
+.books{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:2px 24px}
+.books a{display:grid;grid-template-columns:minmax(0,1fr);gap:0;padding:9px 0;border-bottom:1px solid var(--rule);text-decoration:none;color:var(--ink)}
 .books .bn{font-family:var(--f-display);font-size:1.25rem;font-weight:600}
-.books .bw{font-family:var(--f-data);font-size:.72rem;color:var(--muted);align-self:center;text-align:right;max-width:13em}
+.books .bw{font-family:var(--f-data);font-size:.72rem;color:var(--muted)}
 .books .ribbon{grid-column:1/-1}
 .books a:hover .bn{color:var(--myrtle)}
 /* Time scale */
