@@ -1,0 +1,352 @@
+book: Exodus
+code: EXO
+order: 2
+slug: 02-exodus
+kind: narrative
+
+written:
+  date: "Mosaic (c. 1446–1406 or 1260–1220 BC) or compiled c. 950–400 BC"
+  range: [-1446, -400]
+  anchors: [pentateuch]
+  summary: >-
+    Exodus says that Moses wrote down certain laws and events (17:14; 24:4; 34:27),
+    and tradition credits him with the whole book. Critical scholars see the same
+    sources as in Genesis: an older non-priestly narrative and law code (the
+    Covenant Code, 20:22–23:33, often dated to the early monarchy or before), and
+    the priestly tabernacle chapters (25–31, 35–40), usually dated to the exile or
+    after.
+  views:
+    - date: "Moses, c. 1446–1406 BC (or c. 1260–1220 BC)"
+      held_by: Jewish and Christian tradition; conservative scholars (Kitchen; Dillard & Longman)
+      basis: >-
+        The book's own notes that Moses wrote (17:14; 24:4; 34:27); Egyptian
+        background in the names (Moses, Phinehas), the brick-making and the
+        geography of the eastern Delta (Hoffmeier); the covenant form of chs.
+        20–24 resembles Late Bronze Age treaties (Kitchen).
+      sources: [josephus-apion 1.37–43, bava-batra 14b–15a, kitchen, hoffmeier, dillard-longman]
+    - date: "Sources c. 950–550 BC; priestly chapters exilic or later; complete c. 400 BC"
+      held_by: Wellhausen; most critical scholars (Collins)
+      basis: >-
+        Two interwoven accounts of Moses' call (chs. 3 and 6) and of the plagues;
+        the tabernacle, as described in chs. 25–31 and 35–40, is read as a
+        projection of the Jerusalem temple and its priesthood. Milgrom and others
+        date much priestly material before the exile.
+      sources: [wellhausen, collins-intro, milgrom-lev]
+
+chapters:
+  1:
+    date: "c. 1805–1526 or 1620–1340 BC"
+    a: "c. 1805–1526 BC"
+    b: "c. 1620–1340 BC"
+    range: [-1805, -1340]
+    anchors: [sojourn, exodus]
+    note: >-
+      From Joseph's death to the oppression under a king "who didn't know Joseph"
+      (1:8). The Israelites build the store cities Pithom and Raamses (1:11); on the
+      late date this is Pi-Ramesses, built by Ramesses II, while early-date
+      supporters take the name as a later scribe's updating.
+  2:
+    date: "c. 1526–1486 or 1340–1300 BC"
+    a: "1526 BC (birth) to c. 1486 BC (flight to Midian)"
+    b: "c. 1340 to 1300 BC"
+    range: [-1526, -1300]
+    anchors: [sojourn, exodus]
+    note: >-
+      Moses is 80 at the exodus (7:7), so born c. 1526 BC on the early date. Acts
+      7:23 makes him 40 when he kills the Egyptian and flees. "The king of Egypt
+      died" (2:23) after "many days" in Midian.
+  3:
+    date: "c. 1446 or 1260 BC"
+    a: "c. 1447/1446 BC"
+    b: "c. 1261/1260 BC"
+    range: [-1447, -1260]
+    anchors: [exodus]
+    note: The burning bush at Horeb; God's name revealed (3:14). Moses is about 80 (7:7).
+  4:
+    date: "c. 1446 or 1260 BC"
+    a: "c. 1447/1446 BC"
+    b: "c. 1261/1260 BC"
+    range: [-1447, -1260]
+    anchors: [exodus]
+    note: Moses' signs and return to Egypt; Aaron meets him at the mountain of God.
+  5:
+    date: "c. 1446 or 1260 BC"
+    a: "c. 1446 BC"
+    b: "c. 1260 BC"
+    range: [-1447, -1260]
+    anchors: [exodus]
+    note: >-
+      Moses and Aaron before Pharaoh; bricks without straw. Pharaoh is unnamed. On
+      the early date he is usually taken as Amenhotep II; on the late, Ramesses II.
+  6:
+    date: "c. 1446 or 1260 BC"
+    a: "c. 1446 BC"
+    b: "c. 1260 BC"
+    range: [-1447, -1260]
+    anchors: [exodus]
+    note: >-
+      God's name and promise renewed; the genealogy of Levi to Aaron and Moses
+      (6:14–27), which gives Levi, Kohath and Amram long lifespans but only four
+      generations for the stay in Egypt. Critical scholars read 6:2–8 as the
+      priestly version of the call in ch. 3.
+  7:
+    date: "c. 1446 or 1260 BC"
+    a: "c. 1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [exodus]
+    note: >-
+      Moses is 80 and Aaron 83 (7:7). The staff becomes a serpent; the first plague,
+      the Nile turned to blood. The plagues are undated within the months before the
+      Passover.
+  8:
+    date: "c. 1446 or 1260 BC"
+    a: "c. 1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [exodus]
+    note: Frogs, lice and flies; Goshen is spared (8:22).
+  9:
+    date: "c. 1446 or 1260 BC"
+    a: "early 1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [exodus]
+    note: >-
+      Livestock plague, boils and hail. The hail strikes the flax and barley, which
+      were in the ear and in bloom, but not the wheat (9:31–32), which points to
+      about February–March.
+  10:
+    date: "spring c. 1446 or 1260 BC"
+    a: "spring 1446 BC"
+    b: "spring c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [exodus]
+    note: Locusts and three days of darkness.
+  11:
+    date: "spring c. 1446 or 1260 BC"
+    a: "spring 1446 BC"
+    b: "spring c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [exodus]
+    note: The last plague announced, the death of the firstborn.
+  12:
+    date: "spring (Abib 14–15) c. 1446 or 1260 BC"
+    a: "Abib (March–April) 1446 BC"
+    b: "Abib (March–April) c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [exodus]
+    note: >-
+      The month of the exodus becomes the first month (12:2); the lamb is killed on
+      the 14th (12:6) and Israel leaves the next day (Num 33:3). The stay in Egypt
+      was 430 years (12:40), to the day (12:41); the Septuagint and Samaritan text
+      add "and in the land of Canaan".
+  13:
+    date: "spring c. 1446 or 1260 BC"
+    a: "spring 1446 BC"
+    b: "spring c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [exodus]
+    note: >-
+      "This day you go out, in the month Abib" (13:4). God leads them away from the
+      coastal "way of the land of the Philistines" (13:17); the pillar of cloud and
+      fire. Joseph's bones are carried out (13:19).
+  14:
+    date: "spring c. 1446 or 1260 BC"
+    a: "spring 1446 BC"
+    b: "spring c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [exodus]
+    note: >-
+      The crossing of the sea (Hebrew *yam suph*, "Sea of Reeds"), a few days after
+      leaving Rameses. Its location, one of the lakes on the Isthmus of Suez or the
+      Gulf of Suez, is debated (Hoffmeier).
+    sources: [hoffmeier]
+  15:
+    date: "spring c. 1446 or 1260 BC"
+    a: "spring 1446 BC"
+    b: "spring c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [exodus, wilderness]
+    note: >-
+      The Song of the Sea (15:1–18) and Miriam's song; then three days to Marah and
+      on to Elim (15:22–27). Many scholars regard the song as some of the oldest
+      poetry in the Bible.
+    sources: [cross]
+  16:
+    date: "c. May 1446 or c. 1260 BC"
+    a: "15th day of the 2nd month, 1446 BC"
+    b: "15th day of the 2nd month, c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: >-
+      Israel reaches the wilderness of Sin "on the fifteenth day of the second month
+      after their departing" (16:1), a month after the exodus; quail and manna.
+  17:
+    date: "c. 1446 or 1260 BC"
+    a: "late spring 1446 BC"
+    b: "late spring c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: >-
+      Water from the rock at Rephidim and the battle with Amalek; Moses is told to
+      write it in a book (17:14). Between the second month (16:1) and the third
+      (19:1).
+  18:
+    date: "c. 1446 or 1260 BC"
+    a: "1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1259]
+    anchors: [wilderness]
+    note: >-
+      Jethro's visit and the appointment of judges, "at the mountain of God" (18:5).
+      Deuteronomy 1:9–18 sets the appointment at the departure from Horeb, and Num
+      10:29 has Hobab there then, so the episode may belong a year later, placed
+      here by topic.
+  19:
+    date: "3rd month (c. June) 1446 or c. 1260 BC"
+    a: "3rd month, 1446 BC"
+    b: "3rd month, c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: >-
+      "In the third month after the children of Israel had gone out of the land of
+      Egypt, on that same day they came into the wilderness of Sinai" (19:1). Later
+      Jewish tradition links the giving of the law with Pentecost (Shavuot). The
+      mountain's location (Jebel Musa or elsewhere) is disputed.
+  20:
+    date: "c. June 1446 or c. 1260 BC"
+    a: "1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: The Ten Commandments, on the third day after the people's preparation (19:11, 16).
+  21: &covenant_code
+    date: "1446 or c. 1260 BC"
+    a: "1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: >-
+      The Covenant Code (20:22–23:33), given at Sinai. Its case laws (e.g. the goring
+      ox, 21:28–36) closely resemble the Laws of Hammurabi (c. 1750 BC) and other
+      Mesopotamian codes. Critical scholars date the collection to the early
+      monarchy or the time of the judges.
+    sources: [anet]
+  22: *covenant_code
+  23:
+    date: "1446 or c. 1260 BC"
+    a: "1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: >-
+      End of the Covenant Code: the three annual feasts (23:14–17) and the promise
+      of the angel and the conquest.
+  24:
+    date: "1446 or c. 1260 BC"
+    a: "1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: >-
+      The covenant is sealed with blood and a meal on the mountain; Moses writes the
+      words (24:4) and goes up for forty days and nights (24:18).
+  25: &tabernacle_plan
+    date: "1446 or c. 1260 BC"
+    a: "1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: >-
+      Instructions for the tabernacle, given during Moses' forty days on the
+      mountain (24:18; chs. 25–31). Critical scholars assign these chapters to the
+      priestly source; Kitchen compares the portable shrine with Egyptian
+      prefabricated structures of the 2nd millennium BC.
+    sources: [kitchen]
+  26: *tabernacle_plan
+  27: *tabernacle_plan
+  28:
+    date: "1446 or c. 1260 BC"
+    a: "1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: The priestly garments of Aaron and his sons, during the forty days (24:18).
+  29:
+    date: "1446 or c. 1260 BC"
+    a: "1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: >-
+      The ordination rite for the priests, carried out a year later (Lev 8, in the
+      first month of the second year).
+  30:
+    date: "1446 or c. 1260 BC"
+    a: "1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: The incense altar, the half-shekel ransom, the basin, the anointing oil and incense.
+  31:
+    date: "1446 or c. 1260 BC"
+    a: "1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: >-
+      Bezalel and Oholiab; the Sabbath as a sign; the two tablets given at the end
+      of the forty days (31:18).
+  32:
+    date: "1446 or c. 1260 BC"
+    a: "summer 1446 BC"
+    b: "summer c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: >-
+      The golden calf, at the end of the first forty days, about the 4th–5th month.
+      Critical scholars often read it in light of Jeroboam I's calves at Bethel and
+      Dan (1 Kgs 12:28, "behold your gods ... who brought you up out of the land of
+      Egypt"), c. 930 BC.
+  33:
+    date: "1446 or c. 1260 BC"
+    a: "1446 BC"
+    b: "c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: The tent of meeting outside the camp; Moses asks to see God's glory.
+  34:
+    date: "1446 or c. 1260 BC"
+    a: "autumn 1446 BC"
+    b: "autumn c. 1260 BC"
+    range: [-1446, -1260]
+    anchors: [wilderness]
+    note: >-
+      New tablets and a second forty days on the mountain (34:28); the "ritual
+      decalogue" (34:10–26), which critical scholars treat as a parallel to the
+      Covenant Code.
+  35: &tabernacle_build
+    date: "1446–1445 or c. 1260–1259 BC"
+    a: "late 1446 to early 1445 BC"
+    b: "c. 1260 to 1259 BC"
+    range: [-1446, -1259]
+    anchors: [wilderness]
+    note: >-
+      The people bring offerings and the craftsmen build the tabernacle (chs.
+      35–39), in the months before it is set up on the first day of the second year
+      (40:17). These chapters repeat chs. 25–31 almost word for word as fulfilment.
+  36: *tabernacle_build
+  37: *tabernacle_build
+  38: *tabernacle_build
+  39: *tabernacle_build
+  40:
+    date: "1st day of the 1st month, 1445 or c. 1259 BC"
+    a: "Nisan 1, 1445 BC"
+    b: "Nisan 1, c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: >-
+      "In the first month in the second year, on the first day of the month, the
+      tabernacle was raised up" (40:17), nearly a year after the exodus; the cloud
+      and the glory fill it.

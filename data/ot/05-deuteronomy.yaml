@@ -1,0 +1,176 @@
+book: Deuteronomy
+code: DEU
+order: 5
+slug: 05-deuteronomy
+kind: narrative
+
+written:
+  date: "Moses (c. 1406 or 1220 BC) or 7th century BC, core linked to 622 BC"
+  range: [-1406, -550]
+  anchors: [pentateuch, josiah]
+  summary: >-
+    Deuteronomy is Moses' farewell speeches in the plains of Moab, "in the fortieth
+    year, in the eleventh month" (1:3), and says that Moses wrote "this law" (31:9,
+    24). Since de Wette (1805) most critical scholars have identified its core
+    (chs. 12–26) with the book of the law found in the temple in Josiah's 18th year,
+    622 BC (2 Kgs 22–23), whose reform matches its demands: one sanctuary (ch. 12)
+    and a Passover kept there (16:1–8; 2 Kgs 23:21–23). The frame (chs. 1–4, 29–34)
+    is widely dated to the exile.
+  views:
+    - date: "Moses, c. 1406 BC (or c. 1220 BC); ch. 34 added by Joshua"
+      held_by: Jewish and Christian tradition; conservative scholars (Kitchen; Dillard & Longman)
+      basis: >-
+        The book's own claims (1:1–5; 31:9, 24). Kitchen argues that its layout
+        (historical prologue, stipulations, deposit and reading, witnesses,
+        blessings and curses) matches Hittite treaties of the 14th–13th centuries
+        BC more closely than the 1st-millennium Assyrian ones. The Talmud gives the
+        last eight verses (Moses' death) to Joshua.
+      sources: [bava-batra 14b–15a, josephus-apion 1.37–43, kitchen, dillard-longman]
+    - date: "Core written in the 7th century BC, found or published in 622 BC"
+      held_by: de Wette; Wellhausen; most critical scholars
+      basis: >-
+        The demand for a single sanctuary was unknown in Israel's earlier history
+        (Samuel and Elijah sacrifice at many altars) and was first enforced by
+        Josiah. The curses of ch. 28 closely resemble Esarhaddon's succession
+        treaties (672 BC). Many date the core to Hezekiah's or Manasseh's reign,
+        brought out under Josiah.
+      sources: [wellhausen, collins-intro]
+    - date: "Frame and final form in the exile, c. 560–540 BC"
+      held_by: Noth; Cross (in a revised form); many critical scholars
+      basis: >-
+        Noth saw chs. 1–3(4) as the opening of the Deuteronomistic History (Joshua–
+        Kings), written after 562 BC. Cross saw a first edition under Josiah revised
+        in the exile. Passages like 4:25–31 and 30:1–10 speak of exile and return.
+      sources: [noth-dtr, cross]
+
+default:
+  date: "11th month of the 40th year: early 1406 BC or c. 1220 BC"
+  a: "early 1406 BC (11th month of the 40th year)"
+  b: "c. 1220 BC"
+  range: [-1406, -1220]
+  anchors: [wilderness]
+
+chapters:
+  1:
+    note: >-
+      "In the fortieth year, in the eleventh month, on the first day of the month,
+      Moses spoke" (1:3), in Moab "beyond the Jordan" (1:1, 5), about January–
+      February. He recalls Horeb, the appointment of judges and the spies at
+      Kadesh (Num 13–14). Speaking of Moab as "beyond the Jordan" seems to take the
+      view from the west bank.
+  2:
+    note: >-
+      Recalls the wandering: "thirty-eight years" from Kadesh Barnea to the brook
+      Zered (2:14), the passage by Edom, Moab and Ammon, and the defeat of Sihon.
+  3:
+    note: >-
+      Recalls the defeat of Og and the land given to Reuben, Gad and Manasseh; Moses
+      is refused entry. Og's iron bed "is it not in Rabbah?" (3:11) reads as a later
+      note.
+  4:
+    note: >-
+      Exhortation not to make images; a warning of exile and return (4:25–31), which
+      many critical scholars read as exilic. Moses sets apart three cities of refuge
+      east of the Jordan (4:41–43).
+  5:
+    note: >-
+      The Ten Commandments repeated. The Sabbath is grounded in the release from
+      Egypt (5:15), not in creation as in Exod 20:11.
+  6:
+    note: >-
+      "Hear, Israel: the LORD is our God. The LORD is one" (6:4), the Shema; the
+      command to teach the words to one's children.
+  7:
+    note: The command to destroy the nations of Canaan and not intermarry with them.
+  8:
+    note: Remember the forty years in the wilderness and the manna (8:2–4).
+  9:
+    note: Recalls the golden calf and Moses' two forty-day periods on Horeb (9:9–18).
+  10:
+    note: >-
+      The second tablets placed in the ark; Aaron's death at Moserah (10:6), a
+      different place name from Mount Hor (Num 20:28; 33:38).
+  11:
+    note: >-
+      The rains of the promised land; blessing and curse to be set on Mount Gerizim
+      and Mount Ebal (11:29).
+  12:
+    note: >-
+      Worship only at "the place which the LORD your God shall choose" (12:5): the
+      law of the single sanctuary that Josiah enforced in 622 BC (2 Kgs 23), and the
+      start of the law code of chs. 12–26.
+    anchors: [wilderness, josiah]
+  13:
+    note: Death for prophets, relatives and towns that entice Israel to other gods.
+  14:
+    note: Clean and unclean food; the tithe, eaten at the chosen place.
+  15:
+    note: The year of release from debts and the freeing of Hebrew slaves in the seventh year.
+  16:
+    note: >-
+      Passover, Weeks and Booths kept at the chosen place (16:1–17). Josiah's
+      Passover (2 Kgs 23:21–23), "according to what is written in this book of the
+      covenant", follows this law.
+    anchors: [wilderness, josiah]
+  17:
+    note: >-
+      The law of the king (17:14–20): not many horses, wives or silver. Critical
+      scholars read it as a criticism of Solomon and the monarchy; conservatives as
+      looking ahead.
+  18:
+    note: Priests' and Levites' dues; "a prophet like me" (18:15–22).
+  19:
+    note: Three cities of refuge in the land; boundary markers; witnesses.
+  20:
+    note: Rules of war.
+  21:
+    note: Unsolved murder, captive wives, the firstborn's rights, the rebellious son.
+  22:
+    note: Miscellaneous laws; laws on sexual conduct and marriage.
+  23:
+    note: Who may enter the assembly; purity of the camp; vows.
+  24:
+    note: Divorce (24:1–4), pledges, fair treatment of workers and the poor.
+  25:
+    note: Levirate marriage (25:5–10); just weights; remember Amalek.
+  26:
+    note: >-
+      Firstfruits with the confession "my father was a Syrian ready to perish" (26:5–10; often rendered "a wandering Aramean"),
+      and the tithe of the third year; the code closes (26:16–19).
+  27:
+    note: >-
+      Command to write the law on plastered stones and build an altar on Mount Ebal
+      after crossing the Jordan (27:1–8; done in Josh 8:30–35); the twelve curses.
+  28:
+    note: >-
+      Blessings and curses. Critical scholars note close parallels with
+      Esarhaddon's succession treaties (672 BC); Kitchen with the curse sections
+      of earlier Hittite treaties.
+    sources: [kitchen]
+  29:
+    note: >-
+      "The words of the covenant ... in the land of Moab, in addition to the covenant which
+      he made with them in Horeb" (29:1).
+  30:
+    note: Return after exile (30:1–10), and the choice set before Israel, "life and death" (30:15–20).
+  31:
+    note: >-
+      Moses, 120 years old (31:2), hands over to Joshua; he writes the law and
+      orders it read every seventh year at Booths (31:9–13, 24–26).
+  32:
+    note: >-
+      The Song of Moses. Its date as a poem is disputed, with proposals from the
+      11th to the 6th century BC. On "that same day" Moses is told to climb Mount
+      Nebo (32:48).
+  33:
+    note: The blessing of Moses on the tribes (Simeon is missing), often regarded as old poetry.
+  34:
+    date: "early spring 1406 BC or c. 1220 BC"
+    a: "early spring 1406 BC"
+    b: "early spring c. 1220 BC"
+    note: >-
+      Moses dies on Mount Nebo aged 120 and is mourned thirty days (34:8), before
+      the crossing on the 10th of the first month (Josh 4:19). "No man knows where
+      his tomb is to this day" (34:6) shows a later hand; the Talmud ascribes the
+      last verses to Joshua.
+    sources: [bava-batra 14b–15a]

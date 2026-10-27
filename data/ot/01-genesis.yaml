@@ -1,0 +1,504 @@
+book: Genesis
+code: GEN
+order: 1
+slug: 01-genesis
+kind: narrative
+
+written:
+  date: "Mosaic (c. 1446–1406 or 1260–1220 BC) or compiled c. 950–400 BC"
+  range: [-1446, -400]
+  anchors: [pentateuch]
+  summary: >-
+    Genesis has no author's name or date. Tradition makes it the first of the five
+    books of Moses. Most critical scholars see it woven from older sources: a
+    non-priestly narrative (the documentary hypothesis's J, and some E) and a
+    priestly layer (P) that supplies the "generations" headings, Genesis 1, the
+    genealogies and the dates. The book was complete by the Persian period. Details
+    such as "before any king reigned over the children of Israel" (36:31), "the
+    Canaanite was then in the land" (12:6) and "Ur of the Chaldeans" (11:31) show at
+    least some writing after Moses on any view.
+  views:
+    - date: "Moses, c. 1446–1406 BC (or c. 1260–1220 BC), with later editing"
+      held_by: Jewish and Christian tradition; conservative scholars (Kitchen; Dillard & Longman accept Mosaic authorship in substance with post-Mosaic additions)
+      basis: >-
+        Ascribed to Moses by Josephus and the Talmud. The patriarchal customs, names
+        and slave prices fit the early 2nd millennium BC better than the 1st
+        (Kitchen). Verses such as 36:31 are taken as later updating by scribes.
+      sources: [josephus-apion 1.37–43, bava-batra 14b–15a, kitchen, dillard-longman]
+    - date: "Sources written c. 950–550 BC, combined c. 550–400 BC"
+      held_by: Wellhausen and the classic documentary hypothesis; most critical scholars in revised forms (Collins)
+      basis: >-
+        Doublets (two creation accounts, 1:1–2:4a and 2:4b–25; two versions of the
+        wife-sister story, chs. 12, 20 and 26), different names for God, and the
+        priestly style of the genealogies and dates point to several hands. The
+        classic model dates J to c. 950–850 BC and P to the exile or after.
+      sources: [wellhausen, collins-intro]
+    - date: "Mostly exilic or Persian period, c. 550–400 BC"
+      held_by: Van Seters; Thompson; many recent European scholars
+      basis: >-
+        The patriarchal stories fit the 1st millennium BC and were composed as an
+        origin story for Israel in exile; Van Seters dates his Yahwist to the exile.
+      sources: [van-seters, thompson-patriarchs]
+
+chapters:
+  1:
+    date: "Undated (primeval history)"
+    range: null
+    anchors: [primeval]
+    note: >-
+      Creation in six days and God's rest on the seventh (1:1–2:3). Ussher's
+      reckoning from the Hebrew genealogies put it in 4004 BC; the Septuagint's
+      numbers give about 5500 BC. Critical scholars assign 1:1–2:4a to the priestly
+      writer (P).
+  2:
+    date: "Undated (primeval history)"
+    range: null
+    anchors: [primeval]
+    note: >-
+      The seventh day (2:1–3), then a second account of the creation of the man and
+      woman in Eden (2:4b–25), usually assigned to the non-priestly source (J). The
+      rivers Tigris and Euphrates (2:14) set the story in Mesopotamia.
+  3:
+    date: "Undated (primeval history)"
+    range: null
+    anchors: [primeval]
+    note: The serpent, the disobedience and the expulsion from Eden. No date can be given.
+  4:
+    date: "Undated (primeval history)"
+    range: null
+    anchors: [primeval]
+    note: >-
+      Cain and Abel. Cain's line founds a city and invents music and metalwork in
+      bronze and iron (4:17–22), skills that archaeologically belong to very
+      different ages, so the chapter cannot be fixed to one.
+  5:
+    date: "Undated (primeval history)"
+    range: null
+    anchors: [primeval]
+    note: >-
+      Ten generations from Adam to Noah. On the Hebrew figures they span 1,656 years
+      from creation to the flood; the Septuagint and Samaritan Pentateuch give
+      different totals. The long lifespans resemble the Sumerian King List's
+      reigns before the flood.
+  6:
+    date: "Undated (primeval history)"
+    range: null
+    anchors: [primeval]
+    note: >-
+      The "sons of God" and the daughters of men (6:1–4), God's decision to send the
+      flood, and the ark. Noah is 500 years old at 5:32 and 600 when the flood comes
+      (7:6).
+  7:
+    date: "Undated (Ussher: 2348 BC)"
+    range: null
+    anchors: [primeval]
+    note: >-
+      The flood begins in Noah's 600th year, on the 17th day of the second month
+      (7:11), year 1656 from creation on the Hebrew figures. Ussher made this 2348 BC.
+      The Mesopotamian flood stories in *Atrahasis* and Gilgamesh tablet XI are
+      close parallels.
+    sources: [lambert-millard]
+  8:
+    date: "Undated (Ussher: 2348–2347 BC)"
+    range: null
+    anchors: [primeval]
+    note: >-
+      The ark rests on the mountains of Ararat on the 17th of the seventh month
+      (8:4); the earth is dry on the 27th of the second month of Noah's 601st year
+      (8:14), about a year after it began. Sending out birds also appears in
+      Gilgamesh XI.
+    sources: [lambert-millard]
+  9:
+    date: "Undated (primeval history)"
+    range: null
+    anchors: [primeval]
+    note: >-
+      The covenant with Noah and the rainbow; the curse of Canaan. Noah lives 350
+      years after the flood and dies at 950 (9:28–29).
+  10:
+    date: "Undated (primeval history)"
+    range: null
+    anchors: [primeval]
+    note: >-
+      The table of nations. Many of the peoples named belong to the Iron Age world
+      of the 1st millennium BC, e.g. Javan (Ionian Greeks), Madai (Medes) and
+      Gomer (Cimmerians), which critical scholars take as the writer's own horizon.
+  11:
+    date: "Undated (primeval history)"
+    range: null
+    anchors: [primeval]
+    note: >-
+      The tower of Babel (11:1–9), recalling Babylon's ziggurats, and the line from
+      Shem to Terah (11:10–32). The Hebrew figures put 292 years from the flood to
+      Abram's birth (Ussher 1996 BC; 2166 BC counting back from an exodus in 1446
+      BC). "Ur of the Chaldeans" (11:28, 31) uses a name for southern Babylonia not
+      attested before the 1st millennium BC.
+    sources: [ussher]
+  12:
+    date: "c. 2091 or 1905 BC"
+    a: "2091 BC"
+    b: "c. 1905 BC"
+    range: [-2091, -1905]
+    anchors: [patriarchs]
+    note: >-
+      Abram leaves Haran aged 75 (12:4). The early date counts back from an exodus
+      in 1446 BC with 430 years in Egypt (Exod 12:40) and the ages in Genesis; the
+      late date applies the same figures to an exodus c. 1260 BC. If the 430 years
+      include the time in Canaan (Septuagint), both come about 215 years later.
+      Kitchen sets the patriarchs in the Middle Bronze Age; Thompson and Van Seters
+      regard them as undatable.
+  13:
+    date: "c. 2090 or 1904 BC"
+    a: "c. 2090 BC"
+    b: "c. 1904 BC"
+    range: [-2090, -1904]
+    anchors: [patriarchs]
+    note: >-
+      Abram and Lot separate after the return from Egypt; Abram settles at Hebron.
+      Undated, but before the ten years of 16:3 are out.
+  14:
+    date: "c. 2085 or 1899 BC"
+    a: "c. 2085 BC"
+    b: "c. 1899 BC"
+    range: [-2091, -1895]
+    anchors: [patriarchs]
+    note: >-
+      Four eastern kings raid the Jordan valley and Abram rescues Lot; Melchizedek
+      blesses him. The kings (Amraphel of Shinar, Arioch, Chedorlaomer of Elam,
+      Tidal) have not been identified with known rulers; the old equation of
+      Amraphel with Hammurabi is abandoned. The chapter falls in Abram's first ten
+      years in Canaan.
+  15:
+    date: "c. 2082 or 1896 BC"
+    a: "c. 2082 BC"
+    b: "c. 1896 BC"
+    range: [-2085, -1895]
+    anchors: [patriarchs]
+    note: >-
+      The covenant between the pieces. The prophecy of 400 years of oppression and a
+      return in the fourth generation (15:13, 16) is one of the texts behind the
+      430 years of Exod 12:40. Before Hagar is given, ten years after the arrival
+      (16:3).
+  16:
+    date: "c. 2081–2080 or 1895–1894 BC"
+    a: "2081–2080 BC"
+    b: "c. 1895–1894 BC"
+    range: [-2081, -1894]
+    anchors: [patriarchs]
+    note: >-
+      Sarai gives Hagar to Abram after ten years in Canaan (16:3); Ishmael is born
+      when Abram is 86 (16:16).
+  17:
+    date: "c. 2067 or 1881 BC"
+    a: "2067 BC"
+    b: "c. 1881 BC"
+    range: [-2067, -1881]
+    anchors: [patriarchs]
+    note: >-
+      Abram, now 99 (17:1), is renamed Abraham; circumcision; Ishmael is 13
+      (17:25). Isaac is promised within the year (17:21).
+  18:
+    date: "c. 2067 or 1881 BC"
+    a: "2067 BC"
+    b: "c. 1881 BC"
+    range: [-2067, -1881]
+    anchors: [patriarchs]
+    note: >-
+      The three visitors at Mamre promise a son "at about this time next year" (18:10), so the same year as ch. 17; Abraham pleads for Sodom.
+  19:
+    date: "c. 2067 or 1881 BC"
+    a: "2067 BC"
+    b: "c. 1881 BC"
+    range: [-2067, -1881]
+    anchors: [patriarchs]
+    note: >-
+      Sodom and Gomorrah are destroyed the morning after the visit (19:27–28). The
+      cities have not been securely identified; candidates near the Dead Sea such
+      as Bab edh-Dhra are debated.
+  20:
+    date: "c. 2067–2066 or 1881–1880 BC"
+    a: "2067–2066 BC"
+    b: "c. 1881–1880 BC"
+    range: [-2067, -1880]
+    anchors: [patriarchs]
+    note: >-
+      Abraham passes Sarah off as his sister at Gerar, between the promise and
+      Isaac's birth. Critical scholars read chs. 12, 20 and 26 as variants of one
+      story.
+  21:
+    date: "c. 2066–2063 or 1880–1877 BC"
+    a: "2066 BC, and the weaning a few years later"
+    b: "c. 1880 BC, and the weaning a few years later"
+    range: [-2066, -1877]
+    anchors: [patriarchs]
+    note: >-
+      Isaac is born when Abraham is 100 (21:5). Hagar and Ishmael are sent away
+      after the weaning feast (21:8), when Ishmael is in his teens; the treaty with
+      Abimelech at Beersheba follows.
+  22:
+    date: "c. 2060–2030 or 1875–1845 BC"
+    a: "c. 2060–2030 BC"
+    b: "c. 1875–1845 BC"
+    range: [-2060, -1845]
+    anchors: [patriarchs]
+    note: >-
+      The binding of Isaac. The text gives no age: Isaac is a "boy" who can carry
+      the wood (22:5–6). Josephus makes him 25. The chapter falls before Sarah's
+      death (23:1).
+    sources: ["josephus-ant 1"]
+  23:
+    date: "c. 2029 or 1843 BC"
+    a: "2029 BC"
+    b: "c. 1843 BC"
+    range: [-2029, -1843]
+    anchors: [patriarchs]
+    note: >-
+      Sarah dies at 127 (23:1), when Abraham is 137; he buys the cave of Machpelah
+      at Hebron from Ephron the Hittite.
+  24:
+    date: "c. 2026 or 1840 BC"
+    a: "2026 BC"
+    b: "c. 1840 BC"
+    range: [-2026, -1840]
+    anchors: [patriarchs]
+    note: >-
+      Abraham's servant fetches Rebekah from Aram-naharaim; Isaac marries her at 40
+      (25:20). The ten camels (24:10) are one of the details Thompson and others
+      take as Iron Age, since domesticated camels are rare in Canaan before c. 1000
+      BC.
+  25:
+    date: "c. 2026–1991 or 1840–1805 BC"
+    a: "2006 BC (twins born) to 1991 BC (Abraham's death)"
+    b: "c. 1820 to 1805 BC"
+    range: [-2026, -1805]
+    anchors: [patriarchs]
+    note: >-
+      Abraham's sons by Keturah, his death at 175 (25:7), Ishmael's line, then
+      Jacob and Esau born when Isaac is 60 (25:26). The sale of the birthright
+      (25:29–34) is undated, after the boys are grown.
+  26:
+    date: "c. 2000–1966 or 1815–1780 BC"
+    a: "c. 2000–1966 BC"
+    b: "c. 1815–1780 BC"
+    range: [-2000, -1780]
+    anchors: [patriarchs]
+    note: >-
+      Isaac in Gerar during a famine, and the wells of Beersheba. Esau marries two
+      Hittite women at 40 (26:34), when Isaac is 100. Abimelech and "the
+      Philistines" (26:1) are often read as an anachronism, since the Philistines
+      settled c. 1175 BC.
+  27:
+    date: "c. 1929 or 1743 BC"
+    a: "c. 1929 BC"
+    b: "c. 1743 BC"
+    range: [-1929, -1743]
+    anchors: [patriarchs]
+    note: >-
+      Jacob takes Isaac's blessing. The traditional reckoning makes Jacob 77: he is
+      130 at the move to Egypt (47:9), Joseph is then 39 (30 at 41:46, plus seven
+      good years and two of famine, 45:6), so Joseph was born when Jacob was 91, in
+      his 14th year with Laban (30:25).
+  28:
+    date: "c. 1929 or 1743 BC"
+    a: "c. 1929 BC"
+    b: "c. 1743 BC"
+    range: [-1929, -1743]
+    anchors: [patriarchs]
+    note: Jacob flees to Haran; the dream of the ladder at Bethel. Same year as ch. 27.
+  29:
+    date: "c. 1929–1922 or 1743–1736 BC"
+    a: "c. 1929–1922 BC"
+    b: "c. 1743–1736 BC"
+    range: [-1929, -1736]
+    anchors: [patriarchs]
+    note: >-
+      Jacob serves seven years for Rachel and is given Leah (29:20–25), then Rachel
+      a week later; the first four sons of Leah follow.
+  30:
+    date: "c. 1922–1909 or 1736–1723 BC"
+    a: "c. 1922–1909 BC"
+    b: "c. 1736–1723 BC"
+    range: [-1922, -1723]
+    anchors: [patriarchs]
+    note: >-
+      The other sons, Dinah, and Joseph born at the end of the second seven years
+      (30:25); then six years for the flocks (31:41).
+  31:
+    date: "c. 1909 or 1723 BC"
+    a: "c. 1909 BC"
+    b: "c. 1723 BC"
+    range: [-1909, -1723]
+    anchors: [patriarchs]
+    note: >-
+      Jacob leaves after twenty years with Laban (31:38, 41); the covenant cairn at
+      Galeed. Rachel's theft of the household gods has been compared with Nuzi
+      inheritance customs, a parallel now judged weaker than once thought.
+  32:
+    date: "c. 1909 or 1723 BC"
+    a: "c. 1909 BC"
+    b: "c. 1723 BC"
+    range: [-1909, -1723]
+    anchors: [patriarchs]
+    note: Jacob prepares to meet Esau and wrestles at the Jabbok, where he is renamed Israel.
+  33:
+    date: "c. 1909–1908 or 1723–1722 BC"
+    a: "c. 1909–1908 BC"
+    b: "c. 1723–1722 BC"
+    range: [-1909, -1722]
+    anchors: [patriarchs]
+    note: Jacob meets Esau, stops at Succoth and buys land at Shechem (33:17–20).
+  34:
+    date: "c. 1905–1899 or 1719–1713 BC"
+    a: "c. 1905–1899 BC"
+    b: "c. 1719–1713 BC"
+    range: [-1905, -1713]
+    anchors: [patriarchs]
+    note: >-
+      Dinah and the sack of Shechem. Undated: some years after the arrival, since
+      Dinah, born late in the Haran years, is now of marriageable age, and before
+      Joseph is sold at 17.
+  35:
+    date: "c. 1905–1886 or 1719–1700 BC"
+    a: "c. 1905 BC (Bethel) to 1886 BC (Isaac's death)"
+    b: "c. 1719 to 1700 BC"
+    range: [-1905, -1700]
+    anchors: [patriarchs]
+    note: >-
+      Jacob returns to Bethel; Benjamin is born and Rachel dies near Bethlehem.
+      Isaac's death at 180 (35:28–29) is told here to close his story, but on the
+      figures it falls about twelve years after Joseph was sold (ch. 37).
+  36:
+    date: "From c. 1966 or 1780 BC (Esau's line)"
+    a: "from c. 1966 BC"
+    b: "from c. 1780 BC"
+    range: [-1966, -1780]
+    anchors: [patriarchs]
+    note: >-
+      Esau's descendants and the chiefs and kings of Edom, which reach several
+      generations past Esau. "Before any king reigned over the children of Israel"
+      (36:31) looks back from the monarchy, so the list as written is later; many
+      scholars think Edom had no kings before the Iron Age.
+  37:
+    date: "c. 1898 or 1712 BC"
+    a: "c. 1898 BC"
+    b: "c. 1712 BC"
+    range: [-1898, -1712]
+    anchors: [patriarchs, sojourn]
+    note: >-
+      Joseph, aged 17 (37:2), is sold to Ishmaelite or Midianite traders for 20
+      shekels of silver (37:28). Kitchen notes that 20 shekels is the going price
+      for a slave in the early 2nd millennium BC; later prices are higher.
+  38:
+    date: "c. 1898–1876 or 1712–1690 BC"
+    a: "c. 1898–1876 BC"
+    b: "c. 1712–1690 BC"
+    range: [-1898, -1690]
+    anchors: [patriarchs]
+    note: >-
+      Judah and Tamar, "at that time" (38:1). The story needs Judah's marriage, three
+      sons grown and the birth of twins, yet Judah's grandsons are listed among
+      those who go down to Egypt about 22 years after Joseph's sale (46:12), so the
+      chronology is tight; some of it may precede ch. 37.
+  39:
+    date: "c. 1898–1887 or 1712–1701 BC"
+    a: "c. 1898–1887 BC"
+    b: "c. 1712–1701 BC"
+    range: [-1898, -1701]
+    anchors: [patriarchs, sojourn]
+    note: >-
+      Joseph in Potiphar's house and his imprisonment, within the thirteen years
+      between his sale at 17 and his rise at 30 (41:46).
+  40:
+    date: "c. 1887 or 1701 BC"
+    a: "c. 1887 BC"
+    b: "c. 1701 BC"
+    range: [-1887, -1701]
+    anchors: [patriarchs, sojourn]
+    note: >-
+      Joseph interprets the dreams of the cupbearer and the baker, two full years
+      before Pharaoh's dreams (41:1).
+  41:
+    date: "c. 1885 or 1699 BC"
+    a: "c. 1885 BC, then the seven good years"
+    b: "c. 1699 BC, then the seven good years"
+    range: [-1885, -1692]
+    anchors: [patriarchs, sojourn]
+    note: >-
+      Joseph is 30 when he stands before Pharaoh (41:46). The unnamed Pharaoh is
+      often placed in the Hyksos period (c. 1650–1550 BC) on the shorter
+      chronologies, or in the Middle Kingdom (12th–13th Dynasties) on the longer.
+  42:
+    date: "c. 1877 or 1691 BC"
+    a: "c. 1877 BC"
+    b: "c. 1691 BC"
+    range: [-1877, -1691]
+    anchors: [patriarchs, sojourn]
+    note: The brothers' first journey to buy grain, early in the famine. Simeon is held as a pledge.
+  43:
+    date: "c. 1876 or 1690 BC"
+    a: "c. 1876 BC"
+    b: "c. 1690 BC"
+    range: [-1876, -1690]
+    anchors: [patriarchs, sojourn]
+    note: The second journey, with Benjamin, in the famine's second year (45:6).
+  44:
+    date: "c. 1876 or 1690 BC"
+    a: "c. 1876 BC"
+    b: "c. 1690 BC"
+    range: [-1876, -1690]
+    anchors: [patriarchs, sojourn]
+    note: The silver cup in Benjamin's sack; Judah offers himself in Benjamin's place.
+  45:
+    date: "c. 1876 or 1690 BC"
+    a: "c. 1876 BC"
+    b: "c. 1690 BC"
+    range: [-1876, -1690]
+    anchors: [patriarchs, sojourn]
+    note: >-
+      Joseph reveals himself: "these two years the famine has been in the land, and
+      there are yet five years" (45:6).
+  46:
+    date: "c. 1876 or 1690 BC"
+    a: "1876 BC"
+    b: "c. 1690 BC"
+    range: [-1876, -1690]
+    anchors: [patriarchs, sojourn]
+    note: >-
+      Jacob goes down to Egypt with seventy persons (46:27). The early date is the
+      start of the 430 years of Exod 12:40 counted back from 1446 BC.
+  47:
+    date: "c. 1876–1859 or 1690–1673 BC"
+    a: "1876 BC, with the famine to c. 1871 BC"
+    b: "c. 1690 BC, with the famine to c. 1685 BC"
+    range: [-1876, -1673]
+    anchors: [patriarchs, sojourn]
+    note: >-
+      Jacob, 130, before Pharaoh (47:9); settlement in Goshen, "the land of Rameses"
+      (47:11), a name from the 13th century BC. Joseph's land policy during the
+      famine (47:13–26); Jacob lives 17 more years (47:28).
+  48:
+    date: "c. 1859 or 1673 BC"
+    a: "c. 1859 BC"
+    b: "c. 1673 BC"
+    range: [-1859, -1673]
+    anchors: [patriarchs, sojourn]
+    note: Jacob, near death, adopts and blesses Ephraim and Manasseh.
+  49:
+    date: "c. 1859 or 1673 BC"
+    a: "c. 1859 BC"
+    b: "c. 1673 BC"
+    range: [-1859, -1673]
+    anchors: [patriarchs, sojourn]
+    note: >-
+      Jacob's blessing of the twelve sons and his death at 147 (47:28). Critical
+      scholars read the tribal sayings (e.g. Judah's sceptre, 49:10) as poetry from
+      the time of the tribes or the early monarchy.
+  50:
+    date: "c. 1859–1805 or 1673–1619 BC"
+    a: "1859 BC (Jacob's burial) to 1805 BC (Joseph's death)"
+    b: "c. 1673 to 1619 BC"
+    range: [-1859, -1619]
+    anchors: [patriarchs, sojourn]
+    note: >-
+      Jacob is embalmed and buried at Machpelah after seventy days of mourning
+      (50:3). Joseph dies at 110 (50:26), the ideal Egyptian lifespan.

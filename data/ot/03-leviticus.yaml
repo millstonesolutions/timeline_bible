@@ -1,0 +1,140 @@
+book: Leviticus
+code: LEV
+order: 3
+slug: 03-leviticus
+kind: narrative
+
+written:
+  date: "Mosaic (c. 1445 or 1259 BC) or priestly writing c. 750–400 BC"
+  range: [-1445, -400]
+  anchors: [pentateuch]
+  summary: >-
+    Leviticus presents itself as laws spoken to Moses at Sinai (1:1; 7:38; 26:46;
+    27:34) in the month after the tabernacle was set up. Critical scholars
+    assign the whole book to the priestly tradition: P (chs. 1–16) and the Holiness
+    Code (H, chs. 17–26), so named from "you shall be holy" (19:2). The dispute is
+    whether this priestly writing comes from before the exile or after it.
+  views:
+    - date: "Moses at Sinai, c. 1445 BC (or c. 1259 BC)"
+      held_by: Jewish and Christian tradition; conservative scholars (Kitchen; Dillard & Longman)
+      basis: >-
+        The book's own setting; the sacrificial and purity rules have parallels in
+        2nd-millennium texts from Ugarit and the Hittites, and the camp setting
+        (e.g. 4:12; 14:3) assumes life in the wilderness, not in Jerusalem.
+      sources: [josephus-apion 1.37–43, bava-batra 14b–15a, kitchen, dillard-longman]
+    - date: "P and H before the exile, c. 750–600 BC, with later additions"
+      held_by: Milgrom; Kaufmann's school
+      basis: >-
+        The language of P is older than that of Ezekiel and post-exilic books, and
+        Ezekiel seems to know H. Milgrom places most of P before the exile and dates
+        H to the late 8th century BC (Hezekiah's time), with exilic touches such as
+        26:33–45.
+      sources: [milgrom-lev]
+    - date: "Exile and after, c. 550–400 BC"
+      held_by: Wellhausen; many critical scholars (Collins surveys the debate)
+      basis: >-
+        Wellhausen argued that the elaborate priestly system, a single sanctuary
+        and a high priest are unknown to Samuel and Kings and to the early prophets,
+        and so came last, written for the second temple; Ezra's law book (Neh 8)
+        marks its completion.
+      sources: [wellhausen, collins-intro]
+
+default:
+  date: "1st month, 1445 BC or c. 1259 BC"
+  a: "1st month of the 2nd year, 1445 BC"
+  b: "1st month of the 2nd year, c. 1259 BC"
+  range: [-1445, -1259]
+  anchors: [wilderness]
+  note: >-
+    Leviticus is set at Sinai between the raising of the tabernacle on the first day
+    of the second year (Exod 40:17) and the census on the first day of the second
+    month (Num 1:1), so within about a month.
+
+chapters:
+  1:
+    note: >-
+      The LORD calls to Moses "from the Tent of Meeting" (1:1), which assumes the
+      tabernacle is up (Exod 40:17, 1st day of the 1st month, 2nd year). Burnt
+      offerings (chs. 1–7 are the manual of sacrifice).
+  2:
+    note: Grain offerings. Part of the sacrificial manual of chs. 1–7, given from the tent of meeting.
+  3:
+    note: Peace offerings. Part of the sacrificial manual of chs. 1–7.
+  4:
+    note: >-
+      Sin (purification) offerings; the carcass is burned "outside the camp"
+      (4:12), the wilderness setting of the laws.
+  5:
+    note: Guilt (reparation) offerings. Part of the sacrificial manual of chs. 1–7.
+  6:
+    note: Instructions to the priests on the offerings. Part of the manual of chs. 1–7.
+  7:
+    note: >-
+      The priests' portions; the manual closes "in Mount Sinai in the day that he
+      commanded the children of Israel to offer their offerings" (7:38).
+  8:
+    note: >-
+      Aaron and his sons are ordained over seven days (8:33), as prescribed in Exod
+      29, early in the first month of the second year.
+  9:
+    note: The eighth day (9:1), when Aaron offers the first sacrifices and fire comes out from the LORD.
+  10:
+    note: >-
+      Nadab and Abihu die for offering "strange fire", on the day of the first
+      sacrifices (10:1–2, 19).
+  11:
+    note: Clean and unclean animals. Undated within the stay at Sinai.
+  12:
+    note: Purification after childbirth.
+  13:
+    note: Skin diseases and mildew in clothing; the sufferer lives "outside the camp" (13:46).
+  14:
+    note: >-
+      Cleansing from skin disease (14:3, "outside of the camp"); mildew in houses
+      "when you have come into the land of Canaan" (14:34), looking ahead to the
+      settlement.
+  15:
+    note: Bodily discharges.
+  16:
+    note: >-
+      The Day of Atonement, given "after the death of the two sons of Aaron" (16:1),
+      so after ch. 10; it is to be kept on the 10th day of the 7th month (16:29).
+  17:
+    note: >-
+      Start of the Holiness Code (chs. 17–26): all slaughter at the tent of meeting
+      (17:3–5), which assumes a camp around one sanctuary. Critical scholars date H
+      before the exile (Milgrom, late 8th century) or in the exile.
+  18:
+    note: Forbidden sexual unions; "the doings of the land of Canaan, where I am bringing you" (18:3).
+  19:
+    note: "\"You shall be holy; for I, the LORD your God, am holy\" (19:2): the core of the Holiness Code, including \"love your neighbour as yourself\" (19:18)."
+  20:
+    note: Penalties for the offences of chs. 18–19.
+  21:
+    note: Holiness of the priests and the high priest.
+  22:
+    note: Holy food and acceptable sacrifices.
+  23:
+    note: >-
+      The calendar of feasts: Passover on the 14th of the first month, Firstfruits,
+      Weeks, Trumpets on the 1st of the 7th month, the Day of Atonement on the 10th
+      and Booths from the 15th (23:5–36).
+  24:
+    note: >-
+      The lamp and the showbread, then a narrative: a man of half-Egyptian descent
+      is stoned for blasphemy (24:10–23). Undated within the stay at Sinai.
+  25:
+    note: >-
+      Given "on Mount Sinai" (25:1): the sabbatical year and the jubilee, for "when
+      you come into the land" (25:2).
+  26:
+    note: >-
+      Blessings and curses, closing the Holiness Code: "These are the statutes ...
+      in Mount Sinai by Moses" (26:46). The threat of exile and return (26:33–45) is
+      read as hindsight from the exile by many critical scholars; Milgrom treats
+      parts of it as an exilic addition.
+    sources: [milgrom-lev]
+  27:
+    note: >-
+      Vows and dedications, an appendix; "the commandments which the LORD commanded
+      Moses ... on Mount Sinai" (27:34).

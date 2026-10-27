@@ -1,0 +1,338 @@
+book: Numbers
+code: NUM
+order: 4
+slug: 04-numbers
+kind: narrative
+
+written:
+  date: "Mosaic (c. 1406 or 1220 BC) or compiled c. 950–400 BC"
+  range: [-1446, -400]
+  anchors: [pentateuch]
+  summary: >-
+    Numbers covers the forty years from Sinai to the plains of Moab. Moses is said
+    to have written down the itinerary (33:2), and tradition credits him with the
+    book. Critical scholars see a priestly frame (the censuses, the camp, the laws
+    of chs. 1–10, 15, 18–19, 26–36) around older non-priestly stories (the spies,
+    Balaam), with the priestly parts among the latest in the Pentateuch.
+  views:
+    - date: "Moses, by c. 1406 BC (or c. 1220 BC)"
+      held_by: Jewish and Christian tradition; conservative scholars (Kitchen; Dillard & Longman)
+      basis: >-
+        The book's claim that Moses recorded the stages of the journey (33:2); the
+        wilderness camp setting; the itinerary has been compared with Egyptian
+        route lists of the Late Bronze Age (Kitchen).
+      sources: [josephus-apion 1.37–43, bava-batra 14b–15a, kitchen, dillard-longman]
+    - date: "Older stories c. 900–600 BC; priestly frame exilic or later; complete c. 400 BC"
+      held_by: Wellhausen; most critical scholars (Collins)
+      basis: >-
+        The huge census figures (603,550 men of fighting age, 1:46) imply two
+        million people, which most historians regard as impossible for the
+        period and read as schematic; the priestly laws presuppose the second
+        temple's priesthood. The Balaam poems are often dated early.
+      sources: [wellhausen, collins-intro]
+
+chapters:
+  1:
+    date: "2nd month, 1445 BC or c. 1259 BC"
+    a: "1st day of the 2nd month, 1445 BC"
+    b: "1st day of the 2nd month, c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: >-
+      The census begins "on the first day of the second month, in the second year
+      after they had come out of the land of Egypt" (1:1), a month after the
+      tabernacle was raised (Exod 40:17). The total of 603,550 men (1:46) is much
+      debated; some read *eleph* as "clan" or "troop" rather than "thousand".
+  2:
+    date: "2nd month, 1445 BC or c. 1259 BC"
+    a: "1445 BC"
+    b: "c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: The arrangement of the tribes around the tabernacle, same time as the census.
+  3:
+    date: "2nd month, 1445 BC or c. 1259 BC"
+    a: "1445 BC"
+    b: "c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: The Levites counted and assigned in place of the firstborn.
+  4:
+    date: "2nd month, 1445 BC or c. 1259 BC"
+    a: "1445 BC"
+    b: "c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: The duties of the Kohathites, Gershonites and Merarites in moving the tabernacle.
+  5:
+    date: "1445 BC or c. 1259 BC"
+    a: "1445 BC"
+    b: "c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: Purity of the camp; restitution; the ordeal for a wife suspected of adultery. Laws given at Sinai.
+  6:
+    date: "1445 BC or c. 1259 BC"
+    a: "1445 BC"
+    b: "c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: >-
+      The Nazirite vow and the priestly blessing (6:24–26). A version of the
+      blessing is inscribed on two silver amulets from Ketef Hinnom in Jerusalem,
+      usually dated to the 7th–6th century BC, the oldest surviving biblical text.
+  7:
+    date: "1st month, 1445 BC or c. 1259 BC"
+    a: "1st month, 1445 BC"
+    b: "1st month, c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: >-
+      A flashback: "on the day that Moses had finished setting up the tabernacle"
+      (7:1), i.e. the 1st of the 1st month (Exod 40:17). The tribal leaders bring
+      their offerings over twelve days.
+  8:
+    date: "1st month, 1445 BC or c. 1259 BC"
+    a: "1445 BC"
+    b: "c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: The lamps of the lampstand and the purification of the Levites.
+  9:
+    date: "1st–2nd month, 1445 BC or c. 1259 BC"
+    a: "14th of the 1st month (and of the 2nd), 1445 BC"
+    b: "c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: >-
+      Another flashback: "in the first month of the second year" (9:1) the first
+      Passover after the exodus is kept on the 14th (9:5). Those unclean keep it a
+      month later (9:11). The cloud over the tabernacle (9:15–23).
+  10:
+    date: "20th of the 2nd month, 1445 BC or c. 1259 BC"
+    a: "2nd month, day 20, 1445 BC"
+    b: "2nd month, day 20, c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: >-
+      The silver trumpets; "in the second year, in the second month, on the
+      twentieth day of the month, the cloud was taken up" (10:11), and Israel
+      leaves Sinai after about eleven months there.
+  11:
+    date: "1445 BC or c. 1259 BC"
+    a: "late spring 1445 BC"
+    b: "late spring c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: >-
+      Fire at Taberah and the quail at Kibroth Hattaavah, three days' journey from
+      Sinai (10:33). The people eat quail "a whole month" (11:20); the seventy
+      elders.
+  12:
+    date: "1445 BC or c. 1259 BC"
+    a: "summer 1445 BC"
+    b: "summer c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: Miriam and Aaron speak against Moses at Hazeroth; Miriam is shut out of the camp for seven days.
+  13:
+    date: "summer 1445 BC or c. 1259 BC"
+    a: "July–August 1445 BC"
+    b: "July–August c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: >-
+      Twelve spies are sent from the wilderness of Paran "at the time of the
+      first-ripe grapes" (13:20), about July–August, and return after forty days
+      (13:25).
+  14:
+    date: "late summer 1445 BC or c. 1259 BC"
+    a: "late summer 1445 BC"
+    b: "late summer c. 1259 BC"
+    range: [-1445, -1259]
+    anchors: [wilderness]
+    note: >-
+      The people refuse to enter the land and are sentenced to forty years, a year
+      for each day of the spying (14:33–34). Deuteronomy 2:14 counts 38 years from
+      Kadesh Barnea to the brook Zered.
+  15:
+    date: "1445–1407 BC or c. 1259–1221 BC"
+    a: "1445–1407 BC"
+    b: "c. 1259–1221 BC"
+    range: [-1445, -1221]
+    anchors: [wilderness]
+    note: >-
+      Laws for "when you have come into the land of your habitations" (15:2) and the man stoned for
+      gathering sticks on the Sabbath "while the children of Israel were in the
+      wilderness" (15:32). Numbers 15–19 is not dated within the 38 years.
+  16:
+    date: "1445–1407 BC or c. 1259–1221 BC"
+    a: "1445–1407 BC"
+    b: "c. 1259–1221 BC"
+    range: [-1445, -1221]
+    anchors: [wilderness]
+    note: >-
+      The rebellion of Korah, Dathan and Abiram; undated within the wandering years.
+      Critical scholars see a non-priestly story of Dathan and Abiram combined with
+      a priestly one of Korah.
+  17:
+    date: "1445–1407 BC or c. 1259–1221 BC"
+    a: "1445–1407 BC"
+    b: "c. 1259–1221 BC"
+    range: [-1445, -1221]
+    anchors: [wilderness]
+    note: Aaron's rod buds, confirming his priesthood after Korah's revolt.
+  18:
+    date: "1445–1407 BC or c. 1259–1221 BC"
+    a: "1445–1407 BC"
+    b: "c. 1259–1221 BC"
+    range: [-1445, -1221]
+    anchors: [wilderness]
+    note: Duties and income of the priests and Levites, given after Korah's revolt.
+  19:
+    date: "1445–1407 BC or c. 1259–1221 BC"
+    a: "1445–1407 BC"
+    b: "c. 1259–1221 BC"
+    range: [-1445, -1221]
+    anchors: [wilderness]
+    note: The red heifer and purification from contact with the dead. Undated.
+  20:
+    date: "1407 BC or c. 1221 BC (40th year)"
+    a: "1st to 5th month, 1407 BC"
+    b: "1st to 5th month, c. 1221 BC"
+    range: [-1407, -1221]
+    anchors: [wilderness]
+    note: >-
+      Israel comes to Zin "in the first month" (20:1); the year is not stated, but
+      Aaron's death at Mount Hor at the end of the chapter was "in the fortieth
+      year ... in the fifth month, on the first day" (33:38). Miriam dies, Moses
+      strikes the rock at Meribah, and Edom refuses passage.
+  21:
+    date: "1407 BC or c. 1221 BC"
+    a: "1407 BC"
+    b: "c. 1221 BC"
+    range: [-1407, -1221]
+    anchors: [wilderness]
+    note: >-
+      Arad and Hormah, the bronze serpent, the journey round Edom and Moab, and the
+      defeat of Sihon and Og. Quotes "the Book of the Wars of the LORD" (21:14) and
+      a song about Heshbon (21:27–30).
+  22:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: >-
+      Israel camps in the plains of Moab (22:1) and Balak sends for Balaam. An
+      inscription from Deir Alla in Jordan (c. 800 BC) tells of "Balaam son of
+      Beor", a seer, showing that he was a known figure in the region.
+  23:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: Balaam's first two oracles. Many scholars date the poems themselves early in Israel's history.
+  24:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: >-
+      Balaam's last oracles: "a star will come out of Jacob" (24:17), later read of
+      David and, at Qumran and by Bar Kokhba's followers, as messianic; ships from
+      Kittim (24:24).
+  25:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: Israel joins the worship of Baal Peor at Shittim; Phinehas stops the plague.
+  26:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: >-
+      The second census "after the plague" (26:1), in the plains of Moab (26:63);
+      none of the first generation remains except Caleb and Joshua (26:64–65).
+  27:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: The daughters of Zelophehad inherit; Moses sees the land from Abarim and Joshua is commissioned.
+  28:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: The daily, Sabbath, monthly and festival offerings, given in the plains of Moab.
+  29:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: The offerings for the seventh month's feasts.
+  30:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: Vows made by women.
+  31:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: War against Midian, Moses' last campaign (31:2); Balaam is killed (31:8).
+  32:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: Reuben, Gad and half of Manasseh settle east of the Jordan.
+  33:
+    date: "Reviews 1446–1407 BC; written 1407/1406 BC (or c. 1260–1220 BC)"
+    a: "1407/1406 BC, recalling 1446–1407"
+    b: "c. 1221/1220 BC, recalling c. 1260–1221"
+    range: [-1446, -1220]
+    anchors: [exodus, wilderness]
+    note: >-
+      Moses' list of the stages from Rameses, leaving "on the fifteenth day of the
+      first month" (33:3), to the plains of Moab; Aaron dies "in the fortieth year
+      ... in the fifth month, on the first day" (33:38) aged 123 (33:39).
+  34:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: The borders of Canaan and the leaders who will divide the land.
+  35:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: The Levitical towns and the cities of refuge.
+  36:
+    date: "1407/1406 BC or c. 1221/1220 BC"
+    a: "1407/1406 BC"
+    b: "c. 1221/1220 BC"
+    range: [-1407, -1220]
+    anchors: [wilderness]
+    note: >-
+      Heiresses marry within their tribe; the book closes with the laws given "in
+      the plains of Moab by the Jordan at Jericho" (36:13), before the 11th month
+      of the 40th year (Deut 1:3).
