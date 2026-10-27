@@ -1,0 +1,31 @@
+book: 2 Timothy
+code: 2TI
+order: 55
+slug: 55-2timothy
+kind: letter
+
+written:
+  date: "c. AD 64–67 (if by Paul) or c. AD 80–100 (if not)"
+  range: [64, 110]
+  summary: >-
+    Presented as Paul's last letter, from a Roman prison shortly before his death
+    (1:16–17; 4:6–8). Some scholars who reject 1 Timothy and Titus think 2 Timothy is
+    Pauline or contains Pauline fragments.
+  views:
+    - date: "c. AD 64–67, Rome"
+      held_by: Carson & Moo; many conservative scholars
+      basis: "\"I am already being offered\" (4:6); a second Roman imprisonment, harsher than Acts 28; the tradition of Paul's death under Nero."
+      sources: [carson-moo, eusebius-he 2.22]
+    - date: "c. AD 80–100"
+      held_by: Brown (who notes it is the likeliest of the three to be Pauline); most critical scholars
+      basis: Same arguments as for 1 Timothy, though the personal details are richer.
+      sources: [brown-intro]
+
+default:
+  date: "c. AD 64–67 or 80–100"
+  range: [64, 110]
+  anchors: [nero]
+
+chapters:
+  4:
+    note: "\"The time of my departure has come\" (4:6); \"come before winter\" (4:21). If authentic, a few months before Paul's execution."

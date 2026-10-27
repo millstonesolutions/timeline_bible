@@ -1,0 +1,28 @@
+book: 2 Thessalonians
+code: 2TH
+order: 53
+slug: 53-2thessalonians
+kind: letter
+
+written:
+  date: "c. AD 51 (if by Paul) or late 1st century (if not)"
+  range: [50, 100]
+  summary: >-
+    Disputed. If by Paul, written from Corinth a few months after 1 Thessalonians; if
+    not, a later writing that imitates it, usually dated to the late first century.
+  views:
+    - date: "c. AD 51, Corinth"
+      held_by: Carson & Moo; many scholars
+      basis: Same co-senders (Silvanus, Timothy, 1:1); responds to a misunderstanding about the day of the Lord (2:1–2).
+      sources: [carson-moo]
+    - date: "late 1st century"
+      held_by: Brown sets out the case; many critical scholars
+      basis: Close literary dependence on 1 Thessalonians with different eschatology; the warning about forged letters (2:2; 3:17).
+      sources: [brown-intro]
+
+default:
+  date: "c. AD 51 or late 1st century"
+  range: [50, 100]
+  anchors: [gallio]
+
+chapters: {}

@@ -1,0 +1,35 @@
+book: 1 Peter
+code: 1PE
+order: 60
+slug: 60-1peter
+kind: letter
+
+written:
+  date: "c. AD 62–64 (if by Peter) or c. AD 70–92 (if not)"
+  range: [62, 95]
+  summary: >-
+    Sent from "Babylon" (5:13), a code name for Rome, to churches in five provinces
+    of Asia Minor. If by Peter (through Silvanus, 5:12), it comes before his death
+    under Nero; otherwise most date it AD 70–92.
+  views:
+    - date: "c. AD 62–64, Rome"
+      held_by: Carson & Moo; many conservative scholars
+      basis: Self-claim; the "fiery trial" (4:12) as the time leading up to or the start of Nero's persecution.
+      sources: [carson-moo, tacitus-ann 15.44]
+    - date: "c. AD 70–92"
+      held_by: Brown (70–90); Elliott (73–92); many critical scholars
+      basis: >-
+        "Babylon" as a name for Rome is otherwise attested after AD 70 (when Rome,
+        like Babylon, destroyed the temple); cultivated Greek; a church spread through
+        Asia Minor in Peter's lifetime is doubted.
+      sources: [brown-intro, elliott-1pet]
+
+default:
+  date: "c. AD 62–64 or 70–92"
+  range: [62, 95]
+  anchors: [nero]
+
+chapters:
+  5:
+    note: "\"She who is in Babylon\" (5:13), with Mark. Babylon as a name for Rome is central to the dating."
+    anchors: [nero, temple-70]

@@ -1,0 +1,36 @@
+book: Philippians
+code: PHP
+order: 50
+slug: 50-philippians
+kind: letter
+
+written:
+  date: "c. AD 60–62 (Rome) or c. AD 54–55 (Ephesus)"
+  range: [54, 62]
+  summary: >-
+    Paul's authorship is undisputed. Written from prison (1:7, 13); the date depends
+    on which imprisonment: Rome (AD 60–62), Ephesus (c. AD 54–55, an imprisonment
+    Acts doesn't record) or Caesarea (AD 57–59).
+  views:
+    - date: "c. AD 60–62, Rome"
+      held_by: Fee; Carson & Moo; the traditional view
+      basis: "\"The whole praetorian guard\" (1:13) and \"Caesar's household\" (4:22); Paul facing a verdict of life or death (1:20–26)."
+      sources: [fee-phil, carson-moo]
+    - date: "c. AD 54–55, Ephesus"
+      held_by: Many scholars (Brown regards Ephesus as a serious possibility)
+      basis: >-
+        The frequent journeys between Philippi and Paul's prison (2:25–30) fit the
+        short distance from Ephesus; praetorian personnel also served in provinces;
+        compare 1 Cor 15:32 and 2 Cor 1:8–10.
+      sources: [brown-intro]
+
+default:
+  date: "c. AD 60–62 (or 54–55)"
+  range: [54, 62]
+  anchors: [paul-rome, ephesus]
+
+chapters:
+  3:
+    note: >-
+      The abrupt change at 3:1–2 has led some scholars to see chapters 3–4 as parts of
+      separate letters; even so, all would date from the same imprisonment.

@@ -1,0 +1,47 @@
+book: Romans
+code: ROM
+order: 45
+slug: 45-romans
+kind: letter
+
+written:
+  date: "c. AD 56–57"
+  range: [55, 58]
+  summary: >-
+    Paul's authorship is undisputed. Written from Corinth during the three months in
+    Greece (Acts 20:2–3), just before he took the collection to Jerusalem (Rom
+    15:25–26). Most date it to the winter of AD 56/57; the range is AD 55–58.
+  views:
+    - date: "winter AD 56/57 (range 55–58)"
+      held_by: Nearly all scholars (Brown; Carson & Moo; Riesner; Jewett)
+      basis: >-
+        Phoebe of Cenchreae, Corinth's port (16:1); Gaius the host (16:23; cf.
+        1 Cor 1:14); Erastus the city treasurer (16:23). The year comes from the
+        Pauline chronology (Gallio, Festus).
+      sources: [brown-intro, carson-moo, riesner, jewett]
+    - date: "AD 51–52 or 54–55"
+      held_by: Lüdemann's early chronology
+      basis: Follows from his earlier dates for the whole Aegean mission.
+      sources: [luedemann]
+
+default:
+  date: "c. AD 56–57"
+  range: [55, 58]
+  anchors: [paul-arrest]
+
+chapters:
+  1:
+    note: >-
+      "Your faith is proclaimed throughout the whole world" (1:8): the Roman church
+      was already established, probably before Claudius's edict (AD 49).
+    anchors: [paul-arrest, claudius-edict]
+  15:
+    note: >-
+      Paul is about to take the collection to Jerusalem (15:25–28) and then hopes to
+      visit Rome on the way to Spain. This sets the letter on the eve of Acts 20–21.
+  16:
+    note: >-
+      Some scholars think chapter 16 (25+ greetings) was a separate note to Ephesus;
+      most now take it as part of Romans. Priscilla and Aquila are back in Rome
+      (16:3), which suggests Claudius's edict had lapsed after his death (AD 54).
+    anchors: [paul-arrest, claudius-edict]

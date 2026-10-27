@@ -1,0 +1,28 @@
+book: Titus
+code: TIT
+order: 56
+slug: 56-titus
+kind: letter
+
+written:
+  date: "c. AD 62–64 (if by Paul) or c. AD 90–110 (if not)"
+  range: [62, 120]
+  summary: >-
+    A Pastoral Letter, dated with 1 Timothy. Paul has left Titus in Crete (1:5), a
+    mission Acts doesn't record, and plans to winter at Nicopolis (3:12).
+  views:
+    - date: "c. AD 62–64"
+      held_by: Carson & Moo; many conservative scholars
+      basis: Travel after release from Rome.
+      sources: [carson-moo]
+    - date: "c. AD 90–110"
+      held_by: Brown; most critical scholars
+      basis: As for 1 Timothy.
+      sources: [brown-intro]
+
+default:
+  date: "c. AD 62–64 or 90–110"
+  range: [62, 120]
+  anchors: [paul-rome]
+
+chapters: {}

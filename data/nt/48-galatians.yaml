@@ -1,0 +1,46 @@
+book: Galatians
+code: GAL
+order: 48
+slug: 48-galatians
+kind: letter
+
+written:
+  date: "c. AD 48–49 (South Galatia) or c. AD 53–57 (North Galatia)"
+  range: [48, 57]
+  summary: >-
+    Paul's authorship is undisputed; the date depends on who "the Galatians" were.
+    If they are the churches of Acts 13–14 (South Galatian theory), the letter may
+    come before the Jerusalem council and be Paul's earliest. If they are ethnic
+    Galatians in the north, it belongs to the Ephesian period.
+  views:
+    - date: "c. AD 48–49, before the Jerusalem council"
+      held_by: Bruce; Longenecker; Riesner; many conservative scholars
+      basis: >-
+        The churches of Pisidian Antioch, Iconium, Lystra and Derbe (in the Roman
+        province of Galatia); Galatians 2:1–10 = the famine visit (Acts 11:30); the
+        letter never mentions the council's decision, which would have settled the
+        dispute.
+      sources: [bruce-paul, longenecker-gal, riesner]
+    - date: "c. AD 53–57, from Ephesus or Macedonia"
+      held_by: Lightfoot's older consensus; Betz; Brown (c. 54–55); many critical scholars
+      basis: >-
+        "Galatians" in the ethnic sense (Acts 16:6; 18:23); Galatians 2:1–10 = the
+        council; close in theme to Romans and 2 Corinthians.
+      sources: [betz-gal, brown-intro]
+
+default:
+  date: "c. AD 48–49 or 53–57"
+  range: [48, 57]
+  anchors: [council]
+
+chapters:
+  1:
+    note: >-
+      Recalls Paul's conversion (1:15–16), the trip to Arabia and Damascus, and his
+      first Jerusalem visit "after three years" (1:18): c. AD 31–37.
+    anchors: [council, paul-conversion]
+  2:
+    note: >-
+      Recalls the visit "after fourteen years" (2:1–10), the council or the famine
+      visit (c. AD 46–49), and the dispute with Peter at Antioch (2:11–14).
+    anchors: [council, famine]

@@ -1,0 +1,28 @@
+book: 1 John
+code: 1JN
+order: 62
+slug: 62-1john
+kind: letter
+
+written:
+  date: "c. AD 90–110"
+  range: [85, 110]
+  summary: >-
+    Anonymous; traditionally by John the apostle in Ephesus. Most scholars put it
+    shortly after the Gospel of John, when the community had split (2:19).
+  views:
+    - date: "c. AD 100"
+      held_by: Brown (after the Gospel, c. 100); most critical scholars
+      basis: Presupposes the Gospel's tradition and a later schism over Christology (2:18–23; 4:1–3).
+      sources: [brown-epistles, brown-intro]
+    - date: "c. AD 85–95"
+      held_by: Carson & Moo; many conservative scholars
+      basis: Tradition of John's old age in Ephesus (Irenaeus, *Against Heresies* 3.3.4).
+      sources: [carson-moo, irenaeus 3.3.4]
+
+default:
+  date: "c. AD 90–110"
+  range: [85, 110]
+  anchors: []
+
+chapters: {}

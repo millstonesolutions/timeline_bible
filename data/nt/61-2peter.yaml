@@ -1,0 +1,35 @@
+book: 2 Peter
+code: 2PE
+order: 61
+slug: 61-2peter
+kind: letter
+
+written:
+  date: "c. AD 64–67 (if by Peter) or c. AD 80–130 (if not)"
+  range: [64, 150]
+  summary: >-
+    Presented as Peter's testament before his death (1:14). Many scholars, including
+    many conservative ones, consider it pseudonymous; it is often regarded as the
+    latest NT book.
+  views:
+    - date: "c. AD 64–67"
+      held_by: Some conservative scholars (Carson & Moo discuss the case)
+      basis: Self-claim (1:1, 16–18, transfiguration eyewitness; 3:1 "second letter").
+      sources: [carson-moo]
+    - date: "c. AD 80–90"
+      held_by: Bauckham
+      basis: A testament written in Peter's name soon after his death; uses Jude.
+      sources: [bauckham-jude]
+    - date: "c. AD 100–150"
+      held_by: Brown (c. 130); many critical scholars
+      basis: Paul's letters are a collection called "scripture" (3:15–16); "the fathers fell asleep" (3:4); weak early attestation.
+      sources: [brown-intro]
+
+default:
+  date: "c. AD 64–67 or 80–130"
+  range: [64, 150]
+  anchors: [nero]
+
+chapters:
+  2:
+    note: Chapter 2 closely parallels Jude 4–18; most scholars think 2 Peter uses Jude, which makes it later than Jude.

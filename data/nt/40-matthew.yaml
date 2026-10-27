@@ -1,0 +1,218 @@
+book: Matthew
+code: MAT
+order: 40
+slug: 40-matthew
+
+written:
+  date: "c. AD 80–90 (some say the 60s)"
+  range: [60, 95]
+  summary: >-
+    Most scholars date Matthew after Mark and after AD 70, usually in the 80s; a
+    substantial minority argue for the 60s.
+  views:
+    - date: "AD 80–90"
+      held_by: Most critical scholars (Brown; Ehrman)
+      basis: >-
+        Matthew uses Mark (dated c. 65–73); 22:7 (the king burns the murderers'
+        city) is read as hindsight on AD 70; the conflict with the synagogue
+        suggests the period after 70. Ignatius (c. 110) seems to know it.
+      sources: [brown-intro, ehrman-nt]
+    - date: "AD 50s–60s"
+      held_by: Some conservative scholars (Carson & Moo regard a date before 70 as plausible); Robinson
+      basis: >-
+        Instructions that assume the temple is still standing (5:23–24; 17:24–27;
+        23:16–22); the predictions are not detailed enough to need hindsight;
+        early tradition (Irenaeus, *Against Heresies* 3.1.1) puts Matthew first.
+      sources: [carson-moo, robinson, irenaeus 3.1.1]
+
+chapters:
+  1:
+    date: "c. 7–4 BC"
+    range: [-7, -3]
+    anchors: [birth]
+    note: >-
+      The genealogy (1:1–17) has no date of its own. Joseph's dream and the birth
+      (1:18–25) come before Herod's death.
+  2:
+    date: "c. 6–4 BC; return under Archelaus after 4 BC"
+    range: [-6, -3]
+    anchors: [birth]
+    note: >-
+      The magi find the child before Herod dies; "two years old and under" (2:16)
+      suggests a birth up to two years earlier. The family returns after Herod's
+      death, when Archelaus ruled Judea (2:22; ethnarch 4 BC–AD 6, Josephus
+      *Ant.* 17.317–320, 17.342–344). On the 1 BC chronology, this is c. 3–1 BC.
+    sources: ["josephus-ant 17.317–320, 17.342–344"]
+  3:
+    date: "AD 27–29"
+    a: "late AD 27 / early 28"
+    b: "AD 29"
+    range: [27, 29]
+    anchors: [ministry-start, models]
+    note: John the Baptist's preaching and the baptism of Jesus (Luke 3:1 gives the year).
+  4:
+    date: "AD 28 or 29–30"
+    a: "early to mid AD 28"
+    b: "AD 29–30"
+    range: [28, 30]
+    anchors: [ministry-start, models]
+    note: >-
+      The temptation follows the baptism. The Galilean ministry begins "when he
+      heard that John was delivered up" (4:12). John 3:24 indicates an earlier
+      Judean period (John 2–4) before that.
+  5: &sermon
+    date: "AD 28 or 30–31"
+    a: "AD 28"
+    b: "AD 30–31"
+    range: [28, 31]
+    anchors: [models]
+    note: >-
+      The Sermon on the Mount (chs. 5–7). Matthew gathers Jesus' teaching into
+      topical blocks, so a single date for the sermon is a convenience, not a
+      claim that every saying was spoken on one day.
+  6: *sermon
+  7: *sermon
+  8: &early_galilee
+    date: "AD 28 or 31"
+    a: "AD 28"
+    b: "AD 31"
+    range: [28, 31]
+    anchors: [models]
+    note: >-
+      Galilean ministry. Matthew 8–9 groups ten miracles by topic; Mark and Luke
+      place several of them in a different order.
+  9: *early_galilee
+  10:
+    date: "AD 28–29 or 31"
+    a: "late AD 28 / early 29"
+    b: "AD 31"
+    range: [28, 32]
+    anchors: [models]
+    note: The twelve are sent out (Mark 6:7; Luke 9:1), shortly before John's death and the feeding of the 5,000.
+  11:
+    date: "AD 28–29 or 31"
+    a: "AD 28–29"
+    b: "AD 31"
+    range: [28, 31]
+    anchors: [models]
+    note: John the Baptist, now in prison, sends disciples to Jesus (11:2).
+  12:
+    date: "AD 28–29 or 31"
+    a: "AD 28–29"
+    b: "AD 31"
+    range: [28, 31]
+    anchors: [models]
+    note: Sabbath disputes; the grain fields (12:1) suggest spring (barley/wheat harvest, April–June).
+  13:
+    date: "AD 28–29 or 31"
+    a: "AD 28–29"
+    b: "AD 31"
+    range: [28, 31]
+    anchors: [models]
+    note: Parables discourse; rejection at Nazareth (13:53–58).
+  14:
+    date: "spring AD 29 or 32"
+    a: "spring AD 29"
+    b: "spring AD 32"
+    range: [29, 32]
+    anchors: [john-baptist-death, models]
+    note: >-
+      John's execution is told as a flashback (14:3–12). The feeding of the 5,000
+      took place near a Passover (John 6:4) and on green grass (Mark 6:39).
+  15:
+    date: "summer AD 29 or 32"
+    a: "summer AD 29"
+    b: "summer AD 32"
+    range: [29, 32]
+    anchors: [models]
+    note: Withdrawal to the region of Tyre and Sidon; feeding of the 4,000.
+  16:
+    date: "summer AD 29 or 32"
+    a: "summer AD 29"
+    b: "summer AD 32"
+    range: [29, 32]
+    anchors: [models]
+    note: Peter's confession at Caesarea Philippi; first passion prediction.
+  17:
+    date: "summer–autumn AD 29 or 32"
+    a: "summer–autumn AD 29"
+    b: "summer–autumn AD 32"
+    range: [29, 32]
+    anchors: [models]
+    note: >-
+      Transfiguration "after six days" (17:1). The temple tax (17:24) was collected
+      in Adar (February–March), but Matthew does not tie the episode to a season.
+  18:
+    date: "autumn AD 29 or 32"
+    a: "autumn AD 29"
+    b: "autumn AD 32"
+    range: [29, 32]
+    anchors: [models]
+    note: Community discourse at Capernaum, the last Galilean teaching block before the journey south.
+  19:
+    date: "winter AD 29/30 or 32/33"
+    a: "winter AD 29/30"
+    b: "winter AD 32/33"
+    range: [29, 33]
+    anchors: [models]
+    note: Jesus leaves Galilee for "the borders of Judea beyond the Jordan" (19:1), i.e. Perea (cf. John 10:40).
+  20:
+    date: "March AD 30 or 33"
+    a: "March AD 30"
+    b: "March AD 33"
+    range: [30, 33]
+    anchors: [models]
+    note: Going up to Jerusalem; the healing at Jericho (20:29) comes days before Passover.
+  21:
+    date: "Sunday–Monday, 2–3 April AD 30 or 29–30 March AD 33"
+    a: "2–3 April AD 30"
+    b: "29–30 March AD 33"
+    range: [30, 33]
+    anchors: [passion-week]
+    note: >-
+      Entry into Jerusalem and the temple cleansing. Matthew joins the entry and the
+      cleansing; Mark (11:11–15) puts the cleansing on the next day. John 12:1, 12
+      ("six days before the Passover ... the next day") fixes the entry on the Sunday.
+  22: &tuesday
+    date: "Tuesday, 4 April AD 30 or 31 March AD 33"
+    a: "4 April AD 30"
+    b: "31 March AD 33"
+    range: [30, 33]
+    anchors: [passion-week]
+    note: >-
+      Controversies in the temple. The weekday is the usual harmony (Mark 11:20, 27);
+      Matthew himself only says "that day".
+  23: *tuesday
+  24:
+    date: "Tuesday, 4 April AD 30 or 31 March AD 33"
+    a: "4 April AD 30"
+    b: "31 March AD 33"
+    range: [30, 33]
+    anchors: [passion-week, temple-70]
+    note: >-
+      The Olivet discourse. Its prediction of the temple's destruction (24:1–2) is
+      central to the debate on when Matthew was written; see the book introduction.
+  25: *tuesday
+  26:
+    date: "Wednesday–Thursday night, 5–6 April AD 30 or 1–2 April AD 33"
+    a: "5–6 April AD 30"
+    b: "1–2 April AD 33"
+    range: [30, 33]
+    anchors: [passion-week]
+    note: >-
+      "After two days the Passover comes" (26:2); the Last Supper, Gethsemane and the
+      night hearing. Matthew presents the supper as a Passover meal (26:17); see the
+      anchor on the Synoptic/Johannine difference.
+  27:
+    date: "Friday, 7 April AD 30 or 3 April AD 33"
+    a: "7 April AD 30"
+    b: "3 April AD 33"
+    range: [30, 33]
+    anchors: [crucifixion]
+  28:
+    date: "Sunday, 9 April AD 30 or 5 April AD 33, and following weeks"
+    a: "9 April AD 30 and after"
+    b: "5 April AD 33 and after"
+    range: [30, 33]
+    anchors: [resurrection-ascension]
+    note: The Galilee appearance (28:16–20) comes some days or weeks later.

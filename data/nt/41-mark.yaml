@@ -1,0 +1,142 @@
+book: Mark
+code: MRK
+order: 41
+slug: 41-mark
+
+written:
+  date: "c. AD 65–73"
+  range: [40, 75]
+  summary: >-
+    Most scholars date Mark just before or just after AD 70, usually AD 65–73; a
+    small minority argue for the 40s.
+  views:
+    - date: "AD 68–73"
+      held_by: Brown; many critical scholars
+      basis: >-
+        Mark 13 seems to reflect the Jewish War (66–70); "the abomination of
+        desolation" (13:14) and the temple's predicted fall (13:2) are read as close
+        to, or just after, the event.
+      sources: [brown-intro, ehrman-nt]
+    - date: "AD 64–68 (Rome, under Nero)"
+      held_by: Many scholars, following early tradition; Carson & Moo regard the late 50s or 60s as likely
+      basis: >-
+        Papias (in Eusebius, *H.E.* 3.39.15) and Irenaeus (*Against Heresies* 3.1.1)
+        connect Mark with Peter's preaching in Rome, around or after Peter's death;
+        the emphasis on suffering fits Nero's persecution.
+      sources: [carson-moo, eusebius-he 3.39.15, irenaeus 3.1.1]
+    - date: "late 30s–early 40s"
+      held_by: Crossley (minority)
+      basis: Mark assumes that Jesus kept the Torah, which Crossley argues predates the disputes of the 40s–50s.
+      sources: [crossley]
+
+chapters:
+  1:
+    date: "AD 27–29, Galilee from AD 28 or 29–30"
+    a: "late AD 27 – AD 28"
+    b: "AD 29–30"
+    range: [27, 30]
+    anchors: [ministry-start, models]
+    note: >-
+      John's preaching, the baptism and temptation (1:1–13). The Galilean ministry
+      begins "after John was taken into custody" (1:14).
+  2: &early_galilee
+    date: "AD 28 or 31"
+    a: "AD 28"
+    b: "AD 31"
+    range: [28, 31]
+    anchors: [models]
+    note: >-
+      Capernaum controversies. The grain fields (2:23) suggest spring. Mark groups
+      five conflict stories by topic (2:1–3:6).
+  3: *early_galilee
+  4: *early_galilee
+  5:
+    date: "AD 28–29 or 31"
+    a: "AD 28–29"
+    b: "AD 31"
+    range: [28, 31]
+    anchors: [models]
+  6:
+    date: "spring AD 29 or 32"
+    a: "spring AD 29"
+    b: "spring AD 32"
+    range: [29, 32]
+    anchors: [john-baptist-death, models]
+    note: >-
+      Nazareth, the mission of the twelve, John's execution (told as a flashback),
+      and the feeding of the 5,000 "on the green grass" (6:39), near Passover (John 6:4).
+  7:
+    date: "summer AD 29 or 32"
+    a: "summer AD 29"
+    b: "summer AD 32"
+    range: [29, 32]
+    anchors: [models]
+  8:
+    date: "summer AD 29 or 32"
+    a: "summer AD 29"
+    b: "summer AD 32"
+    range: [29, 32]
+    anchors: [models]
+    note: Feeding of the 4,000; Peter's confession at Caesarea Philippi (8:27).
+  9:
+    date: "summer–autumn AD 29 or 32"
+    a: "summer–autumn AD 29"
+    b: "summer–autumn AD 32"
+    range: [29, 32]
+    anchors: [models]
+    note: Transfiguration; last stay in Capernaum (9:33).
+  10:
+    date: "winter AD 29/30 – March AD 30, or winter 32/33 – March 33"
+    a: "winter AD 29/30 – March 30"
+    b: "winter AD 32/33 – March 33"
+    range: [29, 33]
+    anchors: [models]
+    note: To Judea and beyond the Jordan (10:1), then up to Jerusalem through Jericho (10:46).
+  11:
+    date: "Sunday–Monday, 2–3 April AD 30 or 29–30 March AD 33"
+    a: "2–3 April AD 30"
+    b: "29–30 March AD 33"
+    range: [30, 33]
+    anchors: [passion-week]
+    note: >-
+      Mark marks the days clearly here: entry (11:1–11), "on the next day" the fig
+      tree and temple (11:12–19), "in the morning" (11:20).
+  12:
+    date: "Tuesday, 4 April AD 30 or 31 March AD 33"
+    a: "4 April AD 30"
+    b: "31 March AD 33"
+    range: [30, 33]
+    anchors: [passion-week]
+  13:
+    date: "Tuesday, 4 April AD 30 or 31 March AD 33"
+    a: "4 April AD 30"
+    b: "31 March AD 33"
+    range: [30, 33]
+    anchors: [passion-week, temple-70]
+    note: The Olivet discourse; its relation to the Jewish War is the main evidence for dating Mark.
+  14:
+    date: "Wednesday–Thursday night, 5–6 April AD 30 or 1–2 April AD 33"
+    a: "5–6 April AD 30"
+    b: "1–2 April AD 33"
+    range: [30, 33]
+    anchors: [passion-week]
+    note: >-
+      "After two days was the Passover" (14:1); the supper "on the first day of
+      unleavened bread, when they sacrificed the Passover" (14:12).
+  15:
+    date: "Friday, 7 April AD 30 or 3 April AD 33"
+    a: "7 April AD 30"
+    b: "3 April AD 33"
+    range: [30, 33]
+    anchors: [crucifixion]
+    note: "Crucified at the third hour (15:25, about 9 a.m.); died at the ninth hour (15:34); buried before the Sabbath (15:42)."
+  16:
+    date: "Sunday, 9 April AD 30 or 5 April AD 33, and following weeks"
+    a: "9 April AD 30 and after"
+    b: "5 April AD 33 and after"
+    range: [30, 33]
+    anchors: [resurrection-ascension]
+    note: >-
+      16:9–20 is missing from the earliest manuscripts (Sinaiticus, Vaticanus) and
+      is usually considered a later addition; its contents span the 40 days to the
+      ascension.

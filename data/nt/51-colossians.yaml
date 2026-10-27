@@ -1,0 +1,35 @@
+book: Colossians
+code: COL
+order: 51
+slug: 51-colossians
+kind: letter
+
+written:
+  date: "c. AD 60–62 (or 54–55, if by Paul) or c. AD 70–80 (if not)"
+  range: [54, 85]
+  summary: >-
+    A disputed Pauline letter. It shares its prison setting and names with Philemon
+    (Onesimus, Archippus, Epaphras, Aristarchus, Mark, Luke, Demas), so if authentic
+    it was written at the same time. Opinion is about evenly split.
+  views:
+    - date: "c. AD 60–62 (Rome) or c. 54–55 (Ephesus)"
+      held_by: Carson & Moo; many scholars, including some critical ones
+      basis: Self-claim; the personal links with the undisputed Philemon (4:7–17).
+      sources: [carson-moo]
+    - date: "c. AD 70–80"
+      held_by: Brown (c. 80, if not by Paul); many critical scholars
+      basis: Style and theology (cosmic Christology, realized eschatology); possibly written after Paul's death.
+      sources: [brown-intro]
+
+default:
+  date: "c. AD 60–62 or 70–80"
+  range: [54, 85]
+  anchors: [paul-rome]
+
+chapters:
+  4:
+    note: >-
+      Laodicea and Hierapolis (4:13–16) were damaged by an earthquake in AD 60
+      (Tacitus, *Ann.* 14.27). The letter doesn't mention it, which some take as a
+      sign it was written before 60 or long after.
+    sources: [tacitus-ann 14.27]

@@ -1,0 +1,40 @@
+book: 1 Corinthians
+code: 1CO
+order: 46
+slug: 46-1corinthians
+kind: letter
+
+written:
+  date: "c. AD 54–55"
+  range: [53, 56]
+  summary: >-
+    Paul's authorship is undisputed. Written from Ephesus before Pentecost (16:8),
+    during the Ephesian ministry, about three years after he left Corinth.
+  views:
+    - date: "spring AD 54 or 55 (Ephesus)"
+      held_by: Nearly all scholars (Brown; Carson & Moo; Riesner)
+      basis: >-
+        "I will stay at Ephesus until Pentecost" (16:8); the collection is under way
+        (16:1–4) but not yet complete (cf. 2 Cor 8–9; Rom 15:25).
+      sources: [brown-intro, carson-moo, riesner]
+    - date: "c. AD 49–51"
+      held_by: Lüdemann's early chronology
+      sources: [luedemann]
+
+default:
+  date: "c. AD 54–55"
+  range: [53, 56]
+  anchors: [ephesus]
+
+chapters:
+  5:
+    note: >-
+      "I wrote to you in my letter" (5:9) refers to an earlier letter to Corinth,
+      now lost.
+  15:
+    note: >-
+      15:3–8 quotes a tradition Paul "received", widely dated to within a few years
+      of the crucifixion (Paul's first Jerusalem visit, c. AD 35–37, Gal 1:18).
+    anchors: [ephesus, paul-conversion]
+  16:
+    note: "\"I will stay at Ephesus until Pentecost\" (16:8): spring of the year of writing."

@@ -1,0 +1,21 @@
+book: 3 John
+code: 3JN
+order: 64
+slug: 64-3john
+kind: letter
+
+written:
+  date: "c. AD 90–110"
+  range: [85, 110]
+  summary: From "the elder" to Gaius about Diotrephes; dated with 1 and 2 John.
+  views:
+    - date: "c. AD 90–110"
+      held_by: Brown; most scholars (Carson & Moo c. 85–95)
+      sources: [brown-epistles, carson-moo]
+
+default:
+  date: "c. AD 90–110"
+  range: [85, 110]
+  anchors: []
+
+chapters: {}

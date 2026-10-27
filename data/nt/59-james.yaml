@@ -1,0 +1,35 @@
+book: James
+code: JAS
+order: 59
+slug: 59-james
+kind: letter
+
+written:
+  date: "c. AD 45–62 (if by James the Just) or c. AD 80–100 (if not)"
+  range: [45, 100]
+  summary: >-
+    Attributed to "James" (1:1), traditionally the brother of Jesus and leader of the
+    Jerusalem church, who was killed in AD 62. Some conservative scholars make it one
+    of the earliest NT writings; critical scholars usually date it late in the first
+    century.
+  views:
+    - date: "c. AD 45–48 (or before 62)"
+      held_by: Moo; Carson & Moo; Robinson
+      basis: >-
+        A very Jewish setting ("synagogue", 2:2); no reference to the Gentile
+        controversy settled in AD 48–49; faith and works (2:14–26) answer a garbled
+        Paulinism before Paul's letters circulated.
+      sources: [moo-james, carson-moo, robinson]
+    - date: "c. AD 80–100"
+      held_by: Brown; many critical scholars
+      basis: >-
+        Polished Greek; it seems to respond to Paul's formulations (Rom 3:28) at some
+        remove; slow acceptance into the canon.
+      sources: [brown-intro]
+
+default:
+  date: "c. AD 45–62 or 80–100"
+  range: [45, 100]
+  anchors: [james-death]
+
+chapters: {}

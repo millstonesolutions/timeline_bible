@@ -1,0 +1,321 @@
+# Bibliography for the Timeline Bible.
+#
+# Each key is cited from data/anchors.yaml and data/nt/*.yaml as "key" or
+# "key locator" (e.g. "josephus-ant 17.167"). The build fails on an unknown key.
+#
+# status:
+#   verified   - someone has checked the work and the locators used against a copy.
+#   unverified - cited from general knowledge of the work. The work and its
+#                position are well known, but locators other than ancient
+#                book/section numbers still need checking against a copy.
+# Change a source to "verified" only after checking it.
+
+# --- Ancient sources ------------------------------------------------------
+
+josephus-ant:
+  short: Josephus, Antiquities
+  full: "Flavius Josephus, *Jewish Antiquities* (c. AD 93–94). Greek text and translation: Loeb Classical Library; public-domain translation by William Whiston (1737)."
+  kind: ancient
+  status: unverified
+
+josephus-war:
+  short: Josephus, Jewish War
+  full: "Flavius Josephus, *The Jewish War* (c. AD 75–79). Loeb Classical Library; Whiston translation."
+  kind: ancient
+  status: unverified
+
+tacitus-ann:
+  short: Tacitus, Annals
+  full: "Cornelius Tacitus, *Annals* (c. AD 116–120). Loeb Classical Library."
+  kind: ancient
+  status: unverified
+
+suetonius-claud:
+  short: Suetonius, Claudius
+  full: "Suetonius, *Lives of the Caesars*, 'Claudius' (c. AD 121). Loeb Classical Library."
+  kind: ancient
+  status: unverified
+
+orosius:
+  short: Orosius, History
+  full: "Paulus Orosius, *Seven Books of History against the Pagans* (c. AD 417)."
+  kind: ancient
+  status: unverified
+
+dio:
+  short: Cassius Dio, Roman History
+  full: "Cassius Dio, *Roman History* (early 3rd century AD). Loeb Classical Library."
+  kind: ancient
+  status: unverified
+
+gallio-inscription:
+  short: Delphi (Gallio) inscription
+  full: "Letter of Claudius to Delphi naming L. Junius Gallio as proconsul of Achaia, dated by Claudius's 26th imperial acclamation (AD 52). *Fouilles de Delphes* III.4 no. 286; SIG³ 801D."
+  kind: inscription
+  status: unverified
+
+irenaeus:
+  short: Irenaeus, Against Heresies
+  full: "Irenaeus of Lyon, *Against Heresies* (c. AD 180)."
+  kind: ancient
+  status: unverified
+
+eusebius-he:
+  short: Eusebius, Church History
+  full: "Eusebius of Caesarea, *Ecclesiastical History* (early 4th century AD)."
+  kind: ancient
+  status: unverified
+
+clement-1:
+  short: 1 Clement
+  full: "*1 Clement* (letter of the church of Rome to Corinth, usually dated c. AD 95–96)."
+  kind: ancient
+  status: unverified
+
+# --- Chronology of Jesus ----------------------------------------------------
+
+finegan:
+  short: Finegan 1998
+  full: "Jack Finegan, *Handbook of Biblical Chronology*, rev. ed. (Peabody, MA: Hendrickson, 1998)."
+  kind: modern
+  status: unverified
+
+hoehner:
+  short: Hoehner 1977
+  full: "Harold W. Hoehner, *Chronological Aspects of the Life of Christ* (Grand Rapids: Zondervan, 1977)."
+  kind: modern
+  status: unverified
+
+meier:
+  short: Meier 1991
+  full: "John P. Meier, *A Marginal Jew: Rethinking the Historical Jesus*, vol. 1 (New York: Doubleday, 1991), ch. 11, 'A Chronology of Jesus' Life'."
+  kind: modern
+  status: unverified
+
+brown-birth:
+  short: Brown, Birth of the Messiah
+  full: "Raymond E. Brown, *The Birth of the Messiah*, updated ed. (New York: Doubleday, 1993; 1st ed. 1977)."
+  kind: modern
+  status: unverified
+
+brown-death:
+  short: Brown, Death of the Messiah
+  full: "Raymond E. Brown, *The Death of the Messiah*, 2 vols. (New York: Doubleday, 1994)."
+  kind: modern
+  status: unverified
+
+humphreys-waddington:
+  short: Humphreys & Waddington 1983
+  full: "Colin J. Humphreys and W. Graeme Waddington, 'Dating the Crucifixion,' *Nature* 306 (1983): 743–746."
+  kind: modern
+  status: unverified
+
+humphreys-2011:
+  short: Humphreys 2011
+  full: "Colin J. Humphreys, *The Mystery of the Last Supper: Reconstructing the Final Days of Jesus* (Cambridge: Cambridge University Press, 2011)."
+  kind: modern
+  status: unverified
+
+schurer:
+  short: Schürer (rev.) 1973
+  full: "Emil Schürer, *The History of the Jewish People in the Age of Jesus Christ*, rev. and ed. G. Vermes, F. Millar and M. Black, vol. 1 (Edinburgh: T&T Clark, 1973)."
+  kind: modern
+  status: unverified
+
+filmer:
+  short: Filmer 1966
+  full: "W. E. Filmer, 'The Chronology of the Reign of Herod the Great,' *Journal of Theological Studies* n.s. 17 (1966): 283–298."
+  kind: modern
+  status: unverified
+
+steinmann-herod:
+  short: Steinmann 2009
+  full: "Andrew E. Steinmann, 'When Did Herod the Great Reign?' *Novum Testamentum* 51 (2009): 1–29."
+  kind: modern
+  status: unverified
+
+steinmann-abraham:
+  short: Steinmann 2011
+  full: "Andrew E. Steinmann, *From Abraham to Paul: A Biblical Chronology* (St. Louis: Concordia, 2011)."
+  kind: modern
+  status: unverified
+
+kokkinos:
+  short: Kokkinos 1989
+  full: "Nikos Kokkinos, 'Crucifixion in A.D. 36: The Keystone for Dating the Birth of Jesus,' in J. Vardaman and E. M. Yamauchi (eds.), *Chronos, Kairos, Christos* (Winona Lake: Eisenbrauns, 1989)."
+  kind: modern
+  status: unverified
+
+sanders:
+  short: Sanders 1993
+  full: "E. P. Sanders, *The Historical Figure of Jesus* (London: Allen Lane/Penguin, 1993)."
+  kind: modern
+  status: unverified
+
+bond:
+  short: Bond 2013
+  full: "Helen K. Bond, 'Dating the Death of Jesus: Memory and the Religious Imagination,' *New Testament Studies* 59 (2013): 461–475."
+  kind: modern
+  status: unverified
+
+# --- Chronology of Paul and Acts --------------------------------------------
+
+riesner:
+  short: Riesner 1998
+  full: "Rainer Riesner, *Paul's Early Period: Chronology, Mission Strategy, Theology*, trans. D. Stott (Grand Rapids: Eerdmans, 1998)."
+  kind: modern
+  status: unverified
+
+jewett:
+  short: Jewett 1979
+  full: "Robert Jewett, *A Chronology of Paul's Life* (Philadelphia: Fortress, 1979); UK title *Dating Paul's Life*."
+  kind: modern
+  status: unverified
+
+luedemann:
+  short: Lüdemann 1984
+  full: "Gerd Lüdemann, *Paul, Apostle to the Gentiles: Studies in Chronology* (Philadelphia: Fortress, 1984)."
+  kind: modern
+  status: unverified
+
+bruce-paul:
+  short: Bruce 1977
+  full: "F. F. Bruce, *Paul: Apostle of the Heart Set Free* (Grand Rapids: Eerdmans, 1977)."
+  kind: modern
+  status: unverified
+
+murphy-oconnor:
+  short: Murphy-O'Connor 2002
+  full: "Jerome Murphy-O'Connor, *St. Paul's Corinth: Texts and Archaeology*, 3rd ed. (Collegeville: Liturgical Press, 2002)."
+  kind: modern
+  status: unverified
+
+hemer:
+  short: Hemer 1989
+  full: "Colin J. Hemer, *The Book of Acts in the Setting of Hellenistic History* (Tübingen: Mohr Siebeck, 1989)."
+  kind: modern
+  status: unverified
+
+pervo:
+  short: Pervo 2006
+  full: "Richard I. Pervo, *Dating Acts: Between the Evangelists and the Apologists* (Santa Rosa: Polebridge, 2006)."
+  kind: modern
+  status: unverified
+
+ramsay:
+  short: Ramsay 1895
+  full: "William M. Ramsay, *St. Paul the Traveller and the Roman Citizen* (London: Hodder & Stoughton, 1895; public domain)."
+  kind: modern
+  status: unverified
+
+# --- Introductions (dates of writing) ----------------------------------------
+
+brown-intro:
+  short: Brown 1997
+  full: "Raymond E. Brown, *An Introduction to the New Testament* (New York: Doubleday, 1997). Each book's chapter opens with a 'Summary of Basic Information' giving a date."
+  kind: modern
+  status: unverified
+
+carson-moo:
+  short: Carson & Moo 2005
+  full: "D. A. Carson and Douglas J. Moo, *An Introduction to the New Testament*, 2nd ed. (Grand Rapids: Zondervan, 2005)."
+  kind: modern
+  status: unverified
+
+ehrman-nt:
+  short: Ehrman, NT Introduction
+  full: "Bart D. Ehrman, *The New Testament: A Historical Introduction to the Early Christian Writings* (New York: Oxford University Press; 1st ed. 1997, later editions)."
+  kind: modern
+  status: unverified
+
+robinson:
+  short: Robinson 1976
+  full: "John A. T. Robinson, *Redating the New Testament* (London: SCM, 1976)."
+  kind: modern
+  status: unverified
+
+crossley:
+  short: Crossley 2004
+  full: "James G. Crossley, *The Date of Mark's Gospel: Insight from the Law in Earliest Christianity* (London: T&T Clark, 2004)."
+  kind: modern
+  status: unverified
+
+nongbri:
+  short: Nongbri 2005
+  full: "Brent Nongbri, 'The Use and Abuse of P52: Papyrological Pitfalls in the Dating of the Fourth Gospel,' *Harvard Theological Review* 98 (2005): 23–48."
+  kind: modern
+  status: unverified
+
+# --- Commentaries -------------------------------------------------------------
+
+longenecker-gal:
+  short: Longenecker 1990
+  full: "Richard N. Longenecker, *Galatians*, Word Biblical Commentary 41 (Dallas: Word, 1990)."
+  kind: modern
+  status: unverified
+
+betz-gal:
+  short: Betz 1979
+  full: "Hans Dieter Betz, *Galatians*, Hermeneia (Philadelphia: Fortress, 1979)."
+  kind: modern
+  status: unverified
+
+lincoln-eph:
+  short: Lincoln 1990
+  full: "Andrew T. Lincoln, *Ephesians*, Word Biblical Commentary 42 (Dallas: Word, 1990)."
+  kind: modern
+  status: unverified
+
+hoehner-eph:
+  short: Hoehner 2002
+  full: "Harold W. Hoehner, *Ephesians: An Exegetical Commentary* (Grand Rapids: Baker, 2002)."
+  kind: modern
+  status: unverified
+
+fee-phil:
+  short: Fee 1995
+  full: "Gordon D. Fee, *Paul's Letter to the Philippians*, NICNT (Grand Rapids: Eerdmans, 1995)."
+  kind: modern
+  status: unverified
+
+lane-heb:
+  short: Lane 1991
+  full: "William L. Lane, *Hebrews 1–8*, Word Biblical Commentary 47A (Dallas: Word, 1991)."
+  kind: modern
+  status: unverified
+
+moo-james:
+  short: Moo 2000
+  full: "Douglas J. Moo, *The Letter of James*, Pillar New Testament Commentary (Grand Rapids: Eerdmans, 2000)."
+  kind: modern
+  status: unverified
+
+elliott-1pet:
+  short: Elliott 2000
+  full: "John H. Elliott, *1 Peter*, Anchor Bible 37B (New York: Doubleday, 2000)."
+  kind: modern
+  status: unverified
+
+bauckham-jude:
+  short: Bauckham 1983
+  full: "Richard J. Bauckham, *Jude, 2 Peter*, Word Biblical Commentary 50 (Waco: Word, 1983)."
+  kind: modern
+  status: unverified
+
+brown-epistles:
+  short: Brown 1982
+  full: "Raymond E. Brown, *The Epistles of John*, Anchor Bible 30 (Garden City: Doubleday, 1982)."
+  kind: modern
+  status: unverified
+
+aune:
+  short: Aune 1997
+  full: "David E. Aune, *Revelation 1–5*, Word Biblical Commentary 52A (Dallas: Word, 1997), introduction on date."
+  kind: modern
+  status: unverified
+
+gentry:
+  short: Gentry 1989
+  full: "Kenneth L. Gentry Jr., *Before Jerusalem Fell: Dating the Book of Revelation* (Tyler, TX: Institute for Christian Economics, 1989)."
+  kind: modern
+  status: unverified

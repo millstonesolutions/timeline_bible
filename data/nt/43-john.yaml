@@ -1,0 +1,165 @@
+book: John
+code: JHN
+order: 43
+slug: 43-john
+
+written:
+  date: "c. AD 90–100 (range AD 80–110)"
+  range: [60, 110]
+  summary: >-
+    Usually dated c. AD 90–100, the last of the four Gospels; some argue for a date
+    before 70.
+  views:
+    - date: "AD 90–110"
+      held_by: Most scholars (Brown; Ehrman); Carson & Moo prefer c. 80–85
+      basis: >-
+        Developed Christology; expulsion from the synagogue (9:22; 16:2) read
+        against the period after 70; early tradition places John at Ephesus late in
+        life under Trajan (Irenaeus, *Against Heresies* 3.1.1, 3.3.4). The upper limit
+        once rested on P52 (c. 125), but Nongbri (2005) has shown that the papyrus
+        can only be dated within a wider range, extending later.
+      sources: [brown-intro, carson-moo, irenaeus 3.1.1, nongbri]
+    - date: "before AD 70"
+      held_by: Robinson and others (minority)
+      basis: >-
+        Accurate pre-70 topography of Jerusalem (the pool with five porticoes
+        "is" there, 5:2); no reference to the temple's destruction.
+      sources: [robinson]
+
+chapters:
+  1:
+    date: "Prologue: before time; narrative from late AD 27 or 28/29"
+    a: "late AD 27 / early 28"
+    b: "late AD 28 / 29"
+    range: [27, 29]
+    anchors: [ministry-start, models]
+    note: >-
+      1:1–18 speaks of the Word "in the beginning" and has no historical date. From
+      1:19 on: John's testimony after the baptism, and the first disciples.
+  2:
+    date: "Passover AD 28 or AD 30"
+    a: "Passover (March–April) AD 28"
+    b: "Passover AD 30"
+    range: [28, 30]
+    anchors: [ministry-start, models]
+    note: >-
+      Cana, then the first Passover of the ministry (2:13) with the temple cleansing.
+      "Forty-six years this temple has been in building" (2:20) is one of the main
+      clues to the year; see the anchor.
+  3:
+    date: "spring–summer AD 28 or 30"
+    a: "AD 28"
+    b: "AD 30"
+    range: [28, 30]
+    anchors: [models]
+    note: Nicodemus; Jesus baptizing in Judea "for John was not yet thrown into prison" (3:24).
+  4:
+    date: "winter AD 28 or AD 30"
+    a: "December AD 28 / January 29"
+    b: "December AD 30 / January 31"
+    range: [28, 31]
+    anchors: [models]
+    note: >-
+      "There are yet four months until the harvest" (4:35) points to about
+      December–January if meant literally (grain harvest in April–May), though it
+      may be a proverb.
+  5:
+    date: "AD 29 or 31 (unnamed feast)"
+    a: "AD 29"
+    b: "AD 31"
+    range: [28, 31]
+    anchors: [models]
+    note: >-
+      "A feast of the Jews" (5:1) is unnamed: Passover, Pentecost, Tabernacles and
+      Purim have all been proposed. Model B usually takes it as the Passover of
+      AD 31, the extra Passover that a four-year ministry needs.
+  6:
+    date: "Passover season AD 29 or AD 32"
+    a: "spring AD 29"
+    b: "spring AD 32"
+    range: [29, 32]
+    anchors: [models]
+    note: "The second named Passover: \"the Passover, the feast of the Jews, was at hand\" (6:4)."
+  7: &tabernacles
+    date: "Tabernacles, October AD 29 or 32"
+    a: "October AD 29"
+    b: "October AD 32"
+    range: [29, 32]
+    anchors: [models]
+    note: The feast of Tabernacles (7:2, 14, 37), late September or October.
+  8:
+    date: "Tabernacles, October AD 29 or 32"
+    a: "October AD 29"
+    b: "October AD 32"
+    range: [29, 32]
+    anchors: [models]
+    note: >-
+      Continues the Tabernacles visit. The story of the adulterous woman (7:53–8:11)
+      is missing from the earliest manuscripts and floats between places in later
+      ones; it can't be dated within the ministry.
+  9: *tabernacles
+  10:
+    date: "October – December AD 29 or 32"
+    a: "October – December AD 29"
+    b: "October – December AD 32"
+    range: [29, 32]
+    anchors: [models]
+    note: The Good Shepherd discourse, then "the Feast of the Dedication [Hanukkah] ... it was winter" (10:22), then withdrawal beyond the Jordan (10:40).
+  11:
+    date: "early AD 30 or 33"
+    a: "February–March AD 30"
+    b: "February–March AD 33"
+    range: [30, 33]
+    anchors: [models]
+    note: Lazarus is raised; the council decides on Jesus' death; "the Passover of the Jews was at hand" (11:55).
+  12:
+    date: "Saturday 1 – Sunday 2 April AD 30, or 28–29 March AD 33"
+    a: "1–2 April AD 30 and the following days"
+    b: "28–29 March AD 33 and the following days"
+    range: [30, 33]
+    anchors: [passion-week]
+    note: >-
+      "Six days before the Passover" Jesus comes to Bethany (12:1); "the next day"
+      he enters Jerusalem (12:12).
+  13: &thursday
+    date: "Thursday evening, 6 April AD 30 or 2 April AD 33"
+    a: "6 April AD 30"
+    b: "2 April AD 33"
+    range: [30, 33]
+    anchors: [passion-week]
+    note: >-
+      The supper "before the feast of the Passover" (13:1), with the foot-washing and
+      farewell discourses (13–17). Here it isn't the Passover meal itself, which is
+      the core of the Johannine/Synoptic dating question.
+  14: *thursday
+  15: *thursday
+  16: *thursday
+  17: *thursday
+  18:
+    date: "Thursday night – Friday morning, 6–7 April AD 30 or 2–3 April AD 33"
+    a: "6–7 April AD 30"
+    b: "2–3 April AD 33"
+    range: [30, 33]
+    anchors: [passion-week, crucifixion]
+    note: The arrest, Annas, Caiaphas and Pilate; the accusers avoid the praetorium "that they might eat the Passover" (18:28).
+  19:
+    date: "Friday, 7 April AD 30 or 3 April AD 33"
+    a: "7 April AD 30"
+    b: "3 April AD 33"
+    range: [30, 33]
+    anchors: [crucifixion]
+    note: "\"It was the Preparation Day of the Passover, at about the sixth hour\" (19:14): Nisan 14 in John's reckoning."
+  20:
+    date: "Sunday, 9 April AD 30 or 5 April AD 33, and one week later"
+    a: "9 and 16 April AD 30"
+    b: "5 and 12 April AD 33"
+    range: [30, 33]
+    anchors: [resurrection-ascension]
+    note: The appearance to Thomas is "after eight days" (20:26), the following Sunday.
+  21:
+    date: "April–May AD 30 or 33"
+    a: "April–May AD 30"
+    b: "April–May AD 33"
+    range: [30, 33]
+    anchors: [resurrection-ascension]
+    note: The appearance by the Sea of Tiberias, within the forty days of Acts 1:3.

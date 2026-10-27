@@ -1,0 +1,33 @@
+book: 1 Timothy
+code: 1TI
+order: 54
+slug: 54-1timothy
+kind: letter
+
+written:
+  date: "c. AD 62–64 (if by Paul) or c. AD 90–110 (if not)"
+  range: [62, 120]
+  summary: >-
+    One of the three Pastoral Letters, whose Pauline authorship most critical scholars
+    doubt. If by Paul, it fits a release after the Roman house arrest (Acts 28) and
+    further travels before his death; if not, it is usually dated to about the turn of
+    the 2nd century.
+  views:
+    - date: "c. AD 62–64"
+      held_by: Carson & Moo; many conservative scholars
+      basis: >-
+        Self-claim; Paul left Timothy in Ephesus and went to Macedonia (1:3), a
+        journey Acts doesn't fit, which suggests a second phase of ministry after
+        AD 62 (cf. 1 Clement 5.7, "the limit of the west").
+      sources: [carson-moo, clement-1 5]
+    - date: "c. AD 90–110"
+      held_by: Brown; Ehrman; most critical scholars
+      basis: Vocabulary and style; a developed church order (bishops, elders, deacons, enrolled widows); a 'deposit' of faith to guard.
+      sources: [brown-intro, ehrman-nt]
+
+default:
+  date: "c. AD 62–64 or 90–110"
+  range: [62, 120]
+  anchors: [paul-rome, nero]
+
+chapters: {}

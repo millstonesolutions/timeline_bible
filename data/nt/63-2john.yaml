@@ -1,0 +1,21 @@
+book: 2 John
+code: 2JN
+order: 63
+slug: 63-2john
+kind: letter
+
+written:
+  date: "c. AD 90–110"
+  range: [85, 110]
+  summary: From "the elder" (v. 1); dated with 1 John, which it echoes (v. 7 ~ 1 John 4:2–3).
+  views:
+    - date: "c. AD 90–110"
+      held_by: Brown; most scholars (Carson & Moo c. 85–95)
+      sources: [brown-epistles, carson-moo]
+
+default:
+  date: "c. AD 90–110"
+  range: [85, 110]
+  anchors: []
+
+chapters: {}

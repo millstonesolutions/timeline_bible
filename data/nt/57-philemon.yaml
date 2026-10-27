@@ -1,0 +1,28 @@
+book: Philemon
+code: PHM
+order: 57
+slug: 57-philemon
+kind: letter
+
+written:
+  date: "c. AD 60–62 (Rome) or c. AD 54–55 (Ephesus)"
+  range: [54, 62]
+  summary: >-
+    Paul's authorship is undisputed. A prison letter (vv. 1, 9–10) written with
+    Colossians, about the slave Onesimus. Ephesus suits Onesimus's flight and Paul's
+    plan to visit Colossae (v. 22); Rome is the traditional setting.
+  views:
+    - date: "c. AD 60–62, Rome"
+      held_by: Traditional view; Carson & Moo
+      sources: [carson-moo]
+    - date: "c. AD 54–55, Ephesus"
+      held_by: Many scholars (Brown regards it as likely)
+      basis: Colossae is about 190 km from Ephesus; "prepare a guest room for me" (v. 22).
+      sources: [brown-intro]
+
+default:
+  date: "c. AD 54–55 or 60–62"
+  range: [54, 62]
+  anchors: [ephesus, paul-rome]
+
+chapters: {}

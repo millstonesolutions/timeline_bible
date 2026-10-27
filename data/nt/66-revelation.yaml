@@ -1,0 +1,59 @@
+book: Revelation
+code: REV
+order: 66
+slug: 66-revelation
+
+written:
+  date: "c. AD 95 (minority AD 68–69)"
+  range: [68, 96]
+  summary: >-
+    John on Patmos (1:9). Most date it to the end of Domitian's reign, following
+    Irenaeus; a minority argue for the year after Nero's death.
+  views:
+    - date: "c. AD 95"
+      held_by: Brown; Carson & Moo; Aune (final edition); most scholars
+      basis: See the anchor *Revelation and the reign of Domitian*.
+      sources: [irenaeus 5.30.3, brown-intro, carson-moo, aune]
+    - date: "AD 68–69"
+      held_by: Robinson; Gentry
+      basis: The temple apparently still standing (11:1–2); the five fallen kings (17:10); Nero and 666 (13:18).
+      sources: [robinson, gentry]
+
+default:
+  date: "c. AD 95 (or 68–69)"
+  range: [68, 96]
+  anchors: [domitian]
+  label: Date of the vision and writing
+
+chapters:
+  1:
+    note: "\"I, John ... was on the isle that is called Patmos because of God's Word\" (1:9), on \"the Lord's day\" (1:10)."
+  2:
+    note: >-
+      The seven churches of Asia. The church in Ephesus has "left its first love"
+      (2:4) and a martyr, Antipas, has died in Pergamum (2:13), which suggests some
+      time has passed since the churches were founded (c. AD 52–56).
+  3:
+    note: >-
+      Laodicea's boast "I am rich ... and have need of nothing" (3:17) may recall the
+      city rebuilding after the AD 60 earthquake without imperial help (Tacitus,
+      *Ann.* 14.27). Smyrna and Laodicea's development is part of the argument for a
+      late date.
+    sources: [tacitus-ann 14.27]
+  11:
+    note: >-
+      "Measure God's temple" (11:1–2) is an argument for a date before 70 if taken
+      literally; most read it symbolically.
+    anchors: [domitian, temple-70]
+  13:
+    note: >-
+      The number of the beast, 666 (13:18; some manuscripts 616), is often taken as
+      the value of "Nero Caesar" in Hebrew letters. On the late date, it alludes to
+      the legend of Nero's return (*Nero redivivus*).
+    anchors: [domitian, nero]
+  17:
+    note: >-
+      "Five have fallen, one is, the other has not yet come" (17:10): the count of
+      emperors depends on where it starts and whether the three of AD 68–69 are
+      included. That's how the text can support a date under Nero, Galba, Vespasian
+      or Domitian.

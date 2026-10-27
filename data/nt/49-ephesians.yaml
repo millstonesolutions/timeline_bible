@@ -1,0 +1,33 @@
+book: Ephesians
+code: EPH
+order: 49
+slug: 49-ephesians
+kind: letter
+
+written:
+  date: "c. AD 60–62 (if by Paul) or c. AD 80–90 (if not)"
+  range: [60, 95]
+  summary: >-
+    One of the disputed Pauline letters. It claims to be written by Paul in prison
+    (3:1; 4:1; 6:20). If authentic, it most likely comes from the Roman house arrest
+    (or an earlier imprisonment); if written by a disciple in Paul's name, it is
+    usually dated AD 80–90. "In Ephesus" (1:1) is missing from the earliest
+    manuscripts.
+  views:
+    - date: "c. AD 60–62, Rome"
+      held_by: Hoehner; Carson & Moo; many conservative scholars
+      basis: Self-claim; the close links with Colossians and Philemon (Tychicus, 6:21 = Col 4:7).
+      sources: [hoehner-eph, carson-moo]
+    - date: "c. AD 80–90"
+      held_by: Lincoln; Brown (c. 90, ± 10); a majority of critical scholars
+      basis: >-
+        Style and vocabulary, literary dependence on Colossians, the universal
+        "church", and a perspective looking back on the apostles (2:20; 3:5).
+      sources: [lincoln-eph, brown-intro]
+
+default:
+  date: "c. AD 60–62 or 80–90"
+  range: [60, 95]
+  anchors: [paul-rome]
+
+chapters: {}

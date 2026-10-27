@@ -1,0 +1,214 @@
+book: Acts
+code: ACT
+order: 44
+slug: 44-acts
+
+written:
+  date: "c. AD 80–90 (some say c. 62; a few AD 110–120)"
+  range: [62, 120]
+  summary: >-
+    Luke's second volume. Most date it with Luke, c. AD 80–90; a conservative
+    minority put it c. AD 62, when its narrative ends; Pervo argues for AD 110–120.
+  views:
+    - date: "AD 80–90"
+      held_by: Most critical scholars (Brown c. 85 ± 5–10; Ehrman)
+      basis: Written after Luke, which is dated after AD 70; Paul is portrayed from some distance.
+      sources: [brown-intro, ehrman-nt]
+    - date: "c. AD 62"
+      held_by: Hemer; Robinson; Bruce (in some works); discussed favourably by Carson & Moo
+      basis: >-
+        The book ends with Paul two years in Rome awaiting trial (28:30–31) and says
+        nothing of his death, Nero's persecution (AD 64), James's death (AD 62) or
+        the temple's fall (AD 70). Hemer catalogues detailed first-century local
+        knowledge.
+      sources: [hemer, robinson, carson-moo]
+    - date: "AD 110–120"
+      held_by: Pervo (minority)
+      basis: Possible use of Josephus's *Antiquities* (AD 93/94) and of a collection of Paul's letters.
+      sources: [pervo]
+
+chapters:
+  1:
+    date: "April–May AD 30 or 33"
+    range: [30, 33]
+    a: "May AD 30"
+    b: "May AD 33"
+    anchors: [resurrection-ascension]
+    note: Forty days of appearances (1:3), the ascension, and the choice of Matthias.
+  2:
+    date: "Pentecost, late May AD 30 or 33"
+    range: [30, 33]
+    a: "late May AD 30"
+    b: "late May AD 33"
+    anchors: [resurrection-ascension]
+    note: Pentecost is fifty days after Passover. Humphreys & Waddington link Peter's "moon into blood" (2:20) with the partial lunar eclipse on 3 April AD 33.
+    sources: [humphreys-waddington]
+  3: &jerusalem
+    date: "c. AD 30–33 or 33–34"
+    range: [30, 34]
+    a: "c. AD 30–32"
+    b: "c. AD 33–34"
+    anchors: [early-church]
+  4:
+    date: "c. AD 30–33 or 33–34"
+    range: [30, 34]
+    a: "c. AD 30–32"
+    b: "c. AD 33–34"
+    anchors: [early-church]
+    note: Annas and Caiaphas are still in power (4:6); Caiaphas was deposed in AD 36/37 (Josephus, *Ant.* 18.95).
+    sources: [josephus-ant 18.95]
+  5:
+    date: "c. AD 31–34"
+    range: [31, 34]
+    anchors: [early-church]
+    note: >-
+      Gamaliel cites Theudas and Judas the Galilean (5:36–37). Josephus puts a
+      Theudas under the procurator Fadus (c. AD 44–46, *Ant.* 20.97–98), after this
+      speech's setting: either Luke has made an error, or it is a different Theudas.
+      This is one of the evidence points in the debate about Luke's use of Josephus.
+    sources: [josephus-ant 20.97–98, pervo]
+  6:
+    date: "c. AD 31–34"
+    range: [31, 34]
+    anchors: [early-church]
+    note: The Seven appointed; Stephen arrested.
+  7:
+    date: "c. AD 31–34 (some say 36/37)"
+    range: [31, 37]
+    anchors: [early-church]
+    note: Stephen's speech and stoning; Saul is present (7:58).
+  8:
+    date: "c. AD 31–35"
+    range: [31, 35]
+    anchors: [early-church, paul-conversion]
+    note: Persecution after Stephen's death; Philip in Samaria and the Ethiopian official.
+  9:
+    date: "c. AD 33–37 (conversion c. 31–36; first Jerusalem visit 3 years later)"
+    range: [31, 39]
+    anchors: [paul-conversion]
+    note: >-
+      Saul's conversion (9:1–19), preaching in Damascus, escape over the wall
+      (9:23–25; under Aretas, 2 Cor 11:32), first Jerusalem visit "after three years"
+      (Gal 1:18), departure for Tarsus. Peter's tour of Lydda and Joppa (9:32–43)
+      follows, c. AD 37–40.
+  10:
+    date: "c. AD 37–41"
+    range: [36, 41]
+    anchors: [paul-conversion, agrippa-death]
+    note: >-
+      Cornelius at Caesarea. No firm synchronism: it comes after Saul's departure
+      for Tarsus (9:30) and before Agrippa I's persecution (AD 43/44).
+  11:
+    date: "c. AD 40–46"
+    range: [39, 47]
+    anchors: [famine]
+    note: >-
+      The church at Antioch; Barnabas brings Saul from Tarsus for "a whole year"
+      (11:26); Agabus predicts the famine "in the days of Claudius" (11:28); the
+      relief is sent with Barnabas and Saul (11:30).
+  12:
+    date: "AD 43–44 (relief visit returns c. 45–47)"
+    range: [43, 45]
+    anchors: [agrippa-death, famine]
+    note: >-
+      James son of Zebedee is executed and Peter imprisoned "during the days of
+      unleavened bread" (12:3). Agrippa dies at Caesarea (12:20–23), firmly AD 44.
+      12:25 brings Barnabas and Saul back from Jerusalem.
+  13: &journey1
+    date: "c. AD 46–48"
+    range: [45, 49]
+    anchors: [council, famine]
+    note: >-
+      First missionary journey: Cyprus, Pisidian Antioch, Iconium, Lystra, Derbe.
+      Sergius Paulus, proconsul of Cyprus (13:7), is known from inscriptions whose
+      identification and dates are debated.
+    sources: [riesner, hemer]
+  14:
+    date: "c. AD 47–48"
+    range: [45, 49]
+    anchors: [council]
+    note: Iconium, Lystra and Derbe, the return, and "a long time" at Antioch (14:28).
+  15:
+    date: "c. AD 48–49 (council); second journey begins c. 49"
+    range: [47, 50]
+    anchors: [council]
+    note: The Jerusalem council, then Paul and Silas set out through Syria and Cilicia (15:40–41).
+  16:
+    date: "c. AD 49–50"
+    range: [49, 50]
+    anchors: [council, gallio]
+    note: Timothy joins; the Macedonian call at Troas; Philippi. The "we" passages begin (16:10).
+  17:
+    date: "c. AD 50"
+    range: [49, 51]
+    anchors: [gallio]
+    note: Thessalonica, Berea, Athens. 1 Thessalonians recalls this (1 Thess 2:1–2; 3:1).
+  18:
+    date: "c. AD 50–52 (Corinth); journey to Antioch c. 52"
+    range: [49, 53]
+    anchors: [claudius-edict, gallio]
+    note: >-
+      Aquila and Priscilla had "recently" come from Italy because of Claudius's edict
+      (18:2; AD 49). Paul stays 18 months (18:11) and is brought before the
+      proconsul Gallio (18:12; AD 51–52). Then Ephesus, Caesarea, Antioch, and the
+      start of the third journey (18:23).
+  19:
+    date: "c. AD 52/53–55/56"
+    range: [52, 56]
+    anchors: [ephesus]
+    note: Paul in Ephesus for three months in the synagogue and two years in the hall of Tyrannus (19:8–10); the riot of the silversmiths.
+  20:
+    date: "c. AD 56–57 (Passover at Philippi, spring 57)"
+    range: [55, 58]
+    anchors: [paul-arrest]
+    note: >-
+      Macedonia, three months in Greece (20:3: Romans is written then), sailing from
+      Philippi "after the days of unleavened bread" (20:6), Troas, and the farewell to
+      the Ephesian elders at Miletus; hurrying to reach Jerusalem by Pentecost (20:16).
+  21:
+    date: "spring–summer AD 57"
+    range: [56, 58]
+    anchors: [paul-arrest]
+    note: Arrival in Jerusalem, the meeting with James, the temple riot and arrest. The tribune takes Paul for "the Egyptian" (21:38), a rebel Josephus places under Felix (*Ant.* 20.169–172).
+    sources: [josephus-ant 20.169–172]
+  22:
+    date: "AD 57"
+    range: [56, 58]
+    anchors: [paul-arrest]
+  23:
+    date: "AD 57"
+    range: [56, 58]
+    anchors: [paul-arrest]
+    note: Before the Sanhedrin with the high priest Ananias son of Nedebaeus (in office c. AD 47–58/59); transfer to Felix at Caesarea.
+    sources: ["josephus-ant 20.103, 20.131, 20.179"]
+  24:
+    date: "AD 57–59"
+    range: [56, 60]
+    anchors: [paul-arrest, festus]
+    note: >-
+      The hearing before Felix and his wife Drusilla (Agrippa I's daughter). "When two
+      years were fulfilled, Felix was succeeded by Porcius Festus" (24:27).
+  25:
+    date: "AD 59 (or 60)"
+    range: [55, 60]
+    anchors: [festus]
+    note: Festus arrives; Paul appeals to Caesar; Agrippa II and Bernice visit.
+  26:
+    date: "AD 59 (or 60)"
+    range: [55, 60]
+    anchors: [festus]
+    note: Paul's defence before Agrippa II.
+  27:
+    date: "autumn AD 59 (or 60)"
+    range: [59, 60]
+    anchors: [paul-rome]
+    note: >-
+      The voyage and shipwreck. "The Fast had now already gone by" (27:9): the Day of
+      Atonement, after which sailing became dangerous.
+  28:
+    date: "winter AD 59/60 – c. 62 (or 60/61–63)"
+    range: [60, 63]
+    anchors: [paul-rome]
+    note: >-
+      Three months on Malta (28:11), arrival in Rome in spring, and "two whole years"
+      in his own rented house (28:30). The book ends here, c. AD 62.

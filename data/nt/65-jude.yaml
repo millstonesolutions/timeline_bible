@@ -1,0 +1,28 @@
+book: Jude
+code: JUD
+order: 65
+slug: 65-jude
+kind: letter
+
+written:
+  date: "c. AD 50–90 (if by Jude, brother of James) or c. AD 90–120 (if not)"
+  range: [50, 120]
+  summary: >-
+    "Jude, ... brother of James" (v. 1), traditionally a brother of Jesus. It quotes
+    1 Enoch (vv. 14–15). 2 Peter appears to use it.
+  views:
+    - date: "c. AD 50–60"
+      held_by: Bauckham (possibly the 50s); many conservative scholars
+      basis: Palestinian Jewish-Christian apocalyptic exegesis; the author lived in the first Christian generation.
+      sources: [bauckham-jude, carson-moo]
+    - date: "c. AD 90–120"
+      held_by: Brown (90s); many critical scholars
+      basis: "\"Remember the words spoken before by the apostles\" (v. 17) looks back on the apostolic age; \"the faith once for all delivered\" (v. 3)."
+      sources: [brown-intro]
+
+default:
+  date: "c. AD 50–90 or 90–120"
+  range: [50, 120]
+  anchors: []
+
+chapters: {}

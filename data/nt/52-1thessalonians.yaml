@@ -1,0 +1,33 @@
+book: 1 Thessalonians
+code: 1TH
+order: 52
+slug: 52-1thessalonians
+kind: letter
+
+written:
+  date: "c. AD 50–51"
+  range: [49, 51]
+  summary: >-
+    Usually considered the earliest surviving Christian writing. Paul's authorship is
+    undisputed. Written from Corinth soon after Timothy returned from Thessalonica
+    (3:6; Acts 18:5), early in the 18 months fixed by Gallio.
+  views:
+    - date: "c. AD 50–51, Corinth"
+      held_by: Nearly all scholars (Brown; Carson & Moo; Riesner)
+      basis: Acts 17–18 and 1 Thess 2:17–3:6; the Gallio inscription fixes Paul's time in Corinth.
+      sources: [brown-intro, carson-moo, riesner, gallio-inscription]
+    - date: "c. AD 41–43"
+      held_by: Lüdemann (early chronology)
+      basis: His dating of the Claudius edict to AD 41 and of Paul's first visit to Greece before the council.
+      sources: [luedemann]
+
+default:
+  date: "c. AD 50–51"
+  range: [49, 51]
+  anchors: [gallio]
+
+chapters:
+  2:
+    note: >-
+      2:14–16 ("wrath has come on them at last") is read by a few scholars as a
+      later insertion after AD 70; most consider it original.

@@ -1,0 +1,508 @@
+# Chronological anchors: the fixed points that chapter dates hang from.
+#
+# A chapter cites an anchor by key (anchors: [crucifixion]). The build prints
+# the anchor's `short` line and its sources under that chapter, and writes the
+# full discussion to nt/anchors.md. Change a date here and every chapter that
+# uses it shows the new reasoning on the next build.
+#
+# Years: negative = BC, positive = AD. There is no year 0 (1 BC is followed by AD 1).
+
+birth:
+  title: Birth of Jesus
+  date: "c. 6–4 BC"
+  range: [-7, -2]
+  short: >-
+    Before Herod the Great's death (Matt 2:1, 19; Luke 1:5), which most historians
+    put in spring 4 BC; a minority argue for 1 BC, which puts the birth c. 3–2 BC.
+  discussion: |
+    **Herod's death.** Matthew and Luke both place the birth in Herod the Great's
+    reign. Josephus dates Herod's death shortly after a lunar eclipse and before a
+    Passover (*Ant.* 17.167, 17.213) and gives reign lengths (*Ant.* 17.191) that,
+    with the reigns of his sons, point to 4 BC. That is the standard view
+    (Schürer; Finegan; Brown; Meier; Sanders). Matthew 2:16 ("two years old and
+    under") suggests the birth came a year or two before Herod died, hence
+    "c. 6–4 BC".
+
+    **Minority: 1 BC.** Filmer (1966) and Steinmann (2009) argue that Herod died in
+    early 1 BC (associated with the total lunar eclipse of January 1 BC), which
+    allows a birth c. 3–2 BC. That date fits the early-church tradition (Irenaeus,
+    Clement of Alexandria and others put the birth around 3–2 BC). Finegan's
+    handbook sets out both reckonings.
+
+    **Quirinius's census (Luke 2:2).** Josephus dates Quirinius's census of Judea
+    to AD 6, when Archelaus was deposed (*Ant.* 17.355; 18.1–2, 18.26). Brown treats
+    Luke's dating as a historical confusion; others propose an earlier registration
+    or translate *prōtē* as "before" the governorship of Quirinius. That census is
+    the main tension in any birth date and remains unresolved.
+  sources:
+    - josephus-ant 17.167, 17.191, 17.213
+    - schurer
+    - finegan
+    - brown-birth Appendix VII
+    - meier ch. 11
+    - filmer
+    - steinmann-herod
+
+childhood:
+  title: Jesus at twelve in the temple
+  date: "c. AD 6–9"
+  range: [6, 9]
+  short: >-
+    Luke 2:42 says Jesus was twelve; counting from a birth c. 6–4 BC that is
+    c. AD 7–9 (c. AD 9–10 from a 3–2 BC birth).
+  discussion: |
+    No external synchronism; the date simply follows from the birth date plus
+    twelve years. It falls near the deposition of Archelaus and Quirinius's census
+    (AD 6).
+  sources:
+    - finegan
+    - brown-birth
+
+models:
+  title: Two models for the ministry of Jesus
+  date: "AD 27/28–30 or AD 29–33"
+  range: [27, 33]
+  short: >-
+    Model A: ministry c. AD 27/28–30, crucifixion 7 April AD 30.
+    Model B: ministry AD 29–33, crucifixion 3 April AD 33. Both are held widely,
+    so chapters set in the ministry give a date for each model.
+  discussion: |
+    Every date inside Jesus' ministry depends on two disputed points: when it began
+    (Luke 3:1) and the year of the crucifixion (AD 30 or 33). John names three
+    Passovers (2:13; 6:4; 11:55 and following), so on John's outline the ministry
+    lasted at least two years and some months. The Synoptics, read alone, could fit
+    a single year.
+
+    | | Model A | Model B |
+    |---|---|---|
+    | Baptism and first disciples | late AD 27 / early 28 | late AD 28 / 29 |
+    | First Passover (John 2:13) | AD 28 | AD 30 |
+    | Feeding of the 5,000, Passover (John 6:4) | AD 29 | AD 32 |
+    | Tabernacles, Dedication (John 7–10) | autumn–winter AD 29 | autumn–winter AD 32 |
+    | Crucifixion | Friday 7 April AD 30 | Friday 3 April AD 33 |
+    | Held by (examples) | Meier; Riesner; Sanders (c. 30) | Hoehner; Humphreys & Waddington; Steinmann |
+
+    Model A has to read Luke's "fifteenth year of Tiberius" from a co-regency
+    (AD 11/12) or by a Syrian/Jewish regnal-year count (making AD 27/28 the
+    fifteenth year), or else shorten the ministry. Model B takes Luke 3:1 at face
+    value (AD 28/29), but needs a ministry of about 3½–4 years, with an extra
+    Passover implied between John 2 and John 6 (often seen in John 5:1).
+
+    Dates inside the ministry are approximate under either model: the Gospels
+    arrange much of their material by topic, not in strict order.
+  sources:
+    - meier ch. 11
+    - hoehner
+    - finegan
+    - brown-death
+    - humphreys-waddington
+
+ministry-start:
+  title: Start of John the Baptist's preaching and Jesus' baptism
+  date: "AD 27–29"
+  range: [27, 29]
+  short: >-
+    Luke 3:1 dates John's preaching to the 15th year of Tiberius: AD 28/29 counted
+    from Augustus' death (19 Aug AD 14), or AD 26/27 or 27/28 on other reckonings.
+    John 2:20 ("46 years" building the temple) gives AD 27/28 or 29/30, depending on
+    what Herod's building start refers to.
+  discussion: |
+    **Luke 3:1–2.** Tiberius succeeded Augustus on 19 August AD 14. Counting his
+    years from then, the 15th year is AD 28/29 (Hoehner; most historians). Some
+    count from his co-regency with Augustus (AD 11/12), which gives AD 26/27, or
+    use the Syrian/Jewish autumn new year with an accession-year count, which gives
+    autumn AD 27–28 (Finegan sets out the options). Pilate (AD 26–36/37), Antipas
+    (4 BC–AD 39), Philip (4 BC–AD 33/34) and the high priest Caiaphas (c. AD 18–36)
+    all fit.
+
+    **Luke 3:23.** Jesus was "about thirty": loose, but consistent with a birth
+    c. 6–4 BC and a start in AD 27–29.
+
+    **John 2:20.** "Forty-six years this temple has been in building." Josephus
+    dates the start of Herod's rebuilding to his 18th year, 20/19 BC (*Ant.*
+    15.380). Forty-six years on is AD 27/28 (Model A). Hoehner reads *naos* as the
+    sanctuary building, finished c. 18/17 BC, which puts the remark at Passover
+    AD 30 (Model B).
+  sources:
+    - hoehner
+    - finegan
+    - meier ch. 11
+    - josephus-ant 15.380
+
+john-baptist-death:
+  title: Death of John the Baptist
+  date: "c. AD 28–32"
+  range: [28, 33]
+  short: >-
+    John was beheaded by Herod Antipas at Machaerus (Josephus, *Ant.* 18.116–119)
+    during Jesus' Galilean ministry, before the Passover of John 6:4: c. AD 28–29
+    (Model A) or c. AD 31–32 (Model B).
+  discussion: |
+    Josephus confirms the execution and links it with Antipas's marriage to
+    Herodias and his later defeat by Aretas IV (AD 36), which people saw as
+    punishment. The Gospels place it before the feeding of the 5,000, which John
+    6:4 sets near a Passover.
+  sources:
+    - josephus-ant 18.116–119
+    - hoehner
+    - meier ch. 11
+
+passion-week:
+  title: Last week in Jerusalem
+  date: "AD 30 or 33 (Passover week)"
+  range: [30, 33]
+  short: >-
+    The final Passover week: Sunday 2 – Friday 7 April AD 30 (Model A) or
+    Sunday 29 March – Friday 3 April AD 33 (Model B).
+  discussion: |
+    The Synoptics present the Last Supper as a Passover meal (Mark 14:12), so the
+    crucifixion falls on Nisan 15. John puts the crucifixion on the Day of
+    Preparation, while the Passover lambs were being slaughtered (John 18:28;
+    19:14), so Nisan 14. Astronomical reconstructions find Nisan 14 on a Friday in
+    AD 30 and AD 33, but Nisan 15 on a Friday in neither year (unless the calendar
+    was off by a day), which favours John's timing (Humphreys & Waddington 1983).
+    Humphreys (2011) proposes a Wednesday Last Supper by an older calendar to
+    reconcile the two accounts. The weekday dates given here follow John's
+    Nisan 14 Friday.
+  sources:
+    - humphreys-waddington
+    - humphreys-2011
+    - brown-death
+    - finegan
+
+crucifixion:
+  title: Crucifixion
+  date: "7 April AD 30 or 3 April AD 33"
+  range: [30, 33]
+  short: >-
+    Under Pontius Pilate (AD 26–36/37; Tacitus, *Ann.* 15.44). A Friday on Nisan 14
+    only fits AD 30 or AD 33. AD 30 (Meier, Riesner) and AD 33 (Hoehner,
+    Humphreys & Waddington) are the two main views.
+  discussion: |
+    **Fixed points.** Pilate's prefecture (AD 26–36/37), Caiaphas's high
+    priesthood (c. AD 18–36), and a Friday at Passover. Within those limits, a
+    Friday Nisan 14 falls only in AD 30 (7 April) and AD 33 (3 April) on
+    astronomical reconstruction (Humphreys & Waddington 1983).
+
+    **AD 30**: fits Luke 3:1 counted early and a 2–3 year ministry; Meier, Riesner
+    and many others. Brown (*Death of the Messiah*) narrows it to 30 or 33.
+
+    **AD 33**: fits Luke 3:1 counted from AD 14 with a 3½-year ministry. Hoehner
+    also points to Pilate's conduct after Sejanus fell (AD 31), and Humphreys &
+    Waddington to a partial lunar eclipse on 3 April AD 33 (cf. Acts 2:20).
+    Steinmann also holds 33.
+
+    **Others.** Kokkinos argues for AD 36, tied to Antipas's defeat. Bond (2013)
+    argues the evidence only allows c. AD 29–34. Sanders gives "c. 30".
+  sources:
+    - tacitus-ann 15.44
+    - humphreys-waddington
+    - meier ch. 11
+    - brown-death
+    - hoehner
+    - riesner
+    - kokkinos
+    - bond
+    - sanders
+
+resurrection-ascension:
+  title: Resurrection appearances and ascension
+  date: "April–May AD 30 or 33"
+  range: [30, 33]
+  short: >-
+    The resurrection is the Sunday after the crucifixion (9 April AD 30 or 5 April
+    AD 33); Acts 1:3 puts the ascension 40 days later (mid-May) and Pentecost
+    10 days after that (Acts 2:1).
+  discussion: |
+    These dates follow directly from the crucifixion date.
+  sources:
+    - finegan
+    - hoehner
+
+early-church:
+  title: The early Jerusalem church to Stephen
+  date: "c. AD 30–34"
+  range: [30, 36]
+  short: >-
+    Acts 2–7 covers the period between Pentecost and Stephen's death. Stephen's
+    death came shortly before Paul's conversion (Acts 8:1; 9:1), so it is usually
+    dated c. AD 31–34.
+  discussion: |
+    No external synchronisms. The upper limit is Paul's conversion (see that
+    anchor); some put Stephen's stoning in the interval after Pilate was recalled
+    (AD 36/37), when the Sanhedrin might have acted without a governor, but most
+    date it earlier.
+  sources:
+    - riesner
+    - bruce-paul
+    - finegan
+
+paul-conversion:
+  title: Conversion of Paul
+  date: "c. AD 31–36 (often c. 33–34)"
+  range: [31, 36]
+  short: >-
+    Galatians 1:18 and 2:1 count 3 + 14 (or 14 inclusive) years back from the
+    Jerusalem meeting of c. AD 48–49, which gives c. AD 31–36. Riesner proposes
+    AD 31/32, Jewett AD 34, Bruce c. 33.
+  discussion: |
+    **Galatians.** "After three years" Paul went up to Jerusalem (Gal 1:18);
+    "after fourteen years" he went up again (Gal 2:1). Whether the 14 years count
+    from the conversion or from the first visit, and whether years are counted
+    inclusively, moves the conversion by up to 3 years.
+
+    **Aretas (2 Cor 11:32).** Paul's escape from Damascus "under King Aretas" has to
+    fall before Aretas IV's death (c. AD 40). Some argue that Nabataean control of
+    Damascus is likelier after AD 37. Jewett's chronology uses this point heavily
+    (conversion AD 34, escape AD 37).
+
+    **Views.** Riesner AD 31/32; Bruce c. 33; Jewett 34; Lüdemann 30 or 33 (his
+    chronology puts much of the Greek mission before the Jerusalem council).
+  sources:
+    - riesner
+    - jewett
+    - bruce-paul
+    - luedemann
+
+agrippa-death:
+  title: Death of Herod Agrippa I
+  date: "AD 44"
+  range: [44, 44]
+  short: >-
+    Josephus describes Agrippa I's sudden death at Caesarea in AD 44 (*Ant.*
+    19.343–352), the same event as Acts 12:20–23, so it is one of the firmest dates
+    in Acts.
+  discussion: |
+    Agrippa ruled Judea AD 41–44. Josephus places his death after he had reigned
+    three years over all Judea, at games in Caesarea. James son of Zebedee was
+    executed shortly before (Acts 12:1–2), probably around Passover AD 43 or 44.
+  sources:
+    - josephus-ant 19.343–352
+    - schurer
+    - riesner
+
+famine:
+  title: Famine under Claudius
+  date: "c. AD 45–48"
+  range: [45, 48]
+  short: >-
+    Acts 11:28 places Agabus's famine "in the days of Claudius" (AD 41–54).
+    Josephus reports a severe famine in Judea under the procurators Fadus and
+    Tiberius Alexander, c. AD 45–48 (*Ant.* 20.101).
+  discussion: |
+    Luke puts the prophecy before Agrippa's death (Acts 12), but the famine-relief
+    visit of Barnabas and Saul (Acts 11:30; 12:25) probably took place c. AD 45–47.
+    Some identify it with Galatians 2:1–10.
+  sources:
+    - josephus-ant 20.51–53, 20.101
+    - riesner
+
+council:
+  title: Jerusalem council
+  date: "c. AD 48–49"
+  range: [47, 51]
+  short: >-
+    Acts 15 comes after the first journey and before Paul reached Corinth
+    (c. AD 50). Most date it c. AD 48–49. Galatians 2:1 ("after fourteen years")
+    fits that date.
+  discussion: |
+    Paul arrived in Corinth after Aquila and Priscilla had come from Rome under
+    Claudius's edict (Acts 18:2; AD 49 per Orosius) and was there when Gallio
+    arrived (AD 51), so the council has to come before c. AD 50. Whether Galatians
+    2:1–10 describes the council visit (Acts 15) or the famine visit (Acts 11:30)
+    is one of the main disputes in Pauline chronology. Lüdemann dates the council
+    later (c. AD 50/51) and puts Paul's first visit to Greece before it.
+  sources:
+    - riesner
+    - jewett
+    - bruce-paul
+    - luedemann
+
+claudius-edict:
+  title: Claudius expels Jews from Rome
+  date: "AD 49 (minority AD 41)"
+  range: [41, 49]
+  short: >-
+    Suetonius (*Claudius* 25.4) reports the expulsion of Jews "agitating at the
+    instigation of Chrestus". Orosius (7.6.15) dates it to Claudius's 9th year,
+    AD 49. Aquila and Priscilla had "recently" arrived from Rome (Acts 18:2).
+  discussion: |
+    Most follow Orosius's AD 49. Lüdemann identifies the edict with the measure
+    Dio describes for AD 41 (Dio 60.6.6: Jews not expelled but forbidden to
+    assemble), which supports his early dating of Paul's mission in Greece.
+  sources:
+    - suetonius-claud 25.4
+    - orosius 7.6.15
+    - dio 60.6.6
+    - riesner
+    - luedemann
+
+gallio:
+  title: Gallio proconsul of Achaia
+  date: "AD 51–52"
+  range: [50, 52]
+  short: >-
+    The Delphi inscription dates Gallio's proconsulship to c. July AD 51 – June 52
+    (some say 50–51). Paul appeared before him (Acts 18:12) after about 18 months
+    in Corinth (18:11), which puts Paul there c. AD 50–52: the firmest point in
+    Paul's chronology.
+  discussion: |
+    Claudius's letter to Delphi names Gallio as proconsul and is dated by Claudius's
+    26th acclamation (first half of AD 52). Proconsuls served for a year from early
+    summer, so Gallio most likely held office 51–52 (Murphy-O'Connor; Riesner), and
+    possibly 50–51. Paul's case most likely came early in Gallio's term (summer or
+    autumn 51), so Paul came to Corinth c. early 50 and left c. 51/52.
+  sources:
+    - gallio-inscription
+    - murphy-oconnor
+    - riesner
+    - jewett
+
+ephesus:
+  title: Paul's Ephesian ministry
+  date: "c. AD 52/53–55/56"
+  range: [52, 56]
+  short: >-
+    After Corinth and a trip to Jerusalem and Antioch (Acts 18:22), Paul spent
+    "three years" in Ephesus (Acts 19:8–10; 20:31): c. AD 52/53–55/56.
+  discussion: |
+    It follows from the Gallio date and Luke's durations. 1 Corinthians was written
+    from Ephesus in this period (1 Cor 16:8).
+  sources:
+    - riesner
+    - jewett
+    - bruce-paul
+
+paul-arrest:
+  title: Paul's last journey to Jerusalem and arrest
+  date: "AD 57 (some say 56 or 58)"
+  range: [56, 58]
+  short: >-
+    After winter in Corinth (Acts 20:2–3) Paul left Philippi after Passover (20:6)
+    to reach Jerusalem by Pentecost (20:16). Riesner, Jewett and most others put
+    this in AD 57; others say 56 or 58.
+  discussion: |
+    The year is counted back from Festus's arrival (Felix kept Paul two years,
+    Acts 24:27) and forward from the Ephesian ministry. Romans, written from
+    Corinth just before the trip (Rom 15:25), is dated accordingly (AD 56–57).
+  sources:
+    - riesner
+    - jewett
+    - bruce-paul
+
+festus:
+  title: Felix replaced by Festus
+  date: "AD 59 or 60 (minority AD 55/56)"
+  range: [55, 60]
+  short: >-
+    Felix (procurator c. AD 52–59/60) kept Paul two years (Acts 24:27) before
+    Porcius Festus succeeded him. Most date the change to AD 59 or 60 (Schürer,
+    Riesner); a minority argue for AD 55/56.
+  discussion: |
+    Josephus (*Ant.* 20.182) says Felix was accused before Nero after his recall
+    and saved by his brother Pallas. Some put the change early (AD 55/56) because
+    Pallas lost influence in AD 55; most argue that Josephus's narrative and
+    provincial coinage favour AD 59 or 60. Festus died in office and was succeeded
+    by Albinus in AD 62 (after the stoning of James).
+  sources:
+    - josephus-ant 20.182
+    - schurer
+    - riesner
+    - jewett
+
+paul-rome:
+  title: Voyage to Rome and Roman custody
+  date: "AD 59/60–62 (or 60/61–63)"
+  range: [59, 63]
+  short: >-
+    Paul sailed after "the Fast" (the Day of Atonement, Acts 27:9) in autumn,
+    wintered on Malta, and reached Rome in spring (Acts 28:11–16): AD 60 on the
+    common Festus date. He then spent two years under house arrest (Acts 28:30),
+    to c. AD 62.
+  discussion: |
+    Follows from the Festus date. Ramsay argued for autumn AD 59, partly because
+    the Day of Atonement fell late that year, which makes Luke's remark about
+    dangerous sailing apt. Acts ends without Paul's trial, which some take as a
+    sign it was written c. AD 62 (Hemer; Robinson).
+  sources:
+    - ramsay
+    - riesner
+    - hemer
+    - robinson
+
+nero:
+  title: Nero's persecution and the deaths of Peter and Paul
+  date: "AD 64–67/68"
+  range: [64, 68]
+  short: >-
+    Tacitus (*Ann.* 15.44) describes Nero blaming Christians for the fire of Rome
+    (July AD 64). Early tradition puts Peter's and Paul's martyrdoms in Rome under
+    Nero (1 Clement 5; Eusebius, *H.E.* 2.25), c. AD 64–67.
+  discussion: |
+    Letters attributed to Peter and Paul's last letters (2 Timothy), if authentic,
+    date before these deaths. Eusebius's *Chronicle* tradition puts Paul's death in
+    AD 67/68; many modern historians link both martyrdoms to AD 64–65.
+  sources:
+    - tacitus-ann 15.44
+    - clement-1 5
+    - eusebius-he 2.22, 2.25
+
+james-death:
+  title: Death of James, brother of Jesus
+  date: "AD 62"
+  range: [62, 62]
+  short: >-
+    Josephus (*Ant.* 20.197–203) reports that the high priest Ananus had James
+    stoned between Festus's death and Albinus's arrival, AD 62.
+  discussion: |
+    If the letter of James is by James of Jerusalem, it must be earlier than AD 62.
+  sources:
+    - josephus-ant 20.197–203
+    - schurer
+
+temple-70:
+  title: Destruction of the Jerusalem temple
+  date: "AD 70"
+  range: [70, 70]
+  short: >-
+    Titus took Jerusalem and burned the temple in August–September AD 70 (Josephus,
+    *War* 6). Whether a book seems to know of this event is the main argument for
+    dating the Gospels, Acts and Hebrews.
+  discussion: |
+    **Post-70 dating.** Many scholars read Luke 19:43–44 and 21:20–24 and Matthew
+    22:7 as written after the siege, and date Matthew and Luke after 70 (Brown;
+    Ehrman). Mark 13 is often placed just before or just after 70.
+
+    **Pre-70 dating.** Others take the predictions as genuine prophecy or as too
+    general to require hindsight, and note that no NT book mentions the temple's
+    fall as past; Robinson (1976) dated the whole NT before 70.
+  sources:
+    - josephus-war 6.249–266
+    - brown-intro
+    - robinson
+    - carson-moo
+
+domitian:
+  title: Revelation and the reign of Domitian
+  date: "c. AD 95 (minority AD 68–69)"
+  range: [68, 96]
+  short: >-
+    Irenaeus says the Apocalypse was seen "towards the end of Domitian's reign"
+    (AD 81–96), so c. AD 95; most modern scholars agree. A minority date it to
+    AD 68–69, after Nero.
+  discussion: |
+    **Late (c. 95).** Irenaeus, *Against Heresies* 5.30.3 (quoted by Eusebius,
+    *H.E.* 3.18, 5.8); the use of "Babylon" for Rome, a name that appears after
+    AD 70; the developed state of the churches in Rev 2–3; persecution in Asia.
+    Brown, Aune (final edition), Carson & Moo.
+
+    **Early (68–69).** The seven kings of Rev 17:9–11 counted from Augustus or
+    Julius; the temple apparently still standing in Rev 11:1–2; 666 as the
+    numerical value of "Nero Caesar" (Rev 13:18). Robinson; Gentry.
+  sources:
+    - irenaeus 5.30.3
+    - eusebius-he 3.18
+    - brown-intro
+    - aune
+    - robinson
+    - gentry

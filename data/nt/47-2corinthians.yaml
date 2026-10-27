@@ -1,0 +1,50 @@
+book: 2 Corinthians
+code: 2CO
+order: 47
+slug: 47-2corinthians
+kind: letter
+
+written:
+  date: "c. AD 55–56"
+  range: [54, 57]
+  summary: >-
+    Paul's authorship is undisputed. Written from Macedonia (2:13; 7:5; 9:2) after
+    he left Ephesus, some months to a year after 1 Corinthians. Many scholars think
+    the letter as we have it combines two or more letters.
+  views:
+    - date: "AD 55–56, one letter"
+      held_by: Many conservative scholars (Carson & Moo)
+      basis: Written in Macedonia after Titus brought good news (7:5–7), before the third visit (12:14; 13:1).
+      sources: [carson-moo]
+    - date: "AD 55–56, composite"
+      held_by: Many critical scholars (Brown discusses the partition theories)
+      basis: >-
+        The change of tone at chapter 10 leads many to see chapters 10–13 as a
+        separate letter, often identified with the "tearful letter" (2:4), and so
+        earlier than chapters 1–9; others think 10–13 came later. Chapters 8 and 9
+        are sometimes separated too.
+      sources: [brown-intro]
+
+default:
+  date: "c. AD 55–56"
+  range: [54, 57]
+  anchors: [ephesus, paul-arrest]
+
+chapters:
+  1:
+    note: "The \"affliction which happened to us in Asia\" (1:8) is a recent crisis in or near Ephesus."
+  2:
+    note: "Refers back to a letter written \"out of much affliction ... with many tears\" (2:4), which may be lost or may be 2 Cor 10–13."
+  10: &part2
+    date: "c. AD 55–56 (if a separate letter, possibly a few months earlier or later than chs. 1–9)"
+    note: >-
+      Chapters 10–13 may be a separate letter (see the book introduction). Whatever
+      their order, all the fragments fall in the same AD 55–56 window.
+  11:
+    date: "c. AD 55–56 (if a separate letter, possibly a few months earlier or later than chs. 1–9)"
+    anchors: [ephesus, paul-conversion]
+    note: >-
+      Escape from Damascus "under Aretas the king" (11:32–33), years before, c. AD
+      34–37; it has to fall before Aretas IV's death (c. AD 40).
+  12: *part2
+  13: *part2

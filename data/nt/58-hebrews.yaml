@@ -1,0 +1,43 @@
+book: Hebrews
+code: HEB
+order: 58
+slug: 58-hebrews
+kind: letter
+
+written:
+  date: "c. AD 60–69 or c. AD 80–90"
+  range: [60, 95]
+  summary: >-
+    Anonymous (the ancient attribution to Paul is now almost universally rejected).
+    The main question is whether it was written before or after the temple's fall in
+    AD 70. It must come before 1 Clement (c. AD 95–96), which uses it.
+  views:
+    - date: "c. AD 60–69"
+      held_by: Lane (mid-60s, to Rome); Robinson; many scholars
+      basis: >-
+        Speaks of the sacrifices as still being offered (10:1–3; 8:4, 13); doesn't
+        mention the temple's destruction, which would have clinched its argument;
+        Timothy is still alive and active (13:23).
+      sources: [lane-heb, robinson, carson-moo]
+    - date: "c. AD 80–90"
+      held_by: Brown (in the 80s); many critical scholars
+      basis: >-
+        Hebrews argues from the tabernacle of the Pentateuch, not the Herodian temple,
+        so its present tenses don't prove the temple was standing; a second-generation
+        community (2:3).
+      sources: [brown-intro]
+
+default:
+  date: "c. AD 60–69 or 80–90"
+  range: [60, 95]
+  anchors: [temple-70]
+
+chapters:
+  10:
+    note: >-
+      "Would they not have ceased to be offered?" (10:2): one of the main texts for a
+      date while the temple's sacrifices continued. 10:32–34 recalls an earlier
+      persecution without martyrdom (12:4), possibly Claudius's expulsion of AD 49.
+    anchors: [temple-70, claudius-edict]
+  13:
+    note: "\"Our brother Timothy has been freed\" (13:23); \"those from Italy greet you\" (13:24)."
