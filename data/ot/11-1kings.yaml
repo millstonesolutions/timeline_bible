@@ -1,0 +1,224 @@
+book: 1 Kings
+code: 1KI
+order: 11
+slug: 11-1kings
+kind: narrative
+
+written:
+  date: "Final form after 562 BC (exile); first edition perhaps c. 620 BC"
+  range: [-622, -540]
+  summary: >-
+    1–2 Kings were one book. It ends with Jehoiachin's release in 562 BC (2 Kgs
+    25:27–30), so the final form is from the exile; tradition names Jeremiah. It
+    names its sources, "the book of the acts of Solomon" (1 Kgs 11:41) and the
+    chronicles of the kings of Israel and of Judah.
+  views:
+    - date: "c. 580–560 BC, by Jeremiah"
+      held_by: Jewish tradition (*Bava Batra* 15a)
+      basis: >-
+        The Talmud ascribes Kings to Jeremiah. 2 Kings 24:18–25:30 is nearly the
+        same as Jeremiah 52, and both share a prophetic outlook.
+      sources: ["bava-batra 14b–15a"]
+    - date: "c. 560–550 BC, one exilic author"
+      held_by: Noth; many conservative scholars also accept an exilic final form (Dillard & Longman)
+      basis: >-
+        The last event is 562 BC and the book does not know of Cyrus's decree
+        (538). Noth saw a single Deuteronomistic historian explaining the fall of
+        both kingdoms.
+      sources: [noth-dtr, dillard-longman]
+    - date: "c. 620 BC (under Josiah), updated c. 560 BC"
+      held_by: Cross and many since
+      basis: >-
+        The history builds toward Josiah, foretold by name (1 Kgs 13:2), and judges
+        every king of Judah by David; a second hand added the last chapters and the
+        blame on Manasseh (2 Kgs 21:10–15; 23:26–27).
+      sources: [cross, collins-intro]
+
+chapters:
+  1:
+    date: "c. 971/970 BC"
+    range: [-971, -970]
+    anchors: [david, solomon]
+    note: >-
+      David is old and failing; Adonijah claims the throne and Nathan and Bathsheba
+      have Solomon anointed at Gihon. Thiele dates the start of a brief co-regency
+      or Solomon's accession to 971/970 BC.
+    sources: [thiele]
+  2:
+    date: "c. 970 BC"
+    range: [-971, -967]
+    anchors: [david, solomon]
+    note: >-
+      David's charge and death after 40 years (2:10–11), and Solomon's purge of
+      Adonijah, Joab and Shimei (Shimei three years later, 2:39).
+  3:
+    date: "c. 970–967 BC"
+    range: [-970, -960]
+    anchors: [solomon]
+    note: >-
+      Solomon marries Pharaoh's daughter (3:1), before the temple is built; the dream
+      at Gibeon and the judgment between two women. Often linked with Siamun of the
+      21st Dynasty, though the pharaoh is unnamed.
+  4:
+    date: "c. 970–931 BC (Solomon's reign)"
+    range: [-970, -931]
+    anchors: [solomon]
+    note: >-
+      Solomon's officials and twelve district governors (two of them married to his
+      daughters, 4:11, 15, so later in the reign), and his wisdom. An administrative
+      list for the reign as a whole.
+  5:
+    date: "c. 968–966 BC"
+    range: [-970, -966]
+    anchors: [solomon]
+    note: >-
+      Treaty with Hiram of Tyre for cedar and labour in preparation for the temple
+      (5:1–18; Hebrew 5:15–32).
+  6:
+    date: "967/966–960/959 BC"
+    range: [-967, -959]
+    anchors: [solomon, exodus]
+    note: >-
+      Building begins in Ziv (2nd month) of Solomon's 4th year, "the four hundred and
+      eightieth year" after the exodus (6:1), and ends in Bul (8th month) of his 11th
+      year: seven years (6:37–38). The base date for the early exodus.
+  7:
+    date: "c. 966–946 BC"
+    range: [-967, -946]
+    anchors: [solomon]
+    note: >-
+      Solomon's palace took 13 years (7:1), finished at the end of 20 years for both
+      houses (9:10). Hiram the bronze-worker's pillars and furnishings (7:13–51)
+      belong with the temple, to 966–959 BC.
+  8:
+    date: "c. 959 BC (7th month)"
+    range: [-960, -958]
+    anchors: [solomon]
+    note: >-
+      The ark brought into the temple and the dedication at the feast "in the month
+      Ethanim, which is the seventh month" (8:2). The temple was finished in the 8th
+      month (6:38), so this is either the month before completion or eleven months
+      after; most take the latter.
+  9:
+    date: "c. 946 BC"
+    range: [-950, -940]
+    anchors: [solomon]
+    note: >-
+      The LORD appears to Solomon again "at the end of twenty years" of building
+      (9:1–10); towns given to Hiram; Pharaoh gives Gezer to his daughter (9:16);
+      Solomon builds Hazor, Megiddo and Gezer (9:15). The date of the gates found at
+      those three sites (10th or 9th century) is a key debate in archaeology.
+    sources: [mazar, finkelstein-silberman]
+  10:
+    date: "c. 960–940 BC (Solomon's middle years)"
+    range: [-965, -935]
+    anchors: [solomon]
+    note: >-
+      The queen of Sheba's visit, the Tarshish ships every three years (10:22), and
+      Solomon's gold and horses. Undated within the reign.
+  11:
+    date: "c. 945–931 BC"
+    range: [-950, -931]
+    anchors: [solomon, schism]
+    note: >-
+      "When Solomon was old" his wives turned his heart (11:4); adversaries Hadad of
+      Edom and Rezon of Damascus; Ahijah's prophecy to Jeroboam, who flees to Shishak
+      (Shoshenq I, c. 945–924 BC). Solomon dies after 40 years (11:42).
+    sources: [shoshenq-relief]
+  12:
+    date: "931/930 BC"
+    range: [-931, -930]
+    anchors: [schism]
+    note: >-
+      Rehoboam refuses to lighten the burden at Shechem and the northern tribes make
+      Jeroboam king. Jeroboam sets up calves at Bethel and Dan and a feast in the 8th
+      month (12:32), a month after Judah's.
+  13:
+    date: "c. 930 BC"
+    range: [-931, -925]
+    anchors: [schism, josiah]
+    note: >-
+      A man of God from Judah condemns the Bethel altar and names Josiah, who will
+      burn bones on it (13:2), fulfilled in 2 Kgs 23:15–18 about 300 years later.
+      Critical scholars read the name as written in hindsight.
+  14:
+    date: "c. 930–910 BC (Shishak c. 926/925 BC)"
+    range: [-931, -910]
+    anchors: [schism, solomon]
+    note: >-
+      Ahijah's word against Jeroboam's house; Jeroboam dies after 22 years (14:20,
+      910 BC). Rehoboam's reign (931–913); Shishak plunders the temple in his 5th
+      year (14:25), c. 926/925 BC, matching Shoshenq I's Karnak relief, which lists
+      places in Israel and Judah.
+    sources: [shoshenq-relief, thiele]
+  15:
+    date: "913–886 BC (Abijam, Asa; Nadab, Baasha)"
+    range: [-913, -870]
+    anchors: [schism]
+    note: >-
+      Abijam (913–911) "in the eighteenth year of Jeroboam" (15:1), Asa (911–870),
+      Nadab (910–909) and Baasha (909–886), who wipes out Jeroboam's house. Asa pays
+      Ben-hadad of Damascus to attack Baasha (15:18–20). Asa's death (15:24) is 870
+      BC (Thiele).
+    sources: [thiele]
+  16:
+    date: "886–874 BC (Elah, Zimri, Omri; Ahab begins)"
+    range: [-886, -874]
+    anchors: [schism, ahab-qarqar]
+    note: >-
+      Elah (886–885), Zimri's seven days (885), civil war with Tibni, and Omri
+      (885–874; sole king from 880), who builds Samaria (16:24). Assyrian texts call
+      Israel "the house of Omri" for over a century. Ahab begins "in the thirty-eighth
+      year of Asa" (16:29), 874 BC.
+    sources: [thiele, black-obelisk]
+  17:
+    date: "c. 865–860 BC (Ahab's reign, 874–853)"
+    range: [-874, -853]
+    anchors: [ahab-qarqar]
+    note: >-
+      Elijah announces a drought; the ravens at the brook Cherith and the widow of
+      Zarephath in Sidon's territory, ruled by Jezebel's father Ethbaal. Josephus
+      (*Antiquities* 8) quotes Menander of Ephesus for a year-long drought under
+      Ithobaal of Tyre. The year within Ahab's reign is not given.
+    sources: [josephus-ant]
+  18:
+    date: "c. 865–860 BC (Ahab's reign, 874–853)"
+    range: [-874, -853]
+    anchors: [ahab-qarqar]
+    note: >-
+      "In the third year" of the drought (18:1) Elijah meets Ahab; the contest on
+      Mount Carmel; the rain returns. Luke 4:25 and James 5:17 give three and a half
+      years.
+  19:
+    date: "c. 865–860 BC (Ahab's reign, 874–853)"
+    range: [-874, -853]
+    anchors: [ahab-qarqar]
+    note: >-
+      Elijah flees Jezebel to Horeb, forty days' journey (19:8); the still small
+      voice; Elisha called from the plough.
+  20:
+    date: "c. 857–855 BC"
+    range: [-860, -854]
+    anchors: [ahab-qarqar]
+    note: >-
+      Ben-hadad of Aram besieges Samaria, then is beaten at Aphek "at the return of
+      the year" (20:26) and makes a treaty with Ahab (20:34). Three years of peace
+      follow before Ahab's death (22:1), which fits Ahab and Hadadezer of Damascus
+      fighting together at Qarqar in 853 BC.
+    sources: [kurkh-monolith]
+  21:
+    date: "c. 855 BC (late in Ahab's reign)"
+    range: [-860, -853]
+    anchors: [ahab-qarqar]
+    note: >-
+      Naboth's vineyard at Jezreel; Elijah's sentence on Ahab and Jezebel, delayed
+      because Ahab humbles himself (21:29).
+  22:
+    date: "853 BC (Ahab's death); summaries to 848 BC"
+    range: [-853, -848]
+    anchors: [ahab-qarqar]
+    note: >-
+      In the third year of peace (22:1–2) Ahab and Jehoshaphat attack Ramoth Gilead;
+      Micaiah's vision; Ahab dies (853, after Qarqar). Then Jehoshaphat of Judah
+      (872–848, co-regent with Asa from 872) and Ahaziah of Israel (853–852).
+    sources: [thiele, kurkh-monolith]

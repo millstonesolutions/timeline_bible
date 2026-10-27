@@ -1,0 +1,274 @@
+book: Joshua
+code: JOS
+order: 6
+slug: 06-joshua
+kind: narrative
+
+written:
+  date: "Joshua's lifetime or the early monarchy (tradition); c. 620–550 BC (Deuteronomistic History)"
+  range: [-1390, -540]
+  summary: >-
+    The Talmud names Joshua as author. Conservative scholars usually date the book
+    to the early monarchy at the latest, from its "to this day" notes. Most critical
+    scholars treat it as the first book of the Deuteronomistic History, edited under
+    Josiah and in the exile from older tribal lists and conquest stories.
+  views:
+    - date: "Joshua's lifetime, c. 1390 BC (early exodus) or c. 1200 BC, with later additions"
+      held_by: Jewish tradition (*Bava Batra* 15a); some conservative scholars
+      basis: >-
+        Joshua wrote "these words in the book of the law of God" (24:26). The Talmud
+        ascribes the book to Joshua, with his death (24:29–33) added by Eleazar and
+        Phinehas.
+      sources: ["bava-batra 14b–15a"]
+    - date: "Before c. 1000 BC, or early monarchy"
+      held_by: Many conservative scholars (cf. Dillard & Longman)
+      basis: >-
+        The "to this day" notes assume conditions that ended early in the
+        monarchy: Jebusites still in Jerusalem (15:63; David took it c. 1003 BC),
+        Canaanites still in Gezer (16:10; given to Solomon, 1 Kgs 9:16). The
+        boundary and town lists may draw on old administrative documents.
+      sources: [dillard-longman, kitchen]
+    - date: "c. 620 BC (Josianic edition) and c. 560–540 BC (exilic edition)"
+      held_by: Most critical scholars (Noth; Cross; Collins)
+      basis: >-
+        The book shares Deuteronomy's language (e.g. 1:7–9; 23) and its picture of a
+        complete conquest under one leader. Noth saw one exilic author of Joshua to
+        Kings; Cross a first edition under Josiah. Some town lists (e.g. Judah's in
+        ch. 15) are often dated to the late monarchy.
+      sources: [noth-dtr, cross, collins-intro]
+
+chapters:
+  1:
+    date: "c. 1406 or 1220 BC"
+    a: "c. 1406 BC"
+    b: "c. 1220 BC"
+    range: [-1406, -1220]
+    anchors: [conquest, exodus]
+    note: >-
+      Directly after Moses' death (1:1–2), at the end of the forty years in the
+      wilderness. Israel is camped at Shittim, east of the Jordan.
+  2:
+    date: "c. 1406 or 1220 BC (spring)"
+    a: "spring c. 1406 BC"
+    b: "spring c. 1220 BC"
+    range: [-1406, -1220]
+    anchors: [conquest]
+    note: >-
+      Spies at Jericho. Rahab hides them under flax drying on the roof (2:6), and the
+      Jordan is in flood (3:15): early spring, harvest time.
+  3:
+    date: "c. 1406 or 1220 BC (spring, 10th day of the 1st month)"
+    a: "spring c. 1406 BC"
+    b: "spring c. 1220 BC"
+    range: [-1406, -1220]
+    anchors: [conquest]
+    note: >-
+      The crossing of the Jordan "at the time of harvest" (3:15), dated in 4:19 to
+      the 10th day of the 1st month (March/April), forty years after the exodus.
+  4:
+    date: "c. 1406 or 1220 BC (10th day of the 1st month)"
+    a: "spring c. 1406 BC"
+    b: "spring c. 1220 BC"
+    range: [-1406, -1220]
+    anchors: [conquest]
+    note: >-
+      "The people came up out of the Jordan on the tenth day of the first month"
+      (4:19), the day the Passover lamb was chosen (Exod 12:3). Camp at Gilgal.
+  5:
+    date: "c. 1406 or 1220 BC (14th day of the 1st month)"
+    a: "spring c. 1406 BC"
+    b: "spring c. 1220 BC"
+    range: [-1406, -1220]
+    anchors: [conquest, wilderness]
+    note: >-
+      Circumcision at Gilgal, then Passover "on the fourteenth day of the month at
+      evening" (5:10); the manna stops the next day (5:12).
+  6:
+    date: "c. 1406 or 1220 BC"
+    a: "spring c. 1406 BC"
+    b: "spring c. 1220 BC"
+    range: [-1406, -1220]
+    anchors: [conquest]
+    note: >-
+      The fall of Jericho, days after the Passover. Kenyon dated the city's last
+      walled phase to c. 1550 BC and found little Late Bronze occupation; Wood
+      redated the destruction to c. 1400 BC, which supporters of the early exodus
+      cite. On the late date there was almost nothing at Jericho to conquer.
+    sources: [kenyon-jericho, wood-jericho]
+  7:
+    date: "c. 1406 or 1220 BC"
+    a: "c. 1406 BC"
+    b: "c. 1220 BC"
+    range: [-1406, -1220]
+    anchors: [conquest]
+    note: >-
+      Achan's sin and the first defeat at Ai, shortly after Jericho. Et-Tell, the
+      usual site of Ai, was unoccupied from the Early Bronze Age until Iron I, so
+      some scholars look for another site and others read the story as an
+      explanation of the ruin's name ("the heap").
+    sources: [mazar, dever]
+  8:
+    date: "c. 1406 or 1220 BC"
+    a: "c. 1406 BC"
+    b: "c. 1220 BC"
+    range: [-1406, -1220]
+    anchors: [conquest]
+    note: >-
+      Ai taken; the law read at Mount Ebal and Mount Gerizim (8:30–35), as Moses
+      commanded (Deut 27). The Ebal ceremony may belong later in the campaign; the
+      Septuagint places it after 9:2.
+  9:
+    date: "c. 1406 or 1220 BC"
+    a: "c. 1406 BC"
+    b: "c. 1220 BC"
+    range: [-1406, -1220]
+    anchors: [conquest]
+    note: >-
+      The treaty with Gibeon, discovered after three days (9:16). Gibeon (el-Jib)
+      shows only slight Late Bronze remains, another point in the archaeological
+      debate.
+  10:
+    date: "c. 1406–1400 or c. 1220–1215 BC"
+    a: "c. 1406–1400 BC"
+    b: "c. 1220–1215 BC"
+    range: [-1406, -1215]
+    anchors: [conquest]
+    note: >-
+      The southern campaign begins the day after the treaty is known (10:9). The
+      battle at Gibeon (the sun standing still, quoted from the book of Jashar,
+      10:13), then Makkedah, Libnah, Lachish, Eglon, Hebron and Debir.
+  11:
+    date: "c. 1405–1400 or c. 1218–1213 BC"
+    a: "c. 1405–1400 BC"
+    b: "c. 1218–1213 BC"
+    range: [-1405, -1213]
+    anchors: [conquest]
+    note: >-
+      The northern coalition under Jabin of Hazor; Hazor alone is burned (11:13).
+      Hazor's great Late Bronze city was destroyed by fire in the 13th century,
+      which supports the late date. Joshua "made war a long time" (11:18): about
+      seven years (see 14:10).
+    sources: [mazar, kitchen]
+  12:
+    date: "c. 1406–1399 or c. 1220–1213 BC (summary)"
+    a: "c. 1406–1399 BC"
+    b: "c. 1220–1213 BC"
+    range: [-1406, -1213]
+    anchors: [conquest]
+    note: >-
+      A list of the 31 defeated kings west of the Jordan, and Moses' victories east
+      of it. It summarizes the whole campaign.
+  13:
+    date: "c. 1399 or c. 1213 BC"
+    a: "c. 1399 BC"
+    b: "c. 1213 BC"
+    range: [-1399, -1213]
+    anchors: [conquest]
+    note: >-
+      "Joshua was old and well advanced in years" (13:1) when the land was divided.
+      The land "that remains" (13:2–6) includes the Philistine cities, which on most
+      reckonings were founded c. 1175 BC; early-date supporters read the names as
+      updated.
+  14:
+    date: "c. 1399 or c. 1213 BC"
+    a: "c. 1399 BC"
+    b: "c. 1213 BC"
+    range: [-1399, -1213]
+    anchors: [conquest, wilderness]
+    note: >-
+      Caleb is 85, "forty-five years" after the spies were sent from Kadesh in the
+      2nd year (14:7–10). Subtracting 38 years in the wilderness leaves about seven
+      years of conquest.
+  15:
+    date: "c. 1399 or c. 1213 BC"
+    a: "c. 1399 BC"
+    b: "c. 1213 BC"
+    range: [-1399, -1213]
+    anchors: [conquest]
+    note: >-
+      Judah's boundaries and towns. "The Jebusites live with the children of Judah
+      at Jerusalem to this day" (15:63) was written before David took the city. Many
+      scholars date the town list (15:21–62) to the late monarchy.
+  16:
+    date: "c. 1399 or c. 1213 BC"
+    a: "c. 1399 BC"
+    b: "c. 1213 BC"
+    range: [-1399, -1213]
+    anchors: [conquest]
+    note: >-
+      Ephraim's allotment. The Canaanites still in Gezer "to this day" (16:10) were
+      there until Pharaoh gave Gezer to Solomon (1 Kgs 9:16).
+  17:
+    date: "c. 1399 or c. 1213 BC"
+    a: "c. 1399 BC"
+    b: "c. 1213 BC"
+    range: [-1399, -1213]
+    anchors: [conquest]
+    note: >-
+      West Manasseh's allotment, Zelophehad's daughters (17:3–6; cf. Num 27) and the
+      Joseph tribes' complaint about the forested hill country.
+  18:
+    date: "c. 1399–1395 or c. 1213–1210 BC"
+    a: "c. 1399–1395 BC"
+    b: "c. 1213–1210 BC"
+    range: [-1399, -1210]
+    anchors: [conquest]
+    note: >-
+      The tent of meeting is set up at Shiloh (18:1), and the land surveyed for the
+      remaining seven tribes. Benjamin's lot.
+  19:
+    date: "c. 1399–1395 or c. 1213–1210 BC"
+    a: "c. 1399–1395 BC"
+    b: "c. 1213–1210 BC"
+    range: [-1399, -1210]
+    anchors: [conquest]
+    note: >-
+      Allotments for Simeon, Zebulun, Issachar, Asher, Naphtali and Dan, and Joshua's
+      own town, Timnath Serah (19:50). Dan's move north (19:47) is told in Judges 18.
+  20:
+    date: "c. 1399–1395 or c. 1213–1210 BC"
+    a: "c. 1399–1395 BC"
+    b: "c. 1213–1210 BC"
+    range: [-1399, -1210]
+    anchors: [conquest]
+    note: The six cities of refuge, as commanded in Num 35 and Deut 19.
+  21:
+    date: "c. 1399–1395 or c. 1213–1210 BC"
+    a: "c. 1399–1395 BC"
+    b: "c. 1213–1210 BC"
+    range: [-1399, -1210]
+    anchors: [conquest]
+    note: >-
+      The 48 Levitical towns (cf. 1 Chr 6). Many critical scholars date the list,
+      in its present form, to the monarchy.
+  22:
+    date: "c. 1399–1395 or c. 1213–1210 BC"
+    a: "c. 1399–1395 BC"
+    b: "c. 1213–1210 BC"
+    range: [-1399, -1210]
+    anchors: [conquest]
+    note: >-
+      Reuben, Gad and half Manasseh go home east of the Jordan after "many days"
+      (22:3); the dispute over their altar. Phinehas, Aaron's grandson, is still
+      the leading priest (22:13).
+  23:
+    date: "c. 1380 or c. 1200 BC"
+    a: "c. 1380 BC"
+    b: "c. 1200 BC"
+    range: [-1390, -1190]
+    anchors: [conquest, judges-period]
+    note: >-
+      Joshua's farewell "after many days, when the LORD had given rest" and he was
+      old (23:1). He dies at 110 (24:29); if he was about Caleb's age, that is some
+      15–25 years after the crossing.
+  24:
+    date: "c. 1380 or c. 1200 BC"
+    a: "c. 1380 BC"
+    b: "c. 1200 BC"
+    range: [-1390, -1190]
+    anchors: [conquest, judges-period]
+    note: >-
+      Covenant renewal at Shechem, then the deaths of Joshua (24:29) and Eleazar
+      (24:33) and the burial of Joseph's bones (24:32). Shechem's place in the
+      covenant without any account of its conquest has led many scholars to see
+      local groups joining Israel here.

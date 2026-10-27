@@ -1,0 +1,262 @@
+book: 1 Samuel
+code: 1SA
+order: 9
+slug: 09-1samuel
+kind: narrative
+
+written:
+  date: "Samuel, Nathan and Gad (tradition); c. 620–550 BC from older sources (critical)"
+  range: [-1000, -540]
+  summary: >-
+    1–2 Samuel were one book. Tradition names Samuel, with Nathan and Gad for the
+    events after his death (1 Chr 29:29). Most scholars see older narratives (the
+    ark story, the rise of David, the court history) gathered and edited into the
+    Deuteronomistic History in the late monarchy and the exile.
+  views:
+    - date: "c. 1000–930 BC"
+      held_by: Jewish tradition (*Bava Batra* 14b–15a); some conservative scholars
+      basis: >-
+        The Talmud ascribes the book to Samuel, finished by Gad and Nathan, whose
+        records 1 Chr 29:29 names. "Ziklag belongs to the kings of Judah to this
+        day" (1 Sam 27:6) shows at least a final edition after the kingdom divided
+        (931/930 BC).
+      sources: ["bava-batra 14b–15a"]
+    - date: "Sources from the 10th century; a prophetic edition c. 700 BC"
+      held_by: McCarter; many scholars who follow source analysis of Samuel
+      basis: >-
+        Distinct blocks: the ark narrative (1 Sam 4–6; 2 Sam 6), the story of David's
+        rise (1 Sam 16 – 2 Sam 5) and the court or succession history (2 Sam 9–20;
+        1 Kgs 1–2), the last often dated to Solomon's reign. McCarter sees them
+        combined in a prophetic history in the late 8th century before Deuteronomistic
+        editing.
+      sources: [mccarter-sam, collins-intro]
+    - date: "c. 620–550 BC (Deuteronomistic History)"
+      held_by: Most critical scholars (Noth; Cross)
+      basis: >-
+        Samuel forms part of the history from Joshua to Kings, with Deuteronomistic
+        speeches at key points (1 Sam 12; 2 Sam 7) and the same judgement on kings.
+      sources: [noth-dtr, cross]
+
+chapters:
+  1:
+    date: "c. 1105 BC (Samuel's birth), or a few decades later"
+    range: [-1120, -1070]
+    anchors: [judges-period, saul]
+    note: >-
+      Hannah's prayer at Shiloh and Samuel's birth, in Eli's priesthood. Samuel is
+      old when Saul is made king (8:1; 12:2), so his birth is put some 50–60 years
+      before c. 1050 BC. The family goes up to Shiloh yearly (1:3).
+  2:
+    date: "c. 1105–1090 BC"
+    range: [-1120, -1060]
+    anchors: [judges-period]
+    note: >-
+      Hannah's song; Samuel grows up at Shiloh while Eli's sons abuse the
+      sacrifices; a man of God foretells the fall of Eli's house (2:27–36).
+  3:
+    date: "c. 1090 BC"
+    range: [-1110, -1060]
+    anchors: [judges-period]
+    note: >-
+      The call of Samuel, still a boy (3:1), "when the word of the LORD was rare".
+      Josephus (*Ant.* 5.348) says he was twelve; the text gives no age.
+    sources: ["josephus-ant 5.348"]
+  4:
+    date: "c. 1070–1050 BC"
+    range: [-1105, -1050]
+    anchors: [judges-period]
+    note: >-
+      The Philistines win at Aphek, take the ark and kill Eli's sons; Eli, 98 years
+      old, dies after judging 40 years (4:15–18). Shiloh's destruction (cf. Jer 7:12)
+      is often linked with the mid-11th-century burning found there. Conservative
+      chronologies put Aphek c. 1105–1100 BC.
+  5:
+    date: "c. 1070–1050 BC"
+    range: [-1105, -1050]
+    anchors: [judges-period]
+    note: The ark in the Philistine cities Ashdod, Gath and Ekron, and the plague that follows it.
+  6:
+    date: "c. 1070–1050 BC"
+    range: [-1105, -1050]
+    anchors: [judges-period]
+    note: >-
+      After seven months (6:1) the ark is sent back to Beth Shemesh "during wheat
+      harvest" (6:13), early summer, then to Kiriath Jearim.
+  7:
+    date: "c. 1050 BC (twenty years after the ark's return)"
+    range: [-1085, -1045]
+    anchors: [judges-period]
+    note: >-
+      "The ark stayed in Kiriath Jearim ... twenty years" (7:2) before Samuel gathers
+      Israel at Mizpah and defeats the Philistines. Samuel then judges on a yearly
+      circuit (7:15–17).
+  8:
+    date: "c. 1050 BC"
+    range: [-1055, -1030]
+    anchors: [saul]
+    note: >-
+      Samuel is old and his sons corrupt (8:1–5); the elders ask for a king. The
+      year depends on when Saul's reign is put (see *Saul*).
+  9:
+    date: "c. 1050 BC (or c. 1030)"
+    range: [-1055, -1025]
+    anchors: [saul]
+    note: Saul looks for his father's donkeys and meets Samuel, who is told to anoint him (9:16).
+  10:
+    date: "c. 1050 BC (or c. 1030)"
+    range: [-1055, -1025]
+    anchors: [saul]
+    note: >-
+      Saul anointed privately (10:1) and then chosen by lot at Mizpah (10:17–24).
+      Some critical scholars see two accounts of how Saul became king combined here.
+  11:
+    date: "c. 1050 BC (or c. 1030)"
+    range: [-1055, -1025]
+    anchors: [saul]
+    note: >-
+      Saul rescues Jabesh Gilead from Nahash the Ammonite, about a month after his
+      selection (Septuagint and Qumran at 10:27), and the kingdom is "renewed" at
+      Gilgal (11:14).
+    sources: [mccarter-sam, dead-sea-scrolls]
+  12:
+    date: "c. 1050 BC (or c. 1030)"
+    range: [-1055, -1025]
+    anchors: [saul, dtr-history]
+    note: >-
+      Samuel's farewell speech at Gilgal; thunder and rain "in wheat harvest"
+      (12:17), May–June. One of the Deuteronomistic speeches that mark turning
+      points in the history.
+  13:
+    date: "early in Saul's reign, c. 1048–1040 BC (or later)"
+    range: [-1050, -1020]
+    anchors: [saul]
+    note: >-
+      The regnal formula (13:1) has lost its numbers in the Hebrew: "Saul was ...
+      years old ... and he reigned two years". The WEB fills in "thirty" and
+      "forty-two" from a few Greek manuscripts. Jonathan is already a commander,
+      so the war with the Philistines at Michmash need not be in Saul's first year.
+    sources: [mccarter-sam]
+  14:
+    date: "early in Saul's reign, c. 1048–1040 BC (or later)"
+    range: [-1050, -1020]
+    anchors: [saul]
+    note: >-
+      Jonathan's raid at Michmash and the rout of the Philistines, then a summary of
+      Saul's wars and family (14:47–52).
+  15:
+    date: "c. 1030–1025 BC"
+    range: [-1040, -1015]
+    anchors: [saul]
+    note: >-
+      War against Amalek; Saul spares Agag and is rejected (15:23). Samuel never sees
+      Saul again (15:35). Placed before David's anointing.
+  16:
+    date: "c. 1025 BC"
+    range: [-1030, -1015]
+    anchors: [saul, david]
+    note: >-
+      Samuel anoints David, Jesse's youngest (16:11), then David enters Saul's
+      service as a musician. David was 30 at his accession in 1010 BC (2 Sam 5:4), so
+      a teenage David points to c. 1025 BC.
+  17:
+    date: "c. 1025 BC"
+    range: [-1030, -1015]
+    anchors: [saul, david]
+    note: >-
+      David and Goliath in the valley of Elah. The Septuagint (Codex Vaticanus) has a
+      much shorter form of chs. 17–18; 2 Sam 21:19 credits Elhanan with killing
+      Goliath. Saul asks whose son David is (17:55), as if he did not know him.
+    sources: [mccarter-sam]
+  18:
+    date: "c. 1025–1020 BC"
+    range: [-1030, -1015]
+    anchors: [saul, david]
+    note: >-
+      Jonathan's covenant with David, Saul's jealousy ("Saul has slain his
+      thousands", 18:7), and David's marriage to Michal.
+  19:
+    date: "c. 1020 BC"
+    range: [-1025, -1012]
+    anchors: [saul, david]
+    note: >-
+      Saul tries to kill David; Michal helps him escape to Samuel at Ramah. The
+      heading of Ps 59 sets that psalm here.
+  20:
+    date: "c. 1020 BC (a new moon)"
+    range: [-1025, -1012]
+    anchors: [saul, david]
+    note: >-
+      Jonathan warns David at the new-moon feast (20:5, 18, 24–27) and they part.
+  21:
+    date: "c. 1020–1018 BC"
+    range: [-1025, -1012]
+    anchors: [saul, david]
+    note: >-
+      David at Nob, given the holy bread and Goliath's sword (cf. Mark 2:26), then at
+      Gath, feigning madness (21:10–15; cf. Ps 34 and 56 headings).
+  22:
+    date: "c. 1020–1018 BC"
+    range: [-1025, -1012]
+    anchors: [saul, david]
+    note: >-
+      The cave of Adullam; David's parents left with the king of Moab (22:3–4); Doeg
+      kills the priests of Nob (cf. Ps 52 heading). Abiathar escapes to David.
+  23:
+    date: "c. 1018–1015 BC"
+    range: [-1025, -1012]
+    anchors: [saul, david]
+    note: >-
+      David rescues Keilah, then hides in the wilderness of Ziph and Maon (cf. Ps 54
+      heading); Jonathan's last meeting with him (23:16–18).
+  24:
+    date: "c. 1018–1015 BC"
+    range: [-1025, -1012]
+    anchors: [saul, david]
+    note: >-
+      David spares Saul in the cave at En Gedi (cf. Ps 57 and 142 headings).
+  25:
+    date: "c. 1015 BC"
+    range: [-1020, -1011]
+    anchors: [saul, david]
+    note: >-
+      Samuel dies (25:1). Nabal and Abigail at sheep-shearing time (25:2–4, 7), spring.
+  26:
+    date: "c. 1013 BC"
+    range: [-1020, -1011]
+    anchors: [saul, david]
+    note: David spares Saul a second time, taking his spear and water jug in the wilderness of Ziph.
+  27:
+    date: "c. 1012–1010 BC"
+    range: [-1013, -1010]
+    anchors: [saul, david]
+    note: >-
+      David serves Achish of Gath, who gives him Ziklag; "a full year and four
+      months" in Philistine country (27:7). "Ziklag belongs to the kings of Judah to
+      this day" (27:6) was written after the kingdom divided.
+  28:
+    date: "c. 1010 BC"
+    range: [-1012, -1009]
+    anchors: [saul]
+    note: >-
+      The Philistines gather at Shunem; Saul consults the medium at Endor, the night
+      before his last battle.
+  29:
+    date: "c. 1010 BC"
+    range: [-1012, -1009]
+    anchors: [saul, david]
+    note: The Philistine lords send David back from Aphek before the battle.
+  30:
+    date: "c. 1010 BC"
+    range: [-1012, -1009]
+    anchors: [david]
+    note: >-
+      The Amalekites burn Ziklag on the third day after David leaves Aphek (30:1);
+      David recovers the captives and sends spoil to the elders of Judah.
+  31:
+    date: "c. 1010 BC"
+    range: [-1012, -1009]
+    anchors: [saul, david]
+    note: >-
+      Saul and three sons die on Mount Gilboa; the Philistines hang their bodies on
+      the wall of Beth Shan, and the men of Jabesh Gilead bury them. The year is
+      counted back from David's 40 years and Solomon's.

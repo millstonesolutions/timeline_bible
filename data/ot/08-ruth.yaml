@@ -1,0 +1,65 @@
+book: Ruth
+code: RUT
+order: 8
+slug: 08-ruth
+kind: narrative
+
+written:
+  date: "Monarchy, c. 1000–700 BC; or after the exile, c. 500–400 BC"
+  range: [-1000, -400]
+  summary: >-
+    The book ends with David's genealogy (4:17–22), so it was written in his reign
+    or later. Scholars divide between the monarchy and the Persian period; the
+    language and the purpose of the story are the main arguments.
+  views:
+    - date: "Samuel or David's reign, c. 1000 BC"
+      held_by: Jewish tradition (*Bava Batra* 14b); some conservative scholars
+      basis: >-
+        The Talmud names Samuel as author. The genealogy stops at David, not
+        Solomon, which suggests David was already famous but the dynasty not yet
+        established.
+      sources: ["bava-batra 14b–15a"]
+    - date: "Early monarchy, c. 950–700 BC"
+      held_by: Campbell; many conservative scholars
+      basis: >-
+        Classical Hebrew prose with archaic forms, a story-telling style like the
+        court narratives of Samuel, and a positive interest in David's Moabite
+        ancestry (cf. 1 Sam 22:3–4) that would be hard to invent later.
+      sources: [campbell-ruth, dillard-longman]
+    - date: "Post-exilic, c. 500–400 BC"
+      held_by: Many critical scholars
+      basis: >-
+        Some Aramaisms and late forms; the narrator must explain the old custom of
+        the sandal (4:7); and a story praising a Moabite wife reads as a reply to
+        Ezra's and Nehemiah's campaign against foreign marriages (Ezra 9–10;
+        Neh 13:23–27). The book stands among the Writings, not the Former Prophets,
+        in the Hebrew canon.
+      sources: [collins-intro]
+
+default:
+  date: "c. 1100 BC (three generations before David)"
+  range: [-1150, -1050]
+  anchors: [judges-period, david]
+
+chapters:
+  1:
+    note: >-
+      "In the days when the judges judged" (1:1), during a famine. Boaz is David's
+      great-grandfather (4:21–22), and David was born c. 1040 BC, which puts the
+      story near the end of the judges period whichever exodus date is taken. Naomi
+      and Ruth reach Bethlehem "in the beginning of barley harvest" (1:22), about
+      April.
+  2:
+    note: >-
+      Ruth gleans in Boaz's field "to the end of barley harvest and of wheat
+      harvest" (2:23), about April to June.
+  3:
+    note: >-
+      The night at the threshing floor (3:2), at the end of the harvest season. Boaz
+      is a kinsman who can redeem the family land.
+  4:
+    note: >-
+      Boaz redeems Naomi's land and marries Ruth at the town gate; Obed is born. The
+      genealogy (4:18–22) gives only four generations from Salmon, son of Nahshon who led Judah in
+      the wilderness (Num 1:7), to David, too few for either exodus date, so it is
+      usually read as selective. Matthew 1:5 makes Boaz the son of Salmon and Rahab.

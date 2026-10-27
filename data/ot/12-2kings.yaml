@@ -1,0 +1,269 @@
+book: 2 Kings
+code: 2KI
+order: 12
+slug: 12-2kings
+kind: narrative
+
+written:
+  date: "Final form after 562 BC (exile); first edition perhaps c. 620 BC"
+  range: [-622, -540]
+  summary: >-
+    The second half of the one book of Kings (see 1 Kings). It ends with
+    Jehoiachin's release from prison in Babylon in 562 BC (25:27–30), so its final
+    form is exilic. Tradition names Jeremiah; Noth saw one exilic historian, Cross a
+    first edition under Josiah revised in the exile.
+  views:
+    - date: "c. 580–560 BC, by Jeremiah"
+      held_by: Jewish tradition (*Bava Batra* 15a)
+      basis: >-
+        The Talmud ascribes Kings to Jeremiah; 2 Kgs 24:18–25:30 is nearly the
+        same as Jeremiah 52.
+      sources: ["bava-batra 14b–15a"]
+    - date: "c. 560–550 BC, one exilic author"
+      held_by: Noth; many conservative scholars also accept an exilic final form (Dillard & Longman)
+      basis: >-
+        The last event is 562 BC, and the book does not know of Cyrus (539/538). The
+        whole history explains why both kingdoms fell.
+      sources: [noth-dtr, dillard-longman]
+    - date: "c. 620 BC (under Josiah), updated c. 560 BC"
+      held_by: Cross and many since
+      basis: >-
+        Josiah is the climax (23:25, "no king like him"); the blame laid on Manasseh
+        (21:10–15; 23:26–27) and the brief, flat account after Josiah look like a
+        second, exilic hand.
+      sources: [cross, collins-intro]
+
+chapters:
+  1:
+    date: "852 BC"
+    range: [-853, -852]
+    anchors: [ahab-qarqar]
+    note: >-
+      Moab rebels after Ahab's death (1:1; cf. the Mesha Stele). Ahaziah of Israel
+      falls through a lattice and dies after consulting Baal-zebub; Joram succeeds
+      him (1:17).
+    sources: [mesha-stele]
+  2:
+    date: "c. 852–848 BC"
+    range: [-852, -845]
+    anchors: [ahab-qarqar]
+    note: >-
+      Elijah taken up in the whirlwind; Elisha receives his mantle. The year is not
+      given; 2 Chr 21:12 has a letter from Elijah to Jehoram of Judah, which some take
+      to mean Elijah lived until after 848 BC.
+  3:
+    date: "c. 851–848 BC"
+    range: [-852, -848]
+    anchors: [ahab-qarqar]
+    note: >-
+      Joram of Israel (852–841) with Jehoshaphat (died 848) and the king of Edom
+      against Mesha of Moab. Mesha sacrifices his son on the wall and the allies
+      withdraw. The Mesha Stele tells Moab's side of the revolt.
+    sources: [mesha-stele, thiele]
+  4:
+    date: "c. 850–841 BC (Joram's reign)"
+    range: [-852, -841]
+    anchors: [ahab-qarqar]
+    note: >-
+      Elisha's miracles: the widow's oil, the Shunammite's son, the poisoned stew,
+      the hundred fed. The stories are grouped by theme and undated; Elisha's
+      ministry runs from c. 852 to his death under Jehoash (c. 797, 13:14–20).
+  5:
+    date: "c. 850–841 BC (probably Joram's reign)"
+    range: [-852, -841]
+    anchors: [ahab-qarqar]
+    note: >-
+      Naaman, commander of Aram's army, healed in the Jordan. The "king of Israel"
+      (5:5–7) is unnamed; most place it under Joram.
+  6:
+    date: "c. 850–841 BC, or later in the 9th century"
+    range: [-852, -800]
+    anchors: [ahab-qarqar]
+    note: >-
+      The floating axe head, Aramean raiders blinded at Dothan, and Ben-hadad's siege
+      of Samaria with its famine. The king is unnamed; traditionally Joram, but many
+      critical scholars place these Aramean-war stories under Jehu's dynasty
+      (Jehoahaz or Jehoash), when Aram was strongest.
+    sources: [miller-hayes]
+  7:
+    date: "c. 850–841 BC, or later in the 9th century"
+    range: [-852, -800]
+    anchors: [ahab-qarqar]
+    note: >-
+      The siege of Samaria lifted; four lepers find the Aramean camp empty. Same
+      setting as ch. 6.
+  8:
+    date: "c. 845–841 BC"
+    range: [-848, -841]
+    anchors: [ahab-qarqar, jehu]
+    note: >-
+      The Shunammite returns after a seven-year famine; Hazael murders Ben-hadad and
+      takes the throne of Damascus, c. 843/842 BC (Shalmaneser III fights Hadadezer in
+      845 and Hazael in 841). Jehoram of Judah (848–841; co-regent from 853) and
+      Ahaziah (841), "in the twelfth year of Joram" (8:25).
+    sources: [thiele, anet]
+  9:
+    date: "841 BC"
+    range: [-841, -841]
+    anchors: [jehu]
+    note: >-
+      Elisha's disciple anoints Jehu at Ramoth Gilead; Jehu kills Joram and Ahaziah
+      at Jezreel and Jezebel is thrown from a window. The Tel Dan stele has Hazael
+      claim the two kings' deaths.
+    sources: [tel-dan]
+  10:
+    date: "841 BC; Jehu's reign 841–814 BC"
+    range: [-841, -814]
+    anchors: [jehu]
+    note: >-
+      Jehu kills Ahab's 70 sons and the worshippers of Baal. In 841 he paid tribute
+      to Shalmaneser III (Black Obelisk). Hazael takes Israel's land east of the
+      Jordan (10:32–33). Jehu reigns 28 years (10:36).
+    sources: [black-obelisk]
+  11:
+    date: "841–835 BC"
+    range: [-841, -835]
+    anchors: [jehu]
+    note: >-
+      Athaliah kills the royal family and reigns six years; in the seventh (11:4)
+      Jehoiada crowns the boy Joash.
+  12:
+    date: "835–796 BC (temple repairs c. 812 BC)"
+    range: [-835, -796]
+    anchors: [jehu]
+    note: >-
+      Joash of Judah reigns 40 years. "In the twenty-third year of King Jehoash"
+      (12:6), c. 813/812 BC, the temple repairs are still undone and a chest is set
+      up for the money. Hazael takes Gath and threatens Jerusalem (12:17–18).
+    sources: [thiele]
+  13:
+    date: "814–782 BC (Jehoahaz and Jehoash of Israel)"
+    range: [-814, -782]
+    anchors: [jehu]
+    note: >-
+      Jehoahaz (814–798) under Aramean pressure and a "saviour" (13:5), often
+      identified with Adad-nirari III's campaigns against Damascus; Jehoash
+      (798–782), named as paying tribute on Adad-nirari's Tell al-Rimah stele.
+      Elisha's death, c. 797 BC (13:14–21).
+    sources: [thiele, cogan-kings]
+  14:
+    date: "796–753 BC (Amaziah; Jeroboam II)"
+    range: [-796, -753]
+    anchors: [eighth-century]
+    note: >-
+      Amaziah of Judah (796–767) defeats Edom, then is beaten and captured by Jehoash
+      at Beth Shemesh. Jeroboam II (793–753; sole king from 782) restores Israel's
+      border "according to the word of ... Jonah" (14:25). Thiele's co-regencies
+      (Uzziah with Amaziah, Jeroboam with Jehoash) are needed to fit the figures.
+    sources: [thiele]
+  15:
+    date: "c. 792–732 BC (Azariah to Pekah)"
+    range: [-792, -732]
+    anchors: [eighth-century]
+    note: >-
+      Azariah/Uzziah (792–740), a leper in his last years with Jotham regent (15:5);
+      in Israel Zechariah (753), Shallum (752), Menahem (752–742), who pays tribute to
+      Pul, i.e. Tiglath-pileser III (15:19), Pekahiah (742–740) and Pekah, who loses
+      Galilee and Gilead to Assyria in 733/732 (15:29). Thiele dated Menahem's
+      tribute to 743; most now read the annals as 738, which shortens his figures.
+    sources: [thiele, eponym-canon, anet]
+  16:
+    date: "c. 735–715 BC (Ahaz; the war of 734–732)"
+    range: [-735, -715]
+    anchors: [eighth-century]
+    note: >-
+      Rezin of Damascus and Pekah besiege Jerusalem (16:5; cf. Isa 7); Ahaz pays
+      Tiglath-pileser, who takes Damascus in 732 BC. Ahaz copies an altar he saw at
+      Damascus. Tiglath-pileser's annals list "Jehoahaz of Judah" (Ahaz) among his
+      tributaries.
+    sources: [anet, eponym-canon]
+  17:
+    date: "732–722 BC (Hoshea); resettlement after 720 BC"
+    range: [-732, -720]
+    anchors: [samaria-fall]
+    note: >-
+      Hoshea, a vassal, appeals to "So king of Egypt" (17:4) and is imprisoned;
+      Samaria falls after a three-year siege in his 9th year (17:5–6). The
+      explanation of the fall (17:7–23) and the origin of the mixed population of
+      Samaria (17:24–41) follow; Sargon II claims the deportation.
+    sources: [anet]
+  18:
+    date: "Hezekiah's reign (716/715–687/686 BC); invasion 701 BC"
+    range: [-729, -701]
+    anchors: [hezekiah-701, samaria-fall]
+    note: >-
+      Hezekiah's reforms (18:1–8), the fall of Samaria retold with his years
+      (18:9–12), and Sennacherib's invasion "in the fourteenth year" (18:13), 701 BC.
+      Hezekiah pays tribute (18:14–16; the annals give 30 talents of gold); the
+      Rabshakeh at the conduit. 18:1 and 18:9–10 put his accession c. 729 instead
+      (see the anchor).
+    sources: [sennacherib-annals]
+  19:
+    date: "701 BC (Sennacherib's death 681 BC)"
+    range: [-701, -681]
+    anchors: [hezekiah-701]
+    note: >-
+      Isaiah's oracle and the destruction of the Assyrian army (19:35). Tirhakah
+      (19:9) was king of Egypt only from 690, so some (Bright) posit a second
+      campaign; Kitchen and others take him as a prince commanding in 701, called
+      king in hindsight. Sennacherib's murder by his sons (19:37) was in 681 BC.
+    sources: [kitchen, babylonian-chronicle]
+  20:
+    date: "c. 703–701 BC"
+    range: [-712, -701]
+    anchors: [hezekiah-701]
+    note: >-
+      Hezekiah's illness and fifteen added years (20:6), which, counted back from
+      his death in 687/686, put it c. 702/701. The envoys of Merodach-baladan
+      (20:12), who ruled Babylon 721–710 and again briefly in 703, are usually dated
+      c. 703, some put them c. 712. The Siloam tunnel (20:20).
+    sources: [thiele]
+  21:
+    date: "697–640 BC (Manasseh, Amon)"
+    range: [-697, -640]
+    anchors: [hezekiah-701, josiah]
+    note: >-
+      Manasseh's 55 years (697–642, co-regent until 687/686) and Amon's two
+      (642–640). Esarhaddon and Ashurbanipal list "Manasseh king of Judah" among
+      their vassals. The prophecy that Judah will fall for Manasseh's sins
+      (21:10–15) is a key text for Cross's exilic editor.
+    sources: [anet, thiele, cross]
+  22:
+    date: "622 BC (Josiah's 18th year)"
+    range: [-622, -621]
+    anchors: [josiah]
+    note: >-
+      Josiah (640–609) began at eight. "In the eighteenth year of King Josiah"
+      (22:3) Hilkiah finds the book of the law during temple repairs; Huldah's
+      oracle.
+  23:
+    date: "622 BC; Josiah's death 609 BC; Jehoiakim from 609 BC"
+    range: [-622, -598]
+    anchors: [josiah]
+    note: >-
+      Covenant, reform and the Passover of Josiah's 18th year (23:23). Josiah killed
+      at Megiddo by Pharaoh Necho, who was going to the king of Assyria (23:29), 609
+      BC. Jehoahaz reigns three months; Jehoiakim (609–598) is Necho's vassal.
+    sources: [babylonian-chronicle]
+  24:
+    date: "c. 604–597 BC"
+    range: [-605, -597]
+    anchors: [babylon-597-587]
+    note: >-
+      Jehoiakim submits to Nebuchadnezzar for three years and rebels (24:1), c. 601
+      after Babylon's failed attack on Egypt. Jehoiachin reigns three months; the
+      city surrenders in Nebuchadnezzar's 8th year (24:12), 2 Adar (16 March) 597 BC
+      by the Babylonian Chronicle. Zedekiah made king (597–586).
+    sources: [babylonian-chronicle, grayson-abc]
+  25:
+    date: "588–586 BC (fall 587 or 586 BC); Jehoiachin released 562/561 BC"
+    range: [-589, -561]
+    anchors: [babylon-597-587, exile]
+    note: >-
+      Siege from the 10th day of the 10th month of Zedekiah's 9th year (25:1),
+      c. January 588 BC; the wall breached in his 11th year (25:2–4) and the temple
+      burned in the 5th month of Nebuchadnezzar's 19th year (25:8): summer 586 BC
+      (Thiele) or 587 BC (Galil; Cogan & Tadmor). Gedaliah's murder (25:25), then
+      Jehoiachin freed "in the year that [Evil-merodach] began to reign" (25:27),
+      562/561 BC; Babylonian ration tablets list him in Babylon.
+    sources: [parker-dubberstein, galil, cogan-kings, anet]

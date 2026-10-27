@@ -1,0 +1,246 @@
+book: Judges
+code: JDG
+order: 7
+slug: 07-judges
+kind: narrative
+
+written:
+  date: "Early monarchy (tradition: Samuel); c. 620–550 BC (Deuteronomistic History)"
+  range: [-1050, -540]
+  summary: >-
+    The refrain "in those days there was no king in Israel" (17:6; 18:1; 19:1;
+    21:25) shows the book was written under the monarchy. Tradition names Samuel.
+    Most critical scholars see old hero stories and the Song of Deborah gathered into
+    the Deuteronomistic History in the 7th–6th centuries BC.
+  views:
+    - date: "c. 1050–1000 BC"
+      held_by: Jewish tradition (*Bava Batra* 14b–15a); many conservative scholars
+      basis: >-
+        The Talmud names Samuel. The no-king refrain looks back from an early,
+        favourable view of kingship; the Jebusites are still in Jerusalem (1:21),
+        before David took it c. 1003 BC. "Until the day of the captivity of the
+        land" (18:30) is then a later editorial note.
+      sources: ["bava-batra 14b–15a", dillard-longman]
+    - date: "c. 620 BC with exilic revision (c. 560 BC)"
+      held_by: Most critical scholars (Noth; Cross; Collins)
+      basis: >-
+        The framework (2:11–23 and the repeated cycle of sin, oppression, crying
+        out and deliverance) uses Deuteronomy's language. 18:30 refers to a
+        captivity, the Assyrian deportations of 733–722 BC or the exile of 587.
+        The hero stories and the Song of Deborah (ch. 5, often dated to the 12th or
+        11th century) are older.
+      sources: [noth-dtr, cross, collins-intro]
+
+chapters:
+  1:
+    date: "c. 1380 or c. 1200 BC"
+    a: "c. 1380 BC"
+    b: "c. 1200 BC"
+    range: [-1390, -1190]
+    anchors: [judges-period, conquest]
+    note: >-
+      "After the death of Joshua" (1:1). The tribes fight one by one and leave many
+      Canaanite towns unconquered (1:21–36), a slower settlement than Joshua's
+      summary. Some episodes (e.g. Hebron and Debir, 1:10–15) repeat Joshua 15.
+  2:
+    date: "c. 1380 or c. 1200 BC, then the period as a whole"
+    a: "c. 1380 BC onward"
+    b: "c. 1200 BC onward"
+    range: [-1390, -1050]
+    anchors: [judges-period]
+    note: >-
+      The angel at Bochim (2:1–5), Joshua's death told again (2:6–10), and an
+      overview of the cycle that structures the book (2:11–23). The generation after
+      Joshua's falls away first.
+  3:
+    date: "c. 1370–1300 BC (early) or c. 1200–1150 BC (late)"
+    a: "c. 1370–1300 BC"
+    b: "c. 1200–1150 BC"
+    range: [-1373, -1150]
+    anchors: [judges-period]
+    note: >-
+      Othniel, Caleb's nephew, defeats Cushan-rishathaim after 8 years of
+      oppression (3:8–11); Ehud kills Eglon of Moab after 18 years (3:14–30), then
+      80 years of rest; Shamgar (3:31). Othniel's link to Caleb puts him in the
+      first generation after the conquest.
+  4:
+    date: "c. 1230 BC (early) or c. 1125 BC (late)"
+    a: "c. 1230 BC"
+    b: "c. 1125 BC"
+    range: [-1260, -1100]
+    anchors: [judges-period]
+    note: >-
+      Deborah and Barak defeat Sisera, general of Jabin king of Canaan at Hazor,
+      after 20 years of oppression (4:3). Hazor was destroyed in the 13th century and
+      not rebuilt as a major city until the 10th, so the late date sits awkwardly
+      with a powerful Jabin; Joshua 11 also has a Jabin of Hazor.
+    sources: [mazar]
+  5:
+    date: "c. 1230 BC (early) or c. 1125 BC (late)"
+    a: "c. 1230 BC"
+    b: "c. 1125 BC"
+    range: [-1260, -1100]
+    anchors: [judges-period]
+    note: >-
+      The Song of Deborah celebrates the same victory; 40 years of rest follow
+      (5:31). Its archaic Hebrew leads most scholars to rank it among the oldest
+      passages in the Bible, from the 12th or 11th century BC.
+    sources: [cross, collins-intro]
+  6:
+    date: "c. 1180 BC (early) or c. 1100 BC (late)"
+    a: "c. 1180 BC"
+    b: "c. 1100 BC"
+    range: [-1190, -1090]
+    anchors: [judges-period]
+    note: >-
+      Midianite raids for 7 years (6:1); Gideon is called while threshing wheat in a
+      winepress (6:11), early summer. The raiders' "camels without number" (6:5)
+      suit the Iron Age spread of camel nomadism.
+  7:
+    date: "c. 1180 BC (early) or c. 1100 BC (late)"
+    a: "c. 1180 BC"
+    b: "c. 1100 BC"
+    range: [-1190, -1090]
+    anchors: [judges-period]
+    note: Gideon's 300 rout the Midianites in the Jezreel valley (7:1–25).
+  8:
+    date: "c. 1180–1140 BC (early) or c. 1100–1060 BC (late)"
+    a: "c. 1180–1140 BC"
+    b: "c. 1100–1060 BC"
+    range: [-1190, -1060]
+    anchors: [judges-period]
+    note: >-
+      The pursuit beyond the Jordan, the refusal of kingship (8:22–23), the ephod at
+      Ophrah, and 40 years of rest until Gideon's death (8:28–32).
+  9:
+    date: "c. 1140 BC (early) or c. 1060 BC (late)"
+    a: "c. 1140 BC"
+    b: "c. 1060 BC"
+    range: [-1150, -1050]
+    anchors: [judges-period]
+    note: >-
+      Abimelech, Gideon's son, rules three years from Shechem (9:22) and destroys it.
+      The burning of the "tower of Shechem" at the temple of El-berith (9:46–49) is
+      often linked with the destruction of Shechem's fortress temple in the 12th
+      century BC.
+    sources: [mazar]
+  10:
+    date: "c. 1140–1100 BC (early) or c. 1100–1075 BC (late)"
+    a: "c. 1140–1100 BC"
+    b: "c. 1100–1075 BC"
+    range: [-1150, -1070]
+    anchors: [judges-period]
+    note: >-
+      Tola (23 years) and Jair (22 years), then 18 years of Ammonite oppression in
+      Gilead (10:8). The Philistines are named alongside the Ammonites (10:7), so
+      most chronologies overlap Jephthah with the start of Samson's period.
+  11:
+    date: "c. 1106 BC (early) or c. 1075 BC (late)"
+    a: "c. 1106 BC"
+    b: "c. 1075 BC"
+    range: [-1106, -1070]
+    anchors: [judges-period, exodus]
+    note: >-
+      Jephthah tells the Ammonite king that Israel has held Heshbon "three hundred
+      years" (11:26). Counted from c. 1406 BC this gives c. 1106 BC and is a main
+      argument for the early exodus. Late-date supporters read it as a round figure
+      or a sum of overlapping judges.
+  12:
+    date: "c. 1106–1075 BC (early) or c. 1075–1050 BC (late)"
+    a: "c. 1106–1075 BC"
+    b: "c. 1075–1050 BC"
+    range: [-1106, -1050]
+    anchors: [judges-period]
+    note: >-
+      The Ephraimites killed at the Jordan fords ("Shibboleth", 12:6), Jephthah's
+      six years (12:7), then the minor judges Ibzan (7), Elon (10) and Abdon (8).
+  13:
+    date: "c. 1100 BC (early) or c. 1080 BC (late)"
+    a: "c. 1100 BC"
+    b: "c. 1080 BC"
+    range: [-1105, -1070]
+    anchors: [judges-period]
+    note: >-
+      Forty years of Philistine rule (13:1); Samson's birth is announced at Zorah.
+      The Philistines, who settled the coast c. 1175 BC, are now the main enemy, as
+      they are in 1 Samuel. Samson and Eli/Samuel are usually taken as
+      contemporaries.
+  14:
+    date: "c. 1080 BC (early) or c. 1060 BC (late)"
+    a: "c. 1080 BC"
+    b: "c. 1060 BC"
+    range: [-1090, -1050]
+    anchors: [judges-period]
+    note: >-
+      Samson's marriage at Timnah and the riddle; "at that time the Philistines had
+      rule over Israel" (14:4).
+  15:
+    date: "c. 1080–1060 BC (early) or c. 1060–1050 BC (late)"
+    a: "c. 1080–1060 BC"
+    b: "c. 1060–1050 BC"
+    range: [-1090, -1050]
+    anchors: [judges-period]
+    note: >-
+      Foxes in the grain "in the time of wheat harvest" (15:1), Lehi and the
+      jawbone. "He judged Israel in the days of the Philistines twenty years"
+      (15:20).
+  16:
+    date: "c. 1060 BC (early) or c. 1050 BC (late)"
+    a: "c. 1060 BC"
+    b: "c. 1050 BC"
+    range: [-1070, -1050]
+    anchors: [judges-period]
+    note: >-
+      Gaza, Delilah and Samson's death in the temple of Dagon, at the end of his 20
+      years (16:31). Columned Philistine temples of this period have been excavated
+      at Tell Qasile.
+    sources: [mazar]
+  17:
+    date: "c. 1380–1350 BC (early) or c. 1180–1150 BC (late)"
+    a: "c. 1380–1350 BC"
+    b: "c. 1180–1150 BC"
+    range: [-1380, -1100]
+    anchors: [judges-period]
+    note: >-
+      Micah's shrine in Ephraim, first of two appendices outside the book's
+      chronological order ("in those days there was no king", 17:6). His Levite
+      is identified in 18:30 as Jonathan son of Gershom son of Moses, which puts the
+      story within a generation or two of the conquest.
+  18:
+    date: "c. 1380–1350 BC (early) or c. 1180–1150 BC (late)"
+    a: "c. 1380–1350 BC"
+    b: "c. 1180–1150 BC"
+    range: [-1380, -1100]
+    anchors: [judges-period]
+    note: >-
+      Dan migrates north and takes Laish (cf. Josh 19:47). The priesthood of
+      Jonathan's descendants lasted "until the day of the captivity of the land"
+      (18:30): an editorial note from after 733/722 BC (or 587).
+  19:
+    date: "c. 1380–1350 BC (early) or c. 1190–1150 BC (late)"
+    a: "c. 1380–1350 BC"
+    b: "c. 1190–1150 BC"
+    range: [-1380, -1150]
+    anchors: [judges-period]
+    note: >-
+      The Levite's concubine at Gibeah, second appendix. Jebus is still a foreign
+      town (19:10–12). Phinehas, Aaron's grandson, serves the ark in 20:28, so the
+      episode belongs early in the period.
+  20:
+    date: "c. 1380–1350 BC (early) or c. 1190–1150 BC (late)"
+    a: "c. 1380–1350 BC"
+    b: "c. 1190–1150 BC"
+    range: [-1380, -1150]
+    anchors: [judges-period]
+    note: >-
+      The tribes war against Benjamin. The ark is at Bethel with "Phinehas, the son
+      of Eleazar, the son of Aaron" ministering (20:27–28).
+  21:
+    date: "c. 1380–1350 BC (early) or c. 1190–1150 BC (late)"
+    a: "c. 1380–1350 BC"
+    b: "c. 1190–1150 BC"
+    range: [-1380, -1150]
+    anchors: [judges-period]
+    note: >-
+      Wives for the surviving Benjamites from Jabesh Gilead and the yearly feast at
+      Shiloh (21:19–21). The book closes with the no-king refrain (21:25).
